@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sport-LK Trainer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0d1117; --bg2:#161b22; --card:#1c232d; --line:#2a3340;
+  --text:#e9eef4; --muted:#8b97a6; --accent:#c6f432; --accent2:#ff7a3d;
+  --good:#3ddc84; --bad:#ff5d5d; --radius:18px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;
+  background-image:radial-gradient(circle at 85% -10%,rgba(198,244,50,.12),transparent 45%),radial-gradient(circle at -10% 110%,rgba(255,122,61,.10),transparent 45%)}
+button{font:inherit;cursor:pointer;border:none}
+input{font:inherit}
+.hidden{display:none!important}
+
+/* Topbar */
+header{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;
+  padding:14px 20px;background:rgba(13,17,23,.8);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.logo{font-weight:800;font-size:1.15rem;letter-spacing:-.02em}
+.logo span{color:var(--accent)}
+.menu-btn{width:44px;height:44px;border-radius:12px;background:var(--card);border:1px solid var(--line);
+  display:flex;flex-direction:column;justify-content:center;align-items:center;gap:5px}
+.menu-btn i{display:block;width:20px;height:2px;background:var(--text);border-radius:2px;transition:.25s}
+.menu-btn:hover{border-color:var(--accent)}
+
+/* Drawer */
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);opacity:0;pointer-events:none;transition:.25s;z-index:30}
+.overlay.open{opacity:1;pointer-events:auto}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(320px,85vw);background:var(--bg2);border-left:1px solid var(--line);
+  transform:translateX(100%);transition:transform .3s ease;z-index:40;padding:24px;display:flex;flex-direction:column;gap:6px}
+.drawer.open{transform:none}
+.drawer .who{padding:14px;border-radius:14px;background:var(--card);margin-bottom:14px}
+.drawer .who small{color:var(--muted)}
+.drawer a{display:flex;gap:12px;align-items:center;padding:13px 14px;border-radius:12px;color:var(--text);text-decoration:none;cursor:pointer}
+.drawer a:hover{background:var(--card)}
+.drawer a.soon{color:var(--muted)}
+.drawer a.soon::after{content:"bald";margin-left:auto;font-size:.7rem;padding:2px 8px;border-radius:99px;border:1px solid var(--line)}
+.drawer .logout{margin-top:auto;color:var(--bad)}
+
+main{max-width:900px;margin:0 auto;padding:32px 16px 60px}
+
+/* Auth */
+.auth{max-width:420px;margin:6vh auto 0;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:32px}
+.auth h1{font-size:1.8rem;font-weight:800;letter-spacing:-.03em;margin-bottom:6px}
+.auth p.sub{color:var(--muted);margin-bottom:24px}
+.tabs{display:flex;background:var(--bg);border-radius:12px;padding:4px;margin-bottom:20px}
+.tabs button{flex:1;padding:10px;border-radius:9px;background:none;color:var(--muted);font-weight:600}
+.tabs button.active{background:var(--card);color:var(--text)}
+label{display:block;font-size:.85rem;color:var(--muted);margin:14px 0 6px}
+input[type=text],input[type=password]{width:100%;padding:13px 14px;border-radius:12px;border:1px solid var(--line);background:var(--bg);color:var(--text);outline:none}
+input:focus{border-color:var(--accent)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:14px 22px;border-radius:14px;font-weight:800;
+  background:var(--accent);color:#0d1117;transition:transform .1s,filter .2s}
+.btn:hover{filter:brightness(1.08)} .btn:active{transform:scale(.98)}
+.btn.full{width:100%;margin-top:22px}
+.btn.ghost{background:var(--card);color:var(--text);border:1px solid var(--line)}
+.msg{min-height:1.2em;margin-top:12px;font-size:.9rem;color:var(--bad)}
+.msg.ok{color:var(--good)}
+
+/* Home */
+.hero h2{font-size:clamp(1.8rem,5vw,2.8rem);font-weight:800;letter-spacing:-.03em;line-height:1.1}
+.hero h2 em{font-style:normal;color:var(--accent)}
+.hero p{color:var(--muted);margin:12px 0 26px;max-width:520px}
+.big{font-size:1.15rem;padding:18px 30px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:36px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px}
+.stat b{display:block;font-size:1.8rem;font-weight:800}
+.stat small{color:var(--muted)}
+.bar{height:8px;border-radius:99px;background:var(--bg);overflow:hidden;margin-top:10px}
+.bar div{height:100%;background:linear-gradient(90deg,var(--accent),var(--good));transition:width .4s}
+.topics{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:14px}
+.topic{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;cursor:pointer;text-align:left;color:var(--text)}
+.topic:hover{border-color:var(--accent)}
+.topic small{color:var(--muted)}
+h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
+
+/* Flashcards */
+.fc-head{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+.chip{padding:6px 12px;border-radius:99px;background:var(--card);border:1px solid var(--line);font-size:.85rem;color:var(--muted)}
+.scene{perspective:1200px;margin:10px auto;max-width:620px;height:340px}
+.flash{position:relative;width:100%;height:100%;transition:transform .55s cubic-bezier(.3,.7,.3,1);transform-style:preserve-3d;cursor:pointer}
+.flash.flipped{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;border-radius:24px;padding:30px;display:flex;flex-direction:column;
+  justify-content:center;align-items:center;text-align:center;border:1px solid var(--line)}
+.front{background:linear-gradient(145deg,#1f2833,#18202a)}
+.back{background:linear-gradient(145deg,#24301a,#1a2414);transform:rotateY(180deg);border-color:rgba(198,244,50,.3)}
+.face .tag{position:absolute;top:18px;left:20px;font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
+.face .hint{position:absolute;bottom:16px;font-size:.8rem;color:var(--muted)}
+.face h4{font-size:clamp(1.2rem,3.5vw,1.6rem);line-height:1.35}
+.face p{font-size:1.02rem;line-height:1.55;color:#d8e2cf}
+.actions{display:flex;gap:12px;justify-content:center;margin-top:22px}
+.actions .btn{min-width:160px}
+.btn.bad{background:var(--bad);color:#fff}
+.btn.good{background:var(--good)}
+.done{text-align:center;padding:40px 20px}
+.done h2{font-size:2rem;margin-bottom:10px}
+.done p{color:var(--muted);margin-bottom:24px}
+@media(max-width:520px){.auth{padding:24px}.actions .btn{min-width:0;flex:1}.scene{height:380px}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Sport<span>LK</span> Trainer</div>
+  <button class="menu-btn" id="menuBtn" aria-label="Menü öffnen"><i></i><i></i><i></i></button>
+</header>
+
+<div class="overlay" id="overlay"></div>
+<nav class="drawer" id="drawer">
+  <div class="who"><b id="whoName">Nicht angemeldet</b><br><small id="whoSub">Bitte einloggen</small></div>
+  <a data-go="home">🏠 Startseite</a>
+  <a data-go="cards">🃏 Lernkarten</a>
+  <a class="soon">📚 Themenübersicht</a>
+  <a class="soon">📝 Abi-Probeklausur</a>
+  <a class="soon">📈 Statistik</a>
+  <a data-act="reset">↺ Fortschritt zurücksetzen</a>
+  <a class="logout" data-act="logout">⎋ Abmelden</a>
+</nav>
+
+<main>
+  <!-- LOGIN / REGISTRIERUNG -->
+  <section id="view-auth">
+    <div class="auth">
+      <h1>Abi Sport-LK 🏃</h1>
+      <p class="sub">Dein Trainingsplan fürs Sportabitur – melde dich an.</p>
+      <div class="tabs">
+        <button id="tabLogin" class="active">Einloggen</button>
+        <button id="tabReg">Konto erstellen</button>
+      </div>
+      <form id="authForm" autocomplete="on">
+        <label for="user">Benutzername</label>
+        <input type="text" id="user" autocomplete="username" required>
+        <label for="pass">Passwort</label>
+        <input type="password" id="pass" autocomplete="current-password" required>
+        <div id="pass2Wrap" class="hidden">
+          <label for="pass2">Passwort wiederholen</label>
+          <input type="password" id="pass2" autocomplete="new-password">
+        </div>
+        <button class="btn full" id="authSubmit" type="submit">Einloggen</button>
+        <div class="msg" id="authMsg"></div>
+      </form>
+    </div>
+  </section>
+
+  <!-- START -->
+  <section id="view-home" class="hidden">
+    <div class="hero">
+      <h2>Hey <em id="helloName"></em>,<br>bereit fürs Abi?</h2>
+      <p>Trainiere Trainingslehre, Bewegungslehre, Sportbiologie und Sportpsychologie mit Lernkarten. Dein Fortschritt wird automatisch gespeichert.</p>
+      <button class="btn big" id="startBtn">⚡ Jetzt Lernkarten lernen</button>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="stKnown">0</b><small>Karten gewusst</small></div>
+      <div class="stat"><b id="stTotal">0</b><small>Karten insgesamt</small></div>
+      <div class="stat"><b id="stPct">0%</b><small>Fortschritt</small><div class="bar"><div id="stBar" style="width:0"></div></div></div>
+    </div>
+    <h3 class="sec">Themen – direkt einsteigen</h3>
+    <div class="topics" id="topics"></div>
+  </section>
+
+  <!-- LERNKARTEN -->
+  <section id="view-cards" class="hidden">
+    <div class="fc-head">
+      <button class="btn ghost" data-go="home">← Zurück</button>
+      <span class="chip" id="fcTopic">Alle Themen</span>
+      <span class="chip" id="fcCount">1 / 10</span>
+    </div>
+    <div id="fcArea">
+      <div class="scene">
+        <div class="flash" id="flash">
+          <div class="face front"><span class="tag" id="fTag"></span><h4 id="fQ"></h4><span class="hint">Tippen zum Umdrehen</span></div>
+          <div class="face back"><span class="tag">Antwort</span><p id="fA"></p></div>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn bad" id="noBtn">✗ Nicht gewusst</button>
+        <button class="btn good" id="yesBtn">✓ Gewusst</button>
+      </div>
+    </div>
+    <div class="done hidden" id="fcDone">
+      <h2>💪 Runde geschafft!</h2>
+      <p id="doneText"></p>
+      <button class="btn" id="againBtn">Nochmal (nicht gewusste)</button>
+      <button class="btn ghost" data-go="home" style="margin-left:8px">Zur Startseite</button>
+    </div>
+  </section>
+</main>
+
+<script>
+/* ---------- Beispiel-Lernkarten (werden später durch Inhalte aus deinem Sportbuch ersetzt) ---------- */
+const CARDS = [
+  {id:"t1", topic:"Trainingslehre", q:"Was beschreibt das Prinzip der Superkompensation?", a:"Nach einer Belastung sinkt die Leistungsfähigkeit (Ermüdung), steigt in der Erholung wieder an und übersteigt kurzzeitig das Ausgangsniveau. Erfolgt die nächste Belastung in dieser Phase, steigt die Leistung langfristig."},
+  {id:"t2", topic:"Trainingslehre", q:"Nenne die Belastungsnormative.", a:"Reizintensität, Reizdauer, Reizumfang, Reizdichte und Trainingshäufigkeit."},
+  {id:"t3", topic:"Trainingslehre", q:"Was besagt das Prinzip der progressiven Belastungssteigerung?", a:"Die Belastung muss mit steigender Leistungsfähigkeit schrittweise erhöht werden, da gleichbleibende Reize keine weitere Anpassung mehr auslösen."},
+  {id:"b1", topic:"Bewegungslehre", q:"Welche Phasen hat eine azyklische Bewegung nach Meinel?", a:"Vorbereitungsphase, Hauptphase und Endphase."},
+  {id:"b2", topic:"Bewegungslehre", q:"Was ist der Unterschied zwischen Grob- und Feinkoordination?", a:"Grobkoordination: Bewegung gelingt in Grundzügen, mit hohem Krafteinsatz und Fehlern. Feinkoordination: Bewegung wird unter gewohnten Bedingungen weitgehend fehlerfrei, flüssig und ökonomisch ausgeführt."},
+  {id:"s1", topic:"Sportbiologie", q:"Welche Wege der Energiebereitstellung gibt es?", a:"Anaerob-alaktazid (Kreatinphosphat), anaerob-laktazid (Glykolyse ohne O₂), aerob-glykolytisch und aerob-lipolytisch (Fettverbrennung)."},
+  {id:"s2", topic:"Sportbiologie", q:"Wie lange reicht der ATP- und KrP-Speicher ungefähr bei maximaler Belastung?", a:"ATP: ca. 2–3 Sekunden. Kreatinphosphat zusätzlich: insgesamt etwa 6–10 Sekunden."},
+  {id:"s3", topic:"Sportbiologie", q:"Was versteht man unter dem Sportherz?", a:"Eine durch Ausdauertraining vergrößerte, leistungsfähigere Herzmuskulatur mit höherem Schlagvolumen und niedrigerer Ruheherzfrequenz."},
+  {id:"p1", topic:"Sportpsychologie", q:"Was beschreibt das Yerkes-Dodson-Gesetz?", a:"Der Zusammenhang zwischen Aktivierung und Leistung ist umgekehrt U-förmig: Mittlere Aktivierung führt zur besten Leistung, zu niedrige oder zu hohe verschlechtert sie."},
+  {id:"p2", topic:"Sportpsychologie", q:"Was ist der Unterschied zwischen intrinsischer und extrinsischer Motivation?", a:"Intrinsisch: Antrieb aus der Tätigkeit selbst (Spaß, Interesse). Extrinsisch: Antrieb durch äußere Anreize (Noten, Lob, Belohnung)."}
+];
+
+/* ---------- Speicher (lokal im Browser) ---------- */
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} },
+  del(k){ try{ localStorage.removeItem(k); }catch(e){} }
+};
+const USERS = "slk_users", SESSION = "slk_session";
+
+async function hash(pw, salt){
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(salt + ":" + pw));
+  return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,"0")).join("");
+}
+const users = () => store.get(USERS, {});
+let current = null; // Benutzername
+
+function userData(){ return users()[current].data; }
+function saveData(data){ const u = users(); u[current].data = data; store.set(USERS, u); }
+
+/* ---------- Ansichten ---------- */
+const $ = id => document.getElementById(id);
+function show(view){
+  if(!current && view !== "auth") view = "auth";
+  ["auth","home","cards"].forEach(v => $("view-"+v).classList.toggle("hidden", v !== view));
+  if(view === "home") renderHome();
+  closeMenu(); window.scrollTo(0,0);
+}
+
+/* ---------- Login / Registrierung ---------- */
+let mode = "login";
+function setMode(m){
+  mode = m;
+  $("tabLogin").classList.toggle("active", m==="login");
+  $("tabReg").classList.toggle("active", m==="reg");
+  $("pass2Wrap").classList.toggle("hidden", m!=="reg");
+  $("authSubmit").textContent = m==="login" ? "Einloggen" : "Konto erstellen";
+  $("pass").autocomplete = m==="login" ? "current-password" : "new-password";
+  $("authMsg").textContent = "";
+}
+$("tabLogin").onclick = () => setMode("login");
+$("tabReg").onclick = () => setMode("reg");
+
+$("authForm").onsubmit = async e => {
+  e.preventDefault();
+  const name = $("user").value.trim(), pw = $("pass").value, msg = $("authMsg");
+  msg.className = "msg";
+  const key = name.toLowerCase();
+  const all = users();
+  if(name.length < 3) return msg.textContent = "Benutzername: mindestens 3 Zeichen.";
+  if(mode === "reg"){
+    if(all[key]) return msg.textContent = "Diesen Benutzernamen gibt es schon.";
+    if(pw.length < 4) return msg.textContent = "Passwort: mindestens 4 Zeichen.";
+    if(pw !== $("pass2").value) return msg.textContent = "Die Passwörter stimmen nicht überein.";
+    const salt = crypto.getRandomValues(new Uint32Array(2)).join("-");
+    all[key] = {display:name, salt, hash: await hash(pw, salt), created: Date.now(), data:{progress:{}}};
+    store.set(USERS, all);
+  } else {
+    const u = all[key];
+    if(!u || u.hash !== await hash(pw, u.salt)) return msg.textContent = "Benutzername oder Passwort falsch.";
+  }
+  login(key);
+  $("authForm").reset();
+};
+
+function login(key){
+  current = key;
+  store.set(SESSION, key);
+  const u = users()[key];
+  $("whoName").textContent = u.display;
+  $("whoSub").textContent = "Konto seit " + new Date(u.created).toLocaleDateString("de-DE");
+  show("home");
+}
+function logout(){
+  current = null; store.del(SESSION);
+  $("whoName").textContent = "Nicht angemeldet"; $("whoSub").textContent = "Bitte einloggen";
+  setMode("login"); show("auth");
+}
+
+/* ---------- Startseite ---------- */
+function renderHome(){
+  const p = userData().progress;
+  const known = CARDS.filter(c => p[c.id]?.known).length;
+  const pct = Math.round(known / CARDS.length * 100);
+  $("helloName").textContent = users()[current].display;
+  $("stKnown").textContent = known; $("stTotal").textContent = CARDS.length;
+  $("stPct").textContent = pct + "%"; $("stBar").style.width = pct + "%";
+  const topics = [...new Set(CARDS.map(c => c.topic))];
+  $("topics").innerHTML = "";
+  topics.forEach(t => {
+    const list = CARDS.filter(c => c.topic === t);
+    const k = list.filter(c => p[c.id]?.known).length;
+    const b = document.createElement("button");
+    b.className = "topic";
+    b.innerHTML = `<b></b><br><small>${k} / ${list.length} gewusst</small>`;
+    b.querySelector("b").textContent = t;
+    b.onclick = () => startCards(t);
+    $("topics").appendChild(b);
+  });
+}
+
+/* ---------- Lernkarten ---------- */
+let deck = [], idx = 0, wrong = [], deckTopic = null;
+function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+
+function startCards(topic = null, onlyIds = null){
+  deckTopic = topic;
+  let list = topic ? CARDS.filter(c => c.topic === topic) : CARDS.slice();
+  if(onlyIds) list = list.filter(c => onlyIds.includes(c.id));
+  deck = shuffle(list); idx = 0; wrong = [];
+  $("fcTopic").textContent = topic || "Alle Themen";
+  $("fcArea").classList.remove("hidden"); $("fcDone").classList.add("hidden");
+  show("cards"); renderCard();
+}
+function renderCard(){
+  const c = deck[idx];
+  $("flash").classList.remove("flipped");
+  setTimeout(() => { $("fTag").textContent = c.topic; $("fQ").textContent = c.q; $("fA").textContent = c.a; }, 150);
+  $("fcCount").textContent = (idx+1) + " / " + deck.length;
+}
+function answer(knew){
+  const c = deck[idx], d = userData();
+  const e = d.progress[c.id] || {seen:0, right:0};
+  e.seen++; if(knew) e.right++; e.known = knew; e.last = Date.now();
+  d.progress[c.id] = e; saveData(d);
+  if(!knew) wrong.push(c.id);
+  idx++;
+  if(idx < deck.length) renderCard(); else finish();
+}
+function finish(){
+  $("fcArea").classList.add("hidden"); $("fcDone").classList.remove("hidden");
+  const ok = deck.length - wrong.length;
+  $("doneText").textContent = `${ok} von ${deck.length} Karten gewusst.` + (wrong.length ? "" : " Perfekt!");
+  $("againBtn").classList.toggle("hidden", !wrong.length);
+}
+$("flash").onclick = () => $("flash").classList.toggle("flipped");
+$("yesBtn").onclick = () => answer(true);
+$("noBtn").onclick = () => answer(false);
+$("againBtn").onclick = () => startCards(deckTopic, wrong.slice());
+$("startBtn").onclick = () => startCards();
+document.addEventListener("keydown", e => {
+  if($("view-cards").classList.contains("hidden") || !$("fcDone").classList.contains("hidden")) return;
+  if(e.code === "Space"){ e.preventDefault(); $("flash").classList.toggle("flipped"); }
+  if(e.key === "ArrowRight") answer(true);
+  if(e.key === "ArrowLeft") answer(false);
+});
+
+/* ---------- Menü ---------- */
+function openMenu(){ $("drawer").classList.add("open"); $("overlay").classList.add("open"); }
+function closeMenu(){ $("drawer").classList.remove("open"); $("overlay").classList.remove("open"); }
+$("menuBtn").onclick = openMenu;
+$("overlay").onclick = closeMenu;
+document.querySelectorAll("[data-go]").forEach(el => el.addEventListener("click", () => {
+  const v = el.dataset.go; v === "cards" ? startCards() : show(v);
+}));
+document.querySelectorAll("[data-act]").forEach(el => el.addEventListener("click", () => {
+  if(!current) return closeMenu();
+  if(el.dataset.act === "logout") logout();
+  if(el.dataset.act === "reset" && confirm("Deinen gesamten Lernfortschritt löschen?")){ saveData({progress:{}}); show("home"); }
+}));
+
+/* ---------- Start: angemeldet bleiben ---------- */
+const saved = store.get(SESSION, null);
+if(saved && users()[saved]) login(saved); else show("auth");
+</script>
+</body>
+</html>
