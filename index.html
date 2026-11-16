@@ -102,6 +102,17 @@ h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
 .done h2{font-size:2rem;margin-bottom:10px}
 .done p{color:var(--muted);margin-bottom:24px}
 .btn:disabled{opacity:.6;cursor:wait}
+.dev-title{font-size:1.5rem;font-weight:800;letter-spacing:-.02em}
+.facts{list-style:none;display:grid;gap:8px;margin-top:12px}
+.facts li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.facts li b{color:var(--accent)}
+.table-wrap{overflow-x:auto;margin-top:12px;border:1px solid var(--line);border-radius:14px}
+table.users{width:100%;border-collapse:collapse;font-size:.9rem;min-width:720px}
+.users th,.users td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+.users th{background:var(--bg2);color:var(--muted);font-weight:600}
+.users tr:last-child td{border-bottom:none}
+.users .bar{width:90px;display:inline-block;vertical-align:middle;margin:0 8px 0 0}
+.users small{color:var(--muted)}
 #modeHint{color:var(--muted)}
 .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--card);border:1px solid var(--line);
   padding:12px 18px;border-radius:12px;z-index:50;font-size:.9rem;max-width:calc(100% - 32px)}
@@ -125,6 +136,7 @@ h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
   <a class="soon">📝 Abi-Probeklausur</a>
   <a class="soon">📈 Statistik</a>
   <a data-act="reset">↺ Fortschritt zurücksetzen</a>
+  <a id="devLink">🛠 Entwickleroptionen</a>
   <a class="logout" data-act="logout">⎋ Abmelden</a>
 </nav>
 
@@ -139,6 +151,10 @@ h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
         <button id="tabReg">Konto erstellen</button>
       </div>
       <form id="authForm" autocomplete="on">
+        <div id="nameWrap" class="hidden">
+          <label for="realname">Dein Name</label>
+          <input type="text" id="realname" autocomplete="name" placeholder="z. B. Max Mustermann">
+        </div>
         <label for="user">Benutzername</label>
         <input type="text" id="user" autocomplete="username" required>
         <label for="pass">Passwort</label>
@@ -150,6 +166,38 @@ h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
         <button class="btn full" id="authSubmit" type="submit">Einloggen</button>
         <div class="msg" id="authMsg"></div>
       </form>
+    </div>
+  </section>
+
+  <!-- ENTWICKLEROPTIONEN -->
+  <section id="view-dev" class="hidden">
+    <div id="devLogin" class="auth">
+      <h1>🛠 Entwickler</h1>
+      <p class="sub">Nur für Entwickler-Konten.</p>
+      <form id="devForm">
+        <label for="devUser">Benutzername</label>
+        <input type="text" id="devUser" autocomplete="username" required>
+        <label for="devPass">Passwort</label>
+        <input type="password" id="devPass" autocomplete="current-password" required>
+        <button class="btn full" id="devSubmit" type="submit">Als Entwickler anmelden</button>
+        <div class="msg" id="devMsg"></div>
+      </form>
+    </div>
+    <div id="devDash" class="hidden">
+      <div class="fc-head">
+        <h2 class="dev-title">🛠 Entwickler-Übersicht</h2>
+        <button class="btn ghost" id="devReload">↻ Aktualisieren</button>
+      </div>
+      <div class="stats" id="devStats"></div>
+      <h3 class="sec">Facts</h3>
+      <ul class="facts" id="devFacts"></ul>
+      <h3 class="sec">Fortschritt pro Thema (Durchschnitt aller Nutzer)</h3>
+      <div class="topics" id="devTopics"></div>
+      <h3 class="sec">Alle Konten</h3>
+      <div class="table-wrap"><table class="users">
+        <thead><tr><th>Name</th><th>Benutzername</th><th>Fortschritt</th><th>Antworten</th><th>Trefferquote</th><th>Registriert</th><th>Zuletzt aktiv</th></tr></thead>
+        <tbody id="devUsers"></tbody>
+      </table></div>
     </div>
   </section>
 
@@ -277,16 +325,17 @@ const onlineBackend = {
     return this.load(data.user);
   },
   async load(user){
+    const username = user.email.split("@")[0];
     const {data, error} = await sb.from("profiles").select("display,data,created_at").eq("id", user.id).maybeSingle();
     if(error) throw new Error("Daten konnten nicht geladen werden: " + error.message);
-    if(data) return {id:user.id, display:data.display, created:Date.parse(data.created_at), data:data.data || {progress:{}}};
-    const acc = {id:user.id, display:(user.user_metadata && user.user_metadata.display) || user.email.split("@")[0], created:Date.now(), data:{progress:{}}};
+    if(data) return {id:user.id, username, display:data.display, created:Date.parse(data.created_at), data:data.data || {progress:{}}};
+    const acc = {id:user.id, username, display:(user.user_metadata && user.user_metadata.display) || username, created:Date.now(), data:{progress:{}}};
     await this.save(acc);
     return acc;
   },
   async restore(){ const {data} = await sb.auth.getSession(); return data.session ? this.load(data.session.user) : null; },
   async save(acc){
-    const {error} = await sb.from("profiles").upsert({id:acc.id, display:acc.display, data:acc.data, updated_at:new Date().toISOString()});
+    const {error} = await sb.from("profiles").upsert({id:acc.id, username:acc.username, display:acc.display, data:acc.data, updated_at:new Date().toISOString()});
     if(error) toast("Speichern fehlgeschlagen – bitte Internetverbindung prüfen.", true);
   },
   async logout(){ await sb.auth.signOut(); }
@@ -305,8 +354,8 @@ function toast(text, err){
 /* ---------- Ansichten ---------- */
 const $ = id => document.getElementById(id);
 function show(view){
-  if(!current && view !== "auth") view = "auth";
-  ["auth","home","cards"].forEach(v => $("view-"+v).classList.toggle("hidden", v !== view));
+  if(!current && view !== "auth" && view !== "dev") view = "auth";
+  ["auth","home","cards","dev"].forEach(v => $("view-"+v).classList.toggle("hidden", v !== view));
   if(view === "home") renderHome();
   closeMenu(); window.scrollTo(0,0);
 }
@@ -318,6 +367,7 @@ function setMode(m){
   $("tabLogin").classList.toggle("active", m==="login");
   $("tabReg").classList.toggle("active", m==="reg");
   $("pass2Wrap").classList.toggle("hidden", m!=="reg");
+  $("nameWrap").classList.toggle("hidden", m!=="reg");
   $("authSubmit").textContent = m==="login" ? "Einloggen" : "Konto erstellen";
   $("pass").autocomplete = m==="login" ? "current-password" : "new-password";
   $("authMsg").textContent = "";
@@ -331,14 +381,16 @@ $("authForm").onsubmit = async e => {
   msg.className = "msg"; msg.textContent = "";
   const key = name.toLowerCase();
   if(!/^[a-z0-9_.-]{3,30}$/.test(key)) return msg.textContent = "Benutzername: 3–30 Zeichen, nur Buchstaben (ohne Umlaute), Zahlen, Punkt, - und _.";
+  const realname = $("realname").value.trim().replace(/\s+/g, " ");
   if(mode === "reg"){
+    if(realname.length < 2 || realname.length > 40) return msg.textContent = "Bitte gib deinen Namen ein (2–40 Zeichen).";
     if(pw.length < 6) return msg.textContent = "Passwort: mindestens 6 Zeichen.";
     if(pw !== $("pass2").value) return msg.textContent = "Die Passwörter stimmen nicht überein.";
   }
   const label = btn.textContent;
   btn.disabled = true; btn.textContent = "Bitte warten …";
   try {
-    const acc = mode === "reg" ? await backend.register(key, name, pw) : await backend.login(key, pw);
+    const acc = mode === "reg" ? await backend.register(key, realname, pw) : await backend.login(key, pw);
     login(acc);
     $("authForm").reset();
   } catch(err){
@@ -348,11 +400,117 @@ $("authForm").onsubmit = async e => {
   }
 };
 
-function login(acc){
+function setUser(acc){
   current = acc;
   $("whoName").textContent = acc.display;
   $("whoSub").textContent = (backend.online ? "☁ Online gespeichert" : "Nur auf diesem Gerät") + " · seit " + new Date(acc.created).toLocaleDateString("de-DE");
-  show("home");
+}
+function login(acc){ setUser(acc); show("home"); }
+
+/* ---------- Entwickleroptionen ---------- */
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmtDate = t => t ? new Date(t).toLocaleDateString("de-DE") : "–";
+async function isAdmin(){
+  if(!sb || !current) return false;
+  const {data, error} = await sb.rpc("is_admin");
+  return !error && data === true;
+}
+async function openDev(){
+  if(!backend.online){ closeMenu(); return toast("Entwickleroptionen gehen nur mit Online-Speicherung.", true); }
+  show("dev");
+  if(await isAdmin()) return loadDashboard();
+  $("devLogin").classList.remove("hidden"); $("devDash").classList.add("hidden");
+  $("devMsg").className = "msg";
+  $("devMsg").textContent = current ? `Du bist als „${current.display}“ angemeldet – dieses Konto hat keinen Entwicklerzugang.` : "";
+}
+$("devLink").onclick = openDev;
+$("devForm").onsubmit = async e => {
+  e.preventDefault();
+  const key = $("devUser").value.trim().toLowerCase(), btn = $("devSubmit"), msg = $("devMsg");
+  msg.className = "msg"; msg.textContent = "";
+  btn.disabled = true;
+  try {
+    setUser(await backend.login(key, $("devPass").value));
+    $("devForm").reset();
+    if(await isAdmin()) loadDashboard();
+    else msg.textContent = "Dieses Konto hat keinen Entwicklerzugang.";
+  } catch(err){ msg.textContent = err.message; }
+  finally { btn.disabled = false; }
+};
+$("devReload").onclick = () => loadDashboard();
+
+async function loadDashboard(){
+  $("devLogin").classList.add("hidden"); $("devDash").classList.remove("hidden");
+  const {data, error} = await sb.from("profiles").select("id,username,display,data,created_at,updated_at").order("created_at", {ascending:false});
+  if(error) return toast("Daten konnten nicht geladen werden: " + error.message, true);
+  renderDashboard(data || []);
+}
+
+function renderDashboard(rows){
+  const now = Date.now(), DAY = 864e5, total = CARDS.length;
+  const people = rows.map(r => {
+    const p = (r.data && r.data.progress) || {};
+    const ids = CARDS.map(c => c.id);
+    const known = ids.filter(id => p[id] && p[id].known).length;
+    let seen = 0, right = 0;
+    Object.values(p).forEach(e => { seen += e.seen || 0; right += e.right || 0; });
+    return {...r, p, known, pct: Math.round(known / total * 100), seen, right,
+            created: Date.parse(r.created_at), active: Date.parse(r.updated_at)};
+  });
+  const sum = (arr, f) => arr.reduce((a, x) => a + f(x), 0);
+  const allSeen = sum(people, x => x.seen), allRight = sum(people, x => x.right);
+  const avgPct = people.length ? Math.round(sum(people, x => x.pct) / people.length) : 0;
+  const new7 = people.filter(x => now - x.created < 7 * DAY).length;
+  const act7 = people.filter(x => x.seen > 0 && now - x.active < 7 * DAY).length;
+  const actToday = people.filter(x => x.seen > 0 && new Date(x.active).toDateString() === new Date().toDateString()).length;
+
+  $("devStats").innerHTML = [
+    [people.length, "Konten insgesamt"], [new7, "Neu (letzte 7 Tage)"], [act7, "Aktiv (letzte 7 Tage)"],
+    [actToday, "Heute gelernt"], [allSeen, "Beantwortete Karten"],
+    [allSeen ? Math.round(allRight / allSeen * 100) + "%" : "–", "Trefferquote gesamt"], [avgPct + "%", "Ø Fortschritt"]
+  ].map(([v, l]) => `<div class="stat"><b>${esc(v)}</b><small>${esc(l)}</small></div>`).join("");
+
+  // Karten-Statistik über alle Nutzer
+  const cardStats = CARDS.map(c => {
+    let seen = 0, right = 0;
+    people.forEach(x => { const e = x.p[c.id]; if(e){ seen += e.seen || 0; right += e.right || 0; } });
+    return {c, seen, right, rate: seen ? right / seen : null};
+  });
+  const answered = cardStats.filter(s => s.seen > 0);
+  const most = [...answered].sort((a, b) => b.seen - a.seen)[0];
+  const hardest = [...answered].sort((a, b) => a.rate - b.rate || b.seen - a.seen)[0];
+  const easiest = [...answered].sort((a, b) => b.rate - a.rate || b.seen - a.seen)[0];
+  const best = [...people].sort((a, b) => b.known - a.known || b.seen - a.seen)[0];
+  const busiest = [...people].sort((a, b) => b.seen - a.seen)[0];
+  const newest = people[0];
+
+  const topics = [...new Set(CARDS.map(c => c.topic))].map(t => {
+    const list = CARDS.filter(c => c.topic === t);
+    const pct = people.length ? Math.round(sum(people, x => list.filter(c => x.p[c.id] && x.p[c.id].known).length / list.length) / people.length * 100) : 0;
+    return {t, pct, n: list.length};
+  });
+  const strongest = [...topics].sort((a, b) => b.pct - a.pct)[0], weakest = [...topics].sort((a, b) => a.pct - b.pct)[0];
+
+  const facts = [];
+  if(newest) facts.push(`Neuestes Konto: <b>${esc(newest.display)}</b> (${fmtDate(newest.created)})`);
+  if(best && best.known) facts.push(`Am weitesten: <b>${esc(best.display)}</b> mit ${best.known} von ${total} Karten (${best.pct}%)`);
+  if(busiest && busiest.seen) facts.push(`Fleißigste Person: <b>${esc(busiest.display)}</b> mit ${busiest.seen} beantworteten Karten`);
+  if(most) facts.push(`Am häufigsten gelernt: <b>${esc(most.c.q)}</b> (${most.seen}×)`);
+  if(hardest) facts.push(`Schwierigste Karte: <b>${esc(hardest.c.q)}</b> – nur ${Math.round(hardest.rate * 100)}% richtig`);
+  if(easiest && easiest !== hardest) facts.push(`Leichteste Karte: <b>${esc(easiest.c.q)}</b> – ${Math.round(easiest.rate * 100)}% richtig`);
+  if(people.length && strongest !== weakest) facts.push(`Stärkstes Thema: <b>${esc(strongest.t)}</b> (Ø ${strongest.pct}%) · Schwächstes: <b>${esc(weakest.t)}</b> (Ø ${weakest.pct}%)`);
+  facts.push(`Noch nie gelernt: <b>${people.filter(x => !x.seen).length}</b> von ${people.length} Konten · Lernkarten im System: <b>${total}</b>`);
+  $("devFacts").innerHTML = facts.map(f => `<li>${f}</li>`).join("");
+
+  $("devTopics").innerHTML = topics.map(x =>
+    `<div class="topic"><b>${esc(x.t)}</b><br><small>Ø ${x.pct}% gewusst · ${x.n} Karten</small><div class="bar"><div style="width:${x.pct}%"></div></div></div>`).join("");
+
+  $("devUsers").innerHTML = people.length ? people.map(x => `<tr>
+    <td>${esc(x.display)}</td><td><small>${esc(x.username || "–")}</small></td>
+    <td><span class="bar"><div style="width:${x.pct}%"></div></span>${x.known}/${total} <small>(${x.pct}%)</small></td>
+    <td>${x.seen}</td><td>${x.seen ? Math.round(x.right / x.seen * 100) + "%" : "–"}</td>
+    <td>${fmtDate(x.created)}</td><td>${x.seen ? fmtDate(x.active) : "<small>noch nie</small>"}</td></tr>`).join("")
+    : `<tr><td colspan="7"><small>Noch keine Konten.</small></td></tr>`;
 }
 async function logout(){
   try { await backend.logout(); } catch(e){}
