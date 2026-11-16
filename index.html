@@ -101,6 +101,11 @@ h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
 .done{text-align:center;padding:40px 20px}
 .done h2{font-size:2rem;margin-bottom:10px}
 .done p{color:var(--muted);margin-bottom:24px}
+.btn:disabled{opacity:.6;cursor:wait}
+#modeHint{color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--card);border:1px solid var(--line);
+  padding:12px 18px;border-radius:12px;z-index:50;font-size:.9rem;max-width:calc(100% - 32px)}
+.toast.err{border-color:var(--bad);color:#ffb3b3}
 @media(max-width:520px){.auth{padding:24px}.actions .btn{min-width:0;flex:1}.scene{height:380px}}
 </style>
 </head>
@@ -125,10 +130,10 @@ h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
 
 <main>
   <!-- LOGIN / REGISTRIERUNG -->
-  <section id="view-auth">
+  <section id="view-auth" class="hidden">
     <div class="auth">
       <h1>Abi Sport-LK 🏃</h1>
-      <p class="sub">Dein Trainingsplan fürs Sportabitur – melde dich an.</p>
+      <p class="sub">Dein Trainingsplan fürs Sportabitur – melde dich an.<br><small id="modeHint"></small></p>
       <div class="tabs">
         <button id="tabLogin" class="active">Einloggen</button>
         <button id="tabReg">Konto erstellen</button>
@@ -191,7 +196,17 @@ h3.sec{margin-top:36px;font-size:1rem;color:var(--muted);font-weight:600}
     </div>
   </section>
 </main>
+<div class="toast hidden" id="toast"></div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script>
+/* ---------- Online-Speicherung (Supabase) ----------
+   Hier die Werte aus Supabase eintragen: Project Settings → API.
+   Bleiben beide leer, speichert die Seite wie bisher nur im Browser. */
+const SUPABASE_URL = "https://mbcrlmmhoyavchsljxvs.supabase.co";
+const SUPABASE_KEY = "sb_publishable_gfhF_77PZiYxkEOBMfkO5Q_woBuEOB6";
+const EMAIL_DOMAIN = "users.sportabilernkarten.store"; // interne Login-Adresse, es wird keine E-Mail verschickt
+</script>
 <script>
 /* ---------- Beispiel-Lernkarten (werden später durch Inhalte aus deinem Sportbuch ersetzt) ---------- */
 const CARDS = [
@@ -220,10 +235,72 @@ async function hash(pw, salt){
   return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,"0")).join("");
 }
 const users = () => store.get(USERS, {});
-let current = null; // Benutzername
+let current = null; // angemeldetes Konto: {id, display, created, data}
 
-function userData(){ return users()[current].data; }
-function saveData(data){ const u = users(); u[current].data = data; store.set(USERS, u); }
+/* Variante 1: nur im Browser (wenn Supabase nicht eingerichtet ist) */
+const localBackend = {
+  online: false,
+  acc(key){ const u = users()[key]; return u ? {id:key, display:u.display, created:u.created, data:u.data} : null; },
+  async register(key, name, pw){
+    const all = users();
+    if(all[key]) throw new Error("Diesen Benutzernamen gibt es schon.");
+    const salt = crypto.getRandomValues(new Uint32Array(2)).join("-");
+    all[key] = {display:name, salt, hash: await hash(pw, salt), created: Date.now(), data:{progress:{}}};
+    store.set(USERS, all); store.set(SESSION, key);
+    return this.acc(key);
+  },
+  async login(key, pw){
+    const u = users()[key];
+    if(!u || u.hash !== await hash(pw, u.salt)) throw new Error("Benutzername oder Passwort falsch.");
+    store.set(SESSION, key);
+    return this.acc(key);
+  },
+  async restore(){ const k = store.get(SESSION, null); return k ? this.acc(k) : null; },
+  async save(acc){ const all = users(); if(all[acc.id]){ all[acc.id].data = acc.data; store.set(USERS, all); } },
+  async logout(){ store.del(SESSION); }
+};
+
+/* Variante 2: online in Supabase – Konto und Fortschritt auf jedem Gerät */
+const sb = (SUPABASE_URL && SUPABASE_KEY && window.supabase) ? window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY) : null;
+const onlineBackend = {
+  online: true,
+  email: key => key + "@" + EMAIL_DOMAIN,
+  async register(key, name, pw){
+    const {data, error} = await sb.auth.signUp({email:this.email(key), password:pw, options:{data:{display:name}}});
+    if(error) throw new Error(/registered|exists/i.test(error.message) ? "Diesen Benutzernamen gibt es schon." : "Registrierung fehlgeschlagen: " + error.message);
+    if(!data.session) throw new Error("Konto angelegt, aber in Supabase ist „Confirm email“ noch eingeschaltet.");
+    return this.load(data.user);
+  },
+  async login(key, pw){
+    const {data, error} = await sb.auth.signInWithPassword({email:this.email(key), password:pw});
+    if(error) throw new Error(/invalid/i.test(error.message) ? "Benutzername oder Passwort falsch." : "Anmeldung fehlgeschlagen: " + error.message);
+    return this.load(data.user);
+  },
+  async load(user){
+    const {data, error} = await sb.from("profiles").select("display,data,created_at").eq("id", user.id).maybeSingle();
+    if(error) throw new Error("Daten konnten nicht geladen werden: " + error.message);
+    if(data) return {id:user.id, display:data.display, created:Date.parse(data.created_at), data:data.data || {progress:{}}};
+    const acc = {id:user.id, display:(user.user_metadata && user.user_metadata.display) || user.email.split("@")[0], created:Date.now(), data:{progress:{}}};
+    await this.save(acc);
+    return acc;
+  },
+  async restore(){ const {data} = await sb.auth.getSession(); return data.session ? this.load(data.session.user) : null; },
+  async save(acc){
+    const {error} = await sb.from("profiles").upsert({id:acc.id, display:acc.display, data:acc.data, updated_at:new Date().toISOString()});
+    if(error) toast("Speichern fehlgeschlagen – bitte Internetverbindung prüfen.", true);
+  },
+  async logout(){ await sb.auth.signOut(); }
+};
+const backend = sb ? onlineBackend : localBackend;
+
+function userData(){ return current.data; }
+function saveData(data){ current.data = data; backend.save(current); }
+
+let toastTimer;
+function toast(text, err){
+  const t = $("toast"); t.textContent = text; t.className = "toast" + (err ? " err" : "");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.add("hidden"), 4000);
+}
 
 /* ---------- Ansichten ---------- */
 const $ = id => document.getElementById(id);
@@ -250,36 +327,36 @@ $("tabReg").onclick = () => setMode("reg");
 
 $("authForm").onsubmit = async e => {
   e.preventDefault();
-  const name = $("user").value.trim(), pw = $("pass").value, msg = $("authMsg");
-  msg.className = "msg";
+  const name = $("user").value.trim(), pw = $("pass").value, msg = $("authMsg"), btn = $("authSubmit");
+  msg.className = "msg"; msg.textContent = "";
   const key = name.toLowerCase();
-  const all = users();
-  if(name.length < 3) return msg.textContent = "Benutzername: mindestens 3 Zeichen.";
+  if(!/^[a-z0-9_.-]{3,30}$/.test(key)) return msg.textContent = "Benutzername: 3–30 Zeichen, nur Buchstaben (ohne Umlaute), Zahlen, Punkt, - und _.";
   if(mode === "reg"){
-    if(all[key]) return msg.textContent = "Diesen Benutzernamen gibt es schon.";
-    if(pw.length < 4) return msg.textContent = "Passwort: mindestens 4 Zeichen.";
+    if(pw.length < 6) return msg.textContent = "Passwort: mindestens 6 Zeichen.";
     if(pw !== $("pass2").value) return msg.textContent = "Die Passwörter stimmen nicht überein.";
-    const salt = crypto.getRandomValues(new Uint32Array(2)).join("-");
-    all[key] = {display:name, salt, hash: await hash(pw, salt), created: Date.now(), data:{progress:{}}};
-    store.set(USERS, all);
-  } else {
-    const u = all[key];
-    if(!u || u.hash !== await hash(pw, u.salt)) return msg.textContent = "Benutzername oder Passwort falsch.";
   }
-  login(key);
-  $("authForm").reset();
+  const label = btn.textContent;
+  btn.disabled = true; btn.textContent = "Bitte warten …";
+  try {
+    const acc = mode === "reg" ? await backend.register(key, name, pw) : await backend.login(key, pw);
+    login(acc);
+    $("authForm").reset();
+  } catch(err){
+    msg.textContent = err.message || "Etwas ist schiefgelaufen.";
+  } finally {
+    btn.disabled = false; btn.textContent = label;
+  }
 };
 
-function login(key){
-  current = key;
-  store.set(SESSION, key);
-  const u = users()[key];
-  $("whoName").textContent = u.display;
-  $("whoSub").textContent = "Konto seit " + new Date(u.created).toLocaleDateString("de-DE");
+function login(acc){
+  current = acc;
+  $("whoName").textContent = acc.display;
+  $("whoSub").textContent = (backend.online ? "☁ Online gespeichert" : "Nur auf diesem Gerät") + " · seit " + new Date(acc.created).toLocaleDateString("de-DE");
   show("home");
 }
-function logout(){
-  current = null; store.del(SESSION);
+async function logout(){
+  try { await backend.logout(); } catch(e){}
+  current = null;
   $("whoName").textContent = "Nicht angemeldet"; $("whoSub").textContent = "Bitte einloggen";
   setMode("login"); show("auth");
 }
@@ -289,7 +366,7 @@ function renderHome(){
   const p = userData().progress;
   const known = CARDS.filter(c => p[c.id]?.known).length;
   const pct = Math.round(known / CARDS.length * 100);
-  $("helloName").textContent = users()[current].display;
+  $("helloName").textContent = current.display;
   $("stKnown").textContent = known; $("stTotal").textContent = CARDS.length;
   $("stPct").textContent = pct + "%"; $("stBar").style.width = pct + "%";
   const topics = [...new Set(CARDS.map(c => c.topic))];
@@ -367,8 +444,10 @@ document.querySelectorAll("[data-act]").forEach(el => el.addEventListener("click
 }));
 
 /* ---------- Start: angemeldet bleiben ---------- */
-const saved = store.get(SESSION, null);
-if(saved && users()[saved]) login(saved); else show("auth");
+$("modeHint").textContent = backend.online
+  ? "☁ Dein Konto funktioniert auf jedem Gerät."
+  : "Hinweis: Konten werden nur in diesem Browser gespeichert.";
+backend.restore().then(acc => acc ? login(acc) : show("auth")).catch(() => show("auth"));
 </script>
 </body>
 </html>
