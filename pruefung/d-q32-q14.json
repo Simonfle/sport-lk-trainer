@@ -1,0 +1,1483 @@
+{
+  "einzel": [
+    {
+      "id": "e-q3.2-01",
+      "thema": "Q3.2",
+      "titel": "Formen der Antizipation",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Beschreiben Sie den Begriff Antizipation und unterscheiden Sie dabei Situations-, Erfahrungs-, Ziel- und Programmantizipation jeweils mit einem sportlichen Beispiel.",
+      "erwartung": [
+        {
+          "text": "Definiert Antizipation als gedankliche Vorwegnahme zukünftiger Ereignisse, Handlungen bzw. Bewegungsabläufe und ihrer Ergebnisse auf Basis von Wahrnehmung (Hinweisreizen) und Erfahrung",
+          "be": 2
+        },
+        {
+          "text": "Situationsantizipation: Vorwegnahme der Entwicklung einer aktuellen Situation (Gegner, Mitspieler, Ball) aus wahrgenommenen Hinweisreizen, mit Beispiel (z. B. Torwart liest die Schussrichtung an Hüft- und Fußstellung ab)",
+          "be": 1
+        },
+        {
+          "text": "Erfahrungsantizipation: Vorwegnahme aufgrund gespeicherter Erfahrungen und Wahrscheinlichkeiten (typisches Gegnerverhalten, Spielsituationen), mit Beispiel (z. B. Abwehrspieler weiß, dass der Kreisläufer nach dem Sperren meist abrollt)",
+          "be": 1
+        },
+        {
+          "text": "Zielantizipation: Vorwegnahme des angestrebten Handlungsergebnisses bzw. Endzustands, mit Beispiel (z. B. Volleyballer stellt sich vor dem Angriffsschlag den Zielpunkt im gegnerischen Feld vor)",
+          "be": 1
+        },
+        {
+          "text": "Programmantizipation: Vorwegnahme des eigenen Bewegungsablaufs (Bewegungsprogramm, Sollwert, nachfolgende Phasen), mit Beispiel (z. B. die Ausholbewegung beim Speerwurf ist bereits auf den Abwurf ausgerichtet)",
+          "be": 1
+        }
+      ],
+      "muster": "Antizipation (lat. anticipare = vorwegnehmen) ist die gedankliche Vorwegnahme zukünftiger Ereignisse, Handlungen und Bewegungsabläufe bzw. ihrer Ergebnisse. Sie stützt sich auf aktuelle Wahrnehmungen (Hinweisreize) und gespeicherte Erfahrungen und verschafft dem Sportler Zeit, um rechtzeitig und angemessen zu handeln.\n\n• Situationsantizipation: Der Sportler nimmt vorweg, wie sich die aktuelle Situation entwickeln wird, indem er Hinweisreize von Gegnern, Mitspielern oder dem Ball auswertet. Beispiel: Ein Handballtorwart erkennt an Schulter- und Armstellung des Werfers, in welche Ecke der Wurf gehen wird.\n• Erfahrungsantizipation: Die Vorwegnahme beruht vor allem auf früheren Erfahrungen, also auf dem Wissen über Wahrscheinlichkeiten und typische Verhaltensmuster. Beispiel: Ein Tennisspieler weiß aus vielen Matches, dass sein Gegner bei Breakball fast immer auf die Rückhand aufschlägt.\n• Zielantizipation: Vorweggenommen wird das angestrebte Ergebnis der eigenen Handlung. Beispiel: Ein Volleyballangreifer hat vor dem Schlag den freien Raum im gegnerischen Feld als Zielpunkt im Kopf.\n• Programmantizipation: Vorweggenommen wird der eigene Bewegungsablauf mit seinen Phasen und den zu erwartenden Bewegungsempfindungen; sie bildet den Sollwert für den Soll-Ist-Vergleich. Beispiel: Beim Speerwurf ist der Impulsschritt bereits auf den Abwurf ausgerichtet.\n\nSituations- und Erfahrungsantizipation sind Formen der Fremdantizipation, Ziel- und Programmantizipation Formen der Selbstantizipation.",
+      "tipp": "Beschreiben heißt: Merkmale strukturiert und fachsprachlich darstellen. Zu jeder Antizipationsform gehört hier ein eigenes, konkretes Beispiel, sonst fehlt die Hälfte."
+    },
+    {
+      "id": "e-q3.2-02",
+      "thema": "Q3.2",
+      "titel": "Druckbedingungen im KAR-Modell",
+      "operator": "Nennen und beschreiben",
+      "afb": "I",
+      "be": 7,
+      "material": "",
+      "aufgabe": "Nennen Sie die beiden Bestandteile des Koordinations-Anforderungs-Regler-Modells (KAR-Modell) nach Neumaier und beschreiben Sie die fünf Druckbedingungen jeweils mit einem typischen Beispiel.",
+      "erwartung": [
+        {
+          "text": "Nennt die zwei Teile: Informationsanforderungen (optisch, akustisch, taktil, kinästhetisch, vestibulär, plus Gleichgewicht) und Druckbedingungen; Ausprägung jeweils über Regler von niedrig bis hoch",
+          "be": 2
+        },
+        {
+          "text": "Präzisionsdruck: Anforderungen an Verlaufs- und/oder Ergebnisgenauigkeit, Beispiel z. B. Freiwurf",
+          "be": 1
+        },
+        {
+          "text": "Zeitdruck: Anforderungen an verfügbare Bewegungszeit bzw. zu erreichende Geschwindigkeit, Beispiel z. B. 100-m-Sprint",
+          "be": 1
+        },
+        {
+          "text": "Komplexitätsdruck: gleichzeitige (Simultan-) und aufeinanderfolgende (Sukzessivkoordination) Bewegungsanteile sowie Umfang der Muskelauswahl, Beispiel z. B. Kugelstoß",
+          "be": 1
+        },
+        {
+          "text": "Situationsdruck: Variabilität und Komplexität der Umgebungs- und Situationsbedingungen, Beispiel z. B. Orientierungslauf oder Sportspiel",
+          "be": 1
+        },
+        {
+          "text": "Belastungsdruck: physische (Ermüdung) und psychische Belastung (Konzentration, Risiko), Beispiel z. B. 400-m-Hürden",
+          "be": 1
+        }
+      ],
+      "muster": "Das KAR-Modell nach Neumaier ist ein fertigkeitsorientiertes Modell zur Analyse der koordinativen Anforderungen einer Bewegungsaufgabe. Es besteht aus zwei Teilen:\n• Informationsanforderungen: Anforderungen an die Analysatoren (optisch, akustisch, taktil, kinästhetisch, vestibulär) sowie integrativ an das Gleichgewicht.\n• Druckbedingungen: unter welchem „Druck“ die Bewegung koordiniert werden muss.\nJede Kategorie wird über einen Regler zwischen niedrig (−) und hoch (+) eingestellt; die Gesamtkonstellation ergibt das Anforderungsprofil.\n\nDie fünf Druckbedingungen:\n• Präzisionsdruck: Wie genau muss der Bewegungsverlauf (Verlaufsgenauigkeit) und/oder das Ergebnis (Ergebnisgenauigkeit) sein? Beispiel: Basketball-Freiwurf.\n• Zeitdruck: Wie viel Zeit steht zur Verfügung bzw. welche Geschwindigkeit muss erreicht werden? Beispiel: 100-m-Sprint.\n• Komplexitätsdruck: Wie viele Bewegungsanteile müssen gleichzeitig (Simultankoordination) oder nacheinander (Sukzessivkoordination) koordiniert werden und wie viele Muskelgruppen sind beteiligt? Beispiel: Kugelstoß.\n• Situationsdruck: Wie komplex (Anzahl zu beachtender Elemente) und wie variabel (Veränderung der Bedingungen) ist die Umgebung? Beispiel: Orientierungslauf.\n• Belastungsdruck: Unter welcher physischen (Ermüdung, Krafteinsatz) und psychischen (Konzentration, Risiko des Misslingens) Belastung wird die Bewegung ausgeführt? Beispiel: 400-m-Hürdenlauf.",
+      "tipp": "Hier werden zwei Operatoren kombiniert: erst knapp nennen (beide Modellteile), dann jede Druckbedingung mit Definition UND Beispiel beschreiben."
+    },
+    {
+      "id": "e-q3.2-03",
+      "thema": "Q3.2",
+      "titel": "Experten und Anfänger im Torwartduell",
+      "operator": "Erläutern",
+      "afb": "II",
+      "be": 6,
+      "material": "Bei einer Blickbewegungsmessung wurden Handballtorhüter beim Siebenmeter beobachtet. Erfahrene Torhüter (Bundesliga) fixierten vor dem Wurf vor allem Wurfarm, Schulter und Hüfte des Werfers und bewegten sich im Mittel 120 ms vor dem Ballabwurf in die richtige Richtung. Nachwuchstorhüter (U15) richteten den Blick überwiegend auf den Ball, wechselten häufiger den Fixationspunkt und reagierten erst nach dem Abwurf.",
+      "aufgabe": "Erläutern Sie anhand des Materials, worin sich Experten und Anfänger in ihrer Antizipationsleistung unterscheiden und warum diese Unterschiede für den Torwart leistungsentscheidend sind.",
+      "erwartung": [
+        {
+          "text": "Experten nutzen frühere und aussagekräftigere Hinweisreize (Wurfarm, Schulter, Hüfte) statt später Informationen (Ball), mit Bezug zum Material",
+          "be": 1
+        },
+        {
+          "text": "Experten zeigen zielgerichteteres Blickverhalten (wenige, längere Fixationen auf relevante Körperbereiche), Anfänger springen mit dem Blick häufiger, mit Bezug zum Material",
+          "be": 1
+        },
+        {
+          "text": "Experten verfügen über mehr Erfahrungswissen (Wahrscheinlichkeiten, typische Werferbewegungen) und antizipieren deshalb früher und genauer (Erfahrungsantizipation)",
+          "be": 1
+        },
+        {
+          "text": "Begründet Leistungsrelevanz mit Zeitdruck: Flugzeit des Balls ist kürzer als Reaktionszeit plus Bewegungszeit des Torwarts, reine Reaktion nach dem Abwurf kommt zu spät",
+          "be": 2
+        },
+        {
+          "text": "Folgerung: Antizipationsfähigkeit ist erfahrungsabhängig und damit trainierbar (z. B. gezielte Lenkung der Aufmerksamkeit auf Hinweisreize)",
+          "be": 1
+        }
+      ],
+      "muster": "Das Material zeigt typische Experten-Anfänger-Unterschiede:\n• Hinweisreize: Die Bundesligatorhüter orientieren sich an frühen Bewegungsmerkmalen des Werfers (Wurfarm, Schulter, Hüfte). Diese Körperbereiche verraten die Wurfrichtung bereits vor dem Abwurf. Die U15-Torhüter schauen dagegen auf den Ball, also auf eine sehr späte Informationsquelle.\n• Blickverhalten: Experten fixieren gezielt wenige relevante Bereiche, Anfänger wechseln häufig den Fixationspunkt und verlieren so Verarbeitungszeit.\n• Erfahrung: Experten haben viele Siebenmeter erlebt und kennen typische Zusammenhänge zwischen Ausholbewegung und Wurfrichtung (Erfahrungsantizipation). Daraus entsteht eine frühere und genauere Situationsantizipation.\n\nLeistungsrelevanz: Beim Siebenmeter ist der Ball nur sehr kurz unterwegs. Reizaufnahme, Verarbeitung und die eigene Abwehrbewegung dauern zusammen länger als die Flugzeit. Wer erst nach dem Abwurf reagiert (wie die U15-Torhüter), kommt in der Regel zu spät. Der Vorsprung der Experten von etwa 120 ms verschafft ihnen die Zeit, die für die Abwehrbewegung fehlt.\n\nDa die Unterschiede auf Erfahrung und gelernter Aufmerksamkeitslenkung beruhen, ist Antizipation trainierbar, z. B. indem Nachwuchstorhüter gezielt angeleitet werden, auf Schulter und Wurfarm zu achten.",
+      "tipp": "Erläutern heißt: Zusammenhänge erklären und mit dem Material belegen. Nenne nicht nur die Unterschiede, sondern begründe, WARUM frühe Hinweisreize Zeit verschaffen."
+    },
+    {
+      "id": "e-q3.2-04",
+      "thema": "Q3.2",
+      "titel": "Antizipation im Volleyball-Block",
+      "operator": "Analysieren",
+      "afb": "II",
+      "be": 8,
+      "material": "Mittelblockerin Mara (18) steht am Netz. Die gegnerische Zuspielerin läuft unter den Ball, ihre Schultern sind leicht nach hinten gedreht. Mara weiß aus der Spielbeobachtung, dass diese Zuspielerin in engen Satzphasen fast immer die Außenangreiferin auf Position 4 einsetzt. Sie verschiebt deshalb schon während des Zuspiels nach außen, springt zeitgerecht ab und führt die Hände über das Netz in den Schlagarm der Angreiferin.",
+      "aufgabe": "Analysieren Sie die Blockaktion von Mara hinsichtlich der beteiligten Antizipationsformen und der koordinativen Fähigkeiten, die durch Antizipation unterstützt werden.",
+      "erwartung": [
+        {
+          "text": "Situationsantizipation: Auswertung aktueller Hinweisreize (Laufweg der Zuspielerin, Schulterstellung) zur Vorwegnahme der Zuspielrichtung",
+          "be": 1
+        },
+        {
+          "text": "Erfahrungsantizipation: Wissen aus der Spielbeobachtung über typisches Verhalten in engen Satzphasen (Wahrscheinlichkeit Position 4)",
+          "be": 1
+        },
+        {
+          "text": "Unterscheidet Ereignis- (WOHIN: Position 4) und Zeitantizipation (WANN: zeitgerechter Absprung abgestimmt auf den Angriffsschlag)",
+          "be": 2
+        },
+        {
+          "text": "Ziel- und Programmantizipation: Vorwegnahme des Blockziels (Schlagarm abdecken) und des eigenen Ablaufs (Verschieben – Absprung – Händeführen)",
+          "be": 1
+        },
+        {
+          "text": "Orientierungsfähigkeit: Bestimmung der eigenen Position im Verhältnis zu Netz, Ball und Angreiferin, durch Antizipation unterstützt",
+          "be": 1
+        },
+        {
+          "text": "Reaktions- und Umstellungsfähigkeit: frühes Verschieben verkürzt die Reaktion; bei falscher Vorwegnahme muss sie umstellen (Risiko der Fehlantizipation/Finte)",
+          "be": 1
+        },
+        {
+          "text": "Kopplungsfähigkeit (bzw. Rhythmisierung): Verschiebeschritte, Absprung und Armbewegung räumlich-zeitlich abstimmen, gestützt durch Programmantizipation",
+          "be": 1
+        }
+      ],
+      "muster": "Antizipationsformen:\n• Situationsantizipation: Mara liest die aktuellen Hinweisreize der Zuspielerin ab (Laufweg unter den Ball, nach hinten gedrehte Schultern) und schließt daraus auf ein Zuspiel nach außen.\n• Erfahrungsantizipation: Aus der Spielbeobachtung weiß sie, dass die Zuspielerin in engen Satzphasen meist Position 4 einsetzt. Diese Wahrscheinlichkeit reduziert die möglichen Alternativen.\n• Ereignis- und Zeitantizipation: Mara nimmt vorweg, WOHIN gespielt wird (Position 4), und WANN die Angreiferin schlägt, damit ihr Absprung zeitgerecht erfolgt.\n• Ziel- und Programmantizipation: Sie hat das Ziel (Schlagarm der Angreiferin zudecken) und ihren eigenen Ablauf (Verschieben, Absprung, Hände übers Netz) vorweggenommen. Dieser Sollwert ermöglicht die Feinabstimmung.\n\nUnterstützte koordinative Fähigkeiten:\n• Orientierungsfähigkeit: Mara muss ihre Position zu Netz, Ball und Angreiferin laufend bestimmen. Die Vorwegnahme der Ballflugbahn erleichtert das Timing.\n• Reaktionsfähigkeit: Durch das frühe Verschieben verkürzt sich die Zeit, die nach dem Zuspiel noch für die Reaktion bleibt.\n• Umstellungsfähigkeit: Spielt die Zuspielerin doch über Kopf (Finte), muss Mara ihre Bewegung hemmen und neu ansetzen. Das zeigt das Risiko der Fehlantizipation.\n• Kopplungsfähigkeit: Seitwärtsschritte, Stemmschritt, Absprung und Armführung müssen räumlich-zeitlich aufeinander abgestimmt werden; die Programmantizipation bereitet die Kopplung der Phasen vor.",
+      "tipp": "Analysieren heißt: das Material systematisch nach Kriterien zerlegen. Gehe Antizipationsform für Antizipationsform vor und belege jede mit einer konkreten Stelle aus dem Fallbeispiel."
+    },
+    {
+      "id": "e-q3.2-05",
+      "thema": "Q3.2",
+      "titel": "Hick'sches Gesetz und Antizipation",
+      "operator": "Erklären",
+      "afb": "II",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Erklären Sie mithilfe des Hick'schen Gesetzes, warum Antizipation im Sportspiel einen Zeitgewinn verschafft, und erklären Sie, warum ein Spieler durch eine Finte trotzdem langsamer werden kann als bei reiner Reaktion.",
+      "erwartung": [
+        {
+          "text": "Gibt das Hick'sche Gesetz korrekt wieder: Die Wahlreaktionszeit steigt mit der Anzahl der Reaktionsalternativen",
+          "be": 1
+        },
+        {
+          "text": "Erklärt: Antizipation reduziert die Zahl der wahrscheinlichen Alternativen bzw. bereitet eine Handlung vor, dadurch sinkt die Entscheidungszeit",
+          "be": 2
+        },
+        {
+          "text": "Erklärt Finte: Täuschende zeigt Hinweisreize einer Handlung, löst beim Gegner eine falsche Fremdantizipation aus",
+          "be": 1
+        },
+        {
+          "text": "Erklärt Zeitverlust: angebahnte Bewegung muss gehemmt (Inhibition) und umgestellt werden; das dauert länger als eine unvorbereitete Reaktion",
+          "be": 2
+        }
+      ],
+      "muster": "Das Hick'sche Gesetz besagt, dass die Wahlreaktionszeit umso länger wird, je mehr Reaktionsalternativen zur Verfügung stehen. Es beschreibt eine Kapazitätsgrenze der menschlichen Informationsverarbeitung.\n\nIm Sportspiel hat ein Verteidiger in jeder Situation viele mögliche Gegneraktionen zu beachten (Wurf, Pass, Durchbruch links oder rechts). Würde er erst auf die tatsächliche Aktion reagieren, müsste er zwischen all diesen Alternativen wählen und käme oft zu spät. Durch Antizipation, also das Auswerten von Hinweisreizen und Erfahrungswissen, schränkt er die wahrscheinlichen Alternativen ein oder bereitet eine Handlung schon vor. Die Zahl der Alternativen sinkt, damit sinkt nach Hick auch die Entscheidungszeit; der Spieler gewinnt Zeit.\n\nEine Finte nutzt genau diesen Mechanismus aus: Der Angreifer zeigt die Hinweisreize einer Aktion (z. B. Wurfansatz), führt dann aber eine andere aus (z. B. Durchbruch). Der Verteidiger antizipiert falsch und leitet bereits eine Bewegung ein. Diese muss er erst hemmen (Inhibition) und dann auf ein neues Programm umstellen (Umstellungsfähigkeit). Hemmen plus Neustart dauert länger als eine unvorbereitete Reaktion, deshalb ist der Verteidiger nach einer gelungenen Finte langsamer, als wenn er gar nicht antizipiert hätte.",
+      "tipp": "Erklären heißt: einen Sachverhalt auf Gesetzmäßigkeiten zurückführen. Gib das Gesetz zuerst korrekt wieder und baue dann die Argumentationskette Schritt für Schritt auf."
+    },
+    {
+      "id": "e-q3.2-06",
+      "thema": "Q3.2",
+      "titel": "Prinzip des variierten Übens",
+      "operator": "Erläutern",
+      "afb": "II",
+      "be": 8,
+      "material": "Zwei Basketball-Trainingsgruppen üben drei Wochen lang Würfe. Gruppe A wirft ausschließlich von der Freiwurflinie (4,6 m). Gruppe B wirft gleich oft, aber abwechselnd aus 3,5 m, 4,6 m und 5,5 m. Am Ende trifft Gruppe A von der Freiwurflinie etwas besser. In einem Test eine Woche später aus 4,0 m und 5,0 m (nie geübte Entfernungen) trifft Gruppe B deutlich häufiger.",
+      "aufgabe": "Erläutern Sie das Prinzip des variierten Übens und erklären Sie die Ergebnisse des Materials mithilfe der Theorie des generalisierten motorischen Programms (GMP) nach Schmidt.",
+      "erwartung": [
+        {
+          "text": "Beschreibt variiertes Üben: eine beherrschte Grundfertigkeit wird unter wechselnden Bedingungen bzw. mit wechselnden Ausführungsparametern geübt (statt konstanter Wiederholung)",
+          "be": 1
+        },
+        {
+          "text": "Erläutert GMP: steuert eine Bewegungsklasse; Invarianten (Reihenfolge, relatives Timing, relative Kraft) bleiben gleich",
+          "be": 2
+        },
+        {
+          "text": "Nennt variable Parameter (Gesamtdauer, Gesamtkraft, Muskelauswahl) und ordnet die Wurfdistanz v. a. der Gesamtkraft zu",
+          "be": 1
+        },
+        {
+          "text": "Erklärt Ergebnis Gruppe B: durch variiertes Üben lernt sie, die Parameter passend zur Situation einzustellen (Generalisierung), daher Vorteil bei neuen Entfernungen",
+          "be": 2
+        },
+        {
+          "text": "Erklärt Ergebnis Gruppe A: konstantes Üben verbessert die eine geübte Variante kurzfristig, überträgt sich aber schlechter auf neue Varianten",
+          "be": 1
+        },
+        {
+          "text": "Zieht Folgerung für die Praxis, z. B. Variation erst nach Erwerb der Grundstruktur (Invarianten) bzw. Sportspiele verlangen variable Ausführung",
+          "be": 1
+        }
+      ],
+      "muster": "Prinzip des variierten Übens: Eine in ihrer Grundstruktur beherrschte Fertigkeit wird nicht immer gleich wiederholt, sondern unter wechselnden Bedingungen und mit wechselnden Ausführungsparametern geübt (z. B. Entfernung, Tempo, Krafteinsatz, Untergrund). Ziel ist eine stabile, aber flexibel anpassbare Bewegung.\n\nTheoretische Grundlage ist das GMP nach Schmidt. Ein GMP steuert nicht eine einzelne Bewegung, sondern eine ganze Klasse von Bewegungen, z. B. alle Druckwürfe. Es enthält:\n• Invarianten, die immer gleich bleiben: Reihenfolge der Teilbewegungen, relatives Timing und relative Kraftverhältnisse.\n• Variable Parameter, die je nach Situation eingestellt werden: Gesamtdauer, Gesamtkraft und Muskelauswahl.\n\nBeim Wurf aus unterschiedlichen Entfernungen bleibt der Ablauf (Beinstreckung vor Armstreckung und Handgelenk) gleich, verändert wird vor allem der Parameter Gesamtkraft.\n\nErklärung des Materials:\n• Gruppe A übt nur eine Parametereinstellung. Diese wird sehr genau eingeschliffen, daher trifft sie von der Freiwurflinie etwas besser.\n• Gruppe B muss ständig neue Parameterwerte wählen. Sie lernt so die Beziehung zwischen Krafteinsatz und Wurfweite und kann die Parameter auch für nie geübte Entfernungen passend einstellen. Ihr GMP ist generalisiert, deshalb ist sie bei 4,0 m und 5,0 m überlegen.\n\nFolgerung: Für Sportspiele, in denen fast nie zweimal aus derselben Situation geworfen wird, ist variiertes Üben sinnvoller. Voraussetzung ist, dass die Invarianten (die Grundstruktur) zuvor sicher erworben wurden.",
+      "tipp": "Erläutern verlangt Theorie plus Anwendung. Verknüpfe jede Aussage zum GMP ausdrücklich mit Gruppe A oder Gruppe B aus dem Material."
+    },
+    {
+      "id": "e-q3.2-07",
+      "thema": "Q3.2",
+      "titel": "Koordinationsprogramm nach der Grundformel",
+      "operator": "Entwickeln",
+      "afb": "III",
+      "be": 8,
+      "material": "Eine 6. Klasse (26 Kinder, heterogen) soll im Aufwärmteil von vier Doppelstunden ihre Koordination verbessern. Als Elementarfertigkeit hat die Lehrkraft das Prellen eines Balls gewählt, das alle Kinder im Stand sicher beherrschen. Zur Verfügung stehen eine Dreifachhalle, Bälle verschiedener Größe, Langbänke, Hütchen und Weichbodenmatten.",
+      "aufgabe": "Entwickeln Sie auf Grundlage der methodischen Grundformel der Koordinationsschulung vier aufeinander aufbauende Übungsformen zum Prellen für die beschriebene Klasse und begründen Sie Ihre Auswahl.",
+      "erwartung": [
+        {
+          "text": "Gibt die Grundformel an: einfache, sicher beherrschte Fertigkeit + Variation der Informationsanforderungen + Variation der Druckbedingungen",
+          "be": 1
+        },
+        {
+          "text": "Entwickelt mindestens eine Übung mit veränderter Informationsanforderung und benennt den Analysator (z. B. Prellen ohne Hinsehen = optisch reduziert, kinästhetisch/taktil erhöht; Prellen auf der Bank = vestibulär)",
+          "be": 2
+        },
+        {
+          "text": "Entwickelt Übungen mit mindestens zwei verschiedenen, korrekt benannten Druckbedingungen (z. B. Zeitdruck: Prellstaffel; Präzisionsdruck: Prellen in Reifen; Komplexitätsdruck: Prellen mit zwei Bällen; Situationsdruck: Prellfangen)",
+          "be": 2
+        },
+        {
+          "text": "Übungen bauen erkennbar aufeinander auf (steigende Reglerstellung bzw. Kombination mehrerer Drucke)",
+          "be": 1
+        },
+        {
+          "text": "Berücksichtigt die heterogene Gruppe durch Differenzierung (z. B. Ballgröße, Tempo, Wahlaufgaben)",
+          "be": 1
+        },
+        {
+          "text": "Begründet den Einsatz im Aufwärmteil (erholter Zustand) bzw. das Alter (sensible Phase 7–12 Jahre)",
+          "be": 1
+        }
+      ],
+      "muster": "Grundformel: Koordinationsschulung = einfache, sicher beherrschte Fertigkeit + Variation der Informationsanforderungen + Variation der Druckbedingungen. Die Fertigkeit Prellen bleibt konstant, die Bedingungen werden schrittweise verändert.\n\nÜbungsfolge:\n• Stunde 1 – Informationsanforderungen: Prellen im Gehen, dabei auf Zuruf die Augen schließen bzw. den Blick auf ein Handzeichen der Lehrkraft richten. Optische Kontrolle des Balls wird reduziert, kinästhetische und taktile Anforderungen steigen. Danach Prellen beim Balancieren über die umgedrehte Langbank (vestibuläre Anforderung).\n• Stunde 2 – Präzisions- und Zeitdruck: Hütchenslalom prellen, erst langsam, dann auf Zeit; zusätzlich muss der Ball in ausgelegte Reifen geprellt werden (Ergebnisgenauigkeit).\n• Stunde 3 – Komplexitätsdruck: Prellen mit zwei Bällen gleichzeitig bzw. im Wechsel, Prellen und dabei einen Tennisball mit der anderen Hand hochwerfen und fangen (Simultankoordination).\n• Stunde 4 – Situationsdruck: Prellfangen in einem Hallendrittel, alle prellen, zwei Fänger versuchen, Bälle wegzuspielen; Fänger wechseln auf Signal (Situationsvariabilität, Orientierung).\n\nDifferenzierung: Schwächere Kinder dürfen größere, griffigere Bälle nehmen und im Gehen statt im Laufen prellen; stärkere arbeiten mit kleinen Bällen und der schwachen Hand.\n\nBegründung: Die Übungen steigern die Reglerstellungen von Stunde zu Stunde und kombinieren in Stunde 4 mehrere Druckbedingungen. Sie finden im Aufwärmteil statt, weil das ZNS im erholten Zustand am besten lernt. Mit 11–12 Jahren befinden sich die Kinder noch in der sensiblen Phase für koordinative Fähigkeiten, eine vielseitige Schulung ist deshalb besonders wirksam.",
+      "tipp": "Entwickeln heißt: eine eigene, begründete Lösung schaffen. Benenne bei jeder Übung ausdrücklich, welcher Regler (Analysator oder Druckbedingung) verändert wird."
+    },
+    {
+      "id": "e-q3.2-08",
+      "thema": "Q3.2",
+      "titel": "Okklusionstraining im Tennis",
+      "operator": "Beurteilen",
+      "afb": "III",
+      "be": 8,
+      "material": "Ein Tennisverein will seine U16-Spieler im Return verbessern. Trainer Kemal schlägt vor, zweimal pro Woche 20 Minuten Videotraining durchzuführen: Aufschlagvideos werden kurz vor dem Ballkontakt gestoppt, die Spieler sagen die Aufschlagrichtung vorher und bekommen danach die Auflösung. Trainerin Sophie hält mehr Returntraining auf dem Platz gegen echte Aufschläger für sinnvoller.",
+      "aufgabe": "Beurteilen Sie den Vorschlag von Trainer Kemal zur Verbesserung der Antizipationsfähigkeit unter Einbezug der Position von Trainerin Sophie.",
+      "erwartung": [
+        {
+          "text": "Erklärt Okklusionstraining als Training der Fremdantizipation: Lenkung der Aufmerksamkeit auf frühe Hinweisreize (Ballwurf, Schulter, Schlägerhaltung) mit anschließender Rückmeldung (KR)",
+          "be": 1
+        },
+        {
+          "text": "Pro Kemal: viele Wiederholungen in kurzer Zeit, gezielte Schulung früher Hinweisreize, keine körperliche Belastung, gut ergänzend einsetzbar",
+          "be": 2
+        },
+        {
+          "text": "Contra Kemal: fehlende Kopplung von Wahrnehmung und eigener Bewegung (Returnbewegung), 2-D-Bild statt realer Raum- und Zeitverhältnisse, fehlender Zeit- und Situationsdruck",
+          "be": 2
+        },
+        {
+          "text": "Würdigt Sophies Position: spielnah, Antizipation und Ausführung unter echtem Zeitdruck gekoppelt; Grenze: weniger gezielte Rückmeldung über Hinweisreize",
+          "be": 1
+        },
+        {
+          "text": "Abwägung von Pro und Contra mit Bezug zum Material",
+          "be": 1
+        },
+        {
+          "text": "Begründetes eigenes Fazit (z. B. Kombination: Video als Ergänzung, Hauptteil spielnah auf dem Platz)",
+          "be": 1
+        }
+      ],
+      "muster": "Kemals Vorschlag ist ein Okklusionstraining: Das Video wird kurz vor dem Ballkontakt angehalten, sodass die Spieler die Aufschlagrichtung nur aus frühen Hinweisreizen (Ballwurf, Schulter- und Hüftstellung, Schlägerhaltung) vorhersagen können. Die anschließende Auflösung liefert eine Ergebnisrückmeldung. Trainiert wird also gezielt die Situationsantizipation.\n\nPro:\n• In 20 Minuten sind sehr viele Wiederholungen möglich, deutlich mehr als auf dem Platz.\n• Die Aufmerksamkeit wird bewusst auf aussagekräftige frühe Hinweisreize gelenkt, wie es Experten tun.\n• Keine körperliche Ermüdung, gut zusätzlich zum Platztraining durchführbar.\n\nContra:\n• Wahrnehmung und eigene Bewegung bleiben getrennt: Der Spieler sagt die Richtung nur verbal voraus, statt sie mit Split-Step und Returnbewegung zu verbinden.\n• Das Videobild ist zweidimensional und zeigt andere Raum- und Zeitverhältnisse als die reale Situation auf dem Platz.\n• Echter Zeitdruck und Situationsdruck (Tempo, Spin, verschiedene Aufschläger) fehlen, der Transfer ins Spiel ist daher fraglich.\n\nSophies Position betont die spielnahe Kopplung von Antizipation und Ausführung unter realem Zeitdruck; das entspricht dem Prinzip, Antizipation in situationsvariablen Formen mit echten Gegnern zu schulen. Ihr Nachteil: Ohne gezielte Hinweise lernen die Spieler eher zufällig, worauf sie achten müssen.\n\nFazit: Kemals Vorschlag ist als Ergänzung sinnvoll, aber nicht als Ersatz. Ich würde z. B. einmal pro Woche ein kurzes Videotraining einsetzen und das dort Gelernte (z. B. „achte auf den Ballwurf“) direkt im Returntraining auf dem Platz gegen echte Aufschläger anwenden lassen.",
+      "tipp": "Beurteilen verlangt ein begründetes Urteil: Kriterien nennen, Pro und Contra mit Materialbezug abwägen und am Ende klar Stellung beziehen."
+    },
+    {
+      "id": "e-q1.4-01",
+      "thema": "Q1.4",
+      "titel": "Das spielgemäße Konzept",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Beschreiben Sie die Grundidee des spielgemäßen Konzepts nach Dietrich, Dürrwächter und Schaller und gehen Sie dabei auf die Begriffe Spielidee, Spielform und Spielreihe ein.",
+      "erwartung": [
+        {
+          "text": "Ganzheitlicher Ansatz: von Beginn an werden vereinfachte Formen des Zielspiels gespielt (Bruch mit dem elementhaft-synthetischen Vorgehen)",
+          "be": 1
+        },
+        {
+          "text": "Spielidee: Kern des Sportspiels, Ziel erreichen und dies dem Gegner verwehren; Angriff und Abwehr laufen simultan ab",
+          "be": 1
+        },
+        {
+          "text": "Spielform: vereinfachte Form des Sportspiels, die stets die Spielidee des Zielspiels enthält (Abgrenzung zur spielerisch eingekleideten Übungsform)",
+          "be": 1
+        },
+        {
+          "text": "Spielreihe: Folge von Spielformen mit identischer Spielidee und steigender Komplexität, die zum Zielspiel hinführt",
+          "be": 1
+        },
+        {
+          "text": "Üben über „Nebenstraßen“: Übungsformen nur als Korrektiv, wenn das Spiel wegen technischer Mängel stockt (Bild der Autofahrt: Hauptstraße/Nebenstraße)",
+          "be": 1
+        },
+        {
+          "text": "Ziel: Erwerb von Spielfähigkeit (allgemein und speziell)",
+          "be": 1
+        }
+      ],
+      "muster": "Das spielgemäße Konzept (Dietrich, Dürrwächter, Schaller) ist ein ganzheitlicher Vermittlungsansatz. Es bricht mit der traditionellen Forderung, ein Sportspiel elementhaft-synthetisch als Summe isoliert gelernter Techniken, Taktiken und Regeln zu vermitteln. Stattdessen wird von Beginn an gespielt.\n\n• Spielidee: Sie ist der Kern eines Sportspiels. Jede Mannschaft versucht, ein Ziel zu erreichen (z. B. Tore erzielen) und dies dem Gegner zu verwehren; Angriff und Abwehr laufen gleichzeitig ab und bedingen sich.\n• Spielform: eine vereinfachte Form des Sportspiels, die immer die Spielidee des Zielspiels enthält. Eine Übung mit Wettbewerbscharakter ohne diese Spielidee ist dagegen nur eine spielerisch eingekleidete Übungsform.\n• Spielreihe: eine methodisch geordnete Folge solcher Spielformen mit gleicher Spielidee und steigender Komplexität (z. B. von kleinen zu größeren Mannschaften), die schrittweise zum Zielspiel führt.\n\nDas Bild der Autofahrt verdeutlicht das Vorgehen: Die Spielreihe ist die Hauptstraße zum Zielspiel. Stockt das Spiel, weil technische Voraussetzungen fehlen, wird über Nebenstraßen (Übungsformen) umgeleitet, danach geht es zurück auf die Hauptstraße. Ziel ist der Erwerb von Spielfähigkeit.",
+      "tipp": "Beim Beschreiben zählt Fachsprache: Spielidee, Spielform und Spielreihe müssen sauber definiert und voneinander abgegrenzt werden."
+    },
+    {
+      "id": "e-q1.4-02",
+      "thema": "Q1.4",
+      "titel": "Regelkategorien nach Digel",
+      "operator": "Nennen",
+      "afb": "I",
+      "be": 5,
+      "material": "",
+      "aufgabe": "Nennen Sie die fünf Kategorien, nach denen sich Regeln und Regelvereinfachungen nach Digel ordnen lassen, und geben Sie zu jeder Kategorie eine Regelvereinfachung für ein Fußballspiel mit Anfängern an.",
+      "erwartung": [
+        {
+          "text": "Inventarregel mit passender Vereinfachung (z. B. größere Tore, weicherer/leichterer Ball)",
+          "be": 1
+        },
+        {
+          "text": "Raumregel mit passender Vereinfachung (z. B. kleineres Spielfeld, Spiel ohne Aus mit Banden)",
+          "be": 1
+        },
+        {
+          "text": "Zeitregel mit passender Vereinfachung (z. B. kurze Spielzeiten von 5 Minuten, Wechsel nach Zeit)",
+          "be": 1
+        },
+        {
+          "text": "Personalregel mit passender Vereinfachung (z. B. 4 gegen 4, Überzahl für Angreifer, neutraler Spieler)",
+          "be": 1
+        },
+        {
+          "text": "Handlungsregel mit passender Vereinfachung (z. B. kein Abseits, Einrollen statt Einwurf, keine Torwarthände)",
+          "be": 1
+        }
+      ],
+      "muster": "• Inventarregeln: Größe und Beschaffenheit von Geräten. Vereinfachung: größere Tore und ein leichter, weicher Ball, damit mehr Tore fallen und die Angst vor dem Ball sinkt.\n• Raumregeln: Spielfeldgröße und -einteilung. Vereinfachung: kleineres Feld bzw. Spiel mit Banden ohne Aus, damit es weniger Unterbrechungen gibt.\n• Zeitregeln: Dauer des Spiels und der Spielabschnitte. Vereinfachung: Spielzeiten von 5 Minuten mit kurzen Pausen.\n• Personalregeln: Anzahl der Spieler. Vereinfachung: 4 gegen 4 auf kleine Tore oder ein neutraler Spieler, der immer mit der ballbesitzenden Mannschaft spielt.\n• Handlungsregeln: erlaubte und verbotene Handlungen. Vereinfachung: keine Abseitsregel, Einrollen bzw. Eindribbeln statt Einwurf.",
+      "tipp": "Nennen heißt: knapp aufzählen, ohne Erklärung. Achte aber darauf, dass jedes Beispiel wirklich zur Kategorie passt (Spieleranzahl ist Personal-, nicht Raumregel)."
+    },
+    {
+      "id": "e-q1.4-03",
+      "thema": "Q1.4",
+      "titel": "Individual-, Gruppen- und Mannschaftstaktik",
+      "operator": "Erläutern",
+      "afb": "II",
+      "be": 6,
+      "material": "Im Basketballspiel einer 11. Klasse beobachtet die Lehrkraft: Lukas täuscht vor dem Korb einen Wurf an und zieht dann an seinem Gegenspieler vorbei. Lea und Tom spielen auf dem Flügel mehrfach ein Give-and-go. Die Mannschaft von Lea stellt nach jedem Korberfolg sofort in eine Ganzfeldpresse um.",
+      "aufgabe": "Erläutern Sie die Begriffe Individual-, Gruppen- und Mannschaftstaktik und ordnen Sie die im Material beschriebenen Handlungen begründet zu.",
+      "erwartung": [
+        {
+          "text": "Individualtaktik: zweckmäßiges Handeln einzelner Spieler in der 1:1-Situation (mit und ohne Ball) zur Lösung einer Spielsituation",
+          "be": 1
+        },
+        {
+          "text": "Ordnet Lukas' Wurftäuschung mit Durchbruch der Individualtaktik zu und begründet (1:1, Täuschung zur Erzeugung falscher Antizipation)",
+          "be": 1
+        },
+        {
+          "text": "Gruppentaktik: abgestimmtes Zusammenwirken von zwei bis drei Spielern (z. B. Doppelpass, Block, Hilfe)",
+          "be": 1
+        },
+        {
+          "text": "Ordnet Give-and-go von Lea und Tom der Gruppentaktik zu und begründet (Zusammenspiel zweier Spieler: Abspielen, Freilaufen, Rückpass)",
+          "be": 1
+        },
+        {
+          "text": "Mannschaftstaktik: Handeln der gesamten Mannschaft nach einem gemeinsamen Plan bzw. Spielsystem in Angriff oder Abwehr",
+          "be": 1
+        },
+        {
+          "text": "Ordnet die Ganzfeldpresse der Mannschaftstaktik zu und begründet (alle fünf Spieler handeln nach einem gemeinsamen Abwehrkonzept)",
+          "be": 1
+        }
+      ],
+      "muster": "Taktik bezeichnet das planmäßige, auf die eigene Leistungsfähigkeit und die des Gegners abgestimmte Handeln im Wettkampf. Nach der Zahl der beteiligten Spieler unterscheidet man:\n\n• Individualtaktik: zweckmäßiges Handeln eines einzelnen Spielers, vor allem in 1:1-Situationen mit oder ohne Ball (z. B. Täuschen, Freilaufen, Decken). Lukas' Wurftäuschung mit anschließendem Durchbruch ist individualtaktisch: Er löst allein eine 1:1-Situation, indem er beim Gegenspieler eine falsche Antizipation (Wurf) auslöst und den gewonnenen Zeitvorsprung nutzt.\n• Gruppentaktik: abgestimmtes Zusammenwirken von zwei oder drei Spielern (z. B. Doppelpass, Block, Übergeben/Übernehmen, Aushelfen). Das Give-and-go von Lea und Tom gehört hierzu: Lea passt, läuft sich frei und bekommt den Ball zurück; die Handlung gelingt nur durch die Abstimmung beider.\n• Mannschaftstaktik: Handeln der gesamten Mannschaft nach einem gemeinsamen Plan bzw. Spielsystem (z. B. Angriffssystem, Abwehrformation). Die Ganzfeldpresse ist mannschaftstaktisch, weil alle fünf Spieler nach einem gemeinsamen Abwehrkonzept den Gegner schon im Rückfeld unter Druck setzen.",
+      "tipp": "Erläutern bedeutet: Begriff klären UND am Beispiel veranschaulichen. Die Zuordnung zählt nur mit Begründung, warum genau diese Ebene vorliegt."
+    },
+    {
+      "id": "e-q1.4-04",
+      "thema": "Q1.4",
+      "titel": "Genetisches Konzept und Taktik-Spiel-Konzept",
+      "operator": "Vergleichen",
+      "afb": "II",
+      "be": 8,
+      "material": "",
+      "aufgabe": "Vergleichen Sie das genetische Konzept nach Loibl mit dem Taktik-Spiel-Konzept nach Mitchell, Oslin und Griffin.",
+      "erwartung": [
+        {
+          "text": "Gemeinsamkeit: induktives, schülerorientiertes Vorgehen; Lernende entdecken Lösungen selbst",
+          "be": 1
+        },
+        {
+          "text": "Gemeinsamkeit: Ausgangspunkt ist ein Problem in einer Spielsituation, frühes Spielen; Reflexion bzw. Dialog zwischen Lehrenden und Lernenden",
+          "be": 1
+        },
+        {
+          "text": "Unterschied Art des Problems: genetisch Spielprobleme (z. B. ungleiche Beteiligung), oft durch Regeländerungen gelöst; Taktik-Spiel gezielt gestellte taktische Probleme, gelöst durch taktisches Verhalten und Fertigkeiten",
+          "be": 2
+        },
+        {
+          "text": "Unterschied Struktur und Lehrerrolle: genetisch offen, sokratisch fragend (genetisch – sokratisch – exemplarisch); Taktik-Spiel fest strukturiert (Spielform – Reflexion – Fertigkeitsübung – Spielform), Lehrkraft gibt Spielformen vor",
+          "be": 2
+        },
+        {
+          "text": "Unterschied Üben und Transfer: genetisch Üben v. a. im Spiel mit veränderten Regeln; Taktik-Spiel spielnahe Fertigkeitsübungen und Transfer auf Spiele derselben Kategorie (Invasions-, Netz-/Wand-, Feld-/Schlag-, Zielspiele)",
+          "be": 1
+        },
+        {
+          "text": "Unterschied Nachteile: genetisch zeitaufwendig, Motivationsverlust Leistungsstärkerer; Taktik-Spiel Rücktransfer fraglich, Üben als „lästiges Übel“",
+          "be": 1
+        }
+      ],
+      "muster": "Gemeinsamkeiten:\n• Beide Konzepte gehen induktiv und schülerorientiert vor: Die Lernenden sollen Lösungen selbst finden, statt sie fertig vorgegeben zu bekommen.\n• Ausgangspunkt ist in beiden Fällen ein Problem, das im Spiel entsteht; gespielt wird von Beginn an. Lösungen werden im Dialog bzw. in einer Reflexionsphase bewusst gemacht.\n\nUnterschiede:\n• Art des Problems: Im genetischen Konzept entstehen offene Spielprobleme (z. B. viele Schüler haben kaum Ballkontakte und keinen Spaß). Gelöst werden sie häufig durch gemeinsam entwickelte Regeländerungen, etwa das Weglassen der Dribbelregel im Basketball. Im Taktik-Spiel-Konzept stellt die Lehrkraft gezielt eine Spielform mit einem bestimmten taktischen Problem (z. B. Ballbesitz sichern), gelöst durch taktisches Verhalten und passende Fertigkeiten.\n• Struktur und Lehrerrolle: Das genetische Konzept ist offen; die Lehrkraft lenkt nach den Prinzipien genetisch, sokratisch und exemplarisch vor allem durch Rückfragen. Das Taktik-Spiel-Konzept folgt einem festen Ablauf: Spielform – Reflexion (Fragen zu Zeit, Raum, Risiko) – spielnahe Fertigkeitsübung – Spielform.\n• Üben und Transfer: Genetisch wird vor allem im Spiel mit veränderten Regeln geübt. Im Taktik-Spiel-Konzept gibt es eigene spielnahe Fertigkeitsübungen; zudem soll das Spielverständnis auf andere Spiele derselben Kategorie übertragen werden.\n• Nachteile: Das genetische Konzept ist zeitaufwendig und kann Leistungsstärkere demotivieren. Beim Taktik-Spiel-Konzept ist der Rücktransfer ins Zielspiel fraglich, und das Üben wird oft als lästig empfunden.",
+      "tipp": "Vergleichen heißt: Gemeinsamkeiten UND Unterschiede kriteriengeleitet gegenüberstellen. Ordne nach Kriterien (Problem, Lehrerrolle, Struktur, Üben, Transfer), nicht Konzept für Konzept nacheinander."
+    },
+    {
+      "id": "e-q1.4-05",
+      "thema": "Q1.4",
+      "titel": "Spielform im Handball nach dem KAR-Modell",
+      "operator": "Analysieren",
+      "afb": "II",
+      "be": 7,
+      "material": "Spielform „Handball 4+1 gegen 4“ für eine 8. Klasse: Gespielt wird im Hallendrittel auf zwei Tore mit Torwart. Ein neutraler Spieler spielt immer mit der angreifenden Mannschaft. Laufen mit dem Ball ist bis zu fünf Schritte erlaubt, Prellen ist nicht nötig. Tore aus dem Sprungwurf zählen doppelt. Nach jedem Tor wird sofort vom eigenen Torwart aus weitergespielt.",
+      "aufgabe": "Analysieren Sie die Spielform hinsichtlich der Regelanpassungen nach Digel und deren Wirkung auf die Druckbedingungen im Sinne des KAR-Modells.",
+      "erwartung": [
+        {
+          "text": "Ordnet die Regeländerungen korrekt Digels Kategorien zu (Personal: neutraler Spieler/4+1 gegen 4; Raum: Hallendrittel; Handlung: fünf Schritte, Sprungwurf doppelt, schneller Anwurf)",
+          "be": 2
+        },
+        {
+          "text": "Neutraler Spieler (Überzahl): senkt Situations- und Zeitdruck für die Angreifer (mehr Anspielstationen, weniger Bedrängnis)",
+          "be": 1
+        },
+        {
+          "text": "Laufen mit dem Ball ohne Prellen: senkt Komplexitätsdruck (keine Kopplung von Laufen und Prellen) und technische Hürden",
+          "be": 1
+        },
+        {
+          "text": "Kleines Spielfeld und wenige Spieler: überschaubare Situation (Situationskomplexität sinkt), gleichzeitig viele Ballkontakte",
+          "be": 1
+        },
+        {
+          "text": "Sprungwurf zählt doppelt: erhöht bewusst Komplexitäts- und Präzisionsdruck als Leistungsanreiz bzw. Differenzierung",
+          "be": 1
+        },
+        {
+          "text": "Schneller Anwurf ohne Mittelanwurf: erhöht Zeitdruck und Belastungsdruck (Spielfluss, Umschaltspiel)",
+          "be": 1
+        }
+      ],
+      "muster": "Regelanpassungen nach Digel:\n• Personalregel: 4+1 gegen 4 mit neutralem Spieler.\n• Raumregel: Spiel im Hallendrittel statt auf dem ganzen Feld.\n• Handlungsregeln: fünf Schritte mit Ball ohne Prellen, doppelte Wertung des Sprungwurfs, sofortiger Anwurf vom Torwart.\n\nWirkung auf die Druckbedingungen (KAR-Modell):\n• Der neutrale Spieler schafft dauerhafte Überzahl im Angriff. Der ballführende Spieler hat mehr Anspielstationen und wird seltener bedrängt; Situations- und Zeitdruck sinken. Das Spiel bleibt im Fluss.\n• Laufen mit dem Ball ohne Prellpflicht senkt den Komplexitätsdruck, weil Laufen und Prellen nicht gleichzeitig koordiniert werden müssen. Auch Schwächere können sich am Angriff beteiligen.\n• Das kleine Feld und die geringe Spielerzahl machen die Situation überschaubar (geringere Situationskomplexität) und sorgen für viele Ballkontakte.\n• Die doppelte Wertung des Sprungwurfs erhöht bewusst den Komplexitätsdruck (Anlauf, Absprung, Wurf koppeln) und den Präzisionsdruck. Sie setzt einen Anreiz für Leistungsstärkere, die Zieltechnik anzuwenden, ohne Schwächere auszuschließen.\n• Der sofortige Anwurf erhöht den Zeitdruck im Umschalten von Abwehr auf Angriff und durch die hohe Spielintensität auch den physischen Belastungsdruck.\n\nInsgesamt werden die Regler so eingestellt, dass die Spielidee des Handballs erhalten bleibt, Einstiegshürden sinken und gleichzeitig eine Herausforderung für Stärkere entsteht.",
+      "tipp": "Analysieren: Gehe jede Regel einzeln durch, ordne sie zu und benenne, welcher KAR-Regler dadurch steigt oder sinkt. Die Richtung (höher/niedriger) muss stimmen."
+    },
+    {
+      "id": "e-q1.4-06",
+      "thema": "Q1.4",
+      "titel": "Unterrichtsstunde einem Konzept zuordnen",
+      "operator": "Einordnen",
+      "afb": "II",
+      "be": 6,
+      "material": "Ablauf einer Volleyballstunde, Klasse 10:\n1. Spiel 2 gegen 2 im Kleinfeld, Ball darf gefangen und zugeworfen werden, Punkt nur, wenn der Ball im gegnerischen Feld den Boden berührt.\n2. Kurze Unterbrechung. Die Lehrkraft fragt: Wohin müsst ihr spielen, damit der Gegner nicht herankommt? Wann ist der beste Moment zum Zuspiel?\n3. Partnerübung: Pritschen in die freien Ecken eines markierten Feldes.\n4. Wieder Spiel 2 gegen 2, jetzt muss der dritte Ballkontakt gepritscht werden.",
+      "aufgabe": "Ordnen Sie die beschriebene Stunde begründet einem Vermittlungskonzept der Sportspiele zu.",
+      "erwartung": [
+        {
+          "text": "Ordnet die Stunde dem Taktik-Spiel-Konzept (Tactical Games Approach nach Mitchell, Oslin & Griffin) zu",
+          "be": 1
+        },
+        {
+          "text": "Belegt die typische Struktur: Spielform (1) – Reflexion (2) – Fertigkeitsübung (3) – Spielform (4)",
+          "be": 2
+        },
+        {
+          "text": "Erkennt das taktische Problem (Ball in freie Räume spielen, Punkt erzielen) als Ausgangspunkt der Stunde",
+          "be": 1
+        },
+        {
+          "text": "Ordnet die Fragen den Reflexionskategorien Raum (Wohin?) und Zeit (Wann?) zu",
+          "be": 1
+        },
+        {
+          "text": "Erkennt das Üben der Technik im taktischen Kontext (Pritschen in freie Ecken) bzw. Abgrenzung zu anderem Konzept (z. B. kein offener Regelfindungsprozess wie im genetischen Konzept)",
+          "be": 1
+        }
+      ],
+      "muster": "Die Stunde ist dem Taktik-Spiel-Konzept (Tactical Games Approach) nach Mitchell, Oslin und Griffin zuzuordnen.\n\nBegründung:\n• Die Stunde folgt genau der typischen Struktur des Konzepts: Spielform (2 gegen 2 mit Fangen) – Reflexionsphase (Fragen der Lehrkraft) – spielnahe Fertigkeitsübung (Pritschen in freie Ecken) – abschließende Spielform (2 gegen 2 mit Pritschpflicht).\n• Ausgangspunkt ist ein taktisches Problem eines Netzspiels: den Ball so ins gegnerische Feld zu spielen, dass er nicht erreicht werden kann. Durch das Fangen und Werfen wird die Technik vereinfacht, damit sich die Schüler auf das taktische Problem konzentrieren können.\n• Die Fragen der Lehrkraft entsprechen den Reflexionskategorien des Konzepts: „Wohin?“ zielt auf den Raum, „Wann?“ auf die Zeit.\n• Die Technik (Pritschen) wird nicht isoliert, sondern im taktischen Kontext geübt (gezielt in freie Ecken) und danach im Spiel angewendet.\n\nAbgrenzung: Gegen das genetische Konzept spricht, dass die Lehrkraft Spielform und Übung vorgibt und kein offener Prozess der gemeinsamen Regelfindung stattfindet.",
+      "tipp": "Einordnen heißt: einem Konzept zuordnen UND mit konkreten Merkmalen aus dem Material belegen. Ohne Belege gibt es nur den Zuordnungspunkt."
+    },
+    {
+      "id": "e-q1.4-07",
+      "thema": "Q1.4",
+      "titel": "Spielform für eine heterogene Gruppe",
+      "operator": "Entwerfen",
+      "afb": "III",
+      "be": 8,
+      "material": "Sie leiten im Rahmen eines Projekttags ein Fußballangebot für 18 Schülerinnen und Schüler der Jahrgangsstufe 6. Fünf Kinder spielen im Verein, etwa die Hälfte hat kaum Fußballerfahrung, zwei Mädchen trauen sich laut eigener Aussage nicht in Zweikämpfe. Ihnen stehen eine Einfachhalle, vier kleine Tore, Leibchen und verschiedene Bälle für 60 Minuten zur Verfügung.",
+      "aufgabe": "Entwerfen Sie eine Spielform für diese Zielgruppe, die alle Kinder angemessen beteiligt, und erläutern Sie, wie Sie das Spiel als Spielleitung organisieren und lenken.",
+      "erwartung": [
+        {
+          "text": "Spielform enthält die Spielidee des Fußballs (Tore erzielen und verhindern, Angriff und Abwehr simultan)",
+          "be": 1
+        },
+        {
+          "text": "Begründete Regelanpassungen aus mindestens zwei Kategorien nach Digel (z. B. Personal: kleine Teams 3:3 auf mehreren Feldern; Inventar: Softball/große Tore)",
+          "be": 2
+        },
+        {
+          "text": "Konkrete Differenzierung für Vereinsspieler (z. B. nur schwacher Fuß, Kontaktbegrenzung, Tor zählt nur nach Pass) und für unerfahrene/zweikampfscheue Kinder (z. B. Schutzzone, neutraler Spieler, Tor zählt doppelt)",
+          "be": 2
+        },
+        {
+          "text": "Organisation: faire Teameinteilung (z. B. durch Spielleitung, gemischt nach Leistung), Feldaufbau, Wechselmodus, Zeit",
+          "be": 1
+        },
+        {
+          "text": "Spielleitung: Regeln vorab klar erklären, Einhalten der Regeln sichern, Fairness/Sicherheit, Regeln bei Bedarf während des Spiels anpassen",
+          "be": 1
+        },
+        {
+          "text": "Bezug zu Grundsätzen (z. B. Söll: geringe Spielerzahl, Spielanteile gleichmäßig verteilen) bzw. zum KAR-Modell als Begründung",
+          "be": 1
+        }
+      ],
+      "muster": "Spielform: „Fußball 3 gegen 3 auf zwei kleine Tore mit Schutzzone“\n\nOrganisation:\n• Die Halle wird in drei Felder geteilt; auf zwei Feldern wird mit je zwei kleinen Toren gespielt, das dritte Feld dient als Wartefeld mit einer Passaufgabe. Es gibt sechs Teams zu je drei Kindern.\n• Teams teile ich als Spielleitung ein, damit in jedem Team ein Vereinskind und mindestens ein unerfahrenes Kind ist (gerechte Mannschaften, Spielfähigkeit im weiteren Sinne).\n• Spielzeit 5 Minuten, danach rotieren die Teams, sodass jedes gegen jedes spielt.\n\nRegeln (Regelanpassungen nach Digel):\n• Personal: 3 gegen 3 – geringe Spielerzahl, viele Ballkontakte (Grundsatz nach Söll).\n• Inventar: weicher, etwas größerer Softball, damit die Angst vor dem Ball sinkt.\n• Raum: Vor jedem Tor gibt es eine kleine Schutzzone. Ein Kind, das sich dort mit dem Ball aufhält, darf nicht angegriffen werden, und von dort kann es einen Pass oder Torschuss vorbereiten. Das hilft den zweikampfscheuen Kindern.\n• Handlung: Vereinsspieler dürfen nur mit dem schwachen Fuß schießen bzw. maximal zwei Kontakte haben; ein Tor eines unerfahrenen Kindes zählt doppelt. Ein Tor zählt nur, wenn vorher alle drei Teammitglieder den Ball hatten.\n\nWirkung (KAR-Bezug): Für die Unerfahrenen sinken Zeit- und Situationsdruck (Schutzzone, kleine Teams), für Vereinsspieler steigt der Präzisions- und Komplexitätsdruck (schwacher Fuß, Kontaktbegrenzung). So bleiben alle gefordert, die Spielanteile verteilen sich gleichmäßiger.\n\nSpielleitung: Ich erkläre die Regeln vor Beginn kurz und zeige die Schutzzone. Während des Spiels achte ich auf Fairness und Sicherheit (keine harten Zweikämpfe, Hände weg). Ich beobachte, ob alle beteiligt sind, und passe Regeln bei Bedarf an, z. B. Schutzzone vergrößern, wenn sie kaum genutzt wird. Nach zwei Runden frage ich die Kinder kurz, ob das Spiel gerecht war, und beziehe ihre Vorschläge ein.",
+      "tipp": "Entwerfen heißt: eine eigene, schlüssige Lösung planen. Jede Regel braucht eine Begründung mit Bezug zur Zielgruppe (Vereinsspieler UND Unerfahrene)."
+    },
+    {
+      "id": "e-q1.4-08",
+      "thema": "Q1.4",
+      "titel": "Ballschule in der Sekundarstufe?",
+      "operator": "Beurteilen",
+      "afb": "III",
+      "be": 8,
+      "material": "Ein Sportkollegium diskutiert: Die Lehrkraft Herr B. möchte in Klasse 7 statt einer Basketball-Einheit sechs Wochen lang Inhalte der Heidelberger Ballschule (Bausteinspiele, Koordinationsbausteine unter Zeit- und Präzisionsdruck) unterrichten. Er begründet: „Viele Kinder haben kaum Ballerfahrung, vor allem die, die außerhalb der Schule keinen Sport treiben.“ Eine Kollegin entgegnet: „Die Siebtklässler wollen endlich richtig Basketball spielen.“",
+      "aufgabe": "Beurteilen Sie den Vorschlag von Herrn B. unter Einbezug der Kernfragen von Remmert zur Anfängerausbildung.",
+      "erwartung": [
+        {
+          "text": "Stellt Grundidee der Ballschule korrekt dar (integratives Konzept, Kröger & Roth: vom Allgemeinen zum Spezifischen, Basiskompetenzen taktisch/koordinativ/technisch, implizites Lernen)",
+          "be": 1
+        },
+        {
+          "text": "Pro: Argument der fehlenden Straßenspielkultur/Ballerfahrung, breite Basis, Transfer auf alle Sportspiele, keine frühe Spezialisierung, mit Bezug zum Material",
+          "be": 2
+        },
+        {
+          "text": "Contra: Zielgruppe ist älter als die eigentliche Zielgruppe (Grundschulalter), Kinder wollen direkt richtig spielen (Motivation), zeitaufwendig, Transfer aufs Zielspiel fraglich",
+          "be": 2
+        },
+        {
+          "text": "Wendet mindestens zwei Kernfragen nach Remmert begründet an (z. B. früh und häufig gespielt: ja; Spielidee des Zielspiels erlebbar: eher nein)",
+          "be": 1
+        },
+        {
+          "text": "Abwägung von Pro und Contra mit Bezug zum Material",
+          "be": 1
+        },
+        {
+          "text": "Begründetes eigenes Fazit (z. B. Kompromiss: Ballschul-Elemente als Aufwärmen/Koordinationsbausteine in einer spielgemäß bzw. genetisch angelegten Basketballeinheit)",
+          "be": 1
+        }
+      ],
+      "muster": "Die Heidelberger Ballschule nach Kröger und Roth ist ein integratives Konzept: Zuerst werden sportspielübergreifende taktische, koordinative und technische Basiskompetenzen vermittelt, erst später sportspielgerichtete und sportspielspezifische Inhalte (vom Allgemeinen zum Spezifischen). Gelernt wird vor allem spielerisch-implizit.\n\nPro:\n• Herr B. greift genau die Begründung von Kröger und Roth auf: Die Straßenspielkultur als „natürliche Ballschule“ ist weitgehend verschwunden, viele Kinder haben kaum Ballerfahrung.\n• Eine breite Basis aus Ballkoordination und taktischen Grundbausteinen (z. B. Lücke erkennen, sich anbieten) erleichtert später das Lernen in allen Sportspielen, nicht nur im Basketball.\n• Die Koordinationsbausteine unter Zeit- und Präzisionsdruck verbessern die Ballkontrolle, die im Basketball eine Hürde darstellt.\n\nContra:\n• Die Ballschule richtet sich vor allem an Kinder im Grundschulalter. Siebtklässler wollen, wie die Kollegin sagt, „richtig“ spielen; allgemeine Bausteinspiele können als kindlich empfunden werden und die Motivation senken.\n• Sechs Wochen sind sehr zeitaufwendig, die Basketballeinheit fiele weg.\n• Der Transfer allgemeiner Kompetenzen auf das Zielspiel ist fraglich.\n\nRemmerts Kernfragen:\n• Wird früh und häufig gespielt? Ja, Bausteinspiele dominieren.\n• Ist die Spielidee des Zielspiels früh erlebbar? Eher nein, weil die allgemeine Ballschule bewusst nicht auf Basketball zielt.\n• Gibt es Anreize für Leistungswillige? Nur bedingt, gerade die stärkeren Schüler fühlen sich unterfordert.\n\nFazit: Das Anliegen von Herrn B. ist berechtigt, die reine sechswöchige Ballschule halte ich in Klasse 7 aber für ungeeignet. Sinnvoller ist eine Basketballeinheit nach spielgemäßem oder genetischem Konzept, in der von Beginn an Basketball in vereinfachter Form gespielt wird und Koordinationsbausteine der Ballschule (z. B. Prellen unter Zeitdruck) im Aufwärmteil gezielt die fehlende Ballerfahrung ausgleichen.",
+      "tipp": "Beurteilen: Kriterien offenlegen (hier Remmerts Kernfragen), Pro und Contra abwägen und mit einem klaren, begründeten Urteil enden. Ein „Kompromiss“ zählt nur, wenn er konkret ist."
+    }
+  ],
+  "klausuren": [
+    {
+      "id": "k-q3.2-1",
+      "themen": [
+        "Q3.2",
+        "Q3.1",
+        "Q2.3"
+      ],
+      "titel": "Antizipation im Tennis-Return",
+      "zeit": 105,
+      "einleitung": "Im Tennis entscheidet der Return über einen großen Teil der Punkte. Bei Aufschlaggeschwindigkeiten von über 180 km/h bleibt dem Rückschläger kaum Zeit. Ein Nachwuchsstützpunkt möchte deshalb die Antizipationsfähigkeit seiner Spielerinnen und Spieler gezielt verbessern. Sie beraten das Trainerteam.",
+      "material": [
+        {
+          "titel": "M1: Fallbeispiel Jonas",
+          "text": "Jonas (16) spielt seit acht Jahren Tennis und gehört zum Landeskader. Seine Grundschläge sind stark, im Return gegen schnelle Aufschläger verliert er aber viele Punkte. Im Videotraining fällt auf, dass er erst nach dem Treffpunkt des Aufschlägers den Ball fixiert und dann loslaufen will. Häufig kommt sein Split-Step zu spät. Gegen einen Gegner, den er aus vielen Matches kennt, returniert er deutlich besser. Nach Ballwechseln mit vielen Richtungswechseln wirkt er im dritten Satz unkonzentriert und reagiert spät."
+        },
+        {
+          "titel": "M2: Ergebnisse eines Okklusionstests (fiktive Daten)",
+          "tabelle": {
+            "kopf": [
+              "Videostopp relativ zum Treffpunkt",
+              "Richtige Vorhersage Profis (%)",
+              "Richtige Vorhersage Kaderspieler U16 (%)",
+              "Ratewahrscheinlichkeit (%)"
+            ],
+            "zeilen": [
+              [
+                "−160 ms (Ende Ballwurf)",
+                "58",
+                "36",
+                "33"
+              ],
+              [
+                "−80 ms (Schläger hinter dem Rücken)",
+                "71",
+                "45",
+                "33"
+              ],
+              [
+                "0 ms (Treffpunkt)",
+                "84",
+                "62",
+                "33"
+              ],
+              [
+                "+80 ms (Ball 4 m geflogen)",
+                "93",
+                "88",
+                "33"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Trainingsvorschlag des Stützpunkttrainers",
+          "text": "• Woche 1–6, je zweimal pro Woche 15 Minuten Reaktionstraining: Lichtsignal-Board, auf Aufleuchten links oder rechts so schnell wie möglich zur Seite starten.\n• Einmal pro Woche Returntraining gegen eine Ballmaschine mit konstant 150 km/h in die Rückhandecke.\n• Ziel: „Jonas muss einfach schneller reagieren.“"
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 10,
+          "aufgabe": "Beschreiben Sie den Begriff Antizipation, unterscheiden Sie Selbst- und Fremdantizipation sowie Situations-, Erfahrungs-, Ziel- und Programmantizipation und stellen Sie die Rolle der Antizipation im Regelkreismodell der Bewegungskoordination (Meinel/Schnabel) dar.",
+          "erwartung": [
+            {
+              "text": "Definition: gedankliche Vorwegnahme zukünftiger Ereignisse, Handlungen bzw. Bewegungen und ihrer Ergebnisse auf Basis von Hinweisreizen und Erfahrung, Ziel: Zeitgewinn",
+              "be": 2
+            },
+            {
+              "text": "Selbstantizipation (eigener Bewegungsablauf/Ergebnis) vs. Fremdantizipation (Verhalten von Gegnern/Mitspielern, Flugbahn von Objekten)",
+              "be": 2
+            },
+            {
+              "text": "Situations- und Erfahrungsantizipation korrekt beschrieben (aktuelle Hinweisreize vs. gespeicherte Erfahrung/Wahrscheinlichkeiten)",
+              "be": 2
+            },
+            {
+              "text": "Ziel- und Programmantizipation korrekt beschrieben (angestrebtes Ergebnis vs. eigener Bewegungsablauf/Sollwert)",
+              "be": 2
+            },
+            {
+              "text": "Regelkreis: Antizipation entsteht in der Programmierung nach der Afferenzsynthese und bildet (mit der Efferenzkopie) den Sollwert",
+              "be": 1
+            },
+            {
+              "text": "Regelkreis: Sollwert ermöglicht den Soll-Ist-Vergleich mit den Reafferenzen und damit Korrektur; bei schnellen Bewegungen ersetzt Antizipation die fehlende Korrekturmöglichkeit",
+              "be": 1
+            }
+          ],
+          "muster": "Antizipation ist die gedankliche Vorwegnahme zukünftiger Ereignisse, Handlungen und Bewegungsabläufe bzw. ihrer Ergebnisse. Sie beruht auf aktuellen Wahrnehmungen (Hinweisreizen) und gespeicherten Erfahrungen und soll dem Sportler einen Zeitgewinn verschaffen.\n\n• Selbstantizipation: Vorwegnahme der eigenen Bewegung und ihres Ergebnisses.\n• Fremdantizipation: Vorwegnahme des Verhaltens anderer Personen (Gegner, Mitspieler) und der Bewegung von Objekten (z. B. Ballflug).\n\nGenauer lassen sich unterscheiden:\n• Situationsantizipation: Vorwegnahme der Entwicklung der aktuellen Situation aus wahrgenommenen Hinweisreizen (z. B. Ballwurf und Schulterstellung des Aufschlägers).\n• Erfahrungsantizipation: Vorwegnahme aufgrund gespeicherter Erfahrungen über Wahrscheinlichkeiten und typisches Verhalten (z. B. Lieblingsaufschlag eines bekannten Gegners).\n• Zielantizipation: Vorwegnahme des angestrebten Handlungsergebnisses (z. B. Return cross in die freie Ecke).\n• Programmantizipation: Vorwegnahme des eigenen Bewegungsablaufs mit seinen Phasen und Empfindungen (z. B. Split-Step, Ausholbewegung, Schlag).\n\nRolle im Regelkreismodell (Meinel/Schnabel): In der Afferenzsynthese werden Informationen aus Umwelt und Körper mit Erfahrung und Zielsetzung zusammengeführt. In der anschließenden Programmierung wird das Bewegungsprogramm gebildet und zugleich Verlauf und Ergebnis antizipiert. Diese Antizipation bildet zusammen mit der Efferenzkopie den Sollwert. Erst dadurch ist ein Soll-Ist-Vergleich mit den Reafferenzen und eine Korrektur möglich. Bei sehr schnellen Bewegungen, die nicht mehr während der Ausführung geregelt werden können, ersetzt eine präzise Antizipation die fehlende Korrekturmöglichkeit."
+        },
+        {
+          "nr": "2",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie die Ergebnisse des Okklusionstests (M2) und setzen Sie sie in Beziehung zu den Beobachtungen bei Jonas (M1).",
+          "erwartung": [
+            {
+              "text": "Beschreibt den Trend: Mit späterem Videostopp steigt die Trefferquote in beiden Gruppen",
+              "be": 1
+            },
+            {
+              "text": "Stellt fest, dass Profis zu allen Zeitpunkten besser sind und schon bei −160 ms über der Ratewahrscheinlichkeit (33 %) liegen, U16 dort nur knapp darüber (36 %)",
+              "be": 2
+            },
+            {
+              "text": "Erkennt, dass der Unterschied bei frühen Stopps am größten ist (z. B. −80 ms: 71 % vs. 45 %) und sich bei +80 ms angleicht (93 % vs. 88 %)",
+              "be": 1
+            },
+            {
+              "text": "Deutung: Profis nutzen frühe Hinweisreize aus Ballwurf und Ausholbewegung, Kaderspieler v. a. späte Informationen aus dem Ballflug",
+              "be": 2
+            },
+            {
+              "text": "Bezug zu Jonas: Er fixiert erst nach dem Treffpunkt den Ball und startet zu spät, entspricht dem U16-Muster; bessere Returns gegen bekannte Gegner zeigen die Bedeutung der Erfahrungsantizipation",
+              "be": 2
+            }
+          ],
+          "muster": "Trend: In beiden Gruppen steigt der Anteil richtiger Vorhersagen, je später das Video gestoppt wird, weil mehr Informationen zur Verfügung stehen.\n\nGruppenvergleich:\n• Die Profis sind zu jedem Zeitpunkt überlegen. Schon am Ende des Ballwurfs (−160 ms) liegen sie mit 58 % deutlich über der Ratewahrscheinlichkeit von 33 %. Die U16-Spieler erreichen dort nur 36 %, sie raten also fast.\n• Der Abstand ist bei den frühen Stopps am größten (−160 ms: 22 Prozentpunkte, −80 ms: 26 Prozentpunkte) und schrumpft, wenn der Ballflug sichtbar ist (+80 ms: 93 % vs. 88 %).\n\nDeutung: Profis können bereits aus frühen Hinweisreizen (Ballwurf, Schulter- und Rumpfdrehung, Schlägerhaltung) die Aufschlagrichtung ableiten. Die Kaderspieler sind auf späte Informationen aus dem Ballflug angewiesen. Sobald der Ball fliegt, ist die Information für alle eindeutig, der Unterschied verschwindet, aber dann bleibt kaum noch Zeit für die Bewegung.\n\nBezug zu Jonas: Jonas fixiert den Ball erst nach dem Treffpunkt. Er nutzt also das späte Informationsmuster der U16-Gruppe. Folge: Er beginnt seine Bewegung zu spät, sein Split-Step kommt nicht rechtzeitig. Dass er gegen einen bekannten Gegner besser returniert, zeigt, dass er Erfahrungsantizipation nutzen kann, wenn er Wissen über Gewohnheiten des Gegners hat. Ihm fehlt also vor allem die Situationsantizipation aus frühen Hinweisreizen."
+        },
+        {
+          "nr": "3",
+          "operator": "Erklären",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erklären Sie mithilfe der Kapazitätsgrenzen der Informationsverarbeitung (Hick'sches Gesetz, Mindestzeit für Rückmeldeschleifen), warum Jonas ohne Antizipation den Return gegen schnelle Aufschläge kaum erfolgreich spielen kann, und erklären Sie seine Leistungsabnahme im dritten Satz (M1).",
+          "erwartung": [
+            {
+              "text": "Hick'sches Gesetz: Wahlreaktionszeit steigt mit der Zahl der Alternativen; beim Return mehrere Alternativen (Richtung, Tempo, Spin)",
+              "be": 2
+            },
+            {
+              "text": "Zeitbudget: Reizaufnahme, Verarbeitung und Befehl an die Muskeln benötigen eine Mindestzeit; bei hohem Aufschlagtempo bleibt danach kaum Bewegungszeit",
+              "be": 1
+            },
+            {
+              "text": "Schnelle Schlagbewegung kann kaum während der Ausführung korrigiert werden (Rückmeldeschleife ca. 150–200 ms, open loop), daher muss vorher richtig programmiert werden",
+              "be": 1
+            },
+            {
+              "text": "Antizipation reduziert die Alternativen bzw. ermöglicht frühere Bewegungseinleitung und damit Zeitgewinn",
+              "be": 2
+            },
+            {
+              "text": "Dritter Satz: Belastungsdruck (physische und psychische Ermüdung) verschlechtert Konzentration, Aufmerksamkeitslenkung und ZNS-Steuerung",
+              "be": 1
+            },
+            {
+              "text": "Folge: Hinweisreize werden schlechter ausgewertet, Antizipation und Reaktion verzögern sich (Bezug zu M1)",
+              "be": 1
+            }
+          ],
+          "muster": "Die menschliche Informationsverarbeitung hat Kapazitätsgrenzen:\n• Nach dem Hick'schen Gesetz steigt die Wahlreaktionszeit mit der Anzahl der Reaktionsalternativen. Beim Return muss Jonas zwischen mehreren Alternativen wählen (Vorhand- oder Rückhandseite, Körperaufschlag, Tempo, Spin). Je mehr Alternativen offen sind, desto länger dauert die Entscheidung.\n• Für Reizaufnahme, Weiterleitung ins ZNS, Verarbeitung und Befehl an die Muskulatur ist eine Mindestzeit nötig. Bei sehr schnellen Aufschlägen bleibt nach dieser Zeit kaum noch Zeit für Laufweg und Schlagbewegung.\n• Die Returnbewegung selbst ist so schnell, dass sie kaum während der Ausführung korrigiert werden kann, weil eine Rückmeldeschleife etwa 150–200 ms benötigt. Sie läuft weitgehend programmgesteuert (open loop) ab und muss vorher richtig programmiert werden.\n\nWartet Jonas wie in M1 auf den Ballflug, beginnt die Verarbeitung erst sehr spät; Entscheidung und Bewegung passen nicht mehr in die verfügbare Zeit. Antizipation verlagert die Informationsaufnahme nach vorn: Frühe Hinweisreize schränken die wahrscheinlichen Alternativen ein, die Entscheidungszeit sinkt, und der Split-Step bzw. die Bewegung kann früher eingeleitet werden.\n\nDritter Satz: Nach langen Ballwechseln mit vielen Richtungswechseln steigt der Belastungsdruck. Physische und psychische Ermüdung beeinträchtigen die Steuerungsprozesse des ZNS sowie Konzentration und Aufmerksamkeitslenkung. Jonas wertet Hinweisreize schlechter aus, antizipiert später und reagiert entsprechend langsamer, wie in M1 beobachtet."
+        },
+        {
+          "nr": "4",
+          "operator": "Beurteilen",
+          "afb": "III",
+          "be": 8,
+          "aufgabe": "Beurteilen Sie den Trainingsvorschlag des Stützpunkttrainers (M3) im Hinblick auf das Ziel, Jonas' Return zu verbessern.",
+          "erwartung": [
+            {
+              "text": "Lichtsignal-Board: trainiert unspezifische Einfachreaktion bzw. Wahlreaktion auf ein künstliches Signal; Reaktionsschnelligkeit ist nur begrenzt trainierbar (genetisch/neuronal bestimmt)",
+              "be": 2
+            },
+            {
+              "text": "Kritik: keine sportartspezifischen Hinweisreize, keine Antizipation, damit kaum Transfer auf den Return (Bezug M2: Problem ist späte Informationsnutzung, nicht Reaktionsschnelligkeit)",
+              "be": 2
+            },
+            {
+              "text": "Ballmaschine: konstantes Tempo und konstante Richtung, keine Hinweisreize einer Ausholbewegung, kein Situationsdruck; fördert allenfalls die Returntechnik",
+              "be": 1
+            },
+            {
+              "text": "Würdigt positive Aspekte (z. B. Ballmaschine für viele Wiederholungen der Technik, Zeitdruck vorhanden)",
+              "be": 1
+            },
+            {
+              "text": "Abwägung mit Bezug zu M1/M2",
+              "be": 1
+            },
+            {
+              "text": "Begründetes Fazit: Vorschlag verfehlt das Ziel weitgehend, Zielformulierung „schneller reagieren“ greift zu kurz",
+              "be": 1
+            }
+          ],
+          "muster": "Das Ziel „Jonas muss einfach schneller reagieren“ greift zu kurz. M2 zeigt, dass Jonas' Problem nicht primär die Reaktionsschnelligkeit ist, sondern dass er Informationen zu spät nutzt.\n\nLichtsignal-Board:\n• Trainiert wird eine Wahlreaktion auf ein künstliches optisches Signal. Die Reaktionsschnelligkeit ist jedoch nur eng begrenzt trainierbar, weil sie stark an angeborene neuronale Komponenten gebunden ist.\n• Das Signal enthält keine tennisspezifischen Hinweisreize. Jonas lernt nicht, Ballwurf, Schulterstellung oder Schlägerhaltung auszuwerten. Das Problem aus M1 (Ball wird erst nach dem Treffpunkt fixiert) wird nicht angegangen, der Transfer auf den Return ist gering.\n\nBallmaschine:\n• Positiv: Viele Wiederholungen der Returntechnik unter Zeitdruck sind möglich.\n• Negativ: Tempo und Richtung sind konstant, die Maschine zeigt keine Ausholbewegung. Es gibt also nichts zu antizipieren, und Situationsdruck sowie Variabilität fehlen. Jonas gewöhnt sich höchstens an eine einzige Situation.\n\nAbwägung: Beide Elemente haben einen kleinen Nutzen für Technik und allgemeine Aufmerksamkeit, setzen aber nicht an der eigentlichen Schwäche an. Dafür wären Trainingsformen mit echten Hinweisreizen und variablen Aufschlägen nötig.\n\nFazit: Der Vorschlag ist für das Ziel weitgehend ungeeignet. Er verwechselt Reaktionsschnelligkeit mit Antizipationsfähigkeit und sollte durch ein spezifisches Antizipationstraining ersetzt bzw. ergänzt werden."
+        },
+        {
+          "nr": "5",
+          "operator": "Entwickeln",
+          "afb": "III",
+          "be": 6,
+          "aufgabe": "Entwickeln Sie zwei begründete Trainingsformen, mit denen Jonas' Antizipationsfähigkeit im Return gezielt verbessert werden kann.",
+          "erwartung": [
+            {
+              "text": "Trainingsform 1 spielnah gegen echte Aufschläger mit variierenden Aufschlägen (Richtung, Tempo) und Kopplung von Antizipation und Returnbewegung",
+              "be": 2
+            },
+            {
+              "text": "Trainingsform 2 mit gezielter Aufmerksamkeitslenkung auf frühe Hinweisreize (z. B. Okklusions-/Videotraining mit anschließender Platzumsetzung oder Aufgabe „Richtung beim Ballwurf ansagen“)",
+              "be": 2
+            },
+            {
+              "text": "Begründet mit Theorie (Experten nutzen frühe Hinweisreize, M2; Erfahrungsabhängigkeit; Steigerung von Zeit- und Situationsdruck)",
+              "be": 1
+            },
+            {
+              "text": "Berücksichtigt Rahmenbedingungen (z. B. erholter Zustand, Steigerung, gezieltes Feedback, später auch unter Belastungsdruck wegen 3. Satz)",
+              "be": 1
+            }
+          ],
+          "muster": "Trainingsform 1: „Return-Ansage“ gegen echte Aufschläger\n• Ein Trainingspartner schlägt aus dem Feld variabel auf (außen, Mitte, Körper; flach oder mit Kick). Jonas soll beim Split-Step laut die Richtung ansagen („links“/„rechts“/„Körper“), bevor der Ball über das Netz fliegt, und dann returnieren.\n• Steigerung: erst 2 Richtungen, dann 3; erst mittleres Tempo, dann volles Tempo (Zeitdruck), später verschiedene Aufschläger (Situationsdruck).\n• Begründung: Antizipation und Bewegung werden gekoppelt; die Ansage zwingt Jonas, die Information früh aufzunehmen. Verschiedene Aufschläger vergrößern seinen Erfahrungsschatz (Erfahrungsantizipation).\n\nTrainingsform 2: Okklusionstraining mit Platztransfer\n• Kurzes Videotraining (10 Minuten): Aufschlagvideos werden bei Ende des Ballwurfs bzw. beim Ausholen gestoppt, Jonas sagt die Richtung voraus. Der Trainer lenkt die Aufmerksamkeit auf Ballwurfposition, Schulterdrehung und Schlägerhaltung und gibt danach Rückmeldung.\n• Direkt im Anschluss werden genau diese Hinweisreize auf dem Platz gegen echte Aufschläger geübt.\n• Begründung: M2 zeigt, dass Profis frühe Hinweisreize nutzen. Durch gezielte Aufmerksamkeitslenkung und Feedback wird dieses Expertenverhalten aufgebaut; die Platzumsetzung sichert den Transfer.\n\nRahmen: Beide Formen zunächst im erholten Zustand, weil Wahrnehmungs- und Steuerungsprozesse dann am besten lernen. Später werden sie bewusst nach intensiven Ballwechseln durchgeführt (Belastungsdruck), um die Leistungsabnahme im dritten Satz anzugehen."
+        }
+      ]
+    },
+    {
+      "id": "k-q3.2-2",
+      "themen": [
+        "Q3.2",
+        "Q1.1",
+        "Q3.1"
+      ],
+      "titel": "Koordinationstraining in der Handball-D-Jugend",
+      "zeit": 110,
+      "einleitung": "Die Trainerin einer gemischten Handball-D-Jugend (11–12 Jahre) möchte die koordinative Ausbildung ihrer Mannschaft verbessern. Sie hat einen Stationsbetrieb entworfen und ist auf eine Studie zum variierten Üben gestoßen. Sie sollen ihre Planung fachlich prüfen und weiterentwickeln.",
+      "material": [
+        {
+          "titel": "M1: Situation der Mannschaft",
+          "text": "Die D-Jugend des TV Musterstadt besteht aus 14 Kindern. Viele können im Stand sicher prellen, verlieren den Ball aber im Tempogegenstoß oder sobald ein Gegenspieler stört. Bei Würfen aus dem Lauf passt die Abstimmung zwischen Schrittfolge und Wurfarm oft nicht. Die Trainerin plant, das Koordinationstraining immer am Ende der 90-minütigen Einheit nach dem Abschlussspiel durchzuführen, weil die Kinder dann „schon warm“ seien."
+        },
+        {
+          "titel": "M2: Stationsbetrieb der Trainerin",
+          "tabelle": {
+            "kopf": [
+              "Station",
+              "Übung",
+              "Dauer"
+            ],
+            "zeilen": [
+              [
+                "1",
+                "Prellen im Slalom um Hütchen, so schnell wie möglich, Zeit wird gestoppt",
+                "3 min"
+              ],
+              [
+                "2",
+                "Prellen auf der umgedrehten Langbank, Blick zur Trainerin, die Zahlen mit den Fingern zeigt, die laut gerufen werden",
+                "3 min"
+              ],
+              [
+                "3",
+                "Zielwurf aus 7 m auf in den Torecken aufgehängte Reifen",
+                "3 min"
+              ],
+              [
+                "4",
+                "Partner A prellt, Partner B versucht den Ball wegzuspielen; nach Pfiff Rollentausch",
+                "3 min"
+              ],
+              [
+                "5",
+                "Gleichzeitig mit rechts einen Handball prellen und mit links einen Tennisball hochwerfen und fangen",
+                "3 min"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Studie zum Wurftraining (fiktiv)",
+          "text": "28 Jugendliche wurden zufällig zwei Gruppen zugeteilt und übten vier Wochen lang Torwürfe auf eine Zielfläche. Gruppe K warf immer aus 7 m mit dem Standardball. Gruppe V warf gleich oft, aber im Wechsel aus 6, 7 und 9 m mit unterschiedlich schweren Bällen. Ergebnisse (Treffer von 20 Würfen):\n• Abschlusstest aus 7 m: Gruppe K 13,8 – Gruppe V 12,9\n• Behaltenstest nach zwei Wochen aus 7 m: Gruppe K 11,2 – Gruppe V 12,6\n• Transfertest aus 8 m: Gruppe K 9,1 – Gruppe V 12,0"
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Nennen und beschreiben",
+          "afb": "I",
+          "be": 10,
+          "aufgabe": "Nennen Sie die sieben koordinativen Fähigkeiten und beschreiben Sie Kopplungs-, Differenzierungs- und Umstellungsfähigkeit. Stellen Sie anschließend die methodische Grundformel der Koordinationsschulung dar.",
+          "erwartung": [
+            {
+              "text": "Nennt alle sieben: Kopplungs-, Differenzierungs-, Gleichgewichts-, Orientierungs-, Rhythmisierungs-, Reaktions-, Umstellungsfähigkeit (bei 5–6 richtigen 1 BE)",
+              "be": 2
+            },
+            {
+              "text": "Kopplungsfähigkeit: Teilkörperbewegungen räumlich, zeitlich und dynamisch auf ein Handlungsziel abstimmen (simultan und sukzessiv)",
+              "be": 2
+            },
+            {
+              "text": "Differenzierungsfähigkeit: hohe Feinabstimmung einzelner Bewegungsphasen und Teilkörperbewegungen, zeigt sich in Bewegungsgenauigkeit und -ökonomie (v. a. kinästhetisch)",
+              "be": 2
+            },
+            {
+              "text": "Umstellungsfähigkeit: Handlungsprogramm während des Vollzugs an veränderte (vorhersehbare oder überraschende) Bedingungen anpassen oder ein neues starten",
+              "be": 2
+            },
+            {
+              "text": "Grundformel: einfache, sicher beherrschte Fertigkeit + Variation der Informationsanforderungen + Variation der Druckbedingungen (KAR-Modell)",
+              "be": 2
+            }
+          ],
+          "muster": "Die sieben koordinativen Fähigkeiten sind: Kopplungs-, Differenzierungs-, Gleichgewichts-, Orientierungs-, Rhythmisierungs-, Reaktions- und Umstellungsfähigkeit.\n\n• Kopplungsfähigkeit: Fähigkeit, Teilkörperbewegungen im Hinblick auf ein Handlungsziel räumlich, zeitlich und dynamisch aufeinander abzustimmen, sowohl gleichzeitig (simultan) als auch nacheinander (sukzessiv). Beispiel: Schrittfolge und Wurfarm beim Sprungwurf.\n• Differenzierungsfähigkeit: Fähigkeit, eine hohe Feinabstimmung einzelner Bewegungsphasen und Teilkörperbewegungen zu erreichen; sie zeigt sich in großer Bewegungsgenauigkeit und Ökonomie. Grundlage ist v. a. die genaue Verarbeitung kinästhetischer Informationen, z. B. die Dosierung der Kraft beim Wurf.\n• Umstellungsfähigkeit: Fähigkeit, während des Handlungsvollzugs das Handlungsprogramm veränderten Bedingungen anzupassen oder ein neues, angemessenes Programm zu starten. Die Veränderungen können vorhersehbar oder überraschend sein, z. B. Abspiel statt Wurf, wenn ein Abwehrspieler den Weg versperrt.\n\nMethodische Grundformel (in Anlehnung an das KAR-Modell nach Neumaier):\nKoordinationsschulung = einfache, sicher beherrschte Fertigkeit + Variation der Informationsanforderungen (optisch, akustisch, taktil, kinästhetisch, vestibulär) + Variation der Druckbedingungen (Präzisions-, Zeit-, Komplexitäts-, Situations-, Belastungsdruck).\nIm Unterschied zum Techniklernen bleibt die Fertigkeit einfach, erschwert werden die Bedingungen."
+        },
+        {
+          "nr": "2",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie die fünf Stationen (M2) im Hinblick darauf, welche Informationsanforderungen und Druckbedingungen des KAR-Modells jeweils schwerpunktmäßig erhöht werden.",
+          "erwartung": [
+            {
+              "text": "Station 1: Zeitdruck (so schnell wie möglich) und Präzisionsdruck/optische Anforderung (Slalom um Hütchen)",
+              "be": 1
+            },
+            {
+              "text": "Station 2: vestibuläre/Gleichgewichtsanforderung (Langbank), optische Anforderung (Finger lesen) bei reduzierter Ballkontrolle mit den Augen, Komplexitätsdruck (zusätzliche kognitive Aufgabe/Rufen)",
+              "be": 2
+            },
+            {
+              "text": "Station 3: Präzisionsdruck (Ergebnisgenauigkeit Reifen), kinästhetische Anforderung (Kraftdosierung)",
+              "be": 1
+            },
+            {
+              "text": "Station 4: Situationsdruck (unvorhersehbares Verhalten des Partners), Zeitdruck, optische/taktile Anforderung",
+              "be": 2
+            },
+            {
+              "text": "Station 5: Komplexitätsdruck (Simultankoordination zweier unterschiedlicher Bewegungen), Präzisionsdruck",
+              "be": 1
+            },
+            {
+              "text": "Zieht Gesamtfazit: Stationen variieren unterschiedliche Regler, decken die Probleme aus M1 (Störung durch Gegner, Tempo) teilweise ab; Belastungsdruck nicht gezielt gestaltet bzw. Station 3 ohne Bezug zum Wurf aus dem Lauf",
+              "be": 1
+            }
+          ],
+          "muster": "• Station 1 (Slalomprellen auf Zeit): Schwerpunkt Zeitdruck, weil möglichst schnell geprellt wird. Zusätzlich Präzisionsdruck und optische Anforderung, da der Ball eng um die Hütchen geführt werden muss.\n• Station 2 (Prellen auf der Langbank, Zahlen ablesen und rufen): Die schmale Bank erhöht die vestibulären Anforderungen und die Gleichgewichtsanforderung. Weil der Blick zur Trainerin gerichtet ist, fällt die optische Ballkontrolle weg; der Ball muss kinästhetisch und taktil kontrolliert werden. Das Ablesen und Rufen der Zahlen ist eine zusätzliche Aufgabe und erhöht den Komplexitätsdruck.\n• Station 3 (Zielwurf auf Reifen): Hoher Präzisionsdruck (Ergebnisgenauigkeit) und hohe kinästhetische Anforderung durch genaue Kraftdosierung. Zeit- und Situationsdruck sind gering.\n• Station 4 (Prellen gegen störenden Partner): Situationsdruck, weil das Verhalten des Partners nicht vorhersehbar ist; dazu Zeitdruck und erhöhte optische (Partner beobachten) sowie taktile Anforderungen (Ball abschirmen). Diese Station trifft das Problem aus M1, dass die Kinder bei Störung den Ball verlieren.\n• Station 5 (Prellen und Tennisball werfen): Komplexitätsdruck durch Simultankoordination zweier unterschiedlicher Bewegungen der rechten und linken Hand, zusätzlich Präzisionsdruck beim Fangen.\n\nFazit: Die Stationen variieren unterschiedliche Regler und folgen damit dem Prinzip der Grundformel. Die Probleme aus M1 (Ballverlust im Tempo und bei Störung) werden durch die Stationen 1 und 4 gut angesprochen. Das Problem der Kopplung von Schrittfolge und Wurfarm beim Wurf aus dem Lauf wird dagegen kaum aufgegriffen, Station 3 wirft aus dem Stand."
+        },
+        {
+          "nr": "3",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erläutern Sie die Ergebnisse der Studie (M3) mithilfe der Theorie des generalisierten motorischen Programms nach Schmidt und des Prinzips des variierten Übens.",
+          "erwartung": [
+            {
+              "text": "Beschreibt die Ergebnisse korrekt: K im Abschlusstest leicht besser, V im Behaltens- und deutlich im Transfertest besser (mit Zahlen)",
+              "be": 2
+            },
+            {
+              "text": "GMP: steuert eine Bewegungsklasse; Invarianten (Reihenfolge, relatives Timing, relative Kraft) und Parameter (Gesamtdauer, Gesamtkraft, Muskelauswahl)",
+              "be": 2
+            },
+            {
+              "text": "Gruppe K: konstantes Üben schleift eine einzige Parametereinstellung ein, kurzfristig gut, aber geringe Behaltens- und Transferleistung",
+              "be": 1
+            },
+            {
+              "text": "Gruppe V: variiertes Üben (Entfernung, Ballgewicht) zwingt zur ständigen Parameteranpassung (v. a. Gesamtkraft), dadurch Generalisierung des Programms",
+              "be": 2
+            },
+            {
+              "text": "Folgerung: Für das Lernen ist der Behaltens- und Transfertest aussagekräftiger als der Abschlusstest; für Handball (wechselnde Wurfsituationen) spricht das für variiertes Üben",
+              "be": 1
+            }
+          ],
+          "muster": "Ergebnisse: Im Abschlusstest aus 7 m ist Gruppe K mit 13,8 Treffern leicht besser als Gruppe V (12,9). Zwei Wochen später kehrt sich das Bild um: Im Behaltenstest erzielt V 12,6, K nur noch 11,2 Treffer. Im Transfertest aus 8 m (nie geübt) ist V mit 12,0 Treffern deutlich besser als K (9,1).\n\nTheorie: Nach Schmidt steuert ein generalisiertes motorisches Programm eine ganze Klasse ähnlicher Bewegungen, z. B. alle Schlagwürfe. Es enthält Invarianten, die immer gleich bleiben (Reihenfolge der Teilbewegungen, relatives Timing, relative Kraftverhältnisse), und Parameter, die situativ eingestellt werden (Gesamtdauer, Gesamtkraft, Muskelauswahl).\n\nErläuterung:\n• Gruppe K übt immer dieselbe Parametereinstellung (7 m, Standardball). Diese wird kurzfristig sehr genau eingeschliffen, deshalb der kleine Vorsprung im Abschlusstest. Das Programm wird aber nicht generalisiert; nach zwei Wochen sinkt die Leistung, und bei einer neuen Entfernung fehlt die Erfahrung, wie die Gesamtkraft angepasst werden muss.\n• Gruppe V muss bei jedem Wurf die Parameter neu einstellen: Entfernung und Ballgewicht verlangen eine andere Gesamtkraft, teilweise auch eine andere Gesamtdauer. Die Invarianten des Wurfs bleiben gleich. So lernen die Jugendlichen die Beziehung zwischen Parameterwahl und Ergebnis und bilden ein generalisiertes Programm. Das zeigt sich im besseren Behalten und im Transfer auf 8 m.\n\nFolgerung: Der Abschlusstest misst nur die momentane Leistung, Behaltens- und Transfertest messen das eigentliche Lernen. Da im Handball fast nie zweimal aus derselben Position geworfen wird, ist variiertes Üben für die D-Jugend die bessere Wahl, vorausgesetzt, die Grundstruktur des Wurfs ist bereits erworben."
+        },
+        {
+          "nr": "4",
+          "operator": "Erörtern",
+          "afb": "III",
+          "be": 8,
+          "aufgabe": "Erörtern Sie die Entscheidung der Trainerin, das Koordinationstraining am Ende der Trainingseinheit durchzuführen (M1), und berücksichtigen Sie dabei das Alter der Kinder.",
+          "erwartung": [
+            {
+              "text": "Contra: Koordinationstraining sollte im erholten Zustand stattfinden, da Ermüdung die Steuerungsprozesse des ZNS und die Qualität der Bewegungssteuerung verschlechtert",
+              "be": 2
+            },
+            {
+              "text": "Contra: Ermüdung mindert Konzentration und Aufmerksamkeit, Fehler werden eher eingeschliffen; Lernen neuer koordinativer Anforderungen leidet",
+              "be": 1
+            },
+            {
+              "text": "Pro: gezieltes Üben unter Belastungsdruck ist eine bewusste Variation der Druckbedingungen und bildet Spielende/Tempogegenstoß unter Ermüdung ab; „Aufgewärmt sein“ ist berechtigtes Anliegen",
+              "be": 2
+            },
+            {
+              "text": "Bezug zum Alter: 11–12 Jahre liegen am Ende der sensiblen Phase (7–12 Jahre) für koordinative Fähigkeiten; die Lernzeit sollte optimal genutzt werden",
+              "be": 1
+            },
+            {
+              "text": "Abwägung der Argumente mit Bezug zu M1/M2",
+              "be": 1
+            },
+            {
+              "text": "Begründetes Fazit (z. B. Koordination nach dem Aufwärmen bzw. zu Beginn des Hauptteils, gezielte Belastungsdruck-Stationen erst später und ergänzend)",
+              "be": 1
+            }
+          ],
+          "muster": "Die Trainerin begründet ihre Entscheidung damit, dass die Kinder am Ende der Einheit „schon warm“ seien.\n\nGegen die Platzierung am Ende:\n• Koordinationstraining zielt auf die Verbesserung der Steuerungs- und Regelungsprozesse des ZNS. Diese gelingen im erholten Zustand am besten. Nach 90 Minuten mit Abschlussspiel sind die Kinder physisch und mental ermüdet.\n• Ermüdung beeinträchtigt Konzentration, Aufmerksamkeitslenkung und Bewegungspräzision. Gerade Stationen wie 2 oder 5 (Gleichgewicht plus kognitive Aufgabe, Simultankoordination) verlangen hohe Konzentration. Es besteht die Gefahr, dass ungenaue Bewegungen eingeschliffen werden.\n• Für „warm sein“ reicht ein normales Aufwärmen; dafür muss nicht die ganze Einheit vorausgehen.\n\nFür die Platzierung am Ende:\n• Handballspiele werden oft in der Schlussphase unter Ermüdung entschieden; das Problem aus M1 (Ballverlust im Tempogegenstoß) tritt gerade dann auf. Gezieltes Üben unter Belastungsdruck ist eine bewusste Variation der Druckbedingungen im Sinne des KAR-Modells.\n\nAlter: Mit 11–12 Jahren befinden sich die Kinder am Ende der sensiblen Phase für koordinative Fähigkeiten (7–12 Jahre), in der ZNS und Analysatoren beschleunigt reifen. Diese günstige Lernzeit sollte mit qualitativ hochwertigem Üben genutzt und nicht durch ermüdete Ausführung verschenkt werden.\n\nAbwägung und Fazit: Das Argument des Belastungsdrucks ist fachlich richtig, rechtfertigt aber nur einzelne, gezielt eingesetzte Übungen und nicht den regelmäßigen Platz des gesamten Koordinationstrainings. Ich empfehle, den Stationsbetrieb direkt nach dem Aufwärmen bzw. zu Beginn des Hauptteils durchzuführen und nur gelegentlich eine bereits gut beherrschte Station (z. B. Station 4) bewusst ans Ende zu legen."
+        },
+        {
+          "nr": "5",
+          "operator": "Entwickeln",
+          "afb": "III",
+          "be": 6,
+          "aufgabe": "Entwickeln Sie eine zusätzliche Station, die das in M1 beschriebene Problem beim Wurf aus dem Lauf aufgreift und das Prinzip des variierten Übens berücksichtigt. Begründen Sie Ihre Station.",
+          "erwartung": [
+            {
+              "text": "Station greift den Wurf aus dem Lauf (Schrittfolge plus Wurfarm, Kopplung) auf und ist konkret organisiert beschrieben",
+              "be": 2
+            },
+            {
+              "text": "Variation von Ausführungsparametern bzw. Bedingungen (z. B. verschiedene Anlaufwinkel, Entfernungen, Ballgrößen, Schrittrhythmen)",
+              "be": 1
+            },
+            {
+              "text": "Benennt mindestens eine gezielt erhöhte Druckbedingung bzw. Informationsanforderung (z. B. Zeitdruck durch Pass aus dem Lauf, Präzisionsdruck durch Zielzonen, akustischer Rhythmus)",
+              "be": 1
+            },
+            {
+              "text": "Begründet mit GMP/variiertem Üben (Invarianten stabil, Parameter variieren) bzw. Kopplungs- und Rhythmisierungsfähigkeit",
+              "be": 1
+            },
+            {
+              "text": "Berücksichtigt Zielgruppe (Alter, Sicherheit, Erfolgserlebnisse, Differenzierung)",
+              "be": 1
+            }
+          ],
+          "muster": "Station 6: „Wurf aus dem Lauf mit wechselnden Startpunkten“\n\nOrganisation: Vier Hütchen markieren unterschiedliche Startpunkte (Linksaußen, Halbposition links und rechts, Mitte) in 9–10 m Entfernung. Ein Kind läuft an, erhält einen Pass von der Trainerin, macht drei Schritte und wirft auf das Tor. Im Tor hängen Reifen oder es sind farbige Zielzonen markiert, die die Trainerin während des Anlaufs ansagt. Nach jedem Wurf wechselt das Kind den Startpunkt.\n\nVariation:\n• Startpunkt und damit Anlaufwinkel und Wurfentfernung wechseln.\n• Abwechselnd leichter und normaler Ball.\n• Schrittrhythmus wird zunächst durch Klatschen der Trainerin unterstützt (akustische Information, Rhythmisierung), später ohne Hilfe.\n\nDruckbedingungen: Zeitdruck durch Pass in den Lauf, Präzisionsdruck durch Zielzonen, Situationsdruck durch die erst während des Anlaufs angesagte Zielzone.\n\nBegründung: Die Invarianten des Wurfs aus dem Lauf (Reihenfolge Schritte – Stemmschritt – Wurfarm, relatives Timing) bleiben gleich, variiert werden die Parameter (Gesamtkraft durch Entfernung und Ballgewicht, Gesamtdauer durch Anlauftempo). Nach M3 führt das zu besserem Behalten und Transfer. Gleichzeitig wird die Kopplung von Schrittfolge und Wurfarm sowie die Rhythmisierung trainiert, also genau das Problem aus M1.\n\nZielgruppe: Für unsichere Kinder bleibt der Rhythmus länger akustisch unterstützt und die Zielzone größer, damit Erfolgserlebnisse entstehen."
+        }
+      ]
+    },
+    {
+      "id": "k-q1.4-1",
+      "themen": [
+        "Q1.4",
+        "Q3.2"
+      ],
+      "titel": "Basketball genetisch einführen",
+      "zeit": 105,
+      "einleitung": "Eine Sportlehrkraft führt in einer 9. Klasse (28 Schülerinnen und Schüler, sehr heterogen, vier Vereinsspieler) das Basketballspiel ein. Sie orientiert sich am genetischen Konzept. Ihnen liegen ein Stundenprotokoll und ein Beobachtungsbogen vor.",
+      "material": [
+        {
+          "titel": "M1: Stundenprotokoll (Auszug)",
+          "text": "Die Lehrkraft nennt zu Beginn nur wenige Regeln: zwei Mannschaften, zwei Körbe, Ball wird mit der Hand gespielt, kein Foul, kein Laufen mit dem Ball ohne Prellen, kein Doppeldribbling. Gespielt wird 5 gegen 5 auf zwei Feldern.\nNach zehn Minuten Spiel fragt sie: „Hat euch das Spiel Spaß gemacht?“ Mehrere Schüler sagen: „Nur die Vereinsspieler hatten den Ball.“ Ein Schüler schlägt vor, erst einmal Dribbeln und Werfen zu üben. Die Klasse übt zehn Minuten, im anschließenden Spiel ändert sich kaum etwas.\nDie Lehrkraft fragt: „Wie könnten wir spielen, ohne dass das Dribbeln so wichtig ist?“ Die Klasse beschließt: Laufen mit dem Ball ist erlaubt, vor einem Korbwurf müssen alle Spieler den Ball einmal gehabt haben. Im nächsten Spiel beteiligen sich deutlich mehr Schüler, die Vereinsspieler beklagen sich aber, dass „das kein Basketball mehr“ sei."
+        },
+        {
+          "titel": "M2: Beobachtungsbogen eines Feldes (je 8 Minuten Spielzeit)",
+          "tabelle": {
+            "kopf": [
+              "Merkmal",
+              "Spiel 1: Grundregeln",
+              "Spiel 3: Laufen mit Ball erlaubt"
+            ],
+            "zeilen": [
+              [
+                "Ballkontakte Vereinsspieler (2 Spieler, Summe)",
+                "41",
+                "29"
+              ],
+              [
+                "Ballkontakte übrige 8 Spieler (Summe)",
+                "23",
+                "61"
+              ],
+              [
+                "Spieler ohne Ballkontakt",
+                "3",
+                "0"
+              ],
+              [
+                "Unterbrechungen durch Regelverstoß",
+                "19",
+                "6"
+              ],
+              [
+                "Korbwürfe gesamt",
+                "11",
+                "17"
+              ],
+              [
+                "Körbe gesamt",
+                "4",
+                "6"
+              ]
+            ]
+          }
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 10,
+          "aufgabe": "Beschreiben Sie die Spielidee des Basketballspiels und den Begriff der Spielfähigkeit (im weiteren und engeren Sinne, allgemein und speziell). Stellen Sie anschließend die drei Prinzipien des genetischen Konzepts nach Loibl in Anlehnung an Wagenschein dar.",
+          "erwartung": [
+            {
+              "text": "Spielidee Basketball: zwei Mannschaften versuchen, den Ball in den gegnerischen Korb zu werfen und Körbe des Gegners zu verhindern; Angriff und Abwehr simultan",
+              "be": 1
+            },
+            {
+              "text": "Spielfähigkeit als komplexe Qualifikation aus spielmotorischer, kognitiver, sozialer und emotional-affektiver Kompetenz",
+              "be": 1
+            },
+            {
+              "text": "Spielfähigkeit im weiteren Sinne: Spiele in Gang setzen, Bedingungen organisieren, gerechte Teams bilden, Regeln einhalten, Spiel bei Störung wiederherstellen",
+              "be": 1
+            },
+            {
+              "text": "Spielfähigkeit im engeren Sinne: an den Spielvollzug gebunden (technische Fertigkeiten, konditionelle und taktische Fähigkeiten)",
+              "be": 1
+            },
+            {
+              "text": "Allgemeine (sportspielübergreifend, z. B. sich anbieten, freilaufen) vs. spezielle Spielfähigkeit (für ein bestimmtes Sportspiel)",
+              "be": 2
+            },
+            {
+              "text": "Genetisch: Lernende arbeiten am ursprünglichen Problem und entwickeln Lösungen selbsttätig (gignomai = entstehen)",
+              "be": 1
+            },
+            {
+              "text": "Sokratisch: Lehrkraft gibt keine Lösungen vor, sondern lenkt durch Fragen bzw. gibt Fragen zurück",
+              "be": 1
+            },
+            {
+              "text": "Exemplarisch: Vorgehen an ausgewählten Beispielen, an denen grundlegende Erkenntnisse prägnant gewonnen werden (zeitaufwendig, daher nicht für alle Inhalte)",
+              "be": 2
+            }
+          ],
+          "muster": "Spielidee Basketball: Zwei Mannschaften versuchen, den Ball in den gegnerischen Korb zu werfen und gleichzeitig Körbe des Gegners zu verhindern. Angriff und Abwehr laufen simultan ab und entsprechen einander.\n\nSpielfähigkeit ist eine komplexe Qualifikation aus spielmotorischer, kognitiver, sozialer und emotional-affektiver Kompetenz; sie eröffnet neue Handlungsmöglichkeiten im Spiel und soll ein freudvolles Spielerlebnis ermöglichen.\n• Im weiteren Sinne umfasst sie das „Drumherum“: Spiele in Gang setzen, Spielbedingungen organisieren, gerechte Mannschaften bilden, Regeln einhalten, den Spielverlauf sichern und das Spiel bei Störungen wiederherstellen.\n• Im engeren Sinne ist sie an den Spielvollzug gebunden: technische Fertigkeiten, konditionelle und taktische Fähigkeiten.\n• Die Spielfähigkeit im engeren Sinne gliedert sich in eine allgemeine, sportspielübergreifende Spielfähigkeit (z. B. sich anbieten, freilaufen, Gegner abdecken) und eine spezielle Spielfähigkeit, die nur für ein bestimmtes Spiel gilt (z. B. Basketball).\n\nPrinzipien des genetischen Konzepts (Loibl nach Wagenschein):\n• Genetisch (griech. gignomai = entstehen): Die Lernenden arbeiten am ursprünglichen Problem und entwickeln Lösungen selbst; Können wird im Lernprozess neu erzeugt.\n• Sokratisch: Die Lehrkraft gibt keine fertigen Lösungen vor, sondern fordert die Selbsttätigkeit, indem sie Fragen stellt und an die Lernenden zurückgibt.\n• Exemplarisch: Das zeitaufwendige genetisch-sokratische Vorgehen wird an ausgewählten Beispielen durchgeführt, an denen grundlegende Erkenntnisse besonders prägnant gewonnen werden können."
+        },
+        {
+          "nr": "2",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie die Daten des Beobachtungsbogens (M2) im Hinblick auf die Wirkung der Regeländerung.",
+          "erwartung": [
+            {
+              "text": "Ballkontakte der übrigen Spieler steigen stark (23 → 61), alle Spieler sind beteiligt (3 → 0 ohne Ballkontakt)",
+              "be": 2
+            },
+            {
+              "text": "Ballkontakte der Vereinsspieler sinken (41 → 29), Anteil sinkt von ca. 64 % auf ca. 32 % aller Ballkontakte: Spielanteile gleichmäßiger verteilt",
+              "be": 2
+            },
+            {
+              "text": "Unterbrechungen sinken deutlich (19 → 6): mehr Spielfluss und effektive Spielzeit",
+              "be": 1
+            },
+            {
+              "text": "Korbwürfe (11 → 17) und Körbe (4 → 6) steigen: mehr Erfolgserlebnisse, Spielidee wird stärker erlebbar",
+              "be": 1
+            },
+            {
+              "text": "Erklärt die Ursachen mit der Regeländerung (Wegfall der Dribbelpflicht senkt technische Hürden; Pflicht, dass alle den Ball hatten, erzwingt Zusammenspiel)",
+              "be": 1
+            },
+            {
+              "text": "Weist auf Grenze hin (z. B. nur ein Feld, kurze Zeit, Vereinsspieler weniger gefordert)",
+              "be": 1
+            }
+          ],
+          "muster": "Beteiligung: Die Ballkontakte der acht übrigen Spieler steigen von 23 auf 61, also fast auf das Dreifache. In Spiel 1 hatten drei Spieler gar keinen Ballkontakt, in Spiel 3 ist jeder beteiligt.\n\nVerteilung: Die Ballkontakte der beiden Vereinsspieler sinken von 41 auf 29. In Spiel 1 entfielen rund 64 % aller Ballkontakte (41 von 64) auf zwei von zehn Spielern, in Spiel 3 nur noch rund 32 % (29 von 90). Die Spielanteile verteilen sich deutlich gleichmäßiger.\n\nSpielfluss: Die Unterbrechungen durch Regelverstöße sinken von 19 auf 6. Die effektive Spielzeit steigt, das Spiel wird dynamischer.\n\nErfolg: Korbwürfe steigen von 11 auf 17, Körbe von 4 auf 6. Mehr Schüler erleben Torerfolge, die Spielidee wird stärker erlebbar.\n\nUrsachen: Durch das erlaubte Laufen mit dem Ball entfällt die technische Hürde des Dribbelns, die vorher zu Schrittfehlern und Doppeldribblings führte. Die Regel, dass vor einem Wurf alle den Ball gehabt haben müssen, zwingt zum Zusammenspiel und verhindert, dass die Vereinsspieler allein spielen.\n\nEinschränkung: Die Daten stammen nur von einem Feld und je acht Minuten. Zudem zeigt der Rückgang der Ballkontakte der Vereinsspieler, dass diese weniger gefordert werden."
+        },
+        {
+          "nr": "3",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erläutern Sie anhand des Stundenprotokolls (M1), inwiefern die Lehrkraft die Prinzipien und die Lehrgangsstruktur des genetischen Konzepts umsetzt.",
+          "erwartung": [
+            {
+              "text": "Spielen nach wenigen Grundregeln zu Beginn (unverzichtbare Grundregeln/selbstverständliche Regeln) entspricht Loibls Lehrgang",
+              "be": 1
+            },
+            {
+              "text": "Entstehung eines echten Spielproblems (ungleiche Beteiligung, wenig Spaß) als Ausgangspunkt: genetisches Prinzip",
+              "be": 1
+            },
+            {
+              "text": "Sokratisches Prinzip: Lehrkraft lenkt über Fragen („Hat euch das Spiel Spaß gemacht?“, „Wie könnten wir spielen …?“), gibt keine Lösung vor",
+              "be": 2
+            },
+            {
+              "text": "Erprobung des Schülervorschlags Üben, der keine kurzfristige Verbesserung bringt, und erneute Lösungssuche: Kreislauf des genetischen Lehrgangs (Problem – Dialog – Erprobung – ggf. neue Lösung)",
+              "be": 2
+            },
+            {
+              "text": "Gemeinsam entwickelte Regeländerung (Laufen mit Ball) wie bei Loibl (Weglassen der Dribbelregel) führt zu neuer Spielsituation",
+              "be": 1
+            },
+            {
+              "text": "Exemplarisch: Basketball bzw. die Dribbelregel als Beispiel, an dem grundlegende Einsicht (Regeln sind veränderbar, Spiel an Gruppe anpassen) gewonnen wird",
+              "be": 1
+            }
+          ],
+          "muster": "Die Stunde folgt weitgehend dem genetischen Lehrgang nach Loibl:\n\n• Einstieg mit wenigen Regeln: Die Lehrkraft nennt nur selbstverständliche Regeln (zwei Mannschaften, zwei Körbe, Spiel mit der Hand) und unverzichtbare Grundregeln (Foul, Schrittfehler, Doppeldribbling). Gespielt wird sofort.\n• Genetisches Prinzip: Aus dem Spiel entsteht ein echtes, ursprüngliches Problem: Nur die Vereinsspieler haben den Ball, viele haben keinen Spaß. Die Lernenden arbeiten an diesem Problem selbst.\n• Sokratisches Prinzip: Die Lehrkraft gibt keine Lösung vor, sondern stellt Fragen („Hat euch das Spiel Spaß gemacht?“, „Wie könnten wir spielen, ohne dass das Dribbeln so wichtig ist?“) und lenkt damit indirekt.\n• Kreislauf des Lehrgangs: Der erste Schülervorschlag (Fertigkeiten üben) wird erprobt, bringt aber kurzfristig kaum Verbesserung, genau wie in Loibls Lehrgang beschrieben. Daraus folgt eine neue Frage und eine neue Lösungssuche. Die gemeinsam beschlossene Regeländerung (Laufen mit dem Ball, alle müssen den Ball gehabt haben) erzeugt eine neue Spielsituation. Struktur: neue Spielsituation – Problem – Dialog – Erprobung – Lösung bzw. neue Suche.\n• Exemplarisches Prinzip: Am Beispiel der Dribbelregel erkennen die Schüler grundlegend, dass Regeln veränderbar sind und ein Spiel an die Gruppe angepasst werden kann. Diese Einsicht ist auf andere Spiele übertragbar.\n\nAuch die Klage der Vereinsspieler entspricht dem Lehrgang: Sie ist ein neues Problem, das in den nächsten Durchlauf des Kreislaufs eingehen kann."
+        },
+        {
+          "nr": "4",
+          "operator": "Beurteilen",
+          "afb": "III",
+          "be": 8,
+          "aufgabe": "Beurteilen Sie, ob das genetische Konzept für die beschriebene Klasse geeignet ist. Beziehen Sie die Klage der Vereinsspieler (M1) und die Daten aus M2 ein.",
+          "erwartung": [
+            {
+              "text": "Pro: bindet Leistungsschwächere ein, Kind/Lernende im Zentrum, belegt durch M2 (Beteiligung, Spielfluss, Körbe)",
+              "be": 2
+            },
+            {
+              "text": "Pro: Selbstständigkeit, Regelverständnis und Spielfähigkeit im weiteren Sinne (Regeln aushandeln, Spiel organisieren) werden gefördert",
+              "be": 1
+            },
+            {
+              "text": "Contra: Motivationsverlust der Leistungsstärkeren (Vereinsspieler: „kein Basketball mehr“), sinkende Ballkontakte in M2",
+              "be": 1
+            },
+            {
+              "text": "Contra: zeitaufwendig; Gefahr, dass sich das Spiel durch Regeländerungen weit vom Zielspiel entfernt (Transfer, Dribbeln wird nicht gelernt)",
+              "be": 2
+            },
+            {
+              "text": "Abwägung mit Bezug zu M1 und M2",
+              "be": 1
+            },
+            {
+              "text": "Begründetes Fazit mit konkreter Konsequenz (z. B. geeignet, aber Vereinsspieler als Experten/Zusatzregeln einbinden; Dribbelregel später schrittweise wieder einführen)",
+              "be": 1
+            }
+          ],
+          "muster": "Für das genetische Konzept spricht:\n• Die Klasse ist sehr heterogen. Das genetische Konzept stellt die Lernenden in den Mittelpunkt und bindet gerade Leistungsschwächere ein. M2 belegt das deutlich: Die übrigen Spieler haben fast dreimal so viele Ballkontakte, niemand bleibt ohne Ball, Unterbrechungen sinken von 19 auf 6, es fallen mehr Körbe.\n• Die Schüler entwickeln Regeln selbst und lernen, ein Spiel an die Gruppe anzupassen. Damit wird die Spielfähigkeit im weiteren Sinne (Spiel organisieren, Regeln aushandeln) gefördert, ebenso Selbstständigkeit und Regelverständnis.\n\nGegen das genetische Konzept spricht:\n• Die Vereinsspieler verlieren an Motivation („das sei kein Basketball mehr“); ihre Ballkontakte sinken von 41 auf 29. Der Motivationsverlust Leistungsstärkerer ist ein bekannter Nachteil des Konzepts.\n• Das Vorgehen ist zeitaufwendig; in einer Doppelstunde wurde bisher nur eine Regeländerung erarbeitet.\n• Ohne Dribbelregel entfernt sich das Spiel vom Zielspiel. Wird das Dribbeln nicht später wieder eingeführt, ist der Transfer in das eigentliche Basketballspiel fraglich.\n\nAbwägung: Für eine heterogene 9. Klasse überwiegen die Vorteile, weil die Mehrheit erstmals am Spiel teilhat und die Spielidee erlebt. Die Nachteile lassen sich durch Ergänzungen auffangen.\n\nFazit: Das Konzept ist geeignet, wenn die Lehrkraft die Klage der Vereinsspieler als neues Problem in den Kreislauf aufnimmt, z. B. durch Zusatzregeln für Vereinsspieler (nur dribbeln erlaubt, Korb zählt nur nach Pass) oder ihren Einsatz als Teamcoaches, und wenn die Dribbelregel schrittweise wieder eingeführt wird."
+        },
+        {
+          "nr": "5",
+          "operator": "Entwerfen",
+          "afb": "III",
+          "be": 6,
+          "aufgabe": "Entwerfen Sie eine Folgestunde nach dem Taktik-Spiel-Konzept, in der das taktische Problem „Freilaufen und Anbieten“ im Mittelpunkt steht, und begründen Sie, wie dabei auch die Antizipation der Spieler geschult wird.",
+          "erwartung": [
+            {
+              "text": "Struktur des Taktik-Spiel-Konzepts erkennbar: Spielform – Reflexion – Fertigkeitsübung – Spielform",
+              "be": 2
+            },
+            {
+              "text": "Eingangsspielform erzeugt das taktische Problem Freilaufen/Anbieten (z. B. 3 gegen 3 Ballhalten ohne Dribbeln, Punkt nach 5 Pässen)",
+              "be": 1
+            },
+            {
+              "text": "Reflexionsfragen zu Zeit, Raum und Risiko formuliert (z. B. Wann laufe ich los? Wohin? Welcher Pass ist sicher?)",
+              "be": 1
+            },
+            {
+              "text": "Begründet Schulung der Antizipation: Passgeber antizipiert Laufweg (Fremdantizipation), Mitspieler antizipiert Passzeitpunkt bzw. Verteidiger die Passwege; Hinweisreize (Blick, Körperstellung) bewusst machen",
+              "be": 2
+            }
+          ],
+          "muster": "Folgestunde „Sich freilaufen und anbieten“ (Taktik-Spiel-Konzept)\n\n1. Spielform: 3 gegen 3 im Hallendrittel ohne Korb. Die angreifende Mannschaft erhält einen Punkt für fünf Pässe in Folge, Dribbeln ist nicht erlaubt, Laufen mit dem Ball maximal zwei Schritte. So entsteht sofort das taktische Problem: Ohne Bewegung ohne Ball geht der Ball verloren.\n\n2. Reflexion: Die Lehrkraft fragt:\n• Zeit: Wann ist der beste Moment, um loszulaufen?\n• Raum: Wohin musst du laufen, damit der Ballbesitzer dich anspielen kann?\n• Risiko: Welcher Pass ist sicher, welcher riskant?\nDie Schüler finden Lösungen wie: in den freien Raum laufen, Blickkontakt suchen, kurze Tempowechsel.\n\n3. Fertigkeitsübung: 2 gegen 1 im Korridor: Ein Spieler mit Ball, ein Mitspieler muss sich gegen einen Verteidiger durch Antäuschen und Richtungswechsel freilaufen; Druckpass bzw. Bodenpass in den Lauf.\n\n4. Abschlussspielform: 4 gegen 4 auf einen Korb; ein Korb zählt doppelt, wenn er nach einem Pass auf einen freigelaufenen Spieler erzielt wird.\n\nAntizipation: Der Passgeber muss den Laufweg seines Mitspielers vorwegnehmen und in den Lauf spielen (Fremdantizipation, Ereignis- und Zeitantizipation). Der Freilaufende muss vorwegnehmen, wann der Ballbesitzer passen kann. Die Verteidiger lernen, Passwege aus Hinweisreizen (Blick, Körperstellung des Passgebers) zu antizipieren. Durch die Reflexion werden diese Hinweisreize bewusst gemacht; das wiederholte Spielen erweitert die Spielerfahrung, auf der Erfahrungsantizipation beruht."
+        }
+      ]
+    },
+    {
+      "id": "k-q1.4-2",
+      "themen": [
+        "Q1.4",
+        "Q1.1"
+      ],
+      "titel": "Handballnachmittag für Fünftklässler",
+      "zeit": 100,
+      "einleitung": "Ihr Sport-Leistungskurs organisiert für die vier 5. Klassen der Schule einen Handballnachmittag. Die Fünftklässler sollen das Spiel kennenlernen und Spaß daran haben. In einer Probestunde mit einer 5. Klasse wurde das Zielspiel mit offiziellen Regeln gespielt. Sie sollen die Probestunde auswerten und das Konzept für den Nachmittag verbessern.",
+      "material": [
+        {
+          "titel": "M1: Rahmenbedingungen",
+          "text": "• Teilnehmende: ca. 100 Kinder (10–11 Jahre), davon 12 im Handballverein, viele ohne Ballspielerfahrung.\n• Zeit: 13:30 bis 16:00 Uhr.\n• Ort: Dreifachhalle mit zwei Handballtoren pro Hallendrittel, zusätzlich Weichbodenmatten, Kästen, Langbänke, Softbälle und Handbälle Größe 0 und 1.\n• Helfer: 18 Schülerinnen und Schüler des Leistungskurses.\n• Wunsch der Klassenlehrkräfte: „Alle sollen viel spielen, niemand soll ausgeschlossen werden.“"
+        },
+        {
+          "titel": "M2: Beobachtungen in der Probestunde (Zielspiel 7 gegen 7, Normalball, offizielle Regeln, 10 Minuten)",
+          "tabelle": {
+            "kopf": [
+              "Merkmal",
+              "Wert"
+            ],
+            "zeilen": [
+              [
+                "Spielunterbrechungen durch Schrittfehler/Prellfehler",
+                "23"
+              ],
+              [
+                "Torwürfe gesamt",
+                "9"
+              ],
+              [
+                "Tore gesamt",
+                "3"
+              ],
+              [
+                "Tore durch Vereinsspieler",
+                "3"
+              ],
+              [
+                "Kinder mit höchstens einem Ballkontakt",
+                "6 von 14"
+              ],
+              [
+                "Kinder, die sich in der Abwehr nur am Kreis aufhalten",
+                "8 von 14"
+              ],
+              [
+                "Zweikämpfe, die mit Foul enden",
+                "11"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Aussagen aus der Feedbackrunde",
+          "text": "Mia: „Ich hab mich nicht getraut, den Ball zu fangen, der ist so hart.“\nBen (Vereinsspieler): „Die anderen spielen nie ab, wenn ich frei bin.“\nElif: „Immer wurde gepfiffen, dann war der Ball weg.“\nNoah: „Ich stand die ganze Zeit vorne und hab gewartet.“"
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Nennen und beschreiben",
+          "afb": "I",
+          "be": 10,
+          "aufgabe": "Nennen Sie die fünf Regelkategorien nach Digel sowie die allgemeinen Grundsätze für Spielvermittlungskonzepte nach Söll. Beschreiben Sie außerdem, was Spielleitung bei der Organisation von Sportspielen für andere umfasst.",
+          "erwartung": [
+            {
+              "text": "Nennt Inventar-, Raum-, Zeit-, Personal- und Handlungsregeln (bei 4 richtigen 1 BE)",
+              "be": 2
+            },
+            {
+              "text": "Söll: mit möglichst geringer Spielerzahl beginnen; optimale Spielerzahl für die Feldgröße nicht überschreiten",
+              "be": 1
+            },
+            {
+              "text": "Söll: Spielanteile gleichmäßig verteilen; wenn geübt wird, dann spielnah und intensiv",
+              "be": 1
+            },
+            {
+              "text": "Söll: Regelvereinfachungen unter Bewahrung der unverzichtbaren Regeln bzw. Spielidee",
+              "be": 1
+            },
+            {
+              "text": "Spielleitung: Spiel vorbereiten und organisieren (Teameinteilung, Feld, Material, Zeitplan, Wechselmodus)",
+              "be": 1
+            },
+            {
+              "text": "Spielleitung: Regeln vorab verständlich erklären/demonstrieren, Regeleinhaltung überwachen, Entscheidungen treffen und begründen",
+              "be": 2
+            },
+            {
+              "text": "Spielleitung: Fairness und Sicherheit gewährleisten, Spielverlauf beobachten und Regeln bei Bedarf an die Gruppe anpassen, Spiel bei Störungen wiederherstellen",
+              "be": 2
+            }
+          ],
+          "muster": "Regelkategorien nach Digel:\n• Inventarregeln (z. B. Ball, Tore)\n• Raumregeln (z. B. Spielfeldgröße, Zonen)\n• Zeitregeln (z. B. Spieldauer)\n• Personalregeln (z. B. Anzahl der Spieler)\n• Handlungsregeln (z. B. Schrittregel, Foulregel)\n\nGrundsätze nach Söll (auf Grundlage von Regelvereinfachungen und unter Bewahrung der unverzichtbaren Spielregeln bzw. der Spielidee):\n• zu Beginn mit möglichst geringer Spielerzahl spielen,\n• die für eine Spielfeldgröße optimale Spielerzahl nicht überschreiten,\n• Spielanteile möglichst gleichmäßig auf alle verteilen,\n• wenn geübt werden muss, dann spielnah und intensiv üben.\n\nSpielleitung umfasst:\n• Vorbereitung und Organisation: Mannschaften gerecht einteilen, Spielfelder und Material vorbereiten, Zeitplan und Wechselmodus festlegen.\n• Regelvermittlung: Regeln vor Spielbeginn kurz, verständlich und zielgruppengerecht erklären, ggf. demonstrieren.\n• Leitung während des Spiels: Regeleinhaltung überwachen, Entscheidungen klar treffen und erklären, für Fairness und Sicherheit sorgen.\n• Steuerung: Spielverlauf beobachten, bei Problemen (z. B. ungleiche Beteiligung, zu viele Unterbrechungen) Regeln anpassen und das Spiel bei Störungen wiederherstellen."
+        },
+        {
+          "nr": "2",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie die Beobachtungen der Probestunde (M2) und die Aussagen der Kinder (M3) im Hinblick auf die Probleme des Zielspiels für diese Zielgruppe.",
+          "erwartung": [
+            {
+              "text": "Technische Überforderung: 23 Unterbrechungen durch Schritt-/Prellfehler, Bezug zu Elif (Spielfluss fehlt)",
+              "be": 2
+            },
+            {
+              "text": "Ungleiche Beteiligung: 6 von 14 Kindern höchstens ein Ballkontakt, alle Tore durch Vereinsspieler, Bezug zu Noah bzw. Ben",
+              "be": 2
+            },
+            {
+              "text": "Geringe Erfolgsquote: 9 Würfe, nur 3 Tore; Spielidee kaum erlebbar",
+              "be": 1
+            },
+            {
+              "text": "Angst vor dem Ball (Mia): Inventar (harter Normalball) ungeeignet",
+              "be": 1
+            },
+            {
+              "text": "Taktische Defizite: 8 Kinder bleiben in der Abwehr am Kreis, fehlendes Freilaufen/Anbieten bzw. Abspielen (Ben, Noah); 11 Foul-Zweikämpfe zeigen fehlende Erfahrung mit fairer Körperbetonung",
+              "be": 2
+            }
+          ],
+          "muster": "Die Probestunde zeigt, dass das Zielspiel mit offiziellen Regeln die Fünftklässler überfordert:\n\n• Technische Überforderung: 23 Unterbrechungen durch Schritt- und Prellfehler in 10 Minuten bedeuten mehr als zwei pro Minute. Elifs Aussage („Immer wurde gepfiffen, dann war der Ball weg“) bestätigt, dass kaum Spielfluss entsteht.\n• Ungleiche Beteiligung: 6 von 14 Kindern hatten höchstens einen Ballkontakt, alle drei Tore erzielten Vereinsspieler. Noah stand „die ganze Zeit vorne“ und wartete, Ben beklagt, dass nicht abgespielt wird. Die Spielanteile sind sehr ungleich verteilt.\n• Geringe Erfolgsquote: Bei 9 Würfen fallen nur 3 Tore. Für die meisten Kinder ist die Spielidee (Tore erzielen) kaum erlebbar.\n• Inventar: Mia traut sich nicht, den harten Ball zu fangen. Der Normalball ist für die Zielgruppe ungeeignet und erzeugt Angst.\n• Taktik: 8 von 14 Kindern bleiben in der Abwehr nur am Kreis, viele bewegen sich im Angriff nicht ohne Ball. Es fehlt an individual- und gruppentaktischem Verhalten wie Freilaufen, Anbieten und Abspielen.\n• Körperkontakt: 11 Zweikämpfe enden mit Foul. Die Kinder haben noch keine Erfahrung mit fairer Körperbetonung.\n\nInsgesamt sind Komplexitäts-, Zeit- und Situationsdruck des Zielspiels zu hoch; die Regeln verhindern ein freudvolles Spielerlebnis."
+        },
+        {
+          "nr": "3",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erläutern Sie mithilfe des KAR-Modells, wie Regelvereinfachungen die in Aufgabe 2 herausgearbeiteten Probleme verringern können. Nutzen Sie dazu mindestens vier konkrete Regeländerungen aus verschiedenen Kategorien nach Digel.",
+          "erwartung": [
+            {
+              "text": "Erläutert das Grundprinzip: Regeln wirken wie Regler, mit denen Druckbedingungen gesenkt (oder für Stärkere erhöht) werden, Spielidee bleibt erhalten",
+              "be": 1
+            },
+            {
+              "text": "Handlungsregel (z. B. Laufen mit Ball erlaubt/Handballrugby): senkt Komplexitätsdruck, weniger Unterbrechungen",
+              "be": 2
+            },
+            {
+              "text": "Inventarregel (z. B. Softball, größere Tore/Kästen als Ziel): senkt Präzisionsdruck und nimmt Angst vor dem Ball",
+              "be": 1
+            },
+            {
+              "text": "Personal- oder Raumregel (z. B. 4 gegen 4 auf kleinerem Feld, Überzahl/neutraler Spieler): senkt Situationsdruck und erhöht Ballkontakte",
+              "be": 2
+            },
+            {
+              "text": "Weitere Regel für Beteiligung bzw. Differenzierung (z. B. Tor zählt nur, wenn alle den Ball hatten; Vereinsspieler nur mit schwacher Hand; Zonenregel gegen Kreisstehen)",
+              "be": 1
+            },
+            {
+              "text": "Jeweils korrekte Zuordnung zu Digels Kategorien",
+              "be": 1
+            }
+          ],
+          "muster": "Nach dem KAR-Modell entstehen koordinative Anforderungen aus Informationsanforderungen und Druckbedingungen. Regelvereinfachungen wirken wie Regler: Sie senken gezielt einzelne Druckbedingungen, sodass das Spiel für Anfänger lösbar wird, ohne die Spielidee aufzugeben. Umgekehrt können Regeln den Druck für Stärkere erhöhen.\n\n• Handlungsregel – Laufen mit dem Ball ist erlaubt (wie im Handballrugby), Prellen ist freiwillig: Laufen und Prellen müssen nicht gleichzeitig koordiniert werden, der Komplexitätsdruck sinkt. Schritt- und Prellfehler entfallen, die 23 Unterbrechungen werden stark reduziert, Elifs Problem ist gelöst.\n• Inventarregel – Softball bzw. Ball Größe 0 und größere Ziele (z. B. Tor ohne Torwart oder Kasten als zusätzliches Ziel): Der Präzisionsdruck sinkt, mehr Würfe führen zum Erfolg. Der weiche Ball nimmt Mia die Angst.\n• Personalregel – 4 gegen 4 statt 7 gegen 7, ggf. mit neutralem Spieler: Weniger Spieler machen die Situation überschaubarer (Situationskomplexität sinkt), jedes Kind hat mehr Ballkontakte, der Neutrale schafft Überzahl und eine sichere Anspielstation (geringerer Zeitdruck).\n• Raumregel – kleineres Feld (Hallendrittel quer) mit Zonen: z. B. darf in der Abwehr nur ein Kind im Kreisbereich stehen. Das zwingt die Abwehr, herauszutreten, und verringert das passive Kreisstehen.\n• Handlungsregel zur Beteiligung – Ein Tor zählt nur, wenn vorher alle Teammitglieder den Ball hatten; Vereinsspieler werfen mit der schwachen Hand: Spielanteile verteilen sich, für Vereinsspieler steigen Präzisions- und Komplexitätsdruck (Differenzierung). Das greift auch Bens und Noahs Aussagen auf."
+        },
+        {
+          "nr": "4",
+          "operator": "Entwickeln",
+          "afb": "III",
+          "be": 8,
+          "aufgabe": "Entwickeln Sie ein Organisationskonzept für den Handballnachmittag (M1), das die Wünsche der Klassenlehrkräfte erfüllt und die Spielleitung durch die Kursmitglieder regelt.",
+          "erwartung": [
+            {
+              "text": "Organisationsform für ca. 100 Kinder mit hoher Aktivität (z. B. mehrere Kleinfelder parallel, Rotationssystem/Stationsturnier mit Spiel- und Übungsstationen)",
+              "be": 2
+            },
+            {
+              "text": "Gerechte Teambildung (gemischt nach Klassen/Leistung, Vereinsspieler verteilt) und zeitliche Struktur (Spielzeiten, Pausen, Wechsel, Ablauf des Nachmittags)",
+              "be": 1
+            },
+            {
+              "text": "Spielformen mit Regelvereinfachungen und erhaltener Spielidee, zielgruppengerechtes Material (Softbälle, Ball Größe 0)",
+              "be": 1
+            },
+            {
+              "text": "Konkrete Aufgabenverteilung der 18 Helfer (Spielleitung je Feld, Stationsbetreuung, Zeitnahme/Turnierleitung, Erste Hilfe)",
+              "be": 1
+            },
+            {
+              "text": "Regeln für die Spielleitung: einheitliche Regeln, kurze Einweisung der Helfer, Erklären/Demonstrieren vor Spielbeginn, Fairness/Sicherheit, Befugnis zur Regelanpassung",
+              "be": 1
+            },
+            {
+              "text": "Schlüssige Begründung mit Bezug zu M1–M3 und Fachbegriffen (z. B. Söll-Grundsätze, Spielfähigkeit, Freudbetontheit)",
+              "be": 2
+            }
+          ],
+          "muster": "Organisationskonzept „Handball-Entdeckertag“\n\nAufbau: Jedes Hallendrittel wird quer in zwei Kleinfelder geteilt; so entstehen sechs Spielfelder mit kleinen Toren bzw. Kästen als Ziele (Weichböden als Prallschutz). Zusätzlich gibt es zwei Übungsstationen am Hallenrand (Zielwurf auf Kästen, Passstaffel).\n\nTeams: Die ca. 100 Kinder werden klassenübergreifend in 16 Teams zu je 6 Kindern eingeteilt (4 auf dem Feld, 2 Wechsler). Die 12 Vereinsspieler werden auf verschiedene Teams verteilt. Teamnamen und Leibchen stärken das Wir-Gefühl.\n\nAblauf:\n• 13:30 gemeinsame Begrüßung und Aufwärmspiel.\n• 13:45–15:30 Stationsturnier: 12 Teams spielen auf den sechs Feldern, 4 Teams sind an den zwei Übungsstationen; alle 8 Minuten wird rotiert (Spiel – Spiel – Station …). Gespielt wird Handballrugby-ähnlich 4 gegen 4 mit Softball: Laufen mit dem Ball erlaubt, Tor zählt nur, wenn alle Feldspieler den Ball hatten, Vereinsspieler werfen mit der schwachen Hand.\n• 15:30 Abschlussspiel „Klassen-Mixed-Finale“ und Ehrung aller Teams.\n\nSpielleitung durch den Kurs:\n• 6 Kursmitglieder leiten je ein Feld, 4 betreuen die Stationen, 2 übernehmen Turnierleitung und Zeitnahme, 2 sind Sanitäts- und Materialteam, 4 sind Springer bzw. Teambetreuer.\n• Vorab gibt es eine Helfereinweisung mit einheitlichen Regeln. Jede Spielleitung erklärt die Regeln vor dem ersten Spiel kurz mit Demonstration, achtet auf Fairness und Sicherheit (Klammern nur am Oberkörper, kein Stoßen) und darf Regeln anpassen, wenn ein Team dauerhaft dominiert (z. B. neutraler Spieler für das schwächere Team).\n\nBegründung: Kleine Teams und parallele Felder sorgen für viele Ballkontakte (Söll) und erfüllen den Wunsch der Lehrkräfte, dass alle viel spielen. Softball und Laufen mit Ball greifen die Probleme aus M2 und M3 auf (Angst vor dem Ball, Unterbrechungen). Die Regel „alle hatten den Ball“ verhindert, dass Vereinsspieler allein spielen. Die Spielidee des Handballs bleibt erhalten, sodass die Kinder Freude am Spiel erleben."
+        },
+        {
+          "nr": "5",
+          "operator": "Erörtern",
+          "afb": "III",
+          "be": 6,
+          "aufgabe": "Ein Kursmitglied schlägt vor, statt Handballspielformen am Nachmittag ausschließlich Bausteinspiele der Heidelberger Ballschule anzubieten. Erörtern Sie diesen Vorschlag.",
+          "erwartung": [
+            {
+              "text": "Pro: Ballschule zielgruppengerecht für Kinder (vom Allgemeinen zum Spezifischen), vielseitig, freudbetont, viele ohne Ballerfahrung profitieren von Basiskompetenzen",
+              "be": 2
+            },
+            {
+              "text": "Contra: Ziel des Nachmittags ist das Kennenlernen des Handballs; Spielidee des Zielspiels bei allgemeiner Ballschule kaum erlebbar (Remmert), Kinder wollen „richtig“ spielen, Vereinsspieler unterfordert",
+              "be": 2
+            },
+            {
+              "text": "Abwägung mit Bezug zu M1–M3",
+              "be": 1
+            },
+            {
+              "text": "Begründetes Fazit (z. B. Ballschul-Elemente als Aufwärm- oder Stationsbausteine, Hauptteil Handballspielformen)",
+              "be": 1
+            }
+          ],
+          "muster": "Pro:\n• Die Heidelberger Ballschule (Kröger & Roth) richtet sich an Kinder und vermittelt vom Allgemeinen zum Spezifischen taktische, koordinative und technische Basiskompetenzen. Viele Kinder haben laut M1 keine Ballspielerfahrung und würden davon profitieren.\n• Bausteinspiele sind vielseitig und freudbetont, technische Hürden wie Schrittregel oder Prellen entfallen. Auch Mia oder Noah wären stärker beteiligt.\n\nContra:\n• Ziel des Nachmittags ist ausdrücklich, das Handballspiel kennenzulernen. Die allgemeine Ballschule führt bewusst nicht zu einem bestimmten Zielspiel; die Spielidee des Handballs wäre kaum erlebbar, was Remmerts Kernfrage widerspricht.\n• Kinder wollen meist direkt „richtig“ spielen; ein reines Ballschulprogramm könnte für einen besonderen Handballnachmittag enttäuschend wirken.\n• Die 12 Vereinsspieler wären unterfordert.\n• Ein einmaliger Nachmittag reicht ohnehin nicht, um die zeitaufwendigen Wirkungen der Ballschule zu erzielen.\n\nAbwägung und Fazit: Die Ballschule passt zur Zielgruppe, aber nicht zum Ziel des Nachmittags. Ich lehne den Vorschlag in dieser ausschließlichen Form ab. Sinnvoll ist es, Bausteinspiele (z. B. Ballkoordination unter Zeitdruck) im Aufwärmen und an den Übungsstationen einzubauen, während im Hauptteil vereinfachte Handballspielformen mit erlebbarer Spielidee gespielt werden."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1791 @@
+{
+ "einzel": [
+  {
+   "id": "e-q1.2-01",
+   "thema": "Q1.2",
+   "titel": "Phasenstruktur azyklischer und zyklischer Bewegungen",
+   "operator": "Beschreiben",
+   "afb": "I",
+   "be": 6,
+   "material": "",
+   "aufgabe": "Beschreiben Sie die morphologische Grundstruktur azyklischer und zyklischer Bewegungen nach Meinel/Schnabel. Gehen Sie dabei auf die Funktionen der Phasen ein und nennen Sie jeweils ein Beispiel.",
+   "erwartung": [
+    {
+     "text": "Azyklische Bewegung: Bewegungszweck wird durch eine einmalige Hauptphase erreicht; dreiphasige Struktur Vorbereitungs-, Haupt-, Endphase",
+     "be": 1
+    },
+    {
+     "text": "Funktion Vorbereitungsphase: schafft optimale Voraussetzungen für die Hauptphase (z. B. durch Ausholbewegungen)",
+     "be": 1
+    },
+    {
+     "text": "Funktion Hauptphase: unmittelbare Lösung der Bewegungsaufgabe; Funktion Endphase: Übergang aus labiler Position in stabiles Gleichgewicht bzw. Ruhezustand",
+     "be": 1
+    },
+    {
+     "text": "Zyklische Bewegung: Bewegungszweck nur durch Wiederholung gleichartiger Zyklen erreichbar; zweiphasige Struktur aus Hauptphase und Zwischenphase",
+     "be": 1
+    },
+    {
+     "text": "Zwischenphase entsteht durch Phasenverschmelzung: Endphase des einen Zyklus und Vorbereitungsphase des nächsten Zyklus fallen zusammen",
+     "be": 1
+    },
+    {
+     "text": "Passende Beispiele: azyklisch z. B. Kugelstoß, Weitsprung, Wurf; zyklisch z. B. Laufen, Schwimmen, Rudern, Radfahren",
+     "be": 1
+    }
+   ],
+   "muster": "Meinel/Schnabel unterscheiden nach der morphologischen Grundstruktur azyklische und zyklische Bewegungen.\n• Azyklische Bewegungen (z. B. Kugelstoß, Weitsprung, Handballwurf): Der Bewegungszweck wird mit einer einmaligen Hauptphase erreicht. Es ergibt sich eine dreiphasige Struktur.\n• Vorbereitungsphase: schafft durch Ausholbewegungen, Anlauf oder Angleiten optimale Voraussetzungen für eine erfolgreiche und ökonomische Hauptphase.\n• Hauptphase: Hier wird die Bewegungsaufgabe unmittelbar gelöst, z. B. Ausstoßen der Kugel.\n• Endphase: führt aus der meist labilen Position am Ende der Hauptphase in einen stabilen Gleichgewichtszustand zurück, z. B. Umspringen nach dem Stoß, Landung.\n• Zyklische Bewegungen (z. B. Sprint, Kraulschwimmen, Rudern): Der Bewegungszweck ist nur durch die ständige Wiederholung gleich gebauter Zyklen zu erreichen. Die Endphase eines Zyklus verschmilzt mit der Vorbereitungsphase des nächsten (Phasenverschmelzung). Daraus entsteht eine zweiphasige Struktur aus Hauptphase und Zwischenphase. Beim Sprint ist z. B. der vordere Stütz (Amortisation) die Zwischenphase, der Abdruck im hinteren Stütz mit anschließender Flugphase die Hauptphase.",
+   "tipp": "Beschreiben heißt: Sachverhalt strukturiert und fachsprachlich wiedergeben, ohne zu bewerten. Für volle Punkte gehören Funktion jeder Phase und der Begriff Phasenverschmelzung dazu."
+  },
+  {
+   "id": "e-q1.2-02",
+   "thema": "Q1.2",
+   "titel": "Anfangskraft und optimaler Beschleunigungsweg",
+   "operator": "Beschreiben",
+   "afb": "I",
+   "be": 6,
+   "material": "",
+   "aufgabe": "Beschreiben Sie das biomechanische Prinzip der Anfangskraft und das Prinzip des optimalen Beschleunigungswegs. Nennen Sie jeweils ein sportliches Beispiel.",
+   "erwartung": [
+    {
+     "text": "Anfangskraft: Bei einer Beuge-Streck-Bewegung mit sofortiger Bewegungsumkehr wird durch das Abbremsen der Ausholbewegung eine positive Anfangskraft zu Beginn der Streckbewegung erzeugt",
+     "be": 1
+    },
+    {
+     "text": "Das Verhältnis von Brems- und Beschleunigungskraftstoß muss optimal sein; das Kraftmaximum soll erst im Beschleunigungskraftstoß, nicht schon beim Abbremsen erreicht werden",
+     "be": 1
+    },
+    {
+     "text": "Beispiel Anfangskraft: z. B. Counter-Movement-Jump, Ausholbewegung beim Blocksprung oder Sprungwurf",
+     "be": 1
+    },
+    {
+     "text": "Optimaler Beschleunigungsweg: Ziel ist eine maximale Endgeschwindigkeit; die Länge des Beschleunigungswegs hängt von Winkelstellungen der Körperteile und zeitlichen Bedingungen ab",
+     "be": 1
+    },
+    {
+     "text": "Der Weg soll optimal (nicht maximal) und geradlinig oder stetig gekrümmt verlaufen",
+     "be": 1
+    },
+    {
+     "text": "Beispiel Beschleunigungsweg: z. B. O'Brien-Technik (geradlinig) oder Hammerwurf/Drehstoß (kreisförmig)",
+     "be": 1
+    }
+   ],
+   "muster": "• Prinzip der Anfangskraft: Wird bei einer Beuge- und Streckbewegung die Beugebewegung (Ausholbewegung) abgebremst und sofort in die Streckung umgekehrt, steht zu Beginn der Streckbewegung bereits eine positive Anfangskraft zur Verfügung. Das Verhältnis zwischen Bremskraftstoß und Beschleunigungskraftstoß muss optimal sein; der maximale Kraftwert soll nicht schon beim Abbremsen, sondern erst während der Beschleunigung erreicht werden (Göhner). Beispiel: Beim Counter-Movement-Jump wird eine größere Sprunghöhe erreicht als beim Squat-Jump ohne Ausholbewegung.\n• Prinzip des optimalen Beschleunigungswegs: Um eine maximale Endgeschwindigkeit des Körpers oder Geräts zu erreichen, muss der Beschleunigungsweg optimal lang sein. Die optimale Länge hängt von den Winkelstellungen der Körperteile (Muskeln müssen in günstigen Arbeitsbereichen wirken) und den zeitlichen Bedingungen ab. Der Weg soll geradlinig oder stetig gekrümmt verlaufen. Beispiel: In der O'Brien-Technik wird die Kugel durch Angleiten und Rückenstellung auf einem langen, nahezu geradlinigen Weg beschleunigt; beim Hammerwurf verläuft der Weg kreisförmig.",
+   "tipp": "Bei zwei Prinzipien in einer Aufgabe immer beide gleich sorgfältig behandeln. Das Schlüsselwort ist jeweils „optimal, nicht maximal“."
+  },
+  {
+   "id": "e-q1.2-03",
+   "thema": "Q1.2",
+   "titel": "Phasen und Phasenbeziehungen beim Weitsprung",
+   "operator": "Analysieren",
+   "afb": "II",
+   "be": 8,
+   "material": "Bewegungsbeschreibung Weitsprung (Laufsprungtechnik, Hangsprung): Jonas läuft über 16 Schritte mit zunehmender Geschwindigkeit an. Auf den letzten drei Schritten senkt er den Körperschwerpunkt leicht ab, der vorletzte Schritt ist etwas länger, der letzte kürzer. Er setzt den Sprungfuß flach und aktiv greifend auf dem Balken auf, das Sprungbein wird kurz leicht gebeugt und dann explosiv gestreckt, während Schwungbein und Arme nach oben schwingen. In der Flugphase streckt er den Körper zur Hangposition, führt dann Arme und Oberkörper nach vorne und zieht die Beine zur Landung hoch. Er landet mit weit vorgestreckten Beinen und lässt sich nach vorne über die Füße in den Sand fallen.",
+   "aufgabe": "Analysieren Sie die Bewegungsbeschreibung (Material) hinsichtlich der Phasenstruktur nach Meinel/Schnabel und der Beziehungen zwischen den Phasen.",
+   "erwartung": [
+    {
+     "text": "Ordnet den Weitsprung als azyklische Bewegung mit dreiphasiger Struktur ein (mit Hinweis, dass der Anlauf selbst zyklisch ist)",
+     "be": 1
+    },
+    {
+     "text": "Vorbereitungsphase korrekt zugeordnet: Anlauf inkl. KSP-Absenkung und Schrittrhythmus der letzten drei Schritte",
+     "be": 1
+    },
+    {
+     "text": "Hauptphase korrekt zugeordnet: Absprung (Aufsetzen, Amortisation, Streckung mit Schwungelementen) bzw. Flugphase mit Hang",
+     "be": 1
+    },
+    {
+     "text": "Endphase korrekt zugeordnet: Landevorbereitung und Landung mit Vorfallen über die Füße",
+     "be": 1
+    },
+    {
+     "text": "Erklärt die Ergebnisbeziehung: jede Phase hängt vom Ergebnis der vorherigen ab, z. B. Anlaufgeschwindigkeit bestimmt Absprungbedingungen",
+     "be": 1
+    },
+    {
+     "text": "Erklärt die starke Zweckbeziehung Hauptphase → Vorbereitungsphase am Material: KSP-Absenkung und Schrittlängenänderung dienen einem optimalen Absprung",
+     "be": 1
+    },
+    {
+     "text": "Erklärt die schwache Zweckbeziehung Endphase → Hauptphase am Material: Hang/Vorführen der Arme und Anheben der Beine dienen einer weiten Landung ohne Zurückfallen",
+     "be": 1
+    },
+    {
+     "text": "Erklärt die Kausalbeziehung: nach dem Absprung ist die Landung erzwungen, sie kann nicht mehr abgebrochen werden",
+     "be": 1
+    }
+   ],
+   "muster": "Der Weitsprung ist eine azyklische Bewegung (der zyklische Anlauf ist Teil der Vorbereitung) mit dreiphasiger Grundstruktur.\n• Vorbereitungsphase: Anlauf über 16 Schritte mit Steigerung, Absenken des KSP und veränderter Schrittrhythmus (langer vorletzter, kurzer letzter Schritt).\n• Hauptphase: Absprung mit flach-greifendem Fußaufsatz, kurzer Amortisation, explosiver Streckung des Sprungbeins und Einsatz der Schwungelemente; die Flugphase mit Hangposition gehört zur Hauptphase, da hier die Flugbahn genutzt wird.\n• Endphase: Vorführen von Armen und Oberkörper, Anheben der Beine, Landung mit Vorfallen über die Füße.\nPhasenbeziehungen:\n• Ergebnisbeziehung: Die Qualität jeder Phase hängt von der vorherigen ab. Eine hohe Anlaufgeschwindigkeit ist Voraussetzung für einen weiten Sprung, ein gelungener Absprung bestimmt die Flugbahn.\n• Starke Zweckbeziehung von der Haupt- zur Vorbereitungsphase: Das Absenken des KSP und der lange vorletzte Schritt sind nur sinnvoll, weil sie einen optimalen, nach vorne-oben gerichteten Absprung ermöglichen. Die Vorbereitung ordnet sich der Hauptphase funktional unter.\n• Schwache Zweckbeziehung von der End- zur Hauptphase: Die Flugaktionen (Hang, Vorführen der Arme) werden so gestaltet, dass eine weite Landung mit vorgestreckten Beinen gelingt. Fällt Jonas nach hinten, verschenkt er Weite.\n• Kausalbeziehung: Hat Jonas abgesprungen, ist die Landung zwingend; eine Hauptphase kann nicht ohne Endphase abgebrochen werden. Der Anlauf dagegen kann abgebrochen werden.",
+   "tipp": "Analysieren heißt: Material gezielt nach Kriterien untersuchen. Ordne jede Phase mit Zitat oder Verweis aus dem Material zu und belege jede Phasenbeziehung an einem konkreten Detail."
+  },
+  {
+   "id": "e-q1.2-04",
+   "thema": "Q1.2",
+   "titel": "Gegenwirkung beim Handballschlagwurf",
+   "operator": "Erläutern",
+   "afb": "II",
+   "be": 6,
+   "material": "Trainerin Svenja beobachtet bei ihrer Rückraumspielerin Elif (16): Beim Schlagwurf aus dem Stand bleibt Elifs linker Arm (Wurfarm rechts) passiv hängen, der Oberkörper dreht beim Abwurf kaum ein und die Würfe sind schwach und streuen stark nach links und rechts.",
+   "aufgabe": "Erläutern Sie das biomechanische Prinzip der Gegenwirkung am Beispiel des Handballschlagwurfs und beziehen Sie sich dabei auf die Beobachtung im Material.",
+   "erwartung": [
+    {
+     "text": "Formuliert das Prinzip: Bewegung einzelner Körperteile hat Gegenbewegung anderer Körperteile zur Folge",
+     "be": 1
+    },
+    {
+     "text": "Nennt die Grundlage: bei Translation Wechselwirkungsgesetz (actio = reactio), bei Rotation Drehmoment-Reaktion",
+     "be": 1
+    },
+    {
+     "text": "Erläutert am Schlagwurf: aktives Zurück-/Herunterziehen des Nichtwurfarms (linker Arm) bewirkt ein verstärktes Eindrehen von Schulter/Oberkörper zur Wurfseite",
+     "be": 1
+    },
+    {
+     "text": "Erläutert den Bodenkontakt: Stemmschritt/Stemmbein überträgt Kraft gegen den Boden, die Bodenreaktionskraft ermöglicht das Abbremsen und die Impulsübertragung",
+     "be": 1
+    },
+    {
+     "text": "Nennt die Funktionen: Verbesserung des Beschleunigungsverlaufs (höhere Abwurfgeschwindigkeit) und der Zielgenauigkeit/Stabilität",
+     "be": 1
+    },
+    {
+     "text": "Bezieht dies auf Elif: passiver linker Arm → fehlende Gegenbewegung → geringe Rumpfrotation, schwache und ungenaue Würfe",
+     "be": 1
+    }
+   ],
+   "muster": "Das Prinzip der Gegenwirkung besagt, dass die Bewegung einzelner Körperteile notwendigerweise Gegenbewegungen anderer Körperteile zur Folge hat. Grundlage ist bei Translationen das Wechselwirkungsgesetz (actio = reactio), bei Rotationen die Drehmoment-Reaktion.\n• Beim Schlagwurf wird der Nichtwurfarm (bei Rechtshänderinnen der linke Arm) aktiv nach unten-hinten an den Körper gezogen. Als Drehmoment-Reaktion dreht die rechte Schulter verstärkt nach vorne ein. Dadurch wird der Beschleunigungsweg des Balls vergrößert und die Rumpfrotation stabilisiert.\n• Mit dem Stemmbein drückt die Werferin gegen den Boden. Die gleich große Bodenreaktionskraft bremst den Unterkörper ab, wodurch der Impuls auf Rumpf, Schulter und Arm übertragen werden kann.\n• Funktionen: Verbesserung des Beschleunigungsverlaufs (höhere Abwurfgeschwindigkeit) und der Zielgenauigkeit, da der Körper beim Abwurf stabil bleibt.\n• Bezug zu Elif: Ihr linker Arm hängt passiv, daher fehlt die Gegenbewegung. Der Oberkörper dreht kaum ein, der Ball wird vor allem aus dem Arm beschleunigt. Folgen sind schwache Würfe, und weil der Rumpf nicht stabilisiert wird, streuen die Würfe seitlich. Svenja sollte ein aktives Herunterziehen des linken Arms anleiten.",
+   "tipp": "Erläutern heißt: Zusammenhang erklären UND an einem Beispiel veranschaulichen. Der Bezug auf die konkrete Beobachtung im Material gibt hier den letzten Punkt."
+  },
+  {
+   "id": "e-q1.2-05",
+   "thema": "Q1.2",
+   "titel": "Impulserhaltung beim Wasserspringen",
+   "operator": "Erklären",
+   "afb": "II",
+   "be": 6,
+   "material": "Wasserspringerin Hanna (15) springt vom 3-m-Brett einen Salto vorwärts. Gehockt gelingt ihr der 2½-fache Salto sicher. In der gestreckten Ausführung schafft sie bei gleichem Absprung nur etwa einen einfachen Salto und taucht flach ein. Kurz vor dem Eintauchen öffnet sie die Hocke jeweils, um senkrecht einzutauchen.",
+   "aufgabe": "Erklären Sie die Beobachtungen im Material mithilfe des Prinzips der Impulserhaltung.",
+   "erwartung": [
+    {
+     "text": "Formuliert das Prinzip: Annäherung der Extremitäten an die Drehachse erhöht die Drehgeschwindigkeit, Entfernen verringert sie, ohne zusätzlichen Krafteinsatz",
+     "be": 1
+    },
+    {
+     "text": "Nennt den Drehimpulserhaltungssatz: in der Flugphase wirken keine äußeren Drehmomente, L = J × ω bleibt konstant",
+     "be": 1
+    },
+    {
+     "text": "Der Drehimpuls wird ausschließlich beim Absprung (Drehmomentenstoß) erzeugt und ist in der Luft festgelegt",
+     "be": 1
+    },
+    {
+     "text": "Erklärt die Hocke: kleiner Drehwiderstand J → große Winkelgeschwindigkeit ω (etwa dreifach gegenüber gestreckt) → mehr Drehungen",
+     "be": 1
+    },
+    {
+     "text": "Erklärt die gestreckte Ausführung: großer Drehwiderstand → geringe Winkelgeschwindigkeit → weniger Drehungen bei gleichem Absprung",
+     "be": 1
+    },
+    {
+     "text": "Erklärt das Öffnen vor dem Eintauchen: J wird vergrößert, ω sinkt, die Rotation wird gebremst und ein kontrolliertes, senkrechtes Eintauchen ermöglicht",
+     "be": 1
+    }
+   ],
+   "muster": "Das Prinzip der Impulserhaltung besagt: Durch Annäherung der Extremitäten an die Drehachse wird die Drehgeschwindigkeit ohne Veränderung des Krafteinsatzes erhöht, durch Entfernen verringert.\n• Grundlage ist der Drehimpulserhaltungssatz: Wirken keine äußeren Drehmomente, bleibt der Drehimpuls L = J × ω konstant. In der Flugphase ist das der Fall, die Schwerkraft greift im KSP an und erzeugt kein Drehmoment.\n• Hannas Drehimpuls entsteht allein beim Absprung vom Brett. Danach kann sie ihn nicht mehr verändern, wohl aber ihren Drehwiderstand J.\n• Gehockt sind die Körperteile nah an der Querachse, J ist klein (ca. ein Drittel der gestreckten Haltung). Da L konstant ist, steigt ω entsprechend etwa auf das Dreifache. So schafft sie 2½ Saltos.\n• Gestreckt ist J groß, ω klein. Bei gleichem Absprung reicht die Flugzeit nur für etwa einen Salto.\n• Kurz vor dem Eintauchen öffnet Hanna die Hocke: J wird größer, ω sinkt, die Drehung wird praktisch gestoppt. So kann sie senkrecht und spritzarm eintauchen. Das Prinzip erlaubt ihr also die aktive Kontrolle der Drehgeschwindigkeit.",
+   "tipp": "Erklären heißt: Ursache und Wirkung mithilfe von Gesetzmäßigkeiten darstellen. Nutze die Formel L = J × ω und wende sie auf jede Beobachtung einzeln an."
+  },
+  {
+   "id": "e-q1.2-06",
+   "thema": "Q1.2",
+   "titel": "Qualitative Bewegungsmerkmale beim Kugelstoß",
+   "operator": "Analysieren",
+   "afb": "II",
+   "be": 8,
+   "material": "Beobachtungsprotokoll Kugelstoß (O'Brien-Technik), zwei Schüler eines Sportkurses:\n• Tim: Nach dem Angleiten setzt er beide Füße nacheinander auf und verharrt kurz, bevor er stößt. Arm und Beine arbeiten nahezu gleichzeitig, die Hüfte dreht erst ein, wenn der Arm schon streckt. Die Bewegung wirkt hastig und verkrampft, die Weiten schwanken zwischen 7,10 m und 9,40 m.\n• Leon: Angleiten und Stoß gehen ohne Stockung ineinander über, die Stoßauslage wird mit betontem Aufsetzen des linken Fußes erreicht. Beine, Hüfte, Rumpf und Arm werden nacheinander gestreckt, der Arm stößt zuletzt. Seine Weiten liegen zwischen 11,20 m und 11,60 m.",
+   "aufgabe": "Analysieren Sie die Bewegungsausführungen von Tim und Leon anhand von vier qualitativen Bewegungsmerkmalen nach Meinel/Schnabel.",
+   "erwartung": [
+    {
+     "text": "Bewegungsfluss: korrekt definiert (Grad der Kontinuität im Ablauf) und angewandt: Tim stockend (Verharren nach Angleiten), Leon flüssig",
+     "be": 2
+    },
+    {
+     "text": "Bewegungskopplung: korrekt definiert (räumlich-zeitliche Verbindung, Impulsübertragung zwischen Teilbewegungen) und angewandt: Tim gleichzeitig bzw. Hüfte zu spät, Leon zeitlich gestaffelt von unten nach oben",
+     "be": 2
+    },
+    {
+     "text": "Bewegungsrhythmus: korrekt definiert (zeitlich-dynamische Gliederung, Wechsel von Spannung und Entspannung, Akzente) und angewandt: Tim verkrampft ohne Akzent, Leon betonter Stemmschritt und Stoß",
+     "be": 2
+    },
+    {
+     "text": "Bewegungskonstanz: korrekt definiert (Wiederholungsgenauigkeit) und mit den Weitenstreuungen belegt: Tim gering (2,30 m Spanne), Leon hoch (0,40 m Spanne)",
+     "be": 2
+    }
+   ],
+   "muster": "• Bewegungsfluss (Grad der Kontinuität des Ablaufs): Bei Tim ist der Fluss gestört, er verharrt nach dem Angleiten, sodass die Bewegung in zwei Teile zerfällt und Schwung verloren geht. Bei Leon gehen Angleiten und Stoß ohne Stockung ineinander über.\n• Bewegungskopplung (räumlich-zeitliche Verbindung der Teilbewegungen und Übertragung von Bewegungsimpulsen): Tim streckt Arm und Beine fast gleichzeitig und dreht die Hüfte zu spät ein. Die Teilimpulse addieren sich nicht. Leon koppelt optimal von unten nach oben (Beine – Hüfte – Rumpf – Arm), der Arm stößt zuletzt, der Impuls wird übertragen.\n• Bewegungsrhythmus (zeitlich-dynamische Gliederung, Wechsel von Spannung und Entspannung): Tims Ausführung ist hastig und verkrampft, betonte und unbetonte Teile sind nicht erkennbar. Leon setzt einen klaren Akzent mit dem Aufsetzen des Stemmbeins und dem Ausstoß nach einem lockeren Angleiten.\n• Bewegungskonstanz (Wiederholungsgenauigkeit): Tims Weiten streuen um 2,30 m, die Bewegung ist nicht stabil. Leons Weiten liegen in einem Bereich von 0,40 m, was auf eine automatisierte, konstante Ausführung hinweist.\nFazit: Tim zeigt typische Merkmale der Grobkoordination, Leon die einer stabilisierten Feinkoordination.",
+   "tipp": "Jedes Merkmal zuerst kurz definieren, dann beide Schüler mit Belegen aus dem Material vergleichen. Nur so ist es eine Analyse und keine Nacherzählung."
+  },
+  {
+   "id": "e-q1.2-07",
+   "thema": "Q1.2",
+   "titel": "Ausholbewegung beim Volleyball-Block",
+   "operator": "Beurteilen",
+   "afb": "III",
+   "be": 8,
+   "material": "Ein Volleyballtrainer gibt seinen Mittelblockerinnen die Anweisung: „Geht vor dem Block so tief wie möglich in die Knie und haltet die Position kurz, damit ihr maximal Kraft aufbauen könnt. Je tiefer ihr geht, desto höher springt ihr.“",
+   "aufgabe": "Beurteilen Sie die Anweisung des Trainers aus biomechanischer Sicht.",
+   "erwartung": [
+    {
+     "text": "Bezieht das Prinzip der Anfangskraft ein: Bewegungsumkehr ohne Pause erzeugt eine positive Anfangskraft für die Streckung",
+     "be": 1
+    },
+    {
+     "text": "Kritisiert das Halten der Position: Anfangskraft geht verloren, der Sprung wird zum Squat-Jump mit geringerer Sprunghöhe als ein CMJ",
+     "be": 1
+    },
+    {
+     "text": "Bezieht das Prinzip des optimalen Beschleunigungswegs ein: ein längerer Weg ist grundsätzlich günstig, aber nur bis zu einem optimalen Kniewinkel",
+     "be": 1
+    },
+    {
+     "text": "Begründet, warum zu tief ungünstig ist: ungünstige Gelenkwinkel/Hebelverhältnisse der Beinstrecker, größerer Bremskraftstoß, längere Dauer",
+     "be": 1
+    },
+    {
+     "text": "Bezieht die Situation im Spiel ein: Block erfordert schnelles Reagieren auf den Angriff, tiefe und lange Ausholbewegung kostet Zeit",
+     "be": 1
+    },
+    {
+     "text": "Erkennt berechtigte Aspekte der Anweisung an (Ausholbewegung an sich ist sinnvoll, Kraftaufbau notwendig)",
+     "be": 1
+    },
+    {
+     "text": "Abwägung von Pro und Contra mit Bezug zu den Formulierungen der Anweisung („so tief wie möglich“, „halten“, „maximal“)",
+     "be": 1
+    },
+    {
+     "text": "Begründetes Fazit mit Verbesserungsvorschlag (z. B. mittlere Kniebeuge mit fließender Bewegungsumkehr)",
+     "be": 1
+    }
+   ],
+   "muster": "Die Anweisung enthält einen richtigen Kern, ist aber in ihrer Absolutheit biomechanisch falsch.\nBerechtigt:\n• Eine Ausholbewegung (Kniebeuge) vor dem Sprung ist sinnvoll. Sie verlängert den Beschleunigungsweg und ermöglicht nach dem Prinzip der Anfangskraft einen höheren Sprung als aus dem Stand ohne Auftaktbewegung.\nKritik:\n• „Haltet die Position kurz“: Nach dem Prinzip der Anfangskraft entsteht die positive Anfangskraft nur bei sofortiger, fließender Bewegungsumkehr. Durch das Halten geht der Bremskraftstoß als Anfangskraft verloren, der Sprung entspricht einem Squat-Jump, der nachweislich niedriger ist als ein Counter-Movement-Jump.\n• „So tief wie möglich“: Nach dem Prinzip des optimalen Beschleunigungswegs ist nicht der maximale, sondern der optimale Weg entscheidend. Bei sehr kleinen Kniewinkeln arbeiten die Beinstrecker mit ungünstigen Hebelverhältnissen, der Bremskraftstoß wird zu groß, und die Bewegung dauert länger.\n• „Maximal Kraft aufbauen“: Das Kraftmaximum soll erst in der Beschleunigungsphase erreicht werden, nicht schon beim Abbremsen.\n• Spielsituation: Beim Block muss die Blockerin auf den Angriff reagieren. Eine tiefe, gehaltene Ausholbewegung kostet Zeit, sie würde zu spät springen.\nFazit: Die Anweisung ist in der vorliegenden Form abzulehnen. Besser wäre: „Geht aus der Blockbereitschaft schnell in eine mittlere Kniebeuge (ca. 90–110°) und springt ohne Pause explosiv ab.“",
+   "tipp": "Beurteilen heißt: Aussage mit Fachwissen prüfen und zu einem begründeten Urteil kommen. Zerlege die Anweisung in ihre Teilaussagen und prüfe jede einzeln."
+  },
+  {
+   "id": "e-q1.2-08",
+   "thema": "Q1.2",
+   "titel": "Morphologische oder funktionale Analyse?",
+   "operator": "Erörtern",
+   "afb": "III",
+   "be": 8,
+   "material": "Zwei Basketballtrainer diskutieren, wie sie Fehler beim Positionswurf ihrer Jugendspieler finden sollen. Trainer A: „Ich teile den Wurf in Vorbereitungs-, Haupt- und Endphase ein und vergleiche jede Phase mit dem Lehrbild. Das ist einfach und jeder Spieler versteht es.“ Trainer B: „Mich interessiert, wozu jede Aktion da ist. Wenn ein Spieler etwas anders macht, ist das nur ein Fehler, wenn die Funktion nicht erfüllt wird.“",
+   "aufgabe": "Erörtern Sie, welches der beiden Analyseverfahren für die Fehlererkennung im Jugendtraining besser geeignet ist.",
+   "erwartung": [
+    {
+     "text": "Ordnet Trainer A der morphologischen Bewegungsanalyse (Phasenstruktur nach Meinel/Schnabel, Außensicht, Vergleich mit Leitbild) zu",
+     "be": 1
+    },
+    {
+     "text": "Ordnet Trainer B der funktionalen Bewegungsanalyse nach Göhner (Aktionen, Funktionen, Bewegungsziel und -aufgabe) zu",
+     "be": 1
+    },
+    {
+     "text": "Nennt Vorteile morphologisch: anschaulich, ohne Messgeräte beobachtbar, leicht vermittelbar, gut für Anfänger",
+     "be": 1
+    },
+    {
+     "text": "Nennt Nachteile morphologisch: Fehler = Abweichung vom Leitbild, individuelle Lösungen werden als Fehler gewertet, Ursachen/Zusammenhänge bleiben teilweise unklar",
+     "be": 1
+    },
+    {
+     "text": "Nennt Vorteile funktional: Bewegungsfehler über nicht erfüllte Funktionen bestimmbar, Bewegungsspielräume/Funktionsäquivalenz berücksichtigt, Ableitung von Lernhilfen (funktionale Übungsreihe)",
+     "be": 1
+    },
+    {
+     "text": "Nennt Nachteile funktional: aufwendig, erfordert Fachwissen, kein reines Phasenkonzept, für Kinder schwer verständlich",
+     "be": 1
+    },
+    {
+     "text": "Abwägung mit Bezug zur Zielgruppe Jugendspieler und zum Positionswurf (z. B. Hauptfehler Abwurf aus dem Handgelenk = Modulation)",
+     "be": 1
+    },
+    {
+     "text": "Begründetes eigenes Fazit (z. B. Kombination: Trainer analysiert funktional, vermittelt morphologisch)",
+     "be": 1
+    }
+   ],
+   "muster": "Trainer A beschreibt die morphologische Bewegungsanalyse: Der Wurf wird von außen betrachtet, in Vorbereitungs-, Haupt- und Endphase gegliedert und mit einem Leitbild verglichen. Trainer B vertritt die funktionale Bewegungsanalyse nach Göhner: Ausgehend von Bewegungsziel und Regeln wird jeder Aktion eine Funktion zugeordnet.\nPro morphologische Analyse:\n• Sie ist anschaulich, braucht keine Messtechnik und lässt sich direkt in der Halle anwenden.\n• Die Begriffe sind für Jugendliche leicht verständlich, Korrekturen lassen sich klar einer Phase zuordnen.\nContra:\n• Ein Fehler ist jede Abweichung vom Lehrbild. Individuelle, aber funktionsgleiche Lösungen (z. B. leicht andere Ellbogenhaltung) werden fälschlich korrigiert.\n• Warum eine Abweichung schadet, wird nicht erklärt, Ursache und Folgefehler sind schwer zu trennen.\nPro funktionale Analyse:\n• Ein Fehler liegt nur vor, wenn eine Funktion nicht erfüllt wird (z. B. das Handgelenk moduliert den Ball nicht auf die optimale Flugbahn). Bewegungsspielräume und Funktionsäquivalenz werden berücksichtigt.\n• Durch die Unterscheidung von Haupt- und Hilfsaktionen lassen sich Hauptfehler gezielt finden und Lernhilfen ableiten.\nContra:\n• Sie ist aufwendig und setzt viel biomechanisches Wissen voraus, für Spieler ist sie abstrakt.\nAbwägung: Für die Fehlererkennung durch den Trainer ist die funktionale Analyse überlegen, weil sie Ursachen aufdeckt und unnötige Korrekturen vermeidet. Für die Vermittlung an Jugendliche ist die morphologische Sprache hilfreicher.\nFazit: Der Trainer sollte funktional analysieren und die Korrektur in einfacher, phasenbezogener Sprache vermitteln.",
+   "tipp": "Erörtern verlangt eine echte Abwägung beider Positionen mit Argumenten und ein eigenes, begründetes Urteil. Ein Kombinationsfazit ist erlaubt, wenn es begründet wird."
+  },
+  {
+   "id": "e-q3.1-01",
+   "thema": "Q3.1",
+   "titel": "Merkmale der Grobkoordination",
+   "operator": "Beschreiben",
+   "afb": "I",
+   "be": 6,
+   "material": "",
+   "aufgabe": "Beschreiben Sie die Phase der Grobkoordination nach Meinel/Schnabel hinsichtlich ihrer Abgrenzung, der Ausprägung der Bewegungsmerkmale und der Informationsverarbeitung.",
+   "erwartung": [
+    {
+     "text": "Abgrenzung: vom ersten Kennenlernen der Bewegung bis zur ersten Ausführung der Grobform unter günstigen Bedingungen",
+     "be": 1
+    },
+    {
+     "text": "Allgemeines Bild: Bewegung wirkt verkrampft, unökonomisch, fehlerhaft, übermäßiger Krafteinsatz",
+     "be": 1
+    },
+    {
+     "text": "Mindestens zwei Bewegungsmerkmale konkret beschrieben (z. B. Fluss stockend, Kopplung zeitlich fehlerhaft, Rhythmus verkrampft)",
+     "be": 1
+    },
+    {
+     "text": "Weitere Merkmale: geringe Präzision und Konstanz, Umfang/Tempo unzweckmäßig (zu großräumig, zu hastig oder zu langsam)",
+     "be": 1
+    },
+    {
+     "text": "Informationsverarbeitung: mangelhafte Informationsaufnahme, besonders kinästhetischer Analysator noch wenig wirksam",
+     "be": 1
+    },
+    {
+     "text": "Steuerung vor allem optisch und bewusst; Speicherung des Bewegungsprogramms noch unvollkommen",
+     "be": 1
+    }
+   ],
+   "muster": "Die Phase der Grobkoordination reicht vom ersten Kennenlernen der Bewegung bis zu dem Zeitpunkt, an dem die Lernenden die Grobform unter günstigen Bedingungen ausführen können.\nBewegungsmerkmale:\n• Die Bewegung wirkt insgesamt verkrampft, unökonomisch und fehlerhaft.\n• Kopplung: Teilbewegungen sind zeitlich falsch abgestimmt.\n• Rhythmus: verkrampft, Muskeleinsatz zum falschen Zeitpunkt, kein Wechsel von Spannung und Entspannung.\n• Fluss: stockende Übergänge.\n• Präzision und Konstanz: gering.\n• Stärke: übermäßiger, teils falscher Krafteinsatz.\n• Umfang und Tempo: unzweckmäßige, zu großräumige Ausholbewegungen; zu hastig oder zu langsam.\nInformationsverarbeitung:\n• Informationen werden mangelhaft aufgenommen und unzureichend verarbeitet. Vor allem der kinästhetische Analysator liefert noch kaum verwertbare Informationen.\n• Die Steuerung erfolgt überwiegend über den optischen Analysator und bewusst.\n• Das generalisierte motorische Programm wird erst unvollkommen gespeichert.",
+   "tipp": "Beschreiben Sie geordnet nach den drei verlangten Aspekten. Die Bewegungsmerkmale aus Q1.2 lassen sich hier direkt verwenden."
+  },
+  {
+   "id": "e-q3.1-02",
+   "thema": "Q3.1",
+   "titel": "Regelkreismodell der Bewegungskoordination",
+   "operator": "Darstellen",
+   "afb": "I",
+   "be": 8,
+   "material": "",
+   "aufgabe": "Stellen Sie das Modell der Bewegungskoordination (Regelkreismodell) nach Meinel/Schnabel dar.",
+   "erwartung": [
+    {
+     "text": "Afferenzsynthese: Zusammenführung aktueller Informationen der Analysatoren mit Gedächtnisinhalten (Bewegungserfahrung) und Motivation/Ziel",
+     "be": 1
+    },
+    {
+     "text": "Programmierung des Bewegungsablaufs mit gleichzeitiger Antizipation von Ablauf und Ergebnis (Sollwert)",
+     "be": 1
+    },
+    {
+     "text": "Efferenzsynthese: Umsetzung in efferente Impulse an die Muskulatur",
+     "be": 1
+    },
+    {
+     "text": "Efferenzkopie: Kopie des Programms wird im ZNS als Vergleichsgrundlage gespeichert",
+     "be": 1
+    },
+    {
+     "text": "Bewegungsausführung durch die Muskulatur unter Einfluss von Störgrößen (z. B. Gegner, Untergrund, Ermüdung)",
+     "be": 1
+    },
+    {
+     "text": "Reafferenz: Rückmeldung über innere (kinästhetisch, vestibulär, taktil) und äußere (optisch, akustisch) Kanäle",
+     "be": 1
+    },
+    {
+     "text": "Soll-Ist-Vergleich zwischen Efferenzkopie/antizipiertem Ergebnis und Reafferenzen",
+     "be": 1
+    },
+    {
+     "text": "Bei Abweichung Korrektur des laufenden Programms oder Speicherung/Korrektur für die nächste Ausführung",
+     "be": 1
+    }
+   ],
+   "muster": "Meinel/Schnabel beschreiben Bewegungskoordination als Informationsverarbeitung in einem Regelkreis:\n• Afferenzsynthese: Vor der Bewegung werden aktuelle Informationen über Umwelt und eigenen Körper aus den Analysatoren mit gespeicherten Bewegungserfahrungen und der Zielsetzung bzw. Motivation zusammengeführt. Ergebnis ist die Entscheidung, welche Bewegung wie ausgeführt wird.\n• Programmierung und Antizipation: Es wird ein Bewegungsprogramm gebildet, zugleich werden Ablauf und Ergebnis vorweggenommen. Das ergibt den Sollwert.\n• Efferenzsynthese: Das Programm wird in efferente Nervenimpulse an die Muskulatur umgesetzt. Eine Efferenzkopie wird im ZNS abgelegt.\n• Bewegungsausführung: Die Muskulatur führt die Bewegung aus, Störgrößen (Gegner, Wind, Ermüdung) können sie beeinflussen.\n• Reafferenz: Über innere Kanäle (kinästhetisch, vestibulär, taktil) und äußere Kanäle (optisch, akustisch) wird die tatsächliche Bewegung zurückgemeldet (Istwert).\n• Soll-Ist-Vergleich: Efferenzkopie bzw. antizipiertes Ergebnis werden mit den Reafferenzen verglichen. Bei Abweichungen wird das laufende Programm korrigiert (bei ausreichend langsamen Bewegungen) oder die Information für die nächste Ausführung gespeichert.",
+   "tipp": "Darstellen heißt: Zusammenhänge strukturiert wiedergeben. Halten Sie die Reihenfolge des Kreislaufs ein und verwenden Sie die Fachbegriffe Afferenz, Efferenz, Reafferenz und Efferenzkopie."
+  },
+  {
+   "id": "e-q3.1-03",
+   "thema": "Q3.1",
+   "titel": "Lernphase beim Kraulschwimmen einordnen",
+   "operator": "Einordnen",
+   "afb": "II",
+   "be": 6,
+   "material": "Nele (14) nimmt seit acht Wochen am Schwimmtraining teil. Im ruhigen Becken krault sie 50 m flüssig mit Dreierzug-Atmung, ihre Zugfrequenz ist auf jeder Bahn nahezu gleich. Wird es im Becken voll und unruhig oder soll sie nach einem Sprint direkt weiterkraulen, verschluckt sie sich, atmet nur noch zu einer Seite und der Beinschlag setzt aus. Auf den Hinweis „lang nach vorne strecken“ reagiert sie, indem sie die Bewegung im nächsten Zug merklich verändert.",
+   "aufgabe": "Ordnen Sie Neles Lernstand begründet einer Lernphase nach Meinel/Schnabel zu.",
+   "erwartung": [
+    {
+     "text": "Ordnet Nele der Phase der Feinkoordination zu",
+     "be": 1
+    },
+    {
+     "text": "Begründung über flüssige Ausführung und gleichbleibende Zugfrequenz unter günstigen, konstanten Bedingungen (gute Kopplung, Fluss, Konstanz)",
+     "be": 1
+    },
+    {
+     "text": "Grenzt von der Grobkoordination ab: Grobform ist längst überschritten, keine verkrampfte, stockende Ausführung mehr",
+     "be": 1
+    },
+    {
+     "text": "Grenzt von der variablen Verfügbarkeit ab: bei Störungen (unruhiges Wasser) und Ermüdung bricht die Technik ein",
+     "be": 1
+    },
+    {
+     "text": "Bezieht die Informationsverarbeitung ein: Hinweis zum Bewegungsempfinden kann verarbeitet werden, kinästhetischer Analysator wird wirksamer",
+     "be": 1
+    },
+    {
+     "text": "Folgerung: Ziel der nächsten Lernphase ist Stabilisierung unter variablen, erschwerten Bedingungen",
+     "be": 1
+    }
+   ],
+   "muster": "Nele befindet sich in der Phase der Feinkoordination.\n• Unter günstigen, gewohnten Bedingungen krault sie flüssig, die Atmung ist in den Zyklus eingekoppelt und die Zugfrequenz bleibt konstant. Damit ist die Grobkoordination mit ihren stockenden, verkrampften Ausführungen überschritten.\n• Sobald Störgrößen auftreten (unruhiges Wasser) oder sie ermüdet ist (nach dem Sprint), bricht die Technik ein: Atemrhythmus und Beinschlag zerfallen. In der Phase der variablen Verfügbarkeit müsste die Bewegung auch unter wechselnden und schwierigen Bedingungen stabil bleiben. Diese ist also noch nicht erreicht.\n• Typisch für die Feinkoordination ist außerdem, dass Nele einen Hinweis zum Bewegungsgefühl („lang nach vorne strecken“) direkt umsetzen kann. Die kinästhetische Information wird zunehmend wirksam verarbeitet.\n• Folgerung: Nach weiterem Üben unter konstanten Bedingungen sollten Störgrößen und Belastungsdruck schrittweise eingeführt werden, um die Technik zu stabilisieren.",
+   "tipp": "Einordnen verlangt nicht nur die Phase, sondern Belege aus dem Material und eine Abgrenzung zu den benachbarten Phasen."
+  },
+  {
+   "id": "e-q3.1-04",
+   "thema": "Q3.1",
+   "titel": "Kinästhetischer Analysator im Lernprozess",
+   "operator": "Erläutern",
+   "afb": "II",
+   "be": 6,
+   "material": "",
+   "aufgabe": "Erläutern Sie die Bedeutung des kinästhetischen Analysators für den Verlauf des motorischen Lernprozesses an einem selbst gewählten sportlichen Beispiel.",
+   "erwartung": [
+    {
+     "text": "Beschreibt den kinästhetischen Analysator: Propriozeptor, liefert Informationen über Bewegungsempfinden, Muskelspannung, Gelenkstellung (Rezeptoren u. a. Muskelspindeln, Sehnen/Golgi-Organe)",
+     "be": 1
+    },
+    {
+     "text": "Begründet seine Sonderstellung: jede Bewegung löst kinästhetische Signale aus, er ist mit allen anderen Analysatoren eng verbunden",
+     "be": 1
+    },
+    {
+     "text": "Grobkoordination: kinästhetische Informationen werden kaum genutzt, Steuerung überwiegend optisch",
+     "be": 1
+    },
+    {
+     "text": "Feinkoordination: kinästhetischer Analysator wird wirksamer, Bewegungsgefühl entsteht, innere Rückmeldungen können verarbeitet werden",
+     "be": 1
+    },
+    {
+     "text": "Variable Verfügbarkeit: präzises Bewegungsempfinden ermöglicht Korrekturen ohne optische Kontrolle und Freiwerden der Aufmerksamkeit",
+     "be": 1
+    },
+    {
+     "text": "Durchgängig an einem stimmigen sportlichen Beispiel veranschaulicht (z. B. Basketball-Dribbling, Handstand)",
+     "be": 1
+    }
+   ],
+   "muster": "Der kinästhetische Analysator gehört zu den Propriozeptoren. Über Muskelspindeln sowie Rezeptoren in Sehnen und Gelenken liefert er Informationen über Gelenkstellungen, Muskelspannung und Bewegungsablauf (Bewegungsempfinden). Weil jede Bewegung kinästhetische Signale auslöst und er eng mit allen anderen Analysatoren verbunden ist, hat er eine Schlüsselrolle für das Bewegungslernen.\nBeispiel Basketball-Dribbling:\n• Grobkoordination: Der Anfänger schaut ständig auf den Ball. Die Steuerung läuft fast nur über den optischen Analysator. Wie stark er drückt oder wie das Handgelenk arbeitet, spürt er kaum. Der Ball springt unkontrolliert.\n• Feinkoordination: Mit vielen Wiederholungen werden die kinästhetischen Informationen besser aufgenommen. Der Spieler spürt, mit welcher Kraft und welchem Handgelenkseinsatz der Ball zurückkommt. Hinweise wie „Ball mit den Fingerkuppen führen“ können mit dem Gefühl verbunden werden.\n• Variable Verfügbarkeit: Das Bewegungsempfinden ist so präzise, dass der Spieler ohne Blick zum Ball dribbelt. Die optische Aufmerksamkeit ist frei für Mitspieler und Gegner, Abweichungen werden kinästhetisch erkannt und automatisch korrigiert.\nDie Entwicklung des kinästhetischen Analysators ist also ein Kennzeichen für den Lernfortschritt.",
+   "tipp": "Erläutern heißt erklären und veranschaulichen. Ein durchgehendes Beispiel über alle drei Lernphasen bringt die meisten Punkte."
+  },
+  {
+   "id": "e-q3.1-05",
+   "thema": "Q3.1",
+   "titel": "Ganzheits- und Teillernmethode im Vergleich",
+   "operator": "Vergleichen",
+   "afb": "II",
+   "be": 8,
+   "material": "",
+   "aufgabe": "Vergleichen Sie die Ganzheitsmethode und die Teillernmethode hinsichtlich Vorgehen, Vorteilen, Nachteilen und Einsatzbereich.",
+   "erwartung": [
+    {
+     "text": "Vorgehen Ganzheitsmethode: Bewegung wird von Beginn an als Ganzes geübt, ggf. unter vereinfachten Bedingungen",
+     "be": 1
+    },
+    {
+     "text": "Vorgehen Teillernmethode (analytisch-synthetisch): Zerlegung in Teilbewegungen, getrenntes Üben, anschließendes Zusammensetzen",
+     "be": 1
+    },
+    {
+     "text": "Vorteile Ganzheit: Rhythmus/Timing und Bewegungsfluss bleiben erhalten, ganzheitliches Bewegungsgefühl, funktionelle Variabilität wird geschult",
+     "be": 1
+    },
+    {
+     "text": "Nachteile Ganzheit: bei komplexen Bewegungen Überforderung, Fehler schwer isolierbar, ggf. Angst/Verletzungsrisiko",
+     "be": 1
+    },
+    {
+     "text": "Vorteile Teil: Reduktion der Komplexität, gezieltes Üben schwieriger Abschnitte, Ausloten biomechanischer Grenzbereiche, Trainingsökonomie (z. B. Stationsbetrieb)",
+     "be": 1
+    },
+    {
+     "text": "Nachteile Teil: Phaseneinteilung entspricht evtl. nicht der subjektiven Bewegungsvorstellung, Timing der Gesamtkoordination leidet (Bewegungspausen), subjektive Geschlossenheit fehlt",
+     "be": 1
+    },
+    {
+     "text": "Einsatzbereiche: so viel wie möglich ganzheitlich; Komplexbewegungen mit Teillernmethode; mittlere Komplexität Ganz-Teil-Ganz",
+     "be": 1
+    },
+    {
+     "text": "Echte Gegenüberstellung mit Gemeinsamkeit/Unterschied (z. B. beide zielen auf die Gesamtbewegung, unterscheiden sich in der Komplexität des Lernangebots)",
+     "be": 1
+    }
+   ],
+   "muster": "Vorgehen:\n• Ganzheitsmethode: Die Zielbewegung wird von Anfang an als Ganzes geübt, eventuell in vereinfachter Form (langsamer, leichteres Gerät).\n• Teillernmethode (analytisch-synthetisch): Die Bewegung wird in Teile zerlegt, die getrennt geübt und dann schrittweise zusammengesetzt werden.\nVorteile:\n• Ganzheit: Rhythmus, Kopplung und Fluss bleiben erhalten. Der Lernende erlebt die Bewegung als geschlossene Einheit, entwickelt ein ganzheitliches Bewegungsgefühl und lernt, Abweichungen in einem Teil durch andere auszugleichen (funktionelle Variabilität).\n• Teil: Die Komplexität wird reduziert, schwierige Abschnitte können isoliert und häufiger geübt werden. Biomechanische Grenzbereiche einzelner Phasen lassen sich ausloten, das Training wird ökonomischer (z. B. Stationsbetrieb).\nNachteile:\n• Ganzheit: Bei sehr komplexen Bewegungen sind Anfänger überfordert, Fehler sind schwer zu isolieren, bei riskanten Bewegungen kann Angst entstehen.\n• Teil: Die Phaseneinteilung ist meist morphologisch und passt nicht unbedingt zur Bewegungsvorstellung des Lernenden. Das Timing leidet, es können Bewegungspausen einprogrammiert werden. Die subjektive Geschlossenheit und die funktionelle Variabilität werden nicht geschult.\nEinsatzbereich (Merkregeln):\n• So weit wie möglich ganzheitlich lehren.\n• Komplexbewegungen (z. B. Stabhochsprung) mit der Teillernmethode.\n• Bei mittlerer Komplexität die Ganz-Teil-Ganz-Methode.\nGemeinsam ist beiden das Ziel der Gesamtbewegung. Sie unterscheiden sich darin, wie viel Komplexität dem Lernenden zu Beginn zugemutet wird.",
+   "tipp": "Vergleichen heißt: Gemeinsamkeiten und Unterschiede nach Kriterien gegenüberstellen. Strukturieren Sie Ihre Antwort nach den vier geforderten Kriterien, nicht nach den Methoden."
+  },
+  {
+   "id": "e-q3.1-06",
+   "thema": "Q3.1",
+   "titel": "Rückmeldungen im Tennistraining",
+   "operator": "Analysieren",
+   "afb": "II",
+   "be": 8,
+   "material": "Tennistrainer Marco korrigiert den Anfänger Paul (13) bei der Vorhand. Nach jedem Schlag ruft er sofort: „Ellbogen weiter weg vom Körper, Handgelenk fest, Knie beugen, Schultern drehen, und du schaust wieder nicht auf den Ball!“ Paul schaut nach jedem Schlag sofort zum Trainer. Wenn Marco eine Pause macht, landen Pauls Bälle deutlich öfter im Netz als vorher. Der Ballflug selbst wird nie angesprochen.",
+   "aufgabe": "Analysieren Sie Marcos Rückmeldeverhalten unter Berücksichtigung von Feedbackarten und Regeln für wirksames Feedback.",
+   "erwartung": [
+    {
+     "text": "Ordnet Marcos Hinweise als extrinsisches (augmentiertes) Feedback ein",
+     "be": 1
+    },
+    {
+     "text": "Ordnet die Hinweise als Knowledge of Performance (Verlaufsinformation) ein; Knowledge of Results (Ballflug, Treffer) fehlt",
+     "be": 1
+    },
+    {
+     "text": "Erkennt den internalen Aufmerksamkeitsfokus (Körperteile) und nennt den Vorteil eines externalen Fokus (Ballflug, Schlägerkopf)",
+     "be": 1
+    },
+    {
+     "text": "Erkennt die Informationsflut (fünf Hinweise gleichzeitig) als Widerspruch zur Regel „nur Hauptfehler korrigieren“, besonders in der Grobkoordination",
+     "be": 1
+    },
+    {
+     "text": "Erkennt die zu hohe Feedbackfrequenz (nach jedem Schlag, sofort) und fehlende Pause zur Selbsteinschätzung",
+     "be": 1
+    },
+    {
+     "text": "Erklärt Pauls Leistungseinbruch ohne Trainer mit der Guidance-Hypothese (Abhängigkeit vom Feedback)",
+     "be": 1
+    },
+    {
+     "text": "Erkennt, dass intrinsisches Feedback (eigenes Gefühl, Ballflug) nicht genutzt bzw. verdrängt wird",
+     "be": 1
+    },
+    {
+     "text": "Erkennt die überwiegend negative, fehlerorientierte Formulierung ohne positive Verstärkung",
+     "be": 1
+    }
+   ],
+   "muster": "• Feedbackart: Marco gibt extrinsisches (äußeres, augmentiertes) Feedback in Form von Knowledge of Performance, denn alle Hinweise betreffen den Bewegungsablauf. Knowledge of Results (wohin der Ball fliegt, ob er im Feld landet) fehlt völlig.\n• Fokus: Alle Hinweise lenken die Aufmerksamkeit auf Körperteile (internaler Fokus). Nach Wulf führt ein externaler Fokus (z. B. „Schlag den Ball über die Netzmitte“, „Schläger zeigt nach dem Schlag zum Ziel“) meist zu besserem Lernen.\n• Menge: Fünf Korrekturen auf einmal sind eine Informationsflut. Paul ist Anfänger (Grobkoordination) und kann so viele Informationen nicht verarbeiten. Es sollte nur der Hauptfehler (Ursache) korrigiert werden.\n• Frequenz und Zeitpunkt: Feedback nach jedem Schlag und sofort lässt Paul keine Zeit, sein eigenes Gefühl und den Ballflug wahrzunehmen. Das intrinsische Feedback wird verdrängt.\n• Folge: Paul schaut nach jedem Schlag zum Trainer und spielt ohne Rückmeldung schlechter. Das entspricht der Guidance-Hypothese: Zu häufiges Feedback macht abhängig und verschlechtert die Behaltensleistung.\n• Ton: Die Rückmeldungen sind ausschließlich fehlerorientiert, positive Verstärkung fehlt.\nFazit: Marco sollte seltener, zusammenfassend, mit einem Hauptpunkt, externalem Fokus und positivem Anteil rückmelden.",
+   "tipp": "Beim Analysieren immer Fachbegriff plus Beleg aus dem Material verbinden, z. B. „Knowledge of Performance, denn …“."
+  },
+  {
+   "id": "e-q3.1-07",
+   "thema": "Q3.1",
+   "titel": "Methodenwahl beim Fosbury-Flop",
+   "operator": "Beurteilen",
+   "afb": "III",
+   "be": 8,
+   "material": "Eine Sportlehrerin plant für ihren Leichtathletikkurs (Jahrgang 11, kaum Vorerfahrung im Hochsprung) die Einführung des Fosbury-Flops. Ihr Plan: Die ersten drei Stunden nur Bogenanlauf üben, dann zwei Stunden Absprung mit Schwungbeineinsatz an der Wand, danach zwei Stunden Rückenlage-Landung von einem Kasten auf die Matte. Erst in Stunde 8 soll der vollständige Sprung erfolgen.",
+   "aufgabe": "Beurteilen Sie die Methodenwahl der Lehrerin.",
+   "erwartung": [
+    {
+     "text": "Identifiziert das Vorgehen als reine Teillernmethode (serielle Reihenfolge Anlauf – Absprung – Flug/Landung)",
+     "be": 1
+    },
+    {
+     "text": "Berechtigte Aspekte: Flop ist komplex (Bogenanlauf, Absprung, Drehung, Rückenlage), Angst vor der Rückenlandung kann durch isoliertes Üben abgebaut werden",
+     "be": 1
+    },
+    {
+     "text": "Kritik Timing/Kopplung: Übergang Bogenanlauf–Absprung (Innenlage, Rotation) entsteht erst im Zusammenspiel, Bewegungspausen werden einprogrammiert",
+     "be": 1
+    },
+    {
+     "text": "Kritik Zweckbeziehung: Anlauf ist dem Absprung funktional untergeordnet und kann isoliert nicht sinnvoll geübt werden",
+     "be": 1
+    },
+    {
+     "text": "Kritik subjektive Geschlossenheit/Motivation: Gesamtbewegung wird sieben Stunden nicht erlebt, keine ganzheitliche Bewegungsvorstellung",
+     "be": 1
+    },
+    {
+     "text": "Bezieht die Merkregeln ein (so viel wie möglich ganzheitlich; mittlere Komplexität → Ganz-Teil-Ganz)",
+     "be": 1
+    },
+    {
+     "text": "Abwägung von Pro und Contra mit Bezug zur Zielgruppe (Oberstufe, wenig Vorerfahrung)",
+     "be": 1
+    },
+    {
+     "text": "Begründetes Fazit mit Alternative (z. B. früh Ganzform mit verkürztem Anlauf, niedriger Latte/Gummiseil, dann Teile, dann wieder Ganzform)",
+     "be": 1
+    }
+   ],
+   "muster": "Die Lehrerin wendet die Teillernmethode in serieller Reihenfolge an: Anlauf, dann Absprung, dann Flug und Landung, die Ganzform erst ganz am Ende.\nPro:\n• Der Flop ist eine komplexe Bewegung mit Bogenanlauf, Innenlage, Absprung mit Drehung und Rückenlage. Ein Zergliedern verringert die Anforderungen.\n• Die ungewohnte Rückenlandung kann Angst auslösen. Das separate Üben vom Kasten nimmt diese Angst und erhöht die Sicherheit.\nContra:\n• Timing und Kopplung: Die entscheidenden Merkmale entstehen erst im Übergang vom Bogenanlauf zum Absprung (Innenlage wird zur Aufrichtung, die Rotation entsteht aus dem Absprung). Werden die Teile lange isoliert geübt, können Bewegungspausen einprogrammiert werden.\n• Zweckbeziehung: Der Anlauf ist dem Absprung funktional untergeordnet. Drei Stunden nur Anlauf sind kaum sinnvoll, weil Geschwindigkeit und Kurvenradius nur in Bezug auf den Absprung optimiert werden können.\n• Die Schüler erleben die Gesamtbewegung sieben Stunden lang nicht. Es fehlen ganzheitliche Bewegungsvorstellung und subjektive Geschlossenheit, die Motivation leidet.\n• Nach der Merkregel „so viel wie möglich ganzheitlich“ ist der Flop eher eine Bewegung mittlerer Komplexität, für die die Ganz-Teil-Ganz-Methode empfohlen wird.\nFazit: Der Plan ist in dieser Form nicht zweckmäßig. Besser: Früh die Ganzform mit verkürztem Anlauf (3–5 Schritte) und Gummiseil statt Latte, anschließend gezieltes Teilüben der Schwachstellen (z. B. Bogenlauf, Landung), danach wieder die Ganzform. Die Landeübung vom Kasten kann als vorbereitende Übung in Stunde 1 integriert werden.",
+   "tipp": "Beim Beurteilen zuerst die Methode fachlich benennen, dann Pro und Contra mit Bezug zum Fall abwägen und mit einem eigenen begründeten Urteil enden."
+  },
+  {
+   "id": "e-q3.1-08",
+   "thema": "Q3.1",
+   "titel": "Funktionale Übungsreihe zum Handball-Sprungwurf",
+   "operator": "Entwickeln",
+   "afb": "III",
+   "be": 10,
+   "material": "Ein Handballtrainer möchte mit seiner C-Jugend (12–13 Jahre) den Sprungwurf aus drei Schritten Anlauf neu erarbeiten. Die Spieler beherrschen den Schlagwurf aus dem Stand und fangen und prellen sicher. Es stehen eine Halle, Bälle, Kästen, Hütchen und Matten zur Verfügung.",
+   "aufgabe": "Entwickeln Sie eine begründete methodische Übungsreihe zum Erlernen des Sprungwurfs nach dem Prinzip der funktionalen Übungsreihe.",
+   "erwartung": [
+    {
+     "text": "Bestimmt die Hauptaktion bzw. Hauptfunktionsphase: Wurf in der Flugphase (Abwurf am höchsten Punkt)",
+     "be": 1
+    },
+    {
+     "text": "Benennt Hilfsaktionen: Drei-Schritt-Anlauf, Absprung (Stemmen, Schwungbein), Landung",
+     "be": 1
+    },
+    {
+     "text": "Erklärt den Aufbau „von der Mitte nach außen“: Start mit Hauptaktion, Hilfsaktionen werden nach und nach ergänzt",
+     "be": 1
+    },
+    {
+     "text": "Erste Übung: Hauptaktion isoliert mit erleichterter Flugphase (z. B. Sprung vom Kasten mit Wurf in der Luft)",
+     "be": 1
+    },
+    {
+     "text": "Folgeübung: Absprung ergänzt (z. B. Einbeinabsprung aus dem Stand/aus einem Schritt mit Wurf)",
+     "be": 1
+    },
+    {
+     "text": "Folgeübung: Anlauf ergänzt (z. B. Drei-Schritt-Rhythmus mit Hütchen/Zuruf, dann mit Wurf)",
+     "be": 1
+    },
+    {
+     "text": "Zielübung: Sprungwurf aus drei Schritten auf das Tor, später mit Gegner/Abwehr (variable Bedingungen)",
+     "be": 1
+    },
+    {
+     "text": "Berücksichtigt den methodischen Dreischritt bzw. Grundsätze (vom Leichten zum Schweren, vorbereitende Übung, Vorübung, Zielübung)",
+     "be": 1
+    },
+    {
+     "text": "Begründet Übungen mit Vereinfachungsstrategien (Programmlängenverkürzung, Invariantenunterstützung wie Rhythmushilfe, Parameterveränderung)",
+     "be": 1
+    },
+    {
+     "text": "Bezieht Zielgruppe und Voraussetzungen ein (Schlagwurf beherrscht → Wurfteil früh möglich; Sicherheit z. B. Matten bei Kastensprung)",
+     "be": 1
+    }
+   ],
+   "muster": "Funktionale Analyse als Grundlage:\n• Hauptaktion (Hauptfunktionsphase): Wurf in der Flugphase, möglichst am höchsten Punkt, um über die Abwehr zu werfen.\n• Hilfsaktionen: Drei-Schritt-Anlauf (Geschwindigkeit, Rhythmus), Absprung mit Stemmschritt und Schwungbein (Höhe), Landung (Stabilität, Regelkonformität).\nDie funktionale Übungsreihe wird „von der Mitte nach außen“ aufgebaut (Programmlängenverkürzung): Zuerst wird die Hauptaktion geübt, dann werden die Hilfsaktionen ergänzt.\nÜbungsreihe:\n• Vorbereitende Übung: Schlagwurf aus dem Stand auf Zielfelder, Sprungkraftspiele (Hopserlauf, Einbeinsprünge). Begründung: Anknüpfen an Vorerfahrung, Schaffen koordinativer Voraussetzungen.\n• Vorübung 1 (Hauptaktion isoliert): Sprung von einem niedrigen Kasten auf eine Matte, in der Luft Wurf auf ein Ziel. Begründung: Parameterveränderung, die verlängerte Flugphase gibt Zeit für die Hauptaktion.\n• Vorübung 2 (Absprung ergänzt): Aus einem Schritt einbeinig vom Gegenbein des Wurfarms abspringen, Schwungknie hoch, Wurf in der Luft.\n• Vorübung 3 (Anlauf ergänzt): Drei-Schritt-Rhythmus ohne Ball über Hütchen bzw. mit Zuruf „lang – kurz – hoch“ (Invariantenunterstützung durch Rhythmus- und Orientierungsvorgaben), dann mit Ball und Wurf.\n• Zielübung: Sprungwurf aus drei Schritten nach Pass auf das Tor, zunächst ohne, dann mit passivem und später aktivem Abwehrspieler (Übergang zu variablen Bedingungen).\nMethodische Grundsätze: vom Leichten zum Schweren, vom Bekannten zum Unbekannten, methodischer Dreischritt aus vorbereitender Übung, Vorübungen und Zielübung. Für die Kastenübung werden Matten gelegt. Da die Jugendlichen den Schlagwurf beherrschen, kann der Wurfteil von Anfang an mit hohem Anspruch geübt werden.",
+   "tipp": "Entwickeln verlangt einen eigenen, schlüssigen Plan. Jede Übung braucht eine Begründung, und die Reihenfolge muss zum gewählten Übungsreihentyp passen."
+  }
+ ],
+ "klausuren": [
+  {
+   "id": "k-q1.2-1",
+   "themen": [
+    "Q1.2",
+    "Q3.1"
+   ],
+   "titel": "Technikanalyse im Kugelstoßen",
+   "zeit": 105,
+   "einleitung": "Lea (17) und Mara (18) trainieren in derselben Leichtathletik-Trainingsgruppe Kugelstoßen (4 kg) in der O'Brien-Technik (Rückenstoß mit Angleiten). Obwohl beide ähnlich groß und ähnlich kräftig sind (gleiche Bestleistung im Bankdrücken und in der Kniebeuge), stößt Mara über drei Meter weiter. Der Trainer hat beide gefilmt und biomechanische Daten erhoben. Er überlegt, wie er Lea weiterbringen kann.",
+   "material": [
+    {
+     "titel": "M1: Bewegungsbeschreibung des Kugelstoßes in der O'Brien-Technik (Rechtshänderin)",
+     "text": "Ausgangsstellung: Die Athletin steht mit dem Rücken zur Stoßrichtung am hinteren Ringrand. Die Kugel liegt am Hals unter dem rechten Ohr, der rechte Ellbogen zeigt seitlich nach außen. Das Körpergewicht ruht auf dem rechten Bein.\nAngleiten: Der Oberkörper wird nach vorne gebeugt, bis er fast waagerecht ist, das linke Bein wird gestreckt nach hinten-oben geführt. Aus einer tiefen Hockposition auf dem rechten Bein schwingt das linke Bein flach in Stoßrichtung, das rechte Bein drückt sich kräftig ab und wird flach unter dem Körper zur Ringmitte gezogen. Der Oberkörper bleibt dabei tief und mit dem Rücken zur Stoßrichtung.\nStoßauslage: Unmittelbar nach dem Aufsetzen des rechten Fußes in der Ringmitte wird der linke Fuß kurz vor dem Stoßbalken aufgesetzt. Die Schulterachse ist noch gegen die Stoßrichtung gedreht, der KSP liegt über dem gebeugten rechten Bein.\nStoß: Das rechte Bein streckt und dreht, die Hüfte wird nach vorne eingedreht und gestreckt, der Oberkörper richtet sich auf und dreht in Stoßrichtung. Der linke Arm wird zunächst in Stoßrichtung geführt und dann kraftvoll nach unten an den Körper gezogen, das linke Bein wird gestemmt. Zuletzt wird der Stoßarm in einem Winkel von ca. 37–40° schnell gestreckt und die Kugel mit einem Abklappen des Handgelenks abgestoßen.\nUmspringen: Nach dem Abstoß wechseln die Beine, das rechte Bein wird nach vorne an den Balken gesetzt, der Oberkörper wird tief gehalten, um nicht aus dem Ring zu treten."
+    },
+    {
+     "titel": "M2: Biomechanische Daten der beiden Athletinnen (Mittelwerte der drei besten Versuche, fiktiv)",
+     "tabelle": {
+      "kopf": [
+       "Messgröße",
+       "Lea",
+       "Mara"
+      ],
+      "zeilen": [
+       [
+        "Abfluggeschwindigkeit der Kugel",
+        "10,6 m/s",
+        "11,9 m/s"
+       ],
+       [
+        "Abflugwinkel",
+        "36°",
+        "38°"
+       ],
+       [
+        "Abstoßhöhe",
+        "1,95 m",
+        "2,05 m"
+       ],
+       [
+        "Beschleunigungsweg der Kugel (Angleiten + Stoß)",
+        "1,55 m",
+        "1,85 m"
+       ],
+       [
+        "Zeitabstand Beginn Hüftstreckung bis Beginn Armstreckung",
+        "0,02 s",
+        "0,11 s"
+       ],
+       [
+        "Stoßweite",
+        "13,12 m",
+        "16,27 m"
+       ],
+       [
+        "Beobachtung im Video",
+        "Oberkörper richtet sich schon während des Angleitens auf; linker Arm schwingt seitlich nach links weg; nach dem Aufsetzen des rechten Fußes kurze Pause, bevor der Stoß beginnt",
+        "Oberkörper bleibt bis zum Aufsetzen des linken Fußes tief; linker Arm wird aktiv abgebremst und an den Körper gezogen; Übergang vom Angleiten in den Stoß ohne Pause"
+       ]
+      ]
+     }
+    },
+    {
+     "titel": "M3: Vorschlag des Trainers",
+     "text": "„Lea hat einen zu kurzen Beschleunigungsweg, das sieht man in den Daten. Die Drehstoßtechnik bietet einen viel längeren Beschleunigungsweg als die O'Brien-Technik. Deshalb stellen wir Lea in den zwölf Wochen bis zu den Landesmeisterschaften auf den Drehstoß um. Dann wird sie automatisch weiter stoßen.“"
+    }
+   ],
+   "teil": [
+    {
+     "nr": "1",
+     "operator": "Beschreiben",
+     "afb": "I",
+     "be": 6,
+     "aufgabe": "Beschreiben Sie die Phasenstruktur des Kugelstoßes nach Meinel/Schnabel auf der Grundlage von M1.",
+     "erwartung": [
+      {
+       "text": "Ordnet den Kugelstoß als azyklische Bewegung mit dreiphasiger Struktur ein",
+       "be": 1
+      },
+      {
+       "text": "Vorbereitungsphase: Ausgangsstellung, Vorbeugen und Angleiten bis zur Stoßauslage",
+       "be": 1
+      },
+      {
+       "text": "Funktion der Vorbereitungsphase: Vorbeschleunigung der Kugel, Verlängerung des Beschleunigungswegs, Herstellen einer günstigen Stoßauslage",
+       "be": 1
+      },
+      {
+       "text": "Hauptphase: Stoß aus der Stoßauslage (Bein-, Hüft-, Rumpfstreckung und -drehung, Armstoß) bis zum Abstoß",
+       "be": 1
+      },
+      {
+       "text": "Funktion der Hauptphase: Kugel auf maximale Abfluggeschwindigkeit im optimalen Abflugwinkel und in großer Abstoßhöhe bringen",
+       "be": 1
+      },
+      {
+       "text": "Endphase: Umspringen mit Beinwechsel und tiefem Oberkörper; Funktion: Abbremsen, Gleichgewicht herstellen, Übertreten vermeiden",
+       "be": 1
+      }
+     ],
+     "muster": "Der Kugelstoß ist eine azyklische Bewegung, die Bewegungsaufgabe wird mit einer einmaligen Hauptphase gelöst. Daraus ergibt sich eine dreiphasige Struktur.\n• Vorbereitungsphase: Ausgangsstellung mit dem Rücken zur Stoßrichtung, Vorbeugen des Oberkörpers, Hocke auf dem rechten Bein und Angleiten zur Ringmitte bis zum Erreichen der Stoßauslage. Funktion: Die Kugel wird vorbeschleunigt, der Beschleunigungsweg verlängert und eine günstige, vorgespannte Stoßauslage erreicht.\n• Hauptphase: Aus der Stoßauslage werden Bein, Hüfte und Rumpf gestreckt und in Stoßrichtung gedreht, der linke Arm blockiert, zuletzt streckt der Stoßarm. Funktion: Die Kugel wird auf maximale Abfluggeschwindigkeit bei optimalem Abflugwinkel und großer Abstoßhöhe gebracht.\n• Endphase: Umspringen mit Beinwechsel, Oberkörper bleibt tief. Funktion: Die Athletin fängt ihren nach vorne gerichteten Körperimpuls ab, gelangt in eine stabile Position und vermeidet ein Übertreten des Stoßbalkens (ungültiger Versuch)."
+    },
+    {
+     "nr": "2",
+     "operator": "Nennen und beschreiben",
+     "afb": "I",
+     "be": 6,
+     "aufgabe": "Nennen Sie die sieben biomechanischen Prinzipien nach Hochmuth und beschreiben Sie das Prinzip der zeitlichen und räumlichen Koordination von Einzelimpulsen.",
+     "erwartung": [
+      {
+       "text": "Nennt: Prinzip der Anfangskraft, des optimalen Beschleunigungswegs, der Koordination von Einzelimpulsen",
+       "be": 1
+      },
+      {
+       "text": "Nennt: Prinzip der optimalen Tendenz im Beschleunigungsverlauf und der Impulserhaltung",
+       "be": 1
+      },
+      {
+       "text": "Nennt: Prinzip der Gegenwirkung und der Kinetion und Modulation",
+       "be": 1
+      },
+      {
+       "text": "Beschreibt: Beschleunigungskraftstöße verschiedener Teilbewegungen müssen zeitlich und räumlich optimal abgestimmt sein",
+       "be": 1
+      },
+      {
+       "text": "Zeitlich: richtige Reihenfolge und Zeitpunkte der Teilimpulse (von großen, rumpfnahen zu kleinen, rumpffernen Körperteilen); räumlich: Teilimpulse wirken möglichst in dieselbe Richtung",
+       "be": 1
+      },
+      {
+       "text": "Nennt die Geltungsbereiche: maximale Beschleunigung eines Körperteils/Geräts (Würfe, Stöße) bzw. des Gesamtkörpers (maximale Sprünge)",
+       "be": 1
+      }
+     ],
+     "muster": "Die sieben biomechanischen Prinzipien:\n• Prinzip der Anfangskraft\n• Prinzip des optimalen Beschleunigungswegs\n• Prinzip der zeitlichen und räumlichen Koordination von Einzelimpulsen\n• Prinzip der optimalen Tendenz im Beschleunigungsverlauf\n• Prinzip der Impulserhaltung\n• Prinzip der Gegenwirkung\n• Prinzip der Kinetion und Modulation\nPrinzip der Koordination von Einzelimpulsen: Die durch verschiedene Teilbewegungen erzeugten Beschleunigungskraftstöße müssen zeitlich und räumlich optimal aufeinander abgestimmt sein. Zeitlich bedeutet: Die Teilimpulse folgen in der richtigen Reihenfolge, in der Regel von den großen, rumpfnahen Muskelgruppen zu den kleinen, rumpffernen, sodass jeder Teilimpuls auf dem vorherigen aufbaut. Räumlich bedeutet: Die Teilimpulse wirken möglichst in dieselbe Richtung. Das Prinzip gilt für Bewegungen, bei denen ein Körperteil oder Gerät maximal beschleunigt werden soll (Würfe, Stöße, Schüsse), und für Bewegungen, bei denen der ganze Körper maximal beschleunigt wird (Sprünge in Höhe und Weite)."
+    },
+    {
+     "nr": "3",
+     "operator": "Erläutern",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Erläutern Sie anhand von M1, wie beim Kugelstoß in der O'Brien-Technik die Prinzipien des optimalen Beschleunigungswegs, der Koordination von Einzelimpulsen, der optimalen Tendenz im Beschleunigungsverlauf und der Gegenwirkung umgesetzt werden.",
+     "erwartung": [
+      {
+       "text": "Optimaler Beschleunigungsweg: Rückenstellung, Vorbeugen und Angleiten verlängern den Weg der Kugel",
+       "be": 1
+      },
+      {
+       "text": "Weg verläuft nahezu geradlinig in Stoßrichtung und von tief nach hoch; Weg ist optimal, weil Stoßauslage noch kraftvolle Streckung zulässt",
+       "be": 1
+      },
+      {
+       "text": "Koordination Einzelimpulse zeitlich: Reihenfolge rechtes Bein – Hüfte – Rumpf – Stoßarm – Handgelenk (von unten nach oben, groß nach klein)",
+       "be": 1
+      },
+      {
+       "text": "Koordination Einzelimpulse räumlich: alle Streckungen und Drehungen in Stoßrichtung, Armstoß im Abflugwinkel",
+       "be": 1
+      },
+      {
+       "text": "Optimale Tendenz: ansteigende (positive) Beschleunigungstendenz, da maximale Endgeschwindigkeit verlangt ist",
+       "be": 1
+      },
+      {
+       "text": "Beleg aus M1: schnellste Teilbewegung (Armstreckung, Abklappen des Handgelenks) ganz am Ende, Geschwindigkeit der Kugel ist beim Abstoß maximal",
+       "be": 1
+      },
+      {
+       "text": "Gegenwirkung: linker Arm wird kraftvoll an den Körper gezogen → Drehmoment-Reaktion beschleunigt das Eindrehen der rechten Schulter",
+       "be": 1
+      },
+      {
+       "text": "Gegenwirkung: Stemmen des linken Beins gegen den Boden → Bodenreaktionskraft bremst die linke Körperseite, Impuls wird auf Rumpf und Arm übertragen",
+       "be": 1
+      }
+     ],
+     "muster": "• Optimaler Beschleunigungsweg: Durch die Rückenstellung mit vorgebeugtem Oberkörper beginnt die Kugel weit hinten und tief. Durch das Angleiten wird sie bereits vorbeschleunigt und der Gesamtweg verlängert. Der Weg verläuft nahezu geradlinig in Stoßrichtung und steigt von tief nach hoch an. Er ist optimal, nicht maximal: In der Stoßauslage sind die Gelenke so gebeugt, dass die Muskeln noch kraftvoll strecken können.\n• Koordination von Einzelimpulsen: Zeitlich folgen die Teilimpulse von unten nach oben und von großen zu kleinen Muskelgruppen: Streckung und Drehung des rechten Beins, Eindrehen und Strecken der Hüfte, Aufrichten und Drehen des Rumpfs, Armstreckung, Abklappen des Handgelenks. Jede Teilbewegung beginnt, wenn die vorherige ihren Höhepunkt erreicht. Räumlich wirken alle Impulse in Stoßrichtung, der Arm stößt im Abflugwinkel von ca. 37–40°.\n• Optimale Tendenz im Beschleunigungsverlauf: Da eine maximale Endgeschwindigkeit verlangt ist, ist eine ansteigende Tendenz zweckmäßig. Die schnellsten Teilbewegungen (Arm, Handgelenk) kommen am Ende, sodass die Kugel genau beim Abstoß ihre höchste Geschwindigkeit hat.\n• Gegenwirkung: Der linke Arm wird zuerst in Stoßrichtung geführt und dann kraftvoll an den Körper gezogen. Durch die Drehmoment-Reaktion dreht die rechte Schulter schneller in Stoßrichtung ein. Das Stemmen des linken Beins erzeugt eine Bodenreaktionskraft, die die linke Körperseite abbremst. Dadurch wird der Bewegungsimpuls auf Rumpf und Stoßarm übertragen."
+    },
+    {
+     "nr": "4",
+     "operator": "Analysieren",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Analysieren Sie die Daten in M2 im Hinblick auf die Ursachen des Leistungsunterschieds zwischen Lea und Mara.",
+     "erwartung": [
+      {
+       "text": "Stellt fest, dass die Abfluggeschwindigkeit (1,3 m/s Unterschied) die leistungsbestimmende Größe ist; Abflugwinkel und Abstoßhöhe unterscheiden sich nur gering",
+       "be": 1
+      },
+      {
+       "text": "Leitet ab, dass der Unterschied nicht durch Maximalkraft erklärbar ist (gleiche Kraftwerte), sondern technisch bedingt ist",
+       "be": 1
+      },
+      {
+       "text": "Beschleunigungsweg: Lea 0,30 m kürzer; Ursache: frühes Aufrichten des Oberkörpers beim Angleiten verkürzt den Weg (Prinzip des optimalen Beschleunigungswegs)",
+       "be": 1
+      },
+      {
+       "text": "Koordination Einzelimpulse: bei Lea beginnen Hüft- und Armstreckung fast gleichzeitig (0,02 s), bei Mara zeitlich gestaffelt (0,11 s) → Teilimpulse addieren sich bei Lea nicht optimal",
+       "be": 1
+      },
+      {
+       "text": "Anfangskraft: Leas Pause nach dem Aufsetzen des rechten Fußes zerstört den fließenden Übergang, Vorspannung und Vorbeschleunigung gehen verloren",
+       "be": 1
+      },
+      {
+       "text": "Gegenwirkung: Leas seitlich wegschwingender linker Arm führt zu fehlender Blockwirkung; Rumpfrotation wird nicht beschleunigt, Impuls teilweise seitlich abgeleitet",
+       "be": 1
+      },
+      {
+       "text": "Qualitative Merkmale: bei Lea gestörter Bewegungsfluss und fehlerhafte Bewegungskopplung, bei Mara flüssiger Ablauf mit guter Kopplung",
+       "be": 1
+      },
+      {
+       "text": "Zusammenfassende Gewichtung: mehrere Technikmängel (Weg, Kopplung, Fluss, Gegenwirkung) bedingen die geringere Abfluggeschwindigkeit, nicht ein einzelner Faktor",
+       "be": 1
+      }
+     ],
+     "muster": "• Die Weite wird vor allem durch die Abfluggeschwindigkeit bestimmt. Mara stößt mit 11,9 m/s, Lea mit 10,6 m/s. Abflugwinkel (36° zu 38°) und Abstoßhöhe (1,95 m zu 2,05 m) unterscheiden sich nur wenig und erklären höchstens einen kleinen Teil der über 3 m Differenz.\n• Da beide gleich kräftig sind, muss die Ursache in der Technik liegen.\n• Beschleunigungsweg: Leas Weg ist 0,30 m kürzer. Laut Video richtet sie den Oberkörper schon beim Angleiten auf. Dadurch startet die Stoßbewegung höher und weiter vorne, der optimale Beschleunigungsweg wird nicht ausgenutzt.\n• Koordination der Einzelimpulse: Bei Lea beginnt die Armstreckung nur 0,02 s nach der Hüftstreckung, also fast gleichzeitig. Die Impulse bauen nicht aufeinander auf. Mara staffelt mit 0,11 s, der Arm setzt ein, wenn die Hüfte ihren Impuls übertragen hat.\n• Anfangskraft und Bewegungsfluss: Lea pausiert nach dem Aufsetzen des rechten Fußes. Die beim Angleiten gewonnene Kugelgeschwindigkeit und die Vorspannung der Muskulatur gehen verloren. Der Bewegungsfluss ist unterbrochen, Mara dagegen geht ohne Pause in den Stoß über.\n• Gegenwirkung: Leas linker Arm schwingt seitlich weg statt zu blockieren. Damit fehlt die Drehmoment-Reaktion, die rechte Schulter dreht weniger kraftvoll ein und ein Teil des Impulses geht seitlich verloren. Mara nutzt den linken Arm aktiv.\n• Qualitative Bewegungsmerkmale: Leas Ausführung zeigt Mängel in Bewegungsfluss und Bewegungskopplung, Maras Ausführung ist flüssig und gut gekoppelt.\nFazit: Leas geringere Abfluggeschwindigkeit ergibt sich aus dem Zusammenwirken mehrerer Technikmängel. Der kürzere Weg ist nur einer davon."
+    },
+    {
+     "nr": "5",
+     "operator": "Beurteilen",
+     "afb": "III",
+     "be": 12,
+     "aufgabe": "Beurteilen Sie den Vorschlag des Trainers (M3) unter Berücksichtigung Ihrer Ergebnisse aus Aufgabe 4 sowie lernpsychologischer Gesichtspunkte.",
+     "erwartung": [
+      {
+       "text": "Erkennt den richtigen Kern: Drehstoß bietet nach dem Prinzip des optimalen Beschleunigungswegs einen längeren, kreisförmig-stetig gekrümmten Weg",
+       "be": 1
+      },
+      {
+       "text": "Erkennt an, dass Leas Beschleunigungsweg tatsächlich kürzer ist als der von Mara (Bezug M2)",
+       "be": 1
+      },
+      {
+       "text": "Kritisiert die monokausale Begründung: Kopplung, Fluss/Anfangskraft und Gegenwirkung sind ebenfalls Ursachen (Bezug Aufgabe 4)",
+       "be": 1
+      },
+      {
+       "text": "Erkennt, dass diese Mängel beim Drehstoß weiterbestehen bzw. sich verschärfen, da Koordination der Teilimpulse dort noch anspruchsvoller ist",
+       "be": 1
+      },
+      {
+       "text": "Erkennt, dass „länger“ nicht automatisch „besser“ bedeutet: optimaler statt maximaler Weg, Drehstoß ist nicht für alle Athletinnen überlegen",
+       "be": 1
+      },
+      {
+       "text": "Lernpsychologisch: Umlernen einer neuen, komplexen Technik führt zurück in die Grobkoordination; Leistung sinkt zunächst",
+       "be": 1
+      },
+      {
+       "text": "Lernpsychologisch: zwölf Wochen reichen kaum für Fein- und Feinstkoordination/variable Verfügbarkeit unter Wettkampfdruck",
+       "be": 1
+      },
+      {
+       "text": "Erkennt das Risiko von Interferenz mit der automatisierten O'Brien-Technik (alte Bewegungsmuster tauchen unter Druck wieder auf)",
+       "be": 1
+      },
+      {
+       "text": "Entwickelt eine Alternative: gezielte Korrektur der O'Brien-Technik (tiefer Oberkörper beim Angleiten, fließender Übergang, Blockarm, Staffelung Hüfte–Arm)",
+       "be": 1
+      },
+      {
+       "text": "Nennt eine langfristige Option: Technikwechsel ggf. nach der Saison mit ausreichend Zeit",
+       "be": 1
+      },
+      {
+       "text": "Abwägung von Pro und Contra mit durchgängigem Bezug auf M2 und M3",
+       "be": 1
+      },
+      {
+       "text": "Begründetes eigenes Fazit",
+       "be": 1
+      }
+     ],
+     "muster": "Richtiger Kern:\n• Nach dem Prinzip des optimalen Beschleunigungswegs bietet der Drehstoß durch die zusätzliche Drehung einen längeren, stetig gekrümmten Weg der Kugel. Leas Beschleunigungsweg ist laut M2 um 0,30 m kürzer als Maras. Der Trainer erkennt also einen tatsächlichen Mangel.\nKritik an der Begründung:\n• Der Trainer erklärt den Leistungsunterschied monokausal. Die Analyse zeigt, dass auch die fehlende zeitliche Staffelung der Teilimpulse (0,02 s statt 0,11 s), die Pause nach dem Angleiten (Verlust von Anfangskraft und Bewegungsfluss) und der fehlende Blockarm (Gegenwirkung) Ursachen sind.\n• Diese Mängel verschwinden durch einen Technikwechsel nicht. Beim Drehstoß ist die Koordination der Teilimpulse noch schwieriger, weil Rotation und Translation verbunden werden müssen. Lea würde ihre Kopplungsprobleme mitnehmen.\n• Ein längerer Weg ist nicht automatisch besser. Das Prinzip fordert einen optimalen Weg, der auch zu Körperbau, Schnelligkeit und Technikbeherrschung passen muss.\nLernpsychologische Sicht:\n• Lea beherrscht die O'Brien-Technik mindestens in der Feinkoordination. Mit dem Drehstoß beginnt sie wieder in der Grobkoordination: Die Bewegung wird anfangs verkrampft, unpräzise und inkonstant sein, die Leistung sinkt zunächst.\n• Zwölf Wochen reichen kaum aus, um die neue Technik bis zur variablen Verfügbarkeit unter Wettkampfdruck zu stabilisieren.\n• Unter Druck besteht die Gefahr, dass das alte, gefestigte Bewegungsprogramm durchbricht und sich beide Techniken stören.\nAlternative:\n• Bis zu den Meisterschaften sollte die O'Brien-Technik gezielt verbessert werden: Oberkörper beim Angleiten tief halten (verlängert den Weg ohne Technikwechsel), fließender Übergang in die Stoßauslage, aktives Blockieren mit dem linken Arm, bewusste Staffelung von Hüfte und Arm. Rückmeldungen per Video und Messwerte können den Fortschritt zeigen.\n• Ein möglicher Wechsel zum Drehstoß wäre nach der Saison mit ausreichend Lernzeit zu prüfen.\nFazit: Der Vorschlag beruht auf einer zutreffenden Teilbeobachtung, ist aber in Begründung und Zeitpunkt nicht überzeugend. Eine Optimierung der vorhandenen Technik verspricht kurzfristig mehr Erfolg."
+    }
+   ]
+  },
+  {
+   "id": "k-q1.2-2",
+   "themen": [
+    "Q1.2",
+    "Q3.1"
+   ],
+   "titel": "Der Sprungwurf im Basketball funktional betrachtet",
+   "zeit": 105,
+   "einleitung": "Mia (16) spielt in der U18 eines Basketballvereins auf der Flügelposition. Bei Würfen aus der Mitteldistanz nach einem Pass ist ihre Trefferquote gering, und bei Distanzwürfen fällt der Ball häufig zu kurz. Ihre Trainerin hat Mia gefilmt und ein Beobachtungsprotokoll angefertigt. Ein Mitspieler aus dem Sport-Leistungskurs hat außerdem versucht, den Sprungwurf mit der Funktionsanalyse nach Göhner zu untersuchen.",
+   "material": [
+    {
+     "titel": "M1: Bewegungsbeschreibung des Sprungwurfs aus der Ballannahme (Rechtshänderin)",
+     "text": "Die Spielerin läuft auf den Ball zu, fängt den Pass im Sprung und landet in einem Doppelkontakt-Stopp, beide Füße etwa schulterbreit, Fußspitzen zum Korb. Beim Stoppen wird der Körperschwerpunkt durch Beugen in Knie- und Hüftgelenken deutlich abgesenkt, der Ball wird dabei vor dem Körper abgebremst und ohne Unterbrechung über die rechte Schulter in die Wurfauslage geführt: Ball über der Stirn, Wurfhand hinter dem Ball, Ellbogen unter dem Ball, Führhand seitlich am Ball. Aus der Beugung erfolgt ohne Pause ein senkrechter Absprung durch Streckung von Fuß-, Knie- und Hüftgelenken. Kurz vor dem höchsten Punkt des Sprungs (toter Punkt) wird der Wurfarm im Ellbogen gestreckt und das Handgelenk nach vorne abgeklappt, der Ball verlässt zuletzt die Zeige- und Mittelfingerkuppen und erhält eine Rückwärtsrotation. Die Wurfhand bleibt nach dem Abwurf kurz in Richtung Korb gestreckt. Die Landung erfolgt beidbeinig etwa an der Absprungstelle."
+    },
+    {
+     "titel": "M2: Beobachtungsprotokoll der Trainerin zu Mia",
+     "text": "• Beim Stopp nach der Ballannahme bleibt Mia mit fast gestreckten Beinen stehen. Sie hält den Ball etwa eine halbe Sekunde vor dem Bauch, bevor sie ihn in die Wurfauslage führt.\n• Den Absprung leitet sie durch ein kurzes, ruckartiges Beugen der Knie ein.\n• Den Ball wirft sie bereits in der Aufwärtsbewegung des Sprungs ab. Arm und Handgelenk werden mit großem Krafteinsatz gestreckt, der Ball hat kaum Rückwärtsrotation.\n• Ihr Wurfellbogen zeigt in der Wurfauslage leicht schräg nach außen statt senkrecht unter den Ball. Der Ball fliegt trotzdem in gerader Linie zum Korb, seitliche Fehlwürfe sind selten.\n• Aussage der Trainerin: „Der abgespreizte Ellbogen ist der Hauptfehler. Bevor das nicht wie im Lehrbuch aussieht, brauchen wir an den anderen Sachen nicht zu arbeiten.“"
+    },
+    {
+     "titel": "M3: Funktionsanalyse eines Mitschülers (Auszug)",
+     "tabelle": {
+      "kopf": [
+       "Aktion",
+       "Aktionsmodalität",
+       "zugeordnete Funktion"
+      ],
+      "zeilen": [
+       [
+        "Doppelkontakt-Stopp mit KSP-Senkung",
+        "deutliche Beugung, fließender Übergang",
+        "Abbremsen der Laufbewegung; Vorbereitung des Absprungs"
+       ],
+       [
+        "Führen des Balls in die Wurfauslage",
+        "ohne Unterbrechung über die rechte Schulter",
+        "Ball vor dem Verteidiger schützen"
+       ],
+       [
+        "Absprung",
+        "senkrecht, explosiv",
+        "Erreichen einer großen Abwurfhöhe über dem Verteidiger"
+       ],
+       [
+        "Strecken des Wurfarms und Abklappen des Handgelenks",
+        "kurz vor dem toten Punkt, Abwurf über Zeige- und Mittelfinger",
+        "maximale Abwurfgeschwindigkeit erzeugen"
+       ],
+       [
+        "Landung",
+        "beidbeinig an der Absprungstelle",
+        "stabile Position; Vermeiden eines Offensivfouls"
+       ]
+      ]
+     }
+    }
+   ],
+   "teil": [
+    {
+     "nr": "1",
+     "operator": "Beschreiben",
+     "afb": "I",
+     "be": 6,
+     "aufgabe": "Beschreiben Sie die qualitativen Bewegungsmerkmale Bewegungsrhythmus, Bewegungskopplung und Bewegungsfluss nach Meinel/Schnabel.",
+     "erwartung": [
+      {
+       "text": "Bewegungsrhythmus: zeitlich-dynamische Ordnung bzw. Gliederung einer Bewegung",
+       "be": 1
+      },
+      {
+       "text": "Rhythmus: charakteristischer Wechsel von Spannung und Entspannung, betonten und unbetonten Bewegungsteilen",
+       "be": 1
+      },
+      {
+       "text": "Bewegungskopplung: räumlich-zeitliche und dynamische Verbindung von Teilbewegungen",
+       "be": 1
+      },
+      {
+       "text": "Kopplung: zweckmäßiges Zusammenspiel und Reihenfolge der Teilkörperbewegungen, Übertragung von Bewegungsimpulsen",
+       "be": 1
+      },
+      {
+       "text": "Bewegungsfluss: Grad der Kontinuität (Stetigkeit) des Bewegungsablaufs",
+       "be": 1
+      },
+      {
+       "text": "Fluss: guter Fluss ohne Stockungen, Unterbrechungen oder ruckartige Übergänge zwischen den Phasen",
+       "be": 1
+      }
+     ],
+     "muster": "• Bewegungsrhythmus: beschreibt die zeitlich-dynamische Ordnung einer Bewegung. Gemeint ist der für eine Technik charakteristische Wechsel von Spannung und Entspannung bzw. von betonten und unbetonten Bewegungsteilen, z. B. der Rhythmus „lang – kurz“ der letzten Anlaufschritte beim Weitsprung.\n• Bewegungskopplung: beschreibt die räumlich-zeitliche und dynamische Verbindung der Teilbewegungen. Es geht um das zweckmäßige Zusammenspiel und die Reihenfolge der Teilkörperbewegungen sowie die Übertragung von Bewegungsimpulsen zwischen ihnen, z. B. Beinstreckung vor Armstreckung beim Wurf.\n• Bewegungsfluss: beschreibt den Grad der Kontinuität im Ablauf. Eine Bewegung mit gutem Fluss läuft ohne Stockungen, Unterbrechungen oder ruckartige Übergänge zwischen den Phasen ab."
+    },
+    {
+     "nr": "2",
+     "operator": "Darstellen",
+     "afb": "I",
+     "be": 6,
+     "aufgabe": "Stellen Sie das Vorgehen der aktionsorientierten Funktionsanalyse nach Göhner dar und erklären Sie dabei die Begriffe Hauptaktion und Hilfsaktion.",
+     "erwartung": [
+      {
+       "text": "Bezugsgrundlagen: Bewegungsziel, Bewegungsaufgabe/Regeln, Bewegerbedingungen und Umgebungsbedingungen",
+       "be": 1
+      },
+      {
+       "text": "Schritt 1: Aktionsskizze – Auflisten der Aktionen, die zur Lösung der Bewegungsaufgabe nötig sind (Welche?)",
+       "be": 1
+      },
+      {
+       "text": "Schritt 2: Verlaufsbeschreibung mithilfe von Aktionsmodalitäten (Wie?)",
+       "be": 1
+      },
+      {
+       "text": "Schritt 3: Belegung der Aktionen und Modalitäten mit Funktionen (Wozu?) als wichtigster Schritt",
+       "be": 1
+      },
+      {
+       "text": "Schritt 4: Überprüfung der Funktionsbelegungen (erfüllen die Aktionen die Funktion?)",
+       "be": 1
+      },
+      {
+       "text": "Hauptaktion: funktional unabhängig, dient unmittelbar der Lösung der Bewegungsaufgabe; Hilfsaktion: funktional abhängig, Funktion nur mit Verweis auf eine andere Aktion definierbar",
+       "be": 1
+      }
+     ],
+     "muster": "Die Funktionsanalyse nach Göhner fragt, wozu die einzelnen Teile einer Bewegung da sind. Bezugsgrundlagen sind das Bewegungsziel, die Bewegungsaufgabe mit ihren Regeln sowie die Beweger- und Umgebungsbedingungen.\nVorgehen in vier Schritten:\n• 1. Aktionsskizze: Welche Aktionen werden ausgeführt? Es werden die sichtbaren Aktionen aufgelistet, die zur Lösung der Bewegungsaufgabe in jedem Fall realisiert werden müssen.\n• 2. Verlaufsbeschreibung: Wie werden die Aktionen ausgeführt? Ihre Verlaufsform wird mit Aktionsmodalitäten festgelegt (z. B. räumlich, zeitlich, dynamisch).\n• 3. Funktionsbelegung: Wozu dient jede Aktion und Modalität? Jeder wird mindestens eine Funktion zugeordnet. Dies ist der wichtigste Schritt.\n• 4. Überprüfung: Erfüllen die Aktionen tatsächlich die zugewiesenen Funktionen? Fehlerhafte Belegungen werden korrigiert.\nHauptaktion und Hilfsaktion: Eine Aktion ist funktional unabhängig, wenn ihre Funktion ohne Verweis auf andere Aktionen beschrieben werden kann, weil sie unmittelbar die Bewegungsaufgabe löst. Das ist die Hauptaktion. Hilfsaktionen sind funktional abhängig, ihre Funktion lässt sich nur mit Bezug auf eine andere Aktion angeben (z. B. ein Anlauf, der den Absprung vorbereitet)."
+    },
+    {
+     "nr": "3",
+     "operator": "Ermitteln",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Ermitteln Sie für den Sprungwurf in M1 die Hauptaktion und die Hilfsaktionen und erläutern Sie, welche Funktionsbelegungen des Mitschülers in M3 zutreffend, unvollständig oder fehlerhaft sind.",
+     "erwartung": [
+      {
+       "text": "Bestimmt als Hauptaktion: Strecken des Wurfarms und Abklappen des Handgelenks (Abwurf auf optimaler Flugbahn in den Korb)",
+       "be": 1
+      },
+      {
+       "text": "Bestimmt als Hilfsaktionen: Stopp mit KSP-Senkung, Führen des Balls in die Wurfauslage, Absprung, Landung (mit Begründung der funktionalen Abhängigkeit)",
+       "be": 1
+      },
+      {
+       "text": "Bestätigt Stopp und Absprung als im Kern korrekt belegt (Abbremsen, Absprungvorbereitung durch Anfangskraft bzw. Abwurfhöhe)",
+       "be": 1
+      },
+      {
+       "text": "Ergänzt beim Stopp die biomechanische Funktion: Bremskraftstoß als Anfangskraft und Schaffen eines optimalen Beschleunigungswegs",
+       "be": 1
+      },
+      {
+       "text": "Erkennt als unvollständig: Führen des Balls dient nicht nur dem Schutz, sondern dem Erreichen der Wurfauslage und der Impulsübertragung auf den Gesamtkörper",
+       "be": 1
+      },
+      {
+       "text": "Erkennt als fehlerhaft: Funktion der Hauptaktion ist nicht maximale, sondern dosierte, zielgenaue Abwurfgeschwindigkeit (Modulation)",
+       "be": 1
+      },
+      {
+       "text": "Begründet dies mit dem Prinzip der Kinetion und Modulation: Energie liefern Beine/Rumpf, Arm/Hand dosieren",
+       "be": 1
+      },
+      {
+       "text": "Ergänzt bei der Landung bzw. beim Halten der Wurfhand eine fehlende Funktion (z. B. Follow-Through stabilisiert die Wurfrichtung; Landung an der Absprungstelle vermeidet Foul)",
+       "be": 1
+      }
+     ],
+     "muster": "Hauptaktion ist das Strecken des Wurfarms mit Abklappen des Handgelenks. Diese Aktion löst die Bewegungsaufgabe unmittelbar: Der Ball wird auf eine Flugbahn gebracht, die in den Korb führt. Alle anderen Aktionen sind Hilfsaktionen, ihre Funktionen lassen sich nur mit Bezug auf den Abwurf angeben: Der Stopp bereitet den Absprung vor, das Führen des Balls bereitet die Wurfauslage vor, der Absprung schafft die Abwurfhöhe, die Landung schließt die Bewegung regelgerecht ab.\nÜberprüfung von M3:\n• Stopp mit KSP-Senkung: im Kern richtig. Zu ergänzen ist, dass beim fließenden Übergang der Bremskraftstoß als Anfangskraft für den Absprung genutzt wird und die Beugung einen optimalen Beschleunigungsweg schafft.\n• Führen des Balls: unvollständig. Schutz vor dem Verteidiger ist eine Nebenfunktion. Wesentlich ist, dass der Ball in die Wurfauslage gelangt und das Abbremsen der Anreißbewegung den Impuls auf den Gesamtkörper überträgt.\n• Absprung: richtig belegt, die Abwurfhöhe über dem Verteidiger ist die Hauptfunktion.\n• Hauptaktion: fehlerhaft belegt. Beim Basketballwurf geht es nicht um maximale, sondern um eine dosierte, zielgenaue Abwurfgeschwindigkeit. Nach dem Prinzip der Kinetion und Modulation liefern Bein- und Rumpfmuskulatur die Energie (Kinetoren), Unterarm, Hand und Finger stimmen sie fein ab (Modulatoren). Die Rückwärtsrotation stabilisiert zusätzlich die Flugbahn.\n• Landung: richtig. Zu ergänzen ist das Halten der Wurfhand (Follow-Through), das die Wurfrichtung stabilisiert und die Wurfbewegung vollendet."
+    },
+    {
+     "nr": "4",
+     "operator": "Analysieren",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Analysieren Sie Mias Wurfausführung (M2) im Vergleich zu M1 unter Bezug auf qualitative Bewegungsmerkmale und biomechanische Prinzipien.",
+     "erwartung": [
+      {
+       "text": "Bewegungsfluss: Mias Pause mit dem Ball vor dem Bauch unterbricht den fließenden Übergang vom Stopp zum Wurf",
+       "be": 1
+      },
+      {
+       "text": "Anfangskraft: Stopp mit fast gestreckten Beinen und Pause → kein Bremskraftstoß als Anfangskraft für den Absprung",
+       "be": 1
+      },
+      {
+       "text": "Optimaler Beschleunigungsweg: zu geringe bzw. kurze, ruckartige Kniebeugung → zu kurzer Beschleunigungsweg für den Sprung",
+       "be": 1
+      },
+      {
+       "text": "Bewegungskopplung/Koordination der Teilimpulse: Wurf erfolgt in der Aufwärtsbewegung, Sprung und Wurf sind nicht optimal gekoppelt („Wurf-Sprung“ statt „Sprung-Wurf“)",
+       "be": 1
+      },
+      {
+       "text": "Kinetion und Modulation: Energie wird überwiegend aus Arm und Handgelenk erzeugt (großer Krafteinsatz), Modulatoren übernehmen die Funktion der Kinetoren",
+       "be": 1
+      },
+      {
+       "text": "Folge für die Präzision: dosierte Feinsteuerung leidet, kaum Rückwärtsrotation, geringe Trefferquote (Bewegungspräzision/Zielpräzision)",
+       "be": 1
+      },
+      {
+       "text": "Folge für die Weite: bei Distanzwürfen fehlt die Energie aus den Beinen → Ball fällt zu kurz",
+       "be": 1
+      },
+      {
+       "text": "Erkennt, dass der seitliche Ellbogen die Wurfrichtung offenbar nicht beeinträchtigt (gerade Flugbahn, wenig seitliche Fehlwürfe)",
+       "be": 1
+      }
+     ],
+     "muster": "• Bewegungsfluss: In M1 gehen Stopp, Führen des Balls und Absprung ohne Unterbrechung ineinander über. Mia hält den Ball eine halbe Sekunde vor dem Bauch, der Bewegungsfluss ist unterbrochen.\n• Anfangskraft: Mia stoppt mit fast gestreckten Beinen und pausiert. Damit fehlt der Bremskraftstoß beim Absenken des KSP, der bei fließendem Übergang als Anfangskraft für den Absprung dient.\n• Optimaler Beschleunigungsweg: Die kurze, ruckartige Kniebeugung schafft nur einen kurzen Beschleunigungsweg, der Sprung bleibt niedrig und kraftlos.\n• Kopplung und Koordination der Teilimpulse: Mia wirft schon in der Aufwärtsbewegung ab („Wurf-Sprung“). In M1 erfolgt der Abwurf kurz vor dem toten Punkt, wenn der Körper ruhig ist („Sprung-Wurf“). Bei Mia überlagern sich Sprung- und Wurfbewegung unkontrolliert.\n• Kinetion und Modulation: Da aus den Beinen kaum Energie kommt, streckt Mia Arm und Handgelenk mit großem Krafteinsatz. Die feinmotorischen Modulatoren müssen die Arbeit der Kinetoren übernehmen und können den Ball nicht mehr fein dosieren. Der Ball hat kaum Rückwärtsrotation.\n• Folgen: Die Bewegungspräzision (Zielpräzision) ist gering, daher die niedrige Trefferquote. Bei Distanzwürfen reicht die Armkraft nicht aus, der Ball fällt zu kurz.\n• Ellbogen: Die Abweichung vom Leitbild beeinträchtigt die Wurfrichtung offenbar nicht, der Ball fliegt gerade, seitliche Fehlwürfe sind selten."
+    },
+    {
+     "nr": "5",
+     "operator": "Stellung nehmen",
+     "afb": "III",
+     "be": 12,
+     "aufgabe": "Nehmen Sie aus Sicht der funktionalen Bewegungsanalyse Stellung zur Aussage der Trainerin (M2) und entwickeln Sie begründet zwei Korrekturmaßnahmen für Mia.",
+     "erwartung": [
+      {
+       "text": "Erkennt, dass die Trainerin morphologisch argumentiert: Fehler = Abweichung vom Lehrbild",
+       "be": 1
+      },
+      {
+       "text": "Erklärt die funktionale Fehlerbestimmung: Bewegungsfehler liegt nur vor, wenn eine Funktion nicht erfüllt wird",
+       "be": 1
+      },
+      {
+       "text": "Wendet Bewegungsspielraum bzw. Funktionsäquivalenz auf den Ellbogen an: Funktion (gerade Wurfrichtung) wird erfüllt → kein Hauptfehler",
+       "be": 1
+      },
+      {
+       "text": "Gesteht der Trainerin ein Argument zu (z. B. Ellbogen unter dem Ball kann bei höherer Wurfbelastung/Distanz die Stabilität erhöhen, Langfristperspektive)",
+       "be": 1
+      },
+      {
+       "text": "Bestimmt als Hauptfehler die fehlende Energie aus Stopp und Absprung (fehlende Anfangskraft, Pause, zu früher Abwurf) als Ursache; Präzisions- und Weitenprobleme sind Folgefehler",
+       "be": 1
+      },
+      {
+       "text": "Begründet die Priorität mit der Regel, Ursache statt Folgefehler und nur einen Hauptfehler zu korrigieren",
+       "be": 1
+      },
+      {
+       "text": "Maßnahme 1 konkret beschrieben (z. B. Fang-Stopp-Wurf-Übung mit Zuruf „tief – hoch – Wurf“ für fließenden Übergang und KSP-Senkung)",
+       "be": 1
+      },
+      {
+       "text": "Begründung Maßnahme 1 biomechanisch (Anfangskraft, Beschleunigungsweg, Kinetion)",
+       "be": 1
+      },
+      {
+       "text": "Maßnahme 2 konkret beschrieben (z. B. Würfe nahe am Korb mit Abwurf am höchsten Punkt, Distanz schrittweise vergrößern; Partner gibt Signal am toten Punkt)",
+       "be": 1
+      },
+      {
+       "text": "Begründung Maßnahme 2 (Sprung-Wurf, Modulation, Präzision; Vereinfachung durch Parameterveränderung)",
+       "be": 1
+      },
+      {
+       "text": "Abwägung mit durchgängigem Bezug auf M1–M3",
+       "be": 1
+      },
+      {
+       "text": "Begründetes eigenes Fazit",
+       "be": 1
+      }
+     ],
+     "muster": "Die Trainerin argumentiert morphologisch: Jede Abweichung vom Lehrbild gilt als Fehler. Aus Sicht der funktionalen Bewegungsanalyse nach Göhner liegt ein Bewegungsfehler dagegen nur vor, wenn eine Aktion ihre Funktion nicht erfüllt.\n• Der seitlich zeigende Ellbogen soll dafür sorgen, dass der Ball in Korbrichtung beschleunigt wird. Laut M2 fliegt Mias Ball gerade, seitliche Fehlwürfe sind selten. Die Funktion wird erfüllt, Mia nutzt einen individuellen Bewegungsspielraum (Funktionsäquivalenz). Das ist kein Hauptfehler.\n• Für die Trainerin spricht, dass eine Ellbogenstellung unter dem Ball langfristig, etwa bei Dreipunktwürfen, die Stabilität erhöhen kann. Das ist aber eine Feinkorrektur für später.\n• Der eigentliche Hauptfehler liegt im fehlenden Energieeintrag aus Stopp und Absprung: Stopp mit gestreckten Beinen, Pause und ruckartiger, kurzer Absprung. Weil die Kinetoren kaum Energie liefern, muss Mia aus Arm und Handgelenk werfen und zu früh abwerfen. Geringe Trefferquote und zu kurze Distanzwürfe sind Folgefehler.\n• Nach den Regeln für Fehlerkorrekturen ist zuerst die Ursache und nur ein Hauptfehler zu korrigieren. Die Aussage der Trainerin setzt daher die falsche Priorität und würde Mias Aufmerksamkeit auf ein unwichtiges Detail lenken.\nMaßnahme 1: Fang-Stopp-Sprung ohne Pause. Mia erhält Pässe, stoppt im Doppelkontakt mit deutlicher Kniebeugung und springt sofort ab. Die Trainerin gibt die Rhythmushilfe „tief – hoch – Wurf“. Begründung: Der fließende Übergang nutzt den Bremskraftstoß als Anfangskraft, die tiefere Beugung schafft einen optimalen Beschleunigungsweg. Die Beine liefern die Energie (Kinetion).\nMaßnahme 2: Sprungwürfe aus 2–3 m Entfernung mit dem Auftrag, den Ball erst am höchsten Punkt zu lösen und die Wurfhand stehen zu lassen. Die Distanz wird schrittweise vergrößert. Begründung: Nahe am Korb ist wenig Energie nötig, Mia kann sich auf den Sprung-Wurf und die dosierte Modulation durch das Handgelenk konzentrieren (Parameterveränderung als Vereinfachung). Ein externaler Fokus („Ball fällt von oben in den Ring“) unterstützt das Lernen.\nFazit: Die Aussage der Trainerin ist aus funktionaler Sicht abzulehnen. Mias Ellbogenhaltung ist eine zulässige individuelle Lösung, die Korrektur muss bei Stopp, Absprung und Abwurfzeitpunkt ansetzen."
+    }
+   ]
+  },
+  {
+   "id": "k-q3.1-1",
+   "themen": [
+    "Q3.1",
+    "Q1.2",
+    "Q3.2"
+   ],
+   "titel": "Hürdensprint lernen im Sportkurs",
+   "zeit": 110,
+   "einleitung": "Ein Sportkurs der Jahrgangsstufe 12 hat sechs Wochen lang (je zwei Doppelstunden) den Hürdensprint über 60 m mit vier Hürden (Höhe 76 cm) erarbeitet. Der Lehrer hat die Entwicklung dreier Schülerinnen und Schüler mit unterschiedlichen Voraussetzungen dokumentiert und sein methodisches Vorgehen beschrieben.",
+   "material": [
+    {
+     "titel": "M1: Beobachtungen des Lehrers in Woche 6",
+     "text": "• Ben (17, keine Vorerfahrung): Ben läuft deutlich vor jeder Hürde langsamer, springt beidbeinig oder mit stark angehockten Beinen hoch über die Hürde und landet fast auf der Stelle. Die Arme rudern seitlich. Er blickt beim Laufen ständig auf die nächste Hürde und sagt: „Ich muss mich so konzentrieren, dass ich gar nicht merke, was meine Beine machen.“\n• Aylin (17, keine Vorerfahrung, Handballerin): Aylin läuft im Training flüssig über die Hürden, Schwungbein und Nachziehbein arbeiten weitgehend korrekt. Einen Hinweis wie „Schwungbein gestreckt angreifen“ setzt sie im nächsten Lauf um. Sie sagt: „Ich spüre inzwischen selbst, wenn mein Nachziehbein zu tief kommt.“ Läuft sie gegen einen schnelleren Partner, verliert sie ab der dritten Hürde den Rhythmus.\n• Jakob (18, seit sechs Jahren Hürdenläufer im Verein): Jakob läuft immer mit drei Schritten zwischen den Hürden, auch wenn der Lehrer die Abstände verändert. Er unterhält sich nach dem Lauf über die Bewegungen seiner Mitschüler, während er selbst läuft, achtet er auf den Gegner auf der Nachbarbahn."
+    },
+    {
+     "titel": "M2: Ergebnisse der drei Lernenden (fiktiv)",
+     "tabelle": {
+      "kopf": [
+       "Kriterium",
+       "Ben",
+       "Aylin",
+       "Jakob"
+      ],
+      "zeilen": [
+       [
+        "Zeit 60 m Hürden Woche 1",
+        "12,4 s",
+        "11,9 s",
+        "9,6 s"
+       ],
+       [
+        "Zeit 60 m Hürden Woche 6",
+        "11,6 s",
+        "10,4 s",
+        "9,5 s"
+       ],
+       [
+        "Schritte zwischen den Hürden (Woche 6)",
+        "4–6, wechselnd",
+        "3er-Rhythmus in 5 von 6 Läufen",
+        "3er-Rhythmus in allen Läufen"
+       ],
+       [
+        "Hürdenberührungen pro Lauf (Woche 6, Mittel)",
+        "2,5",
+        "0,5",
+        "0"
+       ],
+       [
+        "Lauf gegen schnelleren Partner (Woche 6)",
+        "bleibt vor Hürde 2 fast stehen",
+        "ab Hürde 3 Rhythmusverlust, 2 Berührungen",
+        "keine Veränderung"
+       ]
+      ]
+     }
+    },
+    {
+     "titel": "M3: Methodisches Vorgehen des Lehrers",
+     "text": "„In den Wochen 1 bis 4 haben wir nur Teilübungen gemacht: Schwungbeinarbeit an der Sprossenwand, Nachziehbein im Gehen seitlich an der Hürde, Zwischenhürdenrhythmus über flache Markierungen ohne Hürden. Erst ab Woche 5 sind wir über richtige Hürden gelaufen. Außerdem habe ich jedem nach jedem Lauf alle Fehler genannt, die ich gesehen habe, damit sich nichts Falsches einschleift.“"
+    }
+   ],
+   "teil": [
+    {
+     "nr": "1",
+     "operator": "Beschreiben",
+     "afb": "I",
+     "be": 8,
+     "aufgabe": "Beschreiben Sie die drei Phasen des motorischen Lernens nach Meinel/Schnabel.",
+     "erwartung": [
+      {
+       "text": "Grobkoordination – Abgrenzung: vom Erfassen der Lernaufgabe bis zur Ausführung der Grobform unter günstigen Bedingungen",
+       "be": 1
+      },
+      {
+       "text": "Grobkoordination – Merkmale: verkrampft, übermäßiger Krafteinsatz, stockender Fluss, fehlerhafte Kopplung, geringe Präzision/Konstanz",
+       "be": 1
+      },
+      {
+       "text": "Grobkoordination – Informationsverarbeitung: mangelhafte Aufnahme, vor allem optische und bewusste Steuerung, kinästhetischer Analysator kaum wirksam",
+       "be": 1
+      },
+      {
+       "text": "Feinkoordination – Abgrenzung: bis zur annähernd fehlerfreien Ausführung unter gewohnten Bedingungen",
+       "be": 1
+      },
+      {
+       "text": "Feinkoordination – Merkmale: flüssiger, präziser, exaktere Kraftdosierung; unter erschwerten Bedingungen noch Mängel",
+       "be": 1
+      },
+      {
+       "text": "Feinkoordination – Informationsverarbeitung: kinästhetischer Analysator wird wirksamer, innere und äußere Rückmeldungen werden verarbeitet",
+       "be": 1
+      },
+      {
+       "text": "Variable Verfügbarkeit (Feinstkoordination): sichere Ausführung auch unter wechselnden, schwierigen Bedingungen (Wettkampf, Ermüdung, Gegnerdruck), hohe Präzision und Konstanz",
+       "be": 1
+      },
+      {
+       "text": "Variable Verfügbarkeit – Informationsverarbeitung: Automatisierung, Aufmerksamkeit kann von der Bewegung gelöst werden, sehr genaues Bewegungsempfinden",
+       "be": 1
+      }
+     ],
+     "muster": "• Phase 1, Entwicklung der Grobkoordination: Sie reicht vom Erfassen der Lernaufgabe bis zur Ausführung der Grobform unter günstigen Bedingungen. Die Bewegung ist in ihrer Grundstruktur erkennbar, wirkt aber verkrampft und unökonomisch, mit übermäßigem Krafteinsatz, stockenden Übergängen, fehlerhafter Kopplung sowie geringer Präzision und Konstanz. Informationen werden mangelhaft aufgenommen und verarbeitet. Die Steuerung erfolgt vor allem optisch und bewusst, der kinästhetische Analysator ist noch wenig wirksam.\n• Phase 2, Entwicklung der Feinkoordination: Sie reicht bis zur annähernd fehlerfreien Ausführung unter gewohnten Bedingungen. Die Bewegung wird flüssiger, präziser und konstanter, die Kraft wird exakter dosiert. Unter ungewohnten oder erschwerten Bedingungen treten noch Fehler auf. Die kinästhetischen Analysatoren werden wirksamer, innere und äußere Rückmeldungen können zur Optimierung genutzt werden, es entsteht ein Bewegungsgefühl.\n• Phase 3, Stabilisierung der Feinkoordination und Ausprägung der variablen Verfügbarkeit: Die Bewegung gelingt auch unter wechselnden und schwierigen Bedingungen (Wettkampf, Gegnerdruck, Ermüdung) mit hoher Präzision und Konstanz. Sie ist automatisiert, die Aufmerksamkeit kann auf andere Aspekte gerichtet werden. Das Bewegungsempfinden ist sehr genau, sodass bewusste Feinkorrekturen möglich sind."
+    },
+    {
+     "nr": "2",
+     "operator": "Nennen und beschreiben",
+     "afb": "I",
+     "be": 4,
+     "aufgabe": "Nennen Sie die fünf Wahrnehmungsanalysatoren und beschreiben Sie die Funktion des kinästhetischen Analysators.",
+     "erwartung": [
+      {
+       "text": "Nennt die Propriozeptoren: kinästhetischer und vestibulärer Analysator",
+       "be": 1
+      },
+      {
+       "text": "Nennt die Exterozeptoren: optischer, akustischer und taktiler Analysator",
+       "be": 1
+      },
+      {
+       "text": "Kinästhetischer Analysator: liefert Informationen über Bewegungsempfinden, Muskelspannung, Gelenkstellung, Körperraumlage (Muskelspindeln, Sehnen- und Gelenkrezeptoren)",
+       "be": 1
+      },
+      {
+       "text": "Sonderstellung: jede Bewegung löst kinästhetische Signale aus, enge Verbindung zu allen anderen Analysatoren",
+       "be": 1
+      }
+     ],
+     "muster": "Die fünf Wahrnehmungsanalysatoren sind:\n• Propriozeptoren (Informationen aus dem eigenen Körper): kinästhetischer Analysator (Bewegungsempfinden) und vestibulärer Analysator (Gleichgewicht).\n• Exterozeptoren (Informationen von außen): optischer, akustischer und taktiler Analysator.\nDer kinästhetische Analysator nimmt über Muskelspindeln sowie Rezeptoren in Sehnen und Gelenken Informationen über Gelenkstellungen, Muskelspannung, Bewegungsablauf und Körperraumlage auf. Da jede Bewegung kinästhetische Signale auslöst und er mit allen anderen Analysatoren eng verbunden ist, hat er eine herausragende Bedeutung für die Bewegungskoordination."
+    },
+    {
+     "nr": "3",
+     "operator": "Einordnen",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Ordnen Sie Ben, Aylin und Jakob begründet einer Lernphase nach Meinel/Schnabel zu. Beziehen Sie sich auf M1 und M2.",
+     "erwartung": [
+      {
+       "text": "Ben → Grobkoordination",
+       "be": 1
+      },
+      {
+       "text": "Begründung Ben mit Belegen: Abbremsen vor Hürden, Hochspringen statt Überlaufen, rudernde Arme (Kopplung, Fluss, Umfang), wechselnde Schrittzahl und viele Berührungen (Konstanz, Präzision)",
+       "be": 1
+      },
+      {
+       "text": "Begründung Ben über Informationsverarbeitung: Blick ständig auf Hürde (optische Steuerung), kein Bewegungsgefühl (Zitat)",
+       "be": 1
+      },
+      {
+       "text": "Aylin → Feinkoordination",
+       "be": 1
+      },
+      {
+       "text": "Begründung Aylin: flüssig und weitgehend korrekt unter Übungsbedingungen, 3er-Rhythmus fast konstant, große Zeitverbesserung (1,5 s)",
+       "be": 1
+      },
+      {
+       "text": "Begründung Aylin: verarbeitet Hinweise und kinästhetische Informationen (Zitat), aber Rhythmusverlust unter Wettkampfdruck → variable Verfügbarkeit noch nicht erreicht",
+       "be": 1
+      },
+      {
+       "text": "Jakob → Stabilisierung der Feinkoordination/variable Verfügbarkeit",
+       "be": 1
+      },
+      {
+       "text": "Begründung Jakob: konstanter Rhythmus auch bei veränderten Abständen und gegen Gegner, keine Berührungen, Aufmerksamkeit frei für den Gegner (Automatisierung), geringe Verbesserung (Leistungsniveau bereits hoch)",
+       "be": 1
+      }
+     ],
+     "muster": "• Ben befindet sich in der Grobkoordination. Er bremst vor jeder Hürde ab und springt hoch über die Hürde, statt sie flach zu überlaufen. Der Bewegungsfluss ist unterbrochen, die Kopplung von Arm- und Beinarbeit gelingt nicht (rudernde Arme), der Bewegungsumfang ist unzweckmäßig groß. Die wechselnde Schrittzahl (4–6) und 2,5 Hürdenberührungen pro Lauf zeigen geringe Konstanz und Präzision. Er steuert über den optischen Analysator (Blick auf die Hürde) und sagt selbst, dass er nicht spürt, was seine Beine tun. Unter Wettkampfdruck bricht die Bewegung fast zusammen.\n• Aylin befindet sich in der Feinkoordination. Unter Übungsbedingungen läuft sie flüssig, mit korrekter Schwung- und Nachziehbeinarbeit und fast konstantem Dreierrhythmus, sie hat sich um 1,5 s verbessert. Sie kann verbale Hinweise umsetzen und nimmt kinästhetische Informationen wahr („Ich spüre …“). Gegen einen schnelleren Partner, also unter erschwerten Bedingungen, verliert sie den Rhythmus. Die variable Verfügbarkeit ist noch nicht erreicht.\n• Jakob befindet sich in der Phase der Stabilisierung der Feinkoordination bzw. variablen Verfügbarkeit. Er läuft auch bei veränderten Abständen und gegen einen Gegner konstant im Dreierrhythmus ohne Berührungen. Seine Aufmerksamkeit kann er auf den Gegner richten, die Bewegung ist automatisiert. Die geringe Verbesserung um 0,1 s erklärt sich durch das bereits hohe Niveau."
+    },
+    {
+     "nr": "4",
+     "operator": "Erläutern",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Erläutern Sie mithilfe des Modells der Bewegungskoordination (Regelkreismodell), wie sich die Informationsaufnahme und -verarbeitung bei den drei Lernenden unterscheidet.",
+     "erwartung": [
+      {
+       "text": "Skizziert das Modell knapp: Afferenzsynthese, Programmierung mit Antizipation (Sollwert), Efferenzsynthese mit Efferenzkopie, Reafferenz, Soll-Ist-Vergleich",
+       "be": 1
+      },
+      {
+       "text": "Ben: Afferenzsynthese unvollständig, kaum Bewegungserfahrung im Gedächtnis, Bewegungsvorstellung/Sollwert ungenau",
+       "be": 1
+      },
+      {
+       "text": "Ben: Reafferenzen kommen überwiegend optisch, kinästhetische Rückmeldung wird kaum genutzt → Soll-Ist-Vergleich ungenau, Korrekturen fehlen",
+       "be": 1
+      },
+      {
+       "text": "Aylin: genaueres Bewegungsprogramm und Sollwert; kinästhetische Reafferenz wird wahrgenommen (Nachziehbein) und für Soll-Ist-Vergleich genutzt",
+       "be": 1
+      },
+      {
+       "text": "Aylin: Störgrößen (schnellerer Partner) überlasten die Informationsverarbeitung, da Aufmerksamkeit noch für die Bewegung gebraucht wird",
+       "be": 1
+      },
+      {
+       "text": "Jakob: gefestigtes generalisiertes Programm, präzise Antizipation, Parameter (Schrittlänge) werden an veränderte Abstände angepasst",
+       "be": 1
+      },
+      {
+       "text": "Jakob: Regulation läuft weitgehend automatisiert über kinästhetische Rückmeldungen, der optische Analysator ist frei für Umweltinformationen (Gegner)",
+       "be": 1
+      },
+      {
+       "text": "Zieht eine Gesamtfolgerung: Lernfortschritt zeigt sich in der zunehmenden Nutzung propriozeptiver Informationen und der Präzision von Sollwert und Soll-Ist-Vergleich",
+       "be": 1
+      }
+     ],
+     "muster": "Im Regelkreismodell nach Meinel/Schnabel werden in der Afferenzsynthese aktuelle Informationen, Bewegungserfahrung und Ziel zusammengeführt. Daraus entstehen Programm und Antizipation (Sollwert). In der Efferenzsynthese wird das Programm an die Muskulatur gesendet, eine Efferenzkopie wird gespeichert. Die Reafferenzen der Analysatoren werden im Soll-Ist-Vergleich mit dem Sollwert verglichen.\n• Ben: Mangels Bewegungserfahrung ist die Afferenzsynthese unvollständig und seine Bewegungsvorstellung ungenau. Das Programm ist noch grob. Rückmeldungen erhält er fast nur optisch (Blick auf die Hürde), kinästhetische Informationen nimmt er nicht wahr. Der Soll-Ist-Vergleich ist daher unpräzise, Fehler werden nicht erkannt.\n• Aylin: Ihr Sollwert ist genauer, das Programm ist weitgehend gespeichert. Sie nimmt kinästhetische Reafferenzen wahr (Nachziehbein zu tief) und kann sie mit dem Sollwert vergleichen. Kommt mit dem schnelleren Partner eine Störgröße hinzu, wird die Informationsverarbeitung überlastet, weil sie noch Aufmerksamkeit für die eigene Bewegung braucht.\n• Jakob: Er verfügt über ein gefestigtes generalisiertes motorisches Programm. Bei veränderten Abständen passt er nur die Parameter (Schrittlänge) an. Die Regulation läuft automatisiert über kinästhetische Rückmeldungen, der optische Analysator steht für Umweltinformationen wie den Gegner zur Verfügung.\nFolgerung: Mit fortschreitendem Lernen werden Sollwert und Soll-Ist-Vergleich präziser, und die Steuerung verlagert sich von optisch-bewusster zu kinästhetisch-automatisierter Regulation."
+    },
+    {
+     "nr": "5",
+     "operator": "Beurteilen",
+     "afb": "III",
+     "be": 6,
+     "aufgabe": "Beurteilen Sie das methodische Vorgehen des Lehrers (M3) hinsichtlich der Lernmethode und der Rückmeldungen.",
+     "erwartung": [
+      {
+       "text": "Ordnet das Vorgehen der Teillernmethode (analytisch-synthetisch) über vier Wochen zu und erkennt einen berechtigten Aspekt (z. B. Komplexitätsreduktion, Angst vor der Hürde)",
+       "be": 1
+      },
+      {
+       "text": "Kritik: Hürdensprint ist eine zyklisch geprägte, eng verzahnte Bewegung (Rhythmus, Kopplung von Schwung- und Nachziehbein im Lauf) → lange isoliertes Teillernen stört Timing und Bewegungsfluss",
+       "be": 1
+      },
+      {
+       "text": "Bezieht eine Alternative ein: früh ganzheitlich über niedrige Hindernisse bzw. verkürzte Abstände (Parameterveränderung, Fehlertoleranz), ggf. Ganz-Teil-Ganz",
+       "be": 1
+      },
+      {
+       "text": "Kritik an den Rückmeldungen: alle Fehler nach jedem Lauf = Informationsflut, besonders problematisch für Ben in der Grobkoordination",
+       "be": 1
+      },
+      {
+       "text": "Begründet mit Feedbackregeln: nur Hauptfehler, reduzierte Frequenz, Selbsteinschätzung ermöglichen (Guidance-Hypothese)",
+       "be": 1
+      },
+      {
+       "text": "Begründetes Fazit mit Bezug auf die Lernergebnisse in M2 (z. B. nur geringe Fortschritte bei Ben)",
+       "be": 1
+      }
+     ],
+     "muster": "Lernmethode: Der Lehrer nutzt vier Wochen lang ausschließlich die Teillernmethode. Berechtigt ist, dass einzelne Elemente wie das Nachziehbein für Anfänger ungewohnt sind und isoliert erfahren werden können. Auch die Angst vor der Hürde wird zunächst umgangen.\nDer Hürdensprint ist jedoch eine eng verzahnte Bewegung: Schwung- und Nachziehbein arbeiten gleichzeitig, und der Dreierrhythmus zwischen den Hürden entsteht nur im Lauf. Nach Roth ist bei engen Wechselwirkungen von einer Trennung abzuraten. Das lange Teilüben (Gehen, Wand, Markierungen ohne Hürden) weicht strukturell stark von der Zielbewegung ab. Timing, Fluss und Rhythmus werden nicht geschult. Zweckmäßiger wäre eine frühe Ganzform über niedrige Hindernisse (Schaumstoffhürden, Kartons) mit verkürzten Abständen, ergänzt um Teilübungen für Schwachstellen (Ganz-Teil-Ganz).\nRückmeldungen: Alle Fehler nach jedem Lauf zu nennen, führt zu einer Informationsflut. Besonders Ben in der Grobkoordination kann so viele Hinweise nicht verarbeiten. Feedback sollte sich auf den Hauptfehler beschränken, nicht nach jedem Versuch erfolgen und Raum für Selbsteinschätzung lassen, um Abhängigkeit zu vermeiden.\nFazit: Das Vorgehen ist nur eingeschränkt geeignet. Die geringen Fortschritte bei Ben (M2) passen zu den genannten Schwächen."
+    },
+    {
+     "nr": "6",
+     "operator": "Entwickeln",
+     "afb": "III",
+     "be": 6,
+     "aufgabe": "Entwickeln Sie für Aylin begründet ein Übungsprogramm für die nächsten vier Wochen, das sie in die Phase der variablen Verfügbarkeit führt.",
+     "erwartung": [
+      {
+       "text": "Zielformulierung: Stabilisierung des Dreierrhythmus und sichere Ausführung unter erschwerten, wechselnden Bedingungen",
+       "be": 1
+      },
+      {
+       "text": "Erste Stufe: Festigung durch viele Wiederholungen unter konstanten Bedingungen mit hoher Konzentration",
+       "be": 1
+      },
+      {
+       "text": "Mindestens zwei konkrete Variationen (z. B. veränderte Hürdenabstände/-höhen, Läufe nach Vorbelastung/Ermüdung, unterschiedliche Startsignale)",
+       "be": 1
+      },
+      {
+       "text": "Konkrete Form mit Wettkampf- bzw. Zeitdruck (z. B. Partnerläufe gegen Schnellere mit Vorgabe, Handicap-Läufe, Zeitvorgaben)",
+       "be": 1
+      },
+      {
+       "text": "Feedbackgestaltung passend zur Lernphase (z. B. Hinweise zum Bewegungsempfinden, Selbsteinschätzung vor Video/Lehrerfeedback, reduzierte Frequenz)",
+       "be": 1
+      },
+      {
+       "text": "Schlüssige Progression mit Begründung aus den Lernphasenmerkmalen (vom Konstanten zum Variablen, Belastung schrittweise steigern)",
+       "be": 1
+      }
+     ],
+     "muster": "Ziel: Aylin soll den Dreierrhythmus und eine saubere Hürdentechnik auch gegen schnellere Gegner und unter Ermüdung sicher abrufen können.\n• Woche 1: Festigung unter konstanten Bedingungen. Viele Wiederholungen über 3–4 Hürden mit Standardabständen bei voller Konzentration. Begründung: In der Feinkoordination muss das Programm zunächst stabilisiert werden.\n• Woche 2: Variation der Bedingungen. Hürdenabstände um 20–30 cm verändern, unterschiedliche Hürdenhöhen, Start aus verschiedenen Positionen. Begründung: Erweiterung der variablen Programmparameter.\n• Woche 3: Ermüdung und Störgrößen. Hürdenläufe nach einem 150-m-Lauf, Läufe mit akustischen Störungen oder auf unterschiedlichen Untergründen.\n• Woche 4: Wettkampfdruck. Partnerläufe gegen Schnellere mit Vorsprung für Aylin (Handicap), Staffelwettkämpfe, Läufe mit Zeitvorgabe.\nFeedback: Aylin schätzt nach jedem Lauf zuerst selbst ein, ob ihr Nachziehbein hoch genug war und der Rhythmus stimmte. Danach folgt gelegentlich Videofeedback oder ein zusammenfassender Hinweis zum Bewegungsgefühl. So wird die kinästhetische Wahrnehmung geschult und eine Abhängigkeit von äußerem Feedback vermieden.\nDie Progression führt vom Konstanten zum Variablen und steigert den Belastungsdruck schrittweise, wie es der Übergang zur variablen Verfügbarkeit verlangt."
+    }
+   ]
+  },
+  {
+   "id": "k-q3.1-2",
+   "themen": [
+    "Q3.1",
+    "Q3.2"
+   ],
+   "titel": "Instruktion und Rückmeldung beim Volleyball-Aufschlag",
+   "zeit": 105,
+   "einleitung": "In einem Volleyballverein lernen zwei Anfängerinnengruppen der U16 (je zwölf Spielerinnen, vergleichbare Voraussetzungen) sechs Wochen lang den Aufschlag von oben (Tennisaufschlag). Beide Gruppen üben gleich lange mit denselben Übungen, die Trainer geben aber unterschiedlich Rückmeldung. Nach sechs Wochen und nach einer zweiwöchigen Pause wurden die Spielerinnen getestet.",
+   "material": [
+    {
+     "titel": "M1: Rückmeldeverhalten der beiden Trainer",
+     "text": "• Gruppe A (Trainerin Nina): Nach jedem einzelnen Aufschlag gibt Nina sofort eine ausführliche Rückmeldung zum Bewegungsablauf, z. B.: „Ellbogen höher, Handgelenk fester, Hüfte mitdrehen, linker Arm zeigt zum Ball!“ Häufig nennt sie drei bis vier Punkte gleichzeitig. Sie korrigiert auch dann, wenn der Aufschlag gelungen ist.\n• Gruppe B (Trainer Tom): Tom gibt nur nach jeweils fünf Aufschlägen eine kurze, zusammenfassende Rückmeldung zum wichtigsten Punkt. Vorher fragt er die Spielerin, was sie selbst bemerkt hat. Seine Hinweise beziehen sich meist auf den Ball oder das Ziel, z. B.: „Triff den Ball vor und über deiner Schlagschulter“ oder „Schick den Ball flach über die Netzkante“. In Woche 3 sehen sich alle Spielerinnen einmal ihre Aufschläge auf Video an."
+    },
+    {
+     "titel": "M2: Gültige Aufschläge von 20 Versuchen (Gruppenmittelwerte, fiktiv)",
+     "tabelle": {
+      "kopf": [
+       "Testzeitpunkt",
+       "Gruppe A",
+       "Gruppe B"
+      ],
+      "zeilen": [
+       [
+        "Woche 1 (Eingangstest)",
+        "6",
+        "5"
+       ],
+       [
+        "Woche 3",
+        "12",
+        "10"
+       ],
+       [
+        "Woche 6 (letzte Trainingseinheit)",
+        "15",
+        "14"
+       ],
+       [
+        "Retentionstest nach 2 Wochen Pause, ohne Rückmeldung",
+        "11",
+        "14"
+       ],
+       [
+        "Transfertest: Aufschlag im Spiel nach vorangegangenem Ballwechsel",
+        "9",
+        "13"
+       ]
+      ]
+     }
+    },
+    {
+     "titel": "M3: Vorschlag eines Co-Trainers",
+     "text": "„Der Aufschlag von oben ist für Anfängerinnen zu schwierig. Wir sollten ihn zerlegen: zwei Wochen nur den Ballwurf üben, bis er immer gleich hoch ist, dann zwei Wochen nur den Schlag gegen einen ruhig in der Hand gehaltenen Ball und erst danach beides zusammen.“"
+    }
+   ],
+   "teil": [
+    {
+     "nr": "1",
+     "operator": "Beschreiben",
+     "afb": "I",
+     "be": 6,
+     "aufgabe": "Beschreiben Sie Arten der Rückmeldung (Feedback) beim motorischen Lernen und veranschaulichen Sie diese jeweils an einem Beispiel aus dem Volleyball.",
+     "erwartung": [
+      {
+       "text": "Definiert Feedback: Information über Bewegungsausführung oder -ergebnis, die zur Korrektur genutzt wird",
+       "be": 1
+      },
+      {
+       "text": "Intrinsisches Feedback: aus eigenen Sinnesorganen (kinästhetisch, vestibulär, taktil, optisch, akustisch)",
+       "be": 1
+      },
+      {
+       "text": "Passendes Volleyball-Beispiel für intrinsisches Feedback (z. B. Gefühl des Ballkontakts in der Hand, Ballflug sehen)",
+       "be": 1
+      },
+      {
+       "text": "Extrinsisches (augmentiertes) Feedback: zusätzliche Rückmeldung von außen (Trainer, Video, Messgerät) mit Volleyball-Beispiel",
+       "be": 1
+      },
+      {
+       "text": "Knowledge of Results: Information über das Ergebnis, z. B. „Ball im Aus“, „Zone 1 getroffen“",
+       "be": 1
+      },
+      {
+       "text": "Knowledge of Performance: Information über den Ablauf, z. B. „Treffpunkt zu weit hinter dem Kopf“",
+       "be": 1
+      }
+     ],
+     "muster": "Feedback ist eine Information über die eigene Bewegungsausführung oder deren Ergebnis, die zur Korrektur der Bewegung genutzt wird.\n• Intrinsisches (inneres) Feedback stammt aus den eigenen Sinnesorganen, z. B. kinästhetisch, taktil oder optisch. Beispiel: Die Spielerin spürt, dass sie den Ball mit den Fingern statt mit der festen Handfläche getroffen hat, und sieht, dass er ins Netz fliegt.\n• Extrinsisches (äußeres, augmentiertes) Feedback ist eine zusätzliche Information von außen, z. B. durch Trainer, Mitspielerin oder Video. Beispiel: Der Trainer zeigt die Aufnahme des Aufschlags.\nNach dem Inhalt unterscheidet man:\n• Knowledge of Results (Ergebnisrückmeldung): Information über das Ergebnis in Bezug auf das Ziel, z. B. „Der Ball war 1 m im Aus.“\n• Knowledge of Performance (Verlaufsrückmeldung): Information über den Ablauf, z. B. „Du triffst den Ball hinter dem Kopf statt vor der Schlagschulter.“"
+    },
+    {
+     "nr": "2",
+     "operator": "Darstellen",
+     "afb": "I",
+     "be": 6,
+     "aufgabe": "Stellen Sie die Rolle von Rückmeldungen im Modell der Bewegungskoordination nach Meinel/Schnabel dar.",
+     "erwartung": [
+      {
+       "text": "Programmierung mit Antizipation des Ablaufs und Ergebnisses bildet den Sollwert",
+       "be": 1
+      },
+      {
+       "text": "Efferenzkopie wird beim Senden der Befehle an die Muskulatur gespeichert",
+       "be": 1
+      },
+      {
+       "text": "Reafferenzen: Rückmeldungen über innere (kinästhetisch, vestibulär, taktil) und äußere (optisch, akustisch) Informationskanäle",
+       "be": 1
+      },
+      {
+       "text": "Soll-Ist-Vergleich zwischen Efferenzkopie/Antizipation und Reafferenz",
+       "be": 1
+      },
+      {
+       "text": "Folge: Korrektur der laufenden Bewegung oder Korrektur/Speicherung des Programms für die nächste Ausführung",
+       "be": 1
+      },
+      {
+       "text": "Ordnet extrinsisches Feedback als zusätzliche Information ein, die in Afferenzsynthese bzw. Soll-Ist-Vergleich einfließt (v. a. bei schnellen Bewegungen wie dem Aufschlag nach der Ausführung)",
+       "be": 1
+      }
+     ],
+     "muster": "• In der Programmierung wird mit dem Bewegungsprogramm auch der erwartete Ablauf und das erwartete Ergebnis antizipiert. Das ist der Sollwert.\n• Bei der Efferenzsynthese werden die Befehle an die Muskulatur gesendet, gleichzeitig wird eine Efferenzkopie im ZNS gespeichert.\n• Während und nach der Bewegung melden die Analysatoren zurück, was tatsächlich geschieht (Reafferenzen): innere Informationen über kinästhetische, vestibuläre und taktile Kanäle, äußere über optische und akustische Kanäle.\n• Im Soll-Ist-Vergleich werden Efferenzkopie bzw. antizipiertes Ergebnis mit den Reafferenzen verglichen. Bei Abweichungen wird bei langsamen Bewegungen noch während der Ausführung korrigiert. Bei schnellen Bewegungen wie dem Aufschlag wird die Abweichung für die nächste Ausführung genutzt, das Programm wird angepasst und gespeichert.\n• Extrinsisches Feedback durch den Trainer ergänzt die Reafferenzen. Es fließt nach der Bewegung in den Soll-Ist-Vergleich und in die Afferenzsynthese des nächsten Versuchs ein."
+    },
+    {
+     "nr": "3",
+     "operator": "Analysieren",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Analysieren Sie die Ergebnisse in M2.",
+     "erwartung": [
+      {
+       "text": "Beschreibt die Ausgangslage: beide Gruppen starten auf vergleichbarem Niveau (6 bzw. 5)",
+       "be": 1
+      },
+      {
+       "text": "Aneignungsphase: Gruppe A verbessert sich etwas schneller und liegt in Woche 3 und Woche 6 leicht vorn (12/10; 15/14)",
+       "be": 1
+      },
+      {
+       "text": "Retentionstest: Gruppe A fällt deutlich ab (15 → 11), Gruppe B hält ihr Niveau (14 → 14)",
+       "be": 1
+      },
+      {
+       "text": "Transfertest: Gruppe A fällt weiter ab (9), Gruppe B bleibt nahezu stabil (13)",
+       "be": 1
+      },
+      {
+       "text": "Unterscheidet Leistung im Training (Performance) von dauerhaftem Lernen (Lernergebnis); Retention/Transfer zeigen den Lernerfolg",
+       "be": 1
+      },
+      {
+       "text": "Folgert: Gruppe B hat nachhaltiger gelernt, obwohl ihre Trainingsleistung geringer war",
+       "be": 1
+      },
+      {
+       "text": "Ordnet den Transfertest als Prüfung unter variablen Spielbedingungen ein (Bezug zur variablen Verfügbarkeit)",
+       "be": 1
+      },
+      {
+       "text": "Benennt Grenzen der Aussagekraft (z. B. kleine Gruppen, fiktive Mittelwerte, unterschiedliche Trainerpersonen als Störvariable)",
+       "be": 1
+      }
+     ],
+     "muster": "• Ausgangslage: Beide Gruppen starten fast gleich (6 bzw. 5 gültige Aufschläge), die Voraussetzungen sind vergleichbar.\n• Aneignungsphase: Gruppe A verbessert sich etwas schneller und liegt in Woche 3 (12 zu 10) und Woche 6 (15 zu 14) leicht vorn.\n• Retentionstest: Nach zwei Wochen Pause ohne Rückmeldung fällt Gruppe A von 15 auf 11 ab, Gruppe B hält ihr Niveau von 14.\n• Transfertest: Unter Spielbedingungen nach einem Ballwechsel erreicht Gruppe A nur 9, Gruppe B 13 gültige Aufschläge.\n• Deutung: Die Trainingsleistung (Performance) ist nicht mit dem Lernergebnis gleichzusetzen. Ob dauerhaft gelernt wurde, zeigen Retentions- und Transfertest. Gruppe B hat nachhaltiger gelernt, obwohl sie im Training etwas schlechter war. Der Transfertest prüft zudem die Anwendung unter variablen, spielnahen Bedingungen, also einen Schritt in Richtung variable Verfügbarkeit. Auch hier ist Gruppe B überlegen.\n• Einschränkungen: Es handelt sich um kleine Gruppen und Mittelwerte. Außerdem unterscheiden sich die Trainerpersonen, sodass nicht nur das Feedback, sondern auch andere Einflüsse eine Rolle spielen könnten."
+    },
+    {
+     "nr": "4",
+     "operator": "Erklären",
+     "afb": "II",
+     "be": 8,
+     "aufgabe": "Erklären Sie die Ergebnisse aus M2 mithilfe des Rückmeldeverhaltens der Trainer (M1) und Ihrer Kenntnisse über wirksames Feedback.",
+     "erwartung": [
+      {
+       "text": "Erklärt Gruppe As gute Trainingsleistung: ständige Korrekturen leiten die Spielerinnen kurzfristig zu besseren Versuchen",
+       "be": 1
+      },
+      {
+       "text": "Erklärt den Leistungsabfall von A mit der Guidance-Hypothese: Feedback nach jedem Versuch macht abhängig, ohne Trainer fehlt die Orientierung",
+       "be": 1
+      },
+      {
+       "text": "Erkennt bei A die Informationsflut (3–4 Punkte) als Überforderung in der Grobkoordination",
+       "be": 1
+      },
+      {
+       "text": "Erkennt bei A den internalen Fokus (Körperteile) und das Verdrängen des intrinsischen Feedbacks",
+       "be": 1
+      },
+      {
+       "text": "Erklärt Gruppe B: reduzierte, zusammenfassende Rückmeldung und Selbsteinschätzung fördern eigene Fehlerwahrnehmung (kinästhetisch, KR) und selbstständige Korrektur",
+       "be": 1
+      },
+      {
+       "text": "Erklärt Gruppe B: externaler Fokus (Treffpunkt, Ziel, Ballflug) führt zu besserem Lernen und automatisierter Ausführung (Wulf)",
+       "be": 1
+      },
+      {
+       "text": "Erklärt Gruppe B: Konzentration auf den Hauptfehler und gezieltes Videofeedback verbessern die Bewegungsvorstellung",
+       "be": 1
+      },
+      {
+       "text": "Verbindet mit dem Transfertest: automatisierte, selbst regulierte Ausführung bleibt auch unter Spielbedingungen stabil",
+       "be": 1
+      }
+     ],
+     "muster": "Gruppe A:\n• Nina gibt nach jedem Aufschlag sofort Korrekturen. Kurzfristig leiten diese Hinweise die Spielerinnen zu besseren Versuchen, daher die gute Trainingsleistung.\n• Nach der Guidance-Hypothese macht Feedback nach jedem Versuch abhängig. Die Spielerinnen lernen nicht, ihre eigenen Fehler zu erkennen. Fällt das Feedback im Retentionstest weg, bricht die Leistung ein.\n• Drei bis vier Hinweise gleichzeitig sind für Anfängerinnen in der Grobkoordination eine Informationsflut.\n• Alle Hinweise lenken die Aufmerksamkeit auf Körperteile (internaler Fokus). Das intrinsische Feedback (Gefühl, Ballflug) wird durch das sofortige Trainerfeedback überlagert.\nGruppe B:\n• Tom gibt seltener und zusammenfassend Feedback und lässt die Spielerinnen zuerst selbst einschätzen. Sie lernen, kinästhetische Rückmeldungen und das Ergebnis (KR) selbst zu verarbeiten und eigenständig zu korrigieren.\n• Seine Hinweise lenken die Aufmerksamkeit auf den Effekt (Treffpunkt, Netzkante). Nach Wulf führt ein externaler Fokus zu besserem Lernen und einer stärker automatisierten Ausführung.\n• Er nennt nur den wichtigsten Punkt. Das gezielte Videofeedback verbessert die Bewegungsvorstellung.\n• Im Transfertest unter Spielbedingungen ist eine automatisierte, selbst regulierte Ausführung im Vorteil. Die Spielerinnen von B sind weniger auf bewusste Kontrolle angewiesen und bleiben auch nach einem Ballwechsel sicher."
+    },
+    {
+     "nr": "5",
+     "operator": "Beurteilen",
+     "afb": "III",
+     "be": 6,
+     "aufgabe": "Beurteilen Sie den Vorschlag des Co-Trainers (M3).",
+     "erwartung": [
+      {
+       "text": "Ordnet den Vorschlag als Teillernmethode bzw. Programmlängenverkürzung ein und erkennt einen berechtigten Aspekt (Ballwurf ist ein häufiger Fehlerursprung, Komplexität sinkt)",
+       "be": 1
+      },
+      {
+       "text": "Kritik nach Einsatzregel (Roth): Ballwurf und Schlag sind zeitlich eng verzahnt, bei engen Wechselwirkungen ist von einer Trennung abzuraten",
+       "be": 1
+      },
+      {
+       "text": "Kritik: Schlag gegen gehaltenen Ball weicht strukturell stark von der Zielbewegung ab (Timing, Treffpunkt, Ausholbewegung) → Umlernprozesse drohen",
+       "be": 1
+      },
+      {
+       "text": "Kritik: vier Wochen ohne Gesamtbewegung beeinträchtigen Rhythmus, subjektive Geschlossenheit und Motivation",
+       "be": 1
+      },
+      {
+       "text": "Alternative: ganzheitlich mit Vereinfachung (z. B. kürzere Distanz zum Netz, leichterer Ball, Aufschlag von unten als Vorform, Rhythmushilfe „werfen – ausholen – treffen“)",
+       "be": 1
+      },
+      {
+       "text": "Begründetes Fazit (z. B. kurze isolierte Ballwurf-Übungen nur ergänzend, Ganz-Teil-Ganz)",
+       "be": 1
+      }
+     ],
+     "muster": "Der Co-Trainer schlägt eine Teillernmethode im Sinne einer Programmlängenverkürzung vor. Berechtigt ist, dass ein ungenauer Ballwurf häufig die Ursache für misslungene Aufschläge ist und die Komplexität für Anfängerinnen sinkt.\nKritik:\n• Nach Roth sind Programmlängenverkürzungen nur bei gut isolierbaren, nacheinander ablaufenden Bestandteilen sinnvoll. Ballwurf, Ausholbewegung und Schlag sind beim Aufschlag zeitlich eng verzahnt. Der Ballwurf muss genau zum Schlagzeitpunkt passen.\n• Der Schlag gegen einen ruhig gehaltenen Ball weicht stark von der Zielbewegung ab. Treffpunkt, Timing und Ausholbewegung sind anders, es drohen Umlernprozesse.\n• Vier Wochen ohne Gesamtbewegung beeinträchtigen Rhythmus, die subjektive Geschlossenheit der Bewegung und die Motivation. Zudem zeigt M2, dass beide Gruppen mit der Ganzform bereits deutliche Fortschritte gemacht haben.\nAlternative: Die Ganzform wird vereinfacht, z. B. durch eine geringere Distanz zum Netz, einen leichteren Ball, den Aufschlag von unten als Vorform und eine Rhythmushilfe („werfen – ausholen – treffen“). Kurze, isolierte Ballwurf-Übungen können ergänzend eingesetzt werden (Ganz-Teil-Ganz).\nFazit: Der Vorschlag ist in dieser Form abzulehnen."
+    },
+    {
+     "nr": "6",
+     "operator": "Entwickeln",
+     "afb": "III",
+     "be": 6,
+     "aufgabe": "Entwickeln Sie für Trainerin Nina begründete Empfehlungen für Instruktion und Rückmeldung in den nächsten Wochen, in denen ihre Spielerinnen die Feinkoordination festigen und den Aufschlag im Spiel sicher einsetzen sollen.",
+     "erwartung": [
+      {
+       "text": "Empfiehlt reduzierte Feedbackfrequenz (z. B. zusammenfassend nach mehreren Versuchen, schrittweise ausschleichen) mit Begründung (Selbstständigkeit, Guidance)",
+       "be": 1
+      },
+      {
+       "text": "Empfiehlt Beschränkung auf einen Hauptpunkt pro Rückmeldung mit Begründung",
+       "be": 1
+      },
+      {
+       "text": "Empfiehlt externalen Fokus mit konkretem Formulierungsbeispiel",
+       "be": 1
+      },
+      {
+       "text": "Empfiehlt Selbsteinschätzung vor dem Trainerfeedback bzw. selbstkontrolliertes Feedback und Hinweise zum Bewegungsgefühl (Feinkoordination)",
+       "be": 1
+      },
+      {
+       "text": "Empfiehlt Übungsbedingungen für den Transfer (variable Aufschlagziele, Aufschlag nach Ballwechsel, unter Druck, Spielstand)",
+       "be": 1
+      },
+      {
+       "text": "Schlüssige Gesamtkonzeption mit Bezug auf M1/M2 und die Lernphase",
+       "be": 1
+      }
+     ],
+     "muster": "• Feedbackfrequenz reduzieren: Nina sollte nicht mehr nach jedem Aufschlag, sondern zusammenfassend nach etwa fünf Versuchen rückmelden und die Häufigkeit im Lauf der Wochen weiter verringern. So lernen die Spielerinnen, ohne Trainerin zu korrigieren (Guidance-Hypothese).\n• Ein Hauptpunkt: Pro Rückmeldung nur den wichtigsten Fehler (Ursache) ansprechen, um die Informationsflut zu vermeiden.\n• Externaler Fokus: Statt „Ellbogen höher“ z. B. „Triff den Ball am höchsten Punkt vor der Schlagschulter“ oder „Lass den Ball knapp über die Netzkante fliegen“.\n• Selbsteinschätzung: Die Spielerin beschreibt zuerst, was sie gespürt hat und wie der Ball geflogen ist. Hinweise zum Bewegungsgefühl („Spür den festen Handballen beim Treffen“) unterstützen die Feinkoordination. Die Spielerinnen dürfen auch selbst um Feedback oder Videoaufnahmen bitten.\n• Übungsbedingungen: Aufschläge auf wechselnde Zielzonen, Aufschläge direkt nach einem Ballwechsel, unter Spielstanddruck („Aufschlag bei 23:24“) und nach Ermüdung. So wird der Übergang zur variablen Verfügbarkeit vorbereitet, in dem Gruppe A laut Transfertest die größten Defizite hat.\nInsgesamt übernimmt Nina damit die Merkmale, die in Gruppe B zu einem stabileren Lernergebnis geführt haben."
+    }
+   ]
+  }
+ ]
+}

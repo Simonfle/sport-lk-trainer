@@ -1,0 +1,1659 @@
+{
+  "einzel": [
+    {
+      "id": "e-q1.1-01",
+      "thema": "Q1.1",
+      "titel": "Komponentenmodell der sportlichen Leistung",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Beschreiben Sie das Komponentenmodell der sportlichen Leistung nach Ehlenz et al. Gehen Sie dabei auf alle Komponenten mit je einem Beispiel ein.",
+      "erwartung": [
+        {
+          "text": "Kondition: Ausdauer, Kraft, Schnelligkeit, Beweglichkeit",
+          "be": 1
+        },
+        {
+          "text": "Technik/Koordination: koordinative Fähigkeiten und Bewegungsfertigkeiten",
+          "be": 1
+        },
+        {
+          "text": "Taktik: sensomotorische, kognitive und taktische Fähigkeiten (z. B. Spielübersicht)",
+          "be": 1
+        },
+        {
+          "text": "Psyche: z. B. Motivation, Volition, Emotion",
+          "be": 1
+        },
+        {
+          "text": "Rahmenbedingungen (Talent, Gesundheit, Konstitution) und äußere Bedingungen (z. B. Material, Trainer, Wettkampf, Familie/Beruf) als zwei getrennte Komponenten",
+          "be": 1
+        },
+        {
+          "text": "Hinweis: Komponenten gehen fließend ineinander über und beeinflussen sich gegenseitig (Leistung als komplexes Gefüge)",
+          "be": 1
+        }
+      ],
+      "muster": "Nach Ehlenz et al. ist sportliche Leistung ein Komplex aus sechs Komponenten:\n• Kondition: die energetisch bestimmten Fähigkeiten Ausdauer, Kraft, Schnelligkeit und Beweglichkeit (z. B. Grundlagenausdauer eines Fußballers).\n• Technik/Koordination: koordinative Fähigkeiten und sportliche Fertigkeiten (z. B. sauberer Sprungwurf).\n• Taktik: sensomotorische, kognitive und taktische Fähigkeiten (z. B. Erkennen einer Überzahlsituation).\n• Psyche: Motivation, Volition, Emotionen (z. B. Nervenstärke beim Siebenmeter).\n• Rahmenbedingungen: personeninterne, weitgehend vorgegebene Voraussetzungen wie Talent, Gesundheit und Konstitution.\n• Äußere Bedingungen: Wettkampfsituation, Material, Trainingsumgebung, Trainer, Familie, Schule/Beruf.\nDie Komponenten gehen fließend ineinander über und beeinflussen sich gegenseitig; eine Schwäche in einem Bereich kann die Gesamtleistung begrenzen oder teilweise durch Stärken in anderen Bereichen ausgeglichen werden.",
+      "tipp": "Beschreiben heißt: Merkmale strukturiert und vollständig wiedergeben. Nenne alle sechs Komponenten und fülle jede mit Inhalt, ohne zu bewerten."
+    },
+    {
+      "id": "e-q1.1-02",
+      "thema": "Q1.1",
+      "titel": "Phasen der biologischen Anpassung",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Beschreiben Sie die Phasen der biologischen Anpassung nach einem Trainingsreiz (Modell der Superkompensation).",
+      "erwartung": [
+        {
+          "text": "Homöostase: Fließgleichgewicht der Körperfunktionen/des inneren Milieus vor der Belastung",
+          "be": 1
+        },
+        {
+          "text": "Heterostase: Störung des Gleichgewichts durch den Reiz, Ermüdung, vorübergehend sinkende Leistungsfähigkeit",
+          "be": 1
+        },
+        {
+          "text": "Erholung: Wiederherstellung des Ausgangsniveaus (Kompensation)",
+          "be": 1
+        },
+        {
+          "text": "Superkompensation/Gegenregulation: Leistungsfähigkeit steigt über das Ausgangsniveau, neue Homöostase auf höherem Niveau",
+          "be": 1
+        },
+        {
+          "text": "Reversibilität: ohne neuen Reiz Rückkehr auf das Ausgangsniveau",
+          "be": 1
+        },
+        {
+          "text": "Folgerung: neuer Reiz sollte im Gipfel der Superkompensation gesetzt werden",
+          "be": 1
+        }
+      ],
+      "muster": "Das Modell der Superkompensation beschreibt die Anpassung in zeitlich gestaffelten Phasen:\n• Phase 1 – Homöostase: Vor der Belastung befindet sich der Körper im Fließgleichgewicht (z. B. Energiespeicher, pH-Wert, Temperatur).\n• Phase 2 – Heterostase: Der überschwellige Reiz stört das Gleichgewicht; Energiespeicher werden geleert, es kommt zur Ermüdung, die Leistungsfähigkeit sinkt vorübergehend.\n• Phase 3 – Erholung: Der Organismus kompensiert die Störung und stellt das Ausgangsniveau wieder her.\n• Phase 4 – Superkompensation (Gegenregulation): Der Körper baut über das Ausgangsniveau hinaus auf (z. B. vergrößerte Glykogenspeicher); es entsteht eine neue Homöostase auf höherem Niveau.\n• Phase 5 – Reversibilität: Folgt kein neuer Reiz, sinkt das Niveau wieder auf den Ausgangswert.\nDaraus folgt: Der nächste Reiz soll auf dem Gipfel der Superkompensation gesetzt werden, damit die Leistung treppenförmig ansteigt.",
+      "tipp": "Bei Phasenmodellen zählt die richtige Reihenfolge mit den Fachbegriffen. Eine kurze Skizze (Leistung über Zeit) hilft dir beim Ordnen."
+    },
+    {
+      "id": "e-q1.1-03",
+      "thema": "Q1.1",
+      "titel": "Belastungskomponenten im Trainingsplan",
+      "operator": "Erläutern",
+      "afb": "II",
+      "be": 8,
+      "material": "Trainingseinheit von Tom (18, Hobbyläufer), Dienstag:\n• 10 min Einlaufen\n• 3 Serien à 5 × 300 m in 65 s (ca. 85 % der Maximalgeschwindigkeit auf 300 m)\n• Pause zwischen den Läufen: 90 s Gehen, zwischen den Serien: 5 min\n• 10 min Auslaufen\nTom trainiert so dreimal pro Woche.",
+      "aufgabe": "Erläutern Sie die Belastungskomponenten am Beispiel der Trainingseinheit von Tom (Material).",
+      "erwartung": [
+        {
+          "text": "Intensität erklärt (Stärke des Reizes) und aus dem Material zugeordnet: 65 s pro 300 m bzw. ca. 85 % der Maximalgeschwindigkeit",
+          "be": 2
+        },
+        {
+          "text": "Dauer erklärt (Dauer eines Einzelreizes/einer Serie) und zugeordnet: 65 s pro Lauf",
+          "be": 1
+        },
+        {
+          "text": "Dichte erklärt (Verhältnis Belastung–Pause) und zugeordnet: 90 s Gehpause (unvollständig) bzw. 5 min Serienpause",
+          "be": 2
+        },
+        {
+          "text": "Umfang erklärt (Gesamtmenge der Reize einer Einheit) und zugeordnet: 15 × 300 m = 4,5 km im Hauptteil",
+          "be": 2
+        },
+        {
+          "text": "Häufigkeit erklärt (Einheiten pro Woche) und zugeordnet: 3 × pro Woche",
+          "be": 1
+        }
+      ],
+      "muster": "Belastungskomponenten (Belastungsnormative) sind die Steuergrößen, mit denen ein Trainingsreiz dosiert wird.\n• Intensität = Stärke des Einzelreizes: Tom läuft 300 m in 65 s, das sind etwa 85 % seiner Maximalgeschwindigkeit, also ein hoher Reiz.\n• Dauer = Zeit eines Einzelreizes: jeder Lauf dauert 65 s.\n• Dichte = zeitliches Verhältnis von Belastung und Erholung: 90 s Gehpause zwischen den Läufen sind eine unvollständige (lohnende) Pause, zwischen den Serien 5 min. Das Belastungs-Pausen-Verhältnis liegt bei etwa 1 : 1,4.\n• Umfang = Gesamtmenge der Reize in der Einheit: 3 × 5 × 300 m = 4,5 km bzw. 15 Läufe im Hauptteil (ohne Ein- und Auslaufen).\n• Häufigkeit = Anzahl der Einheiten pro Woche: 3.\nDie Komponenten hängen zusammen: Wegen der hohen Intensität ist der Umfang mit 4,5 km begrenzt und es sind Pausen nötig.",
+      "tipp": "Erläutern heißt: Begriff erklären UND mit dem Material veranschaulichen. Zu jeder Komponente gehören Definition und konkreter Wert aus Toms Plan."
+    },
+    {
+      "id": "e-q1.1-04",
+      "thema": "Q1.1",
+      "titel": "Leistungseinbruch trotz täglichem Training",
+      "operator": "Erklären",
+      "afb": "II",
+      "be": 6,
+      "material": "Mia (19) will für einen 10-km-Lauf fit werden. Sie läuft seit vier Wochen jeden Tag 8–10 km in zügigem Tempo, ohne Ruhetag. In den ersten zwei Wochen wurde sie schneller, seit einer Woche werden ihre Zeiten schlechter, sie fühlt sich müde und schläft schlecht.",
+      "aufgabe": "Erklären Sie Mias Leistungsentwicklung mithilfe des Modells der Superkompensation.",
+      "erwartung": [
+        {
+          "text": "Anfangsverbesserung: Reize waren für die Untrainierte überschwellig, es kam zu Anpassung/Superkompensation",
+          "be": 1
+        },
+        {
+          "text": "tägliches Training ohne Ruhetag: neuer Reiz wird vor Abschluss der Erholungsphase gesetzt (zu kurze Pausen)",
+          "be": 2
+        },
+        {
+          "text": "Reiz trifft auf ermüdeten Organismus, Leistungsfähigkeit sinkt treppenförmig nach unten (Summation der Ermüdung)",
+          "be": 1
+        },
+        {
+          "text": "Symptome (Müdigkeit, Schlafprobleme, schlechtere Zeiten) als Anzeichen von Übertraining/Überlastung gedeutet",
+          "be": 1
+        },
+        {
+          "text": "Bezug zu Erholungszeit: Ausdauertraining braucht ca. 18–36 h zur Glykogenauffüllung bzw. ausreichende Regeneration",
+          "be": 1
+        }
+      ],
+      "muster": "• Zu Beginn waren Mias Läufe für sie stark überschwellige Reize. Mit ausreichender Erholung zwischen manchen Einheiten kam es zur Superkompensation, die Leistung stieg.\n• Da Mia jeden Tag zügig läuft, setzt sie den neuen Reiz zunehmend in der Phase der Heterostase bzw. Erholung, bevor das Ausgangsniveau wieder erreicht ist. Für ein zügiges Ausdauertraining braucht der Körper mindestens etwa 18–36 Stunden, um z. B. die Glykogenspeicher aufzufüllen.\n• Die Ermüdung summiert sich, jede Einheit startet von einem niedrigeren Niveau, die Leistungskurve verläuft treppenförmig nach unten.\n• Müdigkeit, Schlafstörungen und schlechtere Zeiten sind typische Zeichen einer Überlastung (Übertraining).\nMia verletzt damit das Prinzip der optimalen Gestaltung von Belastung und Erholung.",
+      "tipp": "Erklären heißt: Ursache und Wirkung verknüpfen. Ordne Mias Verlauf ausdrücklich den Phasen des Modells zu (Reiz zu früh gesetzt)."
+    },
+    {
+      "id": "e-q1.1-05",
+      "thema": "Q1.1",
+      "titel": "Koordinative Fähigkeiten im Spiel",
+      "operator": "Zuordnen und Erläutern",
+      "afb": "II",
+      "be": 8,
+      "material": "Situationen aus einem Basketballspiel:\nA) Eine Spielerin fängt im Sprung einen Pass und landet trotz Rempler sicher auf beiden Beinen.\nB) Ein Spieler dribbelt mit links, schaut dabei zum Mitspieler und läuft gleichzeitig einen Haken.\nC) Ein Freiwurf geht knapp zu weit; beim zweiten Versuch dosiert die Werferin den Krafteinsatz minimal geringer und trifft.\nD) Der Gegner fängt einen Pass ab; die angreifende Mannschaft schaltet sofort auf Verteidigung um.",
+      "aufgabe": "Ordnen Sie den Situationen A–D jeweils die vorrangig geforderte koordinative Fähigkeit zu und erläutern Sie Ihre Zuordnung.",
+      "erwartung": [
+        {
+          "text": "A: Gleichgewichtsfähigkeit, erläutert als Halten/Wiederherstellen des Körpergleichgewichts nach Landung und Störung",
+          "be": 2
+        },
+        {
+          "text": "B: Kopplungsfähigkeit, erläutert als zielgerichtete Abstimmung von Teilkörperbewegungen (Dribbeln, Laufen, Blick)",
+          "be": 2
+        },
+        {
+          "text": "C: Differenzierungsfähigkeit, erläutert als feine Abstimmung von Kraft-, Zeit- und Raumparametern (Krafteinsatz dosieren)",
+          "be": 2
+        },
+        {
+          "text": "D: Umstellungsfähigkeit (ggf. mit Reaktionsfähigkeit), erläutert als Anpassung des Handlungsprogramms an eine plötzlich veränderte Situation",
+          "be": 2
+        }
+      ],
+      "muster": "• A – Gleichgewichtsfähigkeit: Die Spielerin muss den Körper nach dem Sprung und trotz des Remplers im Gleichgewicht halten bzw. das Gleichgewicht schnell wiederherstellen (dynamisches Gleichgewicht).\n• B – Kopplungsfähigkeit: Mehrere Teilkörperbewegungen (Dribbelhand, Laufbewegung, Blick zum Mitspieler) müssen räumlich und zeitlich aufeinander abgestimmt werden, damit eine zielgerichtete Gesamtbewegung entsteht.\n• C – Differenzierungsfähigkeit: Die Werferin nimmt die Abweichung wahr und stimmt den Krafteinsatz fein ab; sie differenziert Kraft- und Raumparameter, um Bewegungsgenauigkeit zu erreichen.\n• D – Umstellungsfähigkeit: Durch den Ballverlust ändert sich die Situation plötzlich; die Spieler müssen ihr Handlungsprogramm sofort umstellen (Angriff → Verteidigung). Beteiligt ist auch die Reaktionsfähigkeit (schnelles Einleiten der Aktion auf das Signal Ballverlust).\nNach Hirtz gehören Kopplung und Differenzierung vor allem zur Steuerungsfähigkeit, Umstellung und Reaktion zur Adaptionsfähigkeit; das Gleichgewicht gehört zu beiden.",
+      "tipp": "Beim Zuordnen zählt nicht nur der Name der Fähigkeit, sondern die Begründung am konkreten Bewegungsproblem der Situation."
+    },
+    {
+      "id": "e-q1.1-06",
+      "thema": "Q1.1",
+      "titel": "Trainingsprinzipien im Vereinstraining",
+      "operator": "Analysieren",
+      "afb": "II",
+      "be": 8,
+      "material": "Trainer Bauer leitet eine Volleyball-Damenmannschaft. Seit drei Jahren macht er jede Woche dasselbe Athletiktraining: 3 × 15 Kniebeugen mit 30 kg, 3 × 20 Sprünge auf den Kasten. Alle Spielerinnen, von der 15-jährigen Nachwuchsspielerin bis zur 30-jährigen Kapitänin, machen dasselbe Programm. Im Sommer gibt es acht Wochen gar kein Training. Die Sprungkraft-Testwerte der Stammspielerinnen stagnieren seit zwei Jahren.",
+      "aufgabe": "Analysieren Sie das Training von Trainer Bauer im Hinblick auf die Trainingsprinzipien.",
+      "erwartung": [
+        {
+          "text": "Prinzip der progressiven Belastungssteigerung verletzt: Belastung seit Jahren gleich, Reiz wird unterschwellig (Funktionszustandsregel)",
+          "be": 2
+        },
+        {
+          "text": "Prinzip der Variation der Trainingsbelastung verletzt: immer dieselben Übungen führen zu Stagnation",
+          "be": 1
+        },
+        {
+          "text": "Prinzip der Individualität und Altersgemäßheit verletzt: gleiches Programm für 15- und 30-Jährige ohne Berücksichtigung von Leistungsstand/biologischem Alter",
+          "be": 2
+        },
+        {
+          "text": "Prinzip der Wiederholung und Kontinuität verletzt: acht Wochen Pause führen zu Leistungsrückgang (Anpassungsfestigkeit)",
+          "be": 1
+        },
+        {
+          "text": "Prinzip der Periodisierung und Zyklisierung fehlt: keine geplante Abfolge von Vorbereitungs-, Wettkampf- und Übergangsperiode",
+          "be": 1
+        },
+        {
+          "text": "Verknüpfung mit der Stagnation der Testwerte als Folge",
+          "be": 1
+        }
+      ],
+      "muster": "• Progressive Belastungssteigerung: Das Programm ist seit drei Jahren unverändert. Nach der Funktionszustandsregel steigt mit dem Trainingszustand die Reizschwelle; der gleiche Reiz wird für die Stammspielerinnen unterschwellig bzw. nur noch funktionserhaltend. Das erklärt die stagnierenden Sprungkraftwerte.\n• Variation der Trainingsbelastung: Es gibt keine Abwechslung bei Übungen, Methoden oder Belastung; gleichartige Reize führen zu Stagnation.\n• Individualität und Altersgemäßheit: Alle machen dasselbe, obwohl sich die 15-Jährige (biologisches Alter, Belastbarkeit) und die 30-Jährige stark unterscheiden. Für die eine kann es Über-, für die andere Unterforderung sein.\n• Wiederholung und Kontinuität: Acht Wochen ohne Training führen zu einem Rückgang der Anpassungen; ein Teil der Saison wird jedes Jahr nur zum Wiederaufbau genutzt.\n• Periodisierung und Zyklisierung: Ein geplanter Wechsel aus Vorbereitungs-, Wettkampf- und Übergangsperiode fehlt; die Übergangsperiode sollte aktive Erholung statt Trainingsstopp sein.\nFazit: Mehrere Prinzipien zur Auslösung und Festigung der Anpassung sind verletzt; die Stagnation ist die logische Folge.",
+      "tipp": "Analysieren heißt: Material systematisch untersuchen. Gehe Prinzip für Prinzip vor und belege jeden Verstoß mit einer konkreten Stelle aus dem Material."
+    },
+    {
+      "id": "e-q1.1-07",
+      "thema": "Q1.1",
+      "titel": "Training im Schulsport?",
+      "operator": "Beurteilen",
+      "afb": "III",
+      "be": 8,
+      "material": "Ein Sportlehrer sagt: „Im Sportunterricht ist echtes Konditionstraining unmöglich. Wir haben eine Doppelstunde pro Woche, dazwischen Ferien und ständig wechselnde Themen. Da passiert keine Anpassung.“",
+      "aufgabe": "Beurteilen Sie die Aussage des Sportlehrers unter Berücksichtigung der Definition von sportlichem Training und des Prinzips der optimalen Gestaltung von Belastung und Erholung.",
+      "erwartung": [
+        {
+          "text": "Definition von Training (geplante, systematische Realisation von Maßnahmen zum nachhaltigen Erreichen von Zielen) wird als Maßstab herangezogen",
+          "be": 1
+        },
+        {
+          "text": "Zustimmende Argumente: eine Einheit pro Woche reicht für Ausdauer/Kraft kaum (2–3 Reize/Woche mit 18–72 h Erholung nötig), Reiz fällt in die Reversibilitätsphase",
+          "be": 2
+        },
+        {
+          "text": "Weitere Einschränkungen: Ferien/Themenwechsel unterbrechen Kontinuität, heterogene Gruppen erschweren individuelle Dosierung",
+          "be": 1
+        },
+        {
+          "text": "Gegenargumente/Lösungen: zusätzliche Einheiten als Hausaufgabe, Unterrichtsvorhaben über mehrere Wochen, Kooperation mit Vereinssport, Training durch Sport (z. B. soziale Ziele) bleibt möglich",
+          "be": 2
+        },
+        {
+          "text": "Abwägung beider Seiten mit Bezug zur Aussage",
+          "be": 1
+        },
+        {
+          "text": "begründetes eigenes Urteil (z. B. eingeschränkt möglich, wenn geplant und langfristig angelegt)",
+          "be": 1
+        }
+      ],
+      "muster": "Maßstab: Nach Hohmann et al. ist Training die geplante und systematische Realisation von Maßnahmen zum nachhaltigen Erreichen von Zielen im und durch Sport.\nFür die Aussage spricht:\n• Für Anpassungen im Konditionsbereich sind 2–3 Reize pro Woche nötig, mit 18–36 h (Ausdauer) bzw. 48–72 h (Kraft) Erholung. Bei nur einer Doppelstunde fällt der nächste Reiz meist in die Reversibilitätsphase; es kommt kaum zur Summation von Superkompensationseffekten.\n• Ferien und Themenwechsel verletzen das Prinzip der Wiederholung und Kontinuität.\n• Heterogene Lerngruppen erschweren eine individuelle Belastungsdosierung.\nGegen die Aussage spricht:\n• Training ist auch in der Schule möglich, wenn es geplant ist: z. B. ein sechswöchiges Ausdauervorhaben mit zusätzlichen Hausaufgaben-Läufen, Lauftagebuch und Eingangs-/Abschlusstest.\n• Schüler, die im Verein trainieren, profitieren zusätzlich.\n• Training ist offen für Ziele durch Sport (Wissen über Training, Gesundheitsbewusstsein, soziale Ziele); auch diese können nachhaltig erreicht werden.\nUrteil: Die Aussage ist zu pauschal. Optimale Anpassungen wie im Vereinstraining sind mit einer Doppelstunde nicht erreichbar, aber Training im Sinne der Definition ist eingeschränkt möglich, wenn es über mehrere Wochen geplant und durch zusätzliche Einheiten außerhalb des Unterrichts ergänzt wird.",
+      "tipp": "Beurteilen heißt: Argumente auf beiden Seiten prüfen und mit Fachbegriffen ein eigenes, begründetes Urteil fällen. Ein Fazit ohne Abwägung bringt kaum Punkte."
+    },
+    {
+      "id": "e-q1.1-08",
+      "thema": "Q1.1",
+      "titel": "Koordinationstraining nur für Kinder?",
+      "operator": "Stellung nehmen",
+      "afb": "III",
+      "be": 8,
+      "material": "Ein Fußballtrainer einer A-Jugend (17–18 Jahre) sagt: „Koordinationsleitern und Gleichgewichtsübungen sind was für die F-Jugend. Die beste Lernzeit für Koordination ist mit 12 vorbei. Meine Jungs brauchen nur noch Kraft und Ausdauer.“",
+      "aufgabe": "Nehmen Sie Stellung zur Aussage des Trainers.",
+      "erwartung": [
+        {
+          "text": "Zustimmung im Kern: bestes motorisches Lernalter für koordinative Fähigkeiten ca. 7–12 Jahre (sensible Phase); Kraft und Ausdauer im Jugendalter gut trainierbar",
+          "be": 2
+        },
+        {
+          "text": "Kritik am Modell der sensiblen Phasen: suggeriert fälschlich, dass Fähigkeiten später kaum trainierbar sind; biologisches Alter wird nicht berücksichtigt",
+          "be": 2
+        },
+        {
+          "text": "Bedeutung der Koordination für Kondition und Technik: Kraft/Schnelligkeit hängen von intra-/intermuskulärer Koordination ab; koordinative Fähigkeiten sind Grundlage für Technik und motorisches Lernen",
+          "be": 2
+        },
+        {
+          "text": "Fußballbezug: z. B. Umstellungs-, Orientierungs-, Kopplungsfähigkeit unter Zeit-/Gegnerdruck sind leistungsbestimmend; auch Verletzungsprophylaxe durch Gleichgewichtstraining",
+          "be": 1
+        },
+        {
+          "text": "begründetes eigenes Fazit (z. B. Aussage zu einseitig; Koordinationstraining sportartspezifisch und variiert fortführen)",
+          "be": 1
+        }
+      ],
+      "muster": "Teilweise hat der Trainer recht:\n• Das beste motorische Lernalter für koordinative Fähigkeiten liegt nach dem Modell der sensiblen Phasen etwa zwischen 7 und 12 Jahren.\n• Maximalkraft und aerobe Ausdauer sind im Jugendalter (ca. 14–18 Jahre) besonders gut trainierbar, daher ist ein Schwerpunkt auf Kraft und Ausdauer in der A-Jugend sinnvoll.\nDagegen spricht:\n• Das Modell der sensiblen Phasen wird kritisiert, weil es suggeriert, Fähigkeiten seien außerhalb dieser Phasen kaum trainierbar. Koordinative Fähigkeiten bleiben auch bei Jugendlichen und Erwachsenen trainierbar. Zudem berücksichtigt das Modell das biologische Alter nicht.\n• Kondition und Koordination hängen eng zusammen: Kraft- und Schnelligkeitsleistungen beruhen auf intra- und intermuskulärer Koordination. Koordinative Fähigkeiten sind außerdem die Grundlage, um neue Techniken schnell zu lernen.\n• Im Fußball sind Umstellungs-, Orientierungs-, Reaktions- und Kopplungsfähigkeit unter Zeit- und Gegnerdruck leistungsbestimmend. Gleichgewichtstraining senkt zudem das Verletzungsrisiko (z. B. Sprunggelenk).\nFazit: Die Aussage ist zu einseitig. Koordinationstraining sollte in der A-Jugend nicht als Kinderübung, sondern sportartspezifisch und mit erhöhtem Zeit- und Präzisionsdruck weitergeführt und mit Kraft- und Ausdauertraining verbunden werden.",
+      "tipp": "Stellung nehmen heißt: die Aussage prüfen, Zustimmung und Widerspruch fachlich begründen und mit einer eigenen Position abschließen."
+    },
+    {
+      "id": "e-q2.1-01",
+      "thema": "Q2.1",
+      "titel": "Strukturmodell der Ausdauer",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Beschreiben Sie, nach welchen Kriterien die Ausdauer differenziert werden kann. Nennen Sie jeweils die zugehörigen Ausdauerformen.",
+      "erwartung": [
+        {
+          "text": "Sportartspezifik: allgemeine Ausdauer (Grundlagenausdauer) und spezielle Ausdauer",
+          "be": 1
+        },
+        {
+          "text": "Energiebereitstellung: aerobe und anaerobe Ausdauer",
+          "be": 1
+        },
+        {
+          "text": "Zeitdauer: Kurzzeit- (ca. 35 s–2 min), Mittelzeit- (2–10 min), Langzeitausdauer (über 10 min)",
+          "be": 1
+        },
+        {
+          "text": "beteiligte Muskulatur: lokale (unter 1/6 der Skelettmuskulatur) und globale Ausdauer (über 1/6)",
+          "be": 1
+        },
+        {
+          "text": "Arbeitsweise der Muskulatur: statische und dynamische Ausdauer",
+          "be": 1
+        },
+        {
+          "text": "Mischformen mit anderen konditionellen Fähigkeiten: z. B. Kraftausdauer, Schnelligkeitsausdauer",
+          "be": 1
+        }
+      ],
+      "muster": "Ausdauer (Ermüdungswiderstandsfähigkeit und rasche Erholungsfähigkeit) lässt sich nach mehreren Kriterien differenzieren:\n• Sportartspezifik: allgemeine Ausdauer bzw. Grundlagenausdauer (sportartübergreifend) und spezielle Ausdauer (an die Anforderungen einer Sportart angepasst).\n• Art der Energiebereitstellung: aerobe Ausdauer (überwiegend mit Sauerstoff) und anaerobe Ausdauer (überwiegend ohne Sauerstoff).\n• Zeitdauer einer maximalen Belastung: Kurzzeitausdauer ca. 35 s bis 2 min, Mittelzeitausdauer 2 bis 10 min, Langzeitausdauer über 10 min.\n• Umfang der beteiligten Muskulatur: lokale Ausdauer (weniger als ein Sechstel der Skelettmuskulatur) und globale Ausdauer (mehr als ein Sechstel).\n• Arbeitsweise: statische (haltende) und dynamische (bewegende) Ausdauer.\n• Mischformen: z. B. Kraftausdauer, Schnelligkeitsausdauer.",
+      "tipp": "Gliedere nach Kriterium → Ausdauerformen. Zahlenangaben (35 s, 2 min, 10 min, 1/6) machen die Antwort präzise."
+    },
+    {
+      "id": "e-q2.1-02",
+      "thema": "Q2.1",
+      "titel": "Formen der Energiebereitstellung",
+      "operator": "Darstellen",
+      "afb": "I",
+      "be": 8,
+      "material": "",
+      "aufgabe": "Stellen Sie die vier Formen der Energiebereitstellung im Muskel dar. Gehen Sie jeweils auf Energieträger, Sauerstoffbedarf, Laktatbildung und typische Belastungsdauer ein.",
+      "erwartung": [
+        {
+          "text": "ATP als einziger direkter Energielieferant, der ständig resynthetisiert werden muss",
+          "be": 1
+        },
+        {
+          "text": "Anaerob-alaktazid: ATP und Kreatinphosphat, ohne O2, kein Laktat, reicht ca. 6–8 (max. 10) s",
+          "be": 2
+        },
+        {
+          "text": "Anaerob-laktazid (anaerobe Glykolyse): Glukose/Glykogen ohne O2 zu Laktat, schnell, aber nur ca. 3 ATP pro Glukose; dominierend bei intensiven Belastungen bis ca. 1–2 min",
+          "be": 2
+        },
+        {
+          "text": "Aerobe Glykolyse: Glukose/Glykogen mit O2 in den Mitochondrien zu CO2 und H2O, ca. 31 ATP pro Glukose, langsamer, kein Laktat",
+          "be": 2
+        },
+        {
+          "text": "Aerobe Lipolyse: Fettsäuren mit O2, sehr hohe Energieausbeute, langsamste Form, bei niedriger Intensität/langer Dauer",
+          "be": 1
+        }
+      ],
+      "muster": "ATP ist der einzige direkte Energielieferant des Muskels (ATP → ADP + Pi + Energie). Da der Vorrat nur für wenige Sekunden reicht, muss ATP ständig resynthetisiert werden:\n• Anaerob-alaktazid: Gespeichertes ATP und Kreatinphosphat (KP + ADP → Kreatin + ATP). Ohne Sauerstoff, ohne Laktat, sehr schnell, aber nach etwa 6–8 (maximal 10) Sekunden erschöpft (z. B. Sprint, Sprung).\n• Anaerob-laktazid (anaerobe Glykolyse): Glukose/Glykogen wird ohne Sauerstoff zu Milchsäure (Laktat) abgebaut; schnell, aber nur ca. 3 ATP pro Glukose. Dominierend bei intensiven Belastungen von ca. 20 s bis 2 min (z. B. 400 m).\n• Aerobe Glykolyse: Glukose wird in den Mitochondrien mit Sauerstoff vollständig zu CO2 und H2O abgebaut; ca. 31 ATP pro Glukose, langsamer, ohne Laktat. Wichtig bei Mittel- und Langzeitbelastungen.\n• Aerobe Lipolyse: Fettsäuren werden mit Sauerstoff abgebaut; sehr hohe Energieausbeute, aber langsamste Bereitstellung; bei niedriger Intensität und langer Dauer (z. B. lockerer Dauerlauf, Marathon).\nAlle Prozesse laufen gleichzeitig, aber je nach Intensität und Dauer mit unterschiedlichem Anteil ab.",
+      "tipp": "Darstellen heißt: strukturiert und vollständig wiedergeben. Eine kleine Tabelle mit den vier Formen als Zeilen hilft, keinen Aspekt zu vergessen."
+    },
+    {
+      "id": "e-q2.1-03",
+      "thema": "Q2.1",
+      "titel": "Trainingsherzfrequenz mit Karvonen",
+      "operator": "Ermitteln",
+      "afb": "II",
+      "be": 6,
+      "material": "Jonas ist 17 Jahre alt und hat einen Ruhepuls von 58 Schlägen/min. Er möchte seine Grundlagenausdauer im aeroben Bereich (Intensität 60–75 % nach Haas) verbessern.",
+      "aufgabe": "Ermitteln Sie mithilfe der Karvonen-Formel den Trainingsherzfrequenzbereich für Jonas und erläutern Sie, warum diese Methode genauer ist als eine reine Prozentangabe der HFmax.",
+      "erwartung": [
+        {
+          "text": "Formel korrekt: HFT = (HFmax – HFR) · I + HFR",
+          "be": 1
+        },
+        {
+          "text": "HFmax = 220 – 17 = 203; Herzfrequenzreserve = 203 – 58 = 145",
+          "be": 1
+        },
+        {
+          "text": "Untergrenze: 145 · 0,6 + 58 = 145 Schläge/min",
+          "be": 1
+        },
+        {
+          "text": "Obergrenze: 145 · 0,75 + 58 ≈ 167 Schläge/min",
+          "be": 1
+        },
+        {
+          "text": "Erläuterung: Karvonen berücksichtigt den individuellen Ruhepuls (Trainingszustand) über die Herzfrequenzreserve",
+          "be": 1
+        },
+        {
+          "text": "Einschränkung: HFmax-Faustformel ist nur ein Schätzwert, individuelle Abweichungen möglich (genauer: Test)",
+          "be": 1
+        }
+      ],
+      "muster": "Karvonen-Formel: HFT = (HFmax – HFR) · I + HFR\n• HFmax = 220 – 17 = 203 Schläge/min\n• Herzfrequenzreserve = 203 – 58 = 145\n• Untergrenze (60 %): 145 · 0,6 + 58 = 87 + 58 = 145 Schläge/min\n• Obergrenze (75 %): 145 · 0,75 + 58 = 108,75 + 58 ≈ 167 Schläge/min\nJonas sollte also mit etwa 145–167 Schlägen/min trainieren.\nDie Karvonen-Formel ist genauer als eine reine Prozentangabe der HFmax, weil sie über die Herzfrequenzreserve den individuellen Ruhepuls und damit den Trainingszustand berücksichtigt. Ein gut Trainierter mit niedrigem Ruhepuls erhält dadurch andere Werte als ein Untrainierter. Einschränkung: Die HFmax nach 220 – Lebensalter ist nur eine Schätzung und kann individuell um 10–20 Schläge abweichen; genauer wäre ein Ausbelastungstest.",
+      "tipp": "Bei Berechnungen: Formel hinschreiben, Zwischenschritte zeigen, Ergebnis mit Einheit. Ein Rechenfehler kostet so nur einen Punkt."
+    },
+    {
+      "id": "e-q2.1-04",
+      "thema": "Q2.1",
+      "titel": "Laktat-Leistungs-Kurve vorher und nachher",
+      "operator": "Analysieren",
+      "afb": "II",
+      "be": 8,
+      "material": "Laktat-Stufen-Test von Sara (Laufband, 3-min-Stufen), vor und nach 12 Wochen Training:\nkm/h: 8 / 10 / 12 / 14 / 16\nLaktat vorher (mmol/l): 1,3 / 1,9 / 2,8 / 4,6 / 7,9\nLaktat nachher (mmol/l): 1,1 / 1,4 / 1,9 / 3,0 / 5,2",
+      "aufgabe": "Analysieren Sie die Testergebnisse von Sara und erklären Sie die Veränderungen durch physiologische Anpassungen.",
+      "erwartung": [
+        {
+          "text": "Vorher: AS (2 mmol/l) bei ca. 10 km/h, ANS (4 mmol/l) zwischen 12 und 14 km/h (ca. 13,3 km/h)",
+          "be": 1
+        },
+        {
+          "text": "Nachher: AS bei ca. 12 km/h, ANS zwischen 14 und 16 km/h (ca. 14,9 km/h)",
+          "be": 1
+        },
+        {
+          "text": "Beschreibung der Rechtsverschiebung: bei gleicher Geschwindigkeit weniger Laktat bzw. höhere Geschwindigkeit an den Schwellen",
+          "be": 2
+        },
+        {
+          "text": "Deutung: aerobe Ausdauerleistungsfähigkeit verbessert",
+          "be": 1
+        },
+        {
+          "text": "Erklärung durch Anpassungen: mehr/größere Mitochondrien und aerobe Enzyme, bessere Kapillarisierung/O2-Versorgung, verbesserte Laktatelimination (mind. zwei Aspekte)",
+          "be": 3
+        }
+      ],
+      "muster": "Auswertung:\n• Vorher erreicht Sara die aerobe Schwelle (2 mmol/l) bei etwa 10 km/h (1,9 mmol/l), die anaerobe Schwelle (4 mmol/l) zwischen 12 km/h (2,8) und 14 km/h (4,6), interpoliert bei ca. 13,3 km/h.\n• Nachher liegt die AS bei etwa 12 km/h (1,9 mmol/l), die ANS zwischen 14 km/h (3,0) und 16 km/h (5,2), bei ca. 14,9 km/h.\n• Auf jeder Stufe ist der Laktatwert gesunken, z. B. bei 14 km/h von 4,6 auf 3,0 mmol/l. Die Laktat-Leistungs-Kurve hat sich nach rechts verschoben.\n• Deutung: Je höher die Geschwindigkeit, mit der die ANS überschritten wird, desto besser die aerobe Ausdauerleistungsfähigkeit. Sara hat sich deutlich verbessert.\nPhysiologische Erklärung:\n• Mehr und größere Mitochondrien sowie leistungsfähigere aerobe Enzyme, v. a. in den ST-Fasern: Mehr Energie wird aerob gewonnen, die anaerobe Glykolyse setzt später ein.\n• Bessere Kapillarisierung und mehr Myoglobin: bessere Sauerstoffversorgung der Muskelzelle.\n• Verbesserte Laktatelimination: Gebildetes Laktat wird schneller abgebaut, der Blutlaktatspiegel steigt langsamer.\n• Höhere Fettverbrennung schont die Glykogenspeicher.",
+      "tipp": "Erst die Werte genau auslesen (Schwellen bei 2 und 4 mmol/l), dann die Veränderung benennen, dann physiologisch begründen. Diese drei Schritte erwartet der Erwartungshorizont."
+    },
+    {
+      "id": "e-q2.1-05",
+      "thema": "Q2.1",
+      "titel": "Extensive und intensive Intervallmethode",
+      "operator": "Vergleichen",
+      "afb": "II",
+      "be": 8,
+      "material": "",
+      "aufgabe": "Vergleichen Sie die extensive und die intensive Intervallmethode hinsichtlich ihrer Belastungskomponenten und Trainingswirkungen.",
+      "erwartung": [
+        {
+          "text": "Gemeinsamkeit: Wechsel von Belastung und unvollständiger, lohnender Pause (nächster Reiz im nicht vollständig erholten Zustand)",
+          "be": 1
+        },
+        {
+          "text": "Intensität: extensiv ca. 60–80 % (Laktat ca. 3–4 mmol/l), intensiv ca. 80–90 % (Laktat ca. 4–8 mmol/l)",
+          "be": 2
+        },
+        {
+          "text": "Dauer/Umfang: extensiv längere Intervalle (ca. 30–180 s) mit hoher Wiederholungszahl, intensiv kürzere Intervalle (ca. 15–120 s) mit geringerer Wiederholungszahl",
+          "be": 2
+        },
+        {
+          "text": "Pausen: extensiv kürzer (ca. 45–120 s), intensiv länger (ca. 1–3 min)",
+          "be": 1
+        },
+        {
+          "text": "Wirkung: extensiv v. a. aerobe Kapazität, Kapillarisierung, Laktatelimination; intensiv v. a. aerob-anaerobe Energiebereitstellung, Laktattoleranz/-produktion, Herzvergrößerung",
+          "be": 2
+        }
+      ],
+      "muster": "Gemeinsamkeit: Beide Methoden wechseln Belastung und unvollständige, lohnende Pause. Die nächste Belastung beginnt, bevor die Erholung abgeschlossen ist (Puls etwa 120–130).\nUnterschiede:\n• Intensität: extensiv 60–80 % der individuellen Maximalgeschwindigkeit, Laktat 3–4 mmol/l, 85–90 % HFmax; intensiv 80–90 %, Laktat 4–8 mmol/l, ca. 90 % HFmax.\n• Dauer der Intervalle: extensiv 30–180 s, intensiv 15–120 s.\n• Umfang: extensiv hohe Wiederholungszahl (z. B. 4 Serien à 5 Intervalle, 45–60 min Gesamtdauer); intensiv mittlere Wiederholungszahl (z. B. 2–3 Serien à 3–4 Intervalle, 30–45 min).\n• Dichte: extensiv Intervallpausen 45–120 s; intensiv 1–3 min; Serienpause jeweils ca. 5 min.\n• Wirkung: Die extensive IM fördert Sportherzentwicklung, Kapillarisierung, aerobe Glykolyse und Laktatelimination. Die intensive IM aktiviert die gemischte anaerob-aerobe Energiebereitstellung aus Glykogen, verbessert Laktatproduktion und -toleranz und führt zur Herzvergrößerung.\nAllgemein gilt: Je höher die Intensität, desto geringer der Umfang und desto länger die Pausen.",
+      "tipp": "Vergleichen heißt: Gemeinsamkeiten UND Unterschiede kriterienorientiert gegenüberstellen. Nutze dieselben Kriterien für beide Methoden."
+    },
+    {
+      "id": "e-q2.1-06",
+      "thema": "Q2.1",
+      "titel": "Das Sportherz",
+      "operator": "Erläutern",
+      "afb": "II",
+      "be": 6,
+      "material": "Werte von zwei 25-jährigen Männern:\n• Paul (untrainiert): Ruhepuls 72/min, Herzvolumen 750 ml, Schlagvolumen in Ruhe 70 ml\n• Leon (Triathlet): Ruhepuls 46/min, Herzvolumen 1.150 ml, Schlagvolumen in Ruhe 110 ml",
+      "aufgabe": "Erläutern Sie anhand der Werte, wie sich das Herz durch Ausdauertraining anpasst und welche Vorteile dies hat.",
+      "erwartung": [
+        {
+          "text": "Vergrößerung des Herzens (harmonische Erweiterung aller Herzhöhlen, Verdickung des Herzmuskels): 750 → 1.150 ml",
+          "be": 1
+        },
+        {
+          "text": "größeres Schlagvolumen (70 → 110 ml) als Folge",
+          "be": 1
+        },
+        {
+          "text": "Herzminutenvolumen in Ruhe bei beiden ca. 5 l (72 · 70 ≈ 5,0 l; 46 · 110 ≈ 5,1 l) → gleicher Bedarf mit niedrigerer Herzfrequenz",
+          "be": 2
+        },
+        {
+          "text": "Vorteil Ruhe: ökonomischere Herzarbeit, längere Diastole/bessere Durchblutung des Herzmuskels",
+          "be": 1
+        },
+        {
+          "text": "Vorteil Belastung: höheres maximales Schlag-/Herzminutenvolumen (ca. 40 statt 20 l), damit höhere O2-Versorgung und VO2max",
+          "be": 1
+        }
+      ],
+      "muster": "• Durch umfangreiches Ausdauertraining vergrößert sich das Herz harmonisch (alle vier Herzhöhlen erweitert, Herzmuskel verdickt): Leons Herzvolumen ist mit 1.150 ml deutlich größer als Pauls (750 ml).\n• Dadurch pumpt das Herz pro Schlag mehr Blut: Schlagvolumen 110 ml statt 70 ml.\n• In Ruhe ist der Bedarf gleich: Paul 72 · 70 ml ≈ 5,0 l/min, Leon 46 · 110 ml ≈ 5,1 l/min. Leon erreicht dasselbe Herzminutenvolumen mit viel niedrigerer Herzfrequenz.\n• Vorteil in Ruhe: Das Herz arbeitet ökonomischer, die Diastole ist länger, der Herzmuskel wird besser durchblutet, der Sauerstoffverbrauch des Herzens sinkt.\n• Vorteil unter Belastung: Bei ähnlicher Maximalfrequenz (ca. 200) erreicht das Sportherz ein viel höheres Herzminutenvolumen (ca. 40 l statt ca. 20 l). So gelangt mehr Sauerstoff zur Muskulatur, die VO2max (= HMV · AVDO2) steigt.",
+      "tipp": "Nutze die Zahlen aktiv: Eine kleine Rechnung (HMV = HF · SV) zeigt, dass du den Zusammenhang verstanden hast."
+    },
+    {
+      "id": "e-q2.1-07",
+      "thema": "Q2.1",
+      "titel": "Trainingswoche einer Hobbyläuferin",
+      "operator": "Beurteilen",
+      "afb": "III",
+      "be": 10,
+      "material": "Lisa (35) möchte in 16 Wochen ihren ersten Marathon laufen. Ihre ANS liegt laut Test bei HF 168. Ihr Wochenplan:\n• Mo: 10 km, HF 170–175\n• Di: 8 × 400 m schnell, 1 min Gehpause\n• Mi: 12 km, HF 168–174\n• Do: Ruhetag\n• Fr: 10 km, HF 170–176\n• Sa: 5-km-Volkslauf (Wettkampf)\n• So: 14 km, HF 165–172",
+      "aufgabe": "Beurteilen Sie Lisas Trainingswoche im Hinblick auf ihr Ziel Marathon.",
+      "erwartung": [
+        {
+          "text": "Anforderungsprofil Marathon: Langzeitausdauer, überwiegend aerob (aerobe Glykolyse und Lipolyse), hoher Umfang, Glykogensparen",
+          "be": 1
+        },
+        {
+          "text": "Analyse: fast alle Läufe an oder über der ANS (HF 165–176), also intensive Dauermethode bzw. anaerober Bereich",
+          "be": 2
+        },
+        {
+          "text": "Fehlen von extensiven, langen Dauerläufen im Bereich der AS (Grundlage nach Trainingspyramide) und eines langen Laufs (z. B. 25–30 km)",
+          "be": 2
+        },
+        {
+          "text": "zu hohe Intensität bei zu wenig Erholung: Verstoß gegen Prinzip der optimalen Gestaltung von Belastung und Erholung, Überlastungsgefahr",
+          "be": 1
+        },
+        {
+          "text": "Anerkennung positiver Aspekte (z. B. Regelmäßigkeit, ein Ruhetag, Tempoeinheit als Ergänzung sinnvoll)",
+          "be": 1
+        },
+        {
+          "text": "konkreter Verbesserungsvorschlag (z. B. 2–3 extensive Dauerläufe deutlich unter der ANS, ein langer Lauf, max. eine intensive Einheit)",
+          "be": 2
+        },
+        {
+          "text": "begründetes Gesamturteil",
+          "be": 1
+        }
+      ],
+      "muster": "Anforderungsprofil: Der Marathon ist eine Langzeitausdauerbelastung, die fast vollständig aerob (aerobe Glykolyse, mit zunehmender Dauer Lipolyse) bewältigt wird. Entscheidend sind eine hohe aerobe Kapazität, Fettstoffwechsel und sparsamer Umgang mit Glykogen.\nAnalyse:\n• Lisa läuft fast alle Einheiten mit HF 165–176, also an oder über ihrer ANS (168). Das entspricht der intensiven Dauermethode bzw. dem anaeroben Bereich.\n• Es fehlen extensive Dauerläufe im Bereich der AS, die laut Trainingspyramide die Basis bilden, und ein langer Lauf über 2–3 Stunden, der die Lipolyse und die Glykogenspeicher trainiert.\n• Mit Intervallen, drei intensiven Dauerläufen und einem Wettkampf ist die Intensität sehr hoch, die Erholung zu kurz (Prinzip der optimalen Gestaltung von Belastung und Erholung). Es droht Übertraining, bei 35 Jahren auch Verletzungsgefahr.\n• Positiv: Lisa trainiert regelmäßig und hat einen Ruhetag; eine intensive Einheit pro Woche ist auch im Marathontraining sinnvoll.\nVerbesserung: z. B. Mo locker 8 km (HF ca. 140–150), Mi 12 km extensiv, Do Ruhetag, Fr Tempoläufe oder 8 km intensive DM nahe ANS, Sa Ruhetag oder locker, So langer Lauf 20–30 km extensiv (progressiv gesteigert).\nUrteil: Die Woche ist für Lisas Ziel ungeeignet, weil sie zu intensiv und zu wenig umfangsorientiert ist; sie trainiert eher für einen 10-km-Lauf als für einen Marathon.",
+      "tipp": "Beim Beurteilen eines Trainingsplans immer zuerst das Anforderungsprofil des Ziels klären, dann den Plan daran messen und mit einem begründeten Urteil enden."
+    },
+    {
+      "id": "e-q2.1-08",
+      "thema": "Q2.1",
+      "titel": "Dauerläufe im Handball?",
+      "operator": "Erörtern",
+      "afb": "III",
+      "be": 8,
+      "material": "Die Trainerin eines Handball-Oberligateams streicht in der Saisonvorbereitung alle Dauerläufe. Ihre Begründung: „Handball besteht aus kurzen Sprints, Sprüngen und Zweikämpfen. Langes, gleichmäßiges Laufen macht meine Spielerinnen nur langsam.“",
+      "aufgabe": "Erörtern Sie die Entscheidung der Trainerin.",
+      "erwartung": [
+        {
+          "text": "Pro: Handball überwiegend anaerob-alaktazid/laktazid geprägt (Sprints, Sprünge, Würfe); spezielle Ausdauer muss spielnah trainiert werden",
+          "be": 1
+        },
+        {
+          "text": "Pro: zu viel allgemeines Ausdauertraining kann Schnelligkeit/Schnellkraft mindern",
+          "be": 1
+        },
+        {
+          "text": "Contra: aerobe Grundlagenausdauer ist Basis für schnelle Erholung zwischen Aktionen (Resynthese der Phosphatspeicher, Laktatabbau)",
+          "be": 2
+        },
+        {
+          "text": "Contra: Grundlagenausdauer verbessert Regeneration zwischen Einheiten, Belastungsverträglichkeit, Konzentration und senkt Verletzungsanfälligkeit in der Schlussphase",
+          "be": 1
+        },
+        {
+          "text": "Alternative: Fahrtspiel/variable Dauermethode, extensive Intervallmethode oder Spielformen als spielnahe Ausdauerschulung",
+          "be": 1
+        },
+        {
+          "text": "Abwägung mit Bezug zur Aussage und begründetes Fazit",
+          "be": 2
+        }
+      ],
+      "muster": "Für die Entscheidung spricht:\n• Das Belastungsprofil im Handball ist intervallartig: kurze Sprints, Sprünge, Würfe und Zweikämpfe unter 6–8 s werden vor allem anaerob-alaktazid, gehäufte Aktionen auch anaerob-laktazid versorgt. Die spezielle Ausdauer muss daher spielnah trainiert werden.\n• Ein Zuviel an allgemeinem Ausdauertraining kann Schnelligkeits- und Schnellkraftverluste bewirken.\nGegen die Entscheidung spricht:\n• Die aerobe Grundlagenausdauer ist die Basis für die schnelle Erholung in Spielpausen: Phosphatspeicher werden aerob wieder aufgefüllt, Laktat wird schneller abgebaut. Ohne sie lässt die Sprintfähigkeit im Spielverlauf nach.\n• Sie verbessert die Regeneration zwischen Training und Spiel, die Belastungsverträglichkeit und die Konzentration in der Schlussphase und kann Verletzungen durch Ermüdung vorbeugen.\n• Eine Grundlage muss nicht aus monotonen Dauerläufen bestehen: Fahrtspiel (variable Dauermethode) und extensive Intervalle bilden den Belastungswechsel im Spiel ab.\nFazit: Ein völliger Verzicht auf aerobe Ausdauerschulung ist nicht sinnvoll. Die Trainerin hat recht, dass lange gleichmäßige Läufe nicht im Mittelpunkt stehen sollten. Sinnvoll ist eine aerobe Basis in der frühen Vorbereitung (z. B. 2 × 30–40 min extensiv bzw. Fahrtspiel), danach zunehmend spielnahe Intervall- und Spielformen.",
+      "tipp": "Erörtern heißt: Pro und Contra systematisch abwägen und zu einem begründeten Ergebnis kommen. Ein Kompromissvorschlag zeigt AFB-III-Niveau."
+    }
+  ],
+  "klausuren": [
+    {
+      "id": "k-q1.1-1",
+      "themen": [
+        "Q1.1",
+        "Q2.2"
+      ],
+      "titel": "Mehr Training, weniger Sprungkraft: eine Volleyballerin im Leistungsloch",
+      "zeit": 110,
+      "einleitung": "Jana ist 17 Jahre alt, spielt als Außenangreiferin in einer Jugend-Regionalligamannschaft und möchte im nächsten Jahr in den Landeskader aufgenommen werden. Um ihre Sprungkraft zu verbessern, hat sie zusätzlich zum Vereinstraining einen eigenen Athletikplan erstellt. Nach acht Wochen ist sie enttäuscht: Ihre Sprungleistung wird schlechter und sie fühlt sich ständig müde. In dieser Aufgabe untersuchen Sie Janas Training mithilfe trainingswissenschaftlicher Modelle und entwickeln einen besseren Plan.",
+      "material": [
+        {
+          "titel": "M1: Fallbeispiel Jana (fiktiv)",
+          "text": "Jana trainiert viermal pro Woche (Mo, Di, Do, Fr) je zwei Stunden im Verein. Inhalte sind vor allem Technik (Angriffsschlag, Block, Annahme) und Spielformen; dabei springt sie pro Einheit etwa 80- bis 120-mal. Samstags hat sie meist ein Spiel oder Turnier. Seit acht Wochen absolviert sie zusätzlich jeden Morgen vor der Schule ihren eigenen Athletikplan (M2). Da sie in der Oberstufe viel lernen muss, schläft sie unter der Woche oft nur sechs Stunden. Ihr Trainer lobt ihre Schlagkraft, kritisiert aber: „Bei schnellen, flatternden Aufschlägen steht Jana oft falsch und spielt den Ball unkontrolliert in die falsche Richtung.“"
+        },
+        {
+          "titel": "M2: Janas eigener Athletikplan (pro Woche)",
+          "tabelle": {
+            "kopf": [
+              "Tag",
+              "Inhalt",
+              "Belastung",
+              "Pause"
+            ],
+            "zeilen": [
+              [
+                "Mo",
+                "Strecksprünge auf einen Kasten",
+                "6 × 10 Sprünge, maximal",
+                "30 s"
+              ],
+              [
+                "Di",
+                "Strecksprünge auf einen Kasten",
+                "6 × 10 Sprünge, maximal",
+                "30 s"
+              ],
+              [
+                "Mi",
+                "Tiefsprünge aus 60 cm",
+                "5 × 10 Sprünge, maximal",
+                "30 s"
+              ],
+              [
+                "Do",
+                "Strecksprünge auf einen Kasten",
+                "6 × 10 Sprünge, maximal",
+                "30 s"
+              ],
+              [
+                "Fr",
+                "Kniebeugen mit Langhantel (40 kg)",
+                "4 × 12 Wiederholungen",
+                "60 s"
+              ],
+              [
+                "Sa",
+                "kein Zusatztraining (Spiel)",
+                "–",
+                "–"
+              ],
+              [
+                "So",
+                "Tiefsprünge aus 60 cm",
+                "5 × 10 Sprünge, maximal",
+                "30 s"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Janas Testwerte (Counter-Movement-Jump) und Befinden",
+          "tabelle": {
+            "kopf": [
+              "Woche",
+              "Sprunghöhe (cm)",
+              "Ruhepuls morgens (/min)",
+              "Müdigkeit (1 = frisch, 10 = erschöpft)"
+            ],
+            "zeilen": [
+              [
+                "0",
+                "48",
+                "58",
+                "3"
+              ],
+              [
+                "2",
+                "50",
+                "59",
+                "4"
+              ],
+              [
+                "4",
+                "51",
+                "62",
+                "6"
+              ],
+              [
+                "6",
+                "49",
+                "65",
+                "7"
+              ],
+              [
+                "8",
+                "47",
+                "67",
+                "8"
+              ]
+            ]
+          }
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie das Strukturmodell der Kondition, indem Sie die vier konditionellen Fähigkeiten definieren, und grenzen Sie die konditionellen von den koordinativen Fähigkeiten ab.",
+          "erwartung": [
+            {
+              "text": "Ausdauer: Ermüdungswiderstandsfähigkeit und rasche Erholungsfähigkeit",
+              "be": 1
+            },
+            {
+              "text": "Kraft: neuromuskuläres Vermögen, Widerstände zu überwinden, zu halten oder abzubremsen",
+              "be": 1
+            },
+            {
+              "text": "Schnelligkeit: auf Reize schnellstmöglich reagieren und/oder Bewegungen bei geringen Widerständen mit höchster Geschwindigkeit ausführen",
+              "be": 1
+            },
+            {
+              "text": "Beweglichkeit: Muskeldehnfähigkeit und Gelenkigkeit (Bewegungen mit großer Schwingungsweite)",
+              "be": 1
+            },
+            {
+              "text": "Konditionelle Fähigkeiten vorwiegend energetisch determiniert (Energiebereitstellung, Stoffwechsel)",
+              "be": 1
+            },
+            {
+              "text": "Koordinative Fähigkeiten vorwiegend informationell determiniert (Bewegungssteuerung und -regelung durch ZNS); Kraft, Schnelligkeit, Beweglichkeit haben auch koordinative Anteile",
+              "be": 1
+            }
+          ],
+          "muster": "Kondition ist der Sammelbegriff für die vier konditionellen Fähigkeiten:\n• Ausdauer: Ermüdungswiderstandsfähigkeit bei lang andauernden Belastungen und rasche Erholungsfähigkeit.\n• Kraft: neuromuskuläres Vermögen, Widerstände zu überwinden (konzentrisch), ihnen entgegenzuwirken (exzentrisch) oder sie zu halten (isometrisch).\n• Schnelligkeit: Fähigkeit, auf Reize schnellstmöglich zu reagieren und/oder Bewegungen bei geringen Widerständen mit höchster Geschwindigkeit auszuführen.\n• Beweglichkeit: Muskeldehnfähigkeit und Gelenkigkeit, also die Fähigkeit, Bewegungen mit großer Schwingungsweite auszuführen.\nAbgrenzung: Konditionelle Fähigkeiten sind vorwiegend energetisch determiniert, ihre Leistung hängt v. a. von der Energiebereitstellung ab. Koordinative Fähigkeiten sind vorwiegend informationell determiniert, sie beruhen auf Prozessen der Bewegungssteuerung und -regelung im Zentralnervensystem. Die Trennung ist nicht absolut: Kraft, Schnelligkeit und Beweglichkeit hängen eng mit der Koordination zusammen (inter- und intramuskuläre Koordination); nur die Ausdauer ist weitgehend energetisch bestimmt."
+        },
+        {
+          "nr": "2",
+          "operator": "Darstellen",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Stellen Sie die Belastungskomponenten als Steuergrößen des Trainings dar und erläutern Sie kurz, wie sie zusammenhängen.",
+          "erwartung": [
+            {
+              "text": "Intensität: Stärke des Einzelreizes (z. B. % der Maximalkraft, Geschwindigkeit, Herzfrequenz)",
+              "be": 1
+            },
+            {
+              "text": "Dauer: Zeitdauer eines Einzelreizes bzw. einer Serie",
+              "be": 1
+            },
+            {
+              "text": "Dichte: zeitliches Verhältnis von Belastung und Erholung (Pausengestaltung, vollständige/unvollständige Pause)",
+              "be": 1
+            },
+            {
+              "text": "Umfang: Gesamtmenge der Reize einer Einheit (z. B. Wiederholungen · Serien, km)",
+              "be": 1
+            },
+            {
+              "text": "Häufigkeit: Anzahl der Trainingseinheiten pro Woche",
+              "be": 1
+            },
+            {
+              "text": "Zusammenhang: Komponenten beeinflussen sich gegenseitig, z. B. hohe Intensität → geringer Umfang und längere Pausen",
+              "be": 1
+            }
+          ],
+          "muster": "Belastungskomponenten (Belastungsnormative) dienen zur Dosierung der Trainingsreize:\n• Intensität: Stärke des Einzelreizes, angegeben z. B. als Last in % der Maximalkraft, Geschwindigkeit, Sprunghöhe oder Herzfrequenz.\n• Dauer: Zeit, über die ein Einzelreiz bzw. eine Serie wirkt (Zeit oder Wiederholungszahl).\n• Dichte: zeitliches Verhältnis von Belastung und Erholung; man unterscheidet vollständige und unvollständige (lohnende) Pausen.\n• Umfang: Gesamtmenge der Belastung in einer Einheit, z. B. Serien · Wiederholungen oder Laufkilometer.\n• Häufigkeit: Zahl der Trainingseinheiten pro Woche.\n(Ergänzend: Belastungskomplexität als Kombination verschiedener Inhalte in einer Einheit.)\nZusammenhang: Die Komponenten bedingen sich gegenseitig. Je höher die Intensität, desto geringer muss der Umfang sein und desto länger müssen die Pausen sein (geringere Dichte); bei niedriger Intensität sind hoher Umfang und hohe Dichte möglich."
+        },
+        {
+          "nr": "3",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 10,
+          "aufgabe": "Analysieren Sie Janas Training (M1, M2) und die Entwicklung ihrer Testwerte (M3) mithilfe des Modells der Superkompensation und der Belastungskomponenten.",
+          "erwartung": [
+            {
+              "text": "Häufigkeit: Zusatztraining an 6 Tagen plus 4 Vereinseinheiten mit vielen Sprüngen und Spiel am Samstag → an fast allen Tagen Sprungbelastung, teils zwei Einheiten täglich",
+              "be": 2
+            },
+            {
+              "text": "Erholung: Für Schnellkraft-/Sprungtraining wären ca. 48–72 h nötig; neue Reize treffen auf nicht erholten Organismus (Reiz zu früh in der Heterostase/Erholungsphase)",
+              "be": 2
+            },
+            {
+              "text": "Dichte: 30 s Pause bei maximalen Sprüngen/Tiefsprüngen zu kurz (vollständige Pause nötig); maximale Intensität kann nicht gehalten werden",
+              "be": 1
+            },
+            {
+              "text": "M3 Woche 0–4: leichter Anstieg (48 → 51 cm) als anfängliche Anpassung gedeutet",
+              "be": 1
+            },
+            {
+              "text": "M3 Woche 4–8: Abfall auf 47 cm unter Ausgangsniveau bei steigendem Ruhepuls (58 → 67) und Müdigkeit (3 → 8) → treppenförmiger Leistungsabfall, Übertraining",
+              "be": 2
+            },
+            {
+              "text": "Weitere Faktoren: zu wenig Schlaf/schulische Belastung verlängern die Regeneration; Monotonie der Inhalte (Prinzip der Variation)",
+              "be": 1
+            },
+            {
+              "text": "Zusammenfassende Deutung: Belastung insgesamt zu hoch, Erholung zu gering (Verstoß gegen optimale Gestaltung von Belastung und Erholung)",
+              "be": 1
+            }
+          ],
+          "muster": "Belastungskomponenten:\n• Häufigkeit: Jana trainiert an sechs Tagen zusätzlich, dazu viermal Verein (je 80–120 Sprünge) und samstags ein Spiel. An Mo, Di, Do und Fr springt sie zweimal am Tag. Eine sprungfreie Erholung gibt es praktisch nicht.\n• Intensität: Strecksprünge und Tiefsprünge aus 60 cm werden maximal ausgeführt, Tiefsprünge sind besonders intensiv (hohe exzentrische Belastung).\n• Dichte: 30 s Pause zwischen maximalen Sprungserien sind viel zu kurz. Für Schnell- und Reaktivkraft wären vollständige Pausen (ca. 2–3 min) nötig, sonst sinkt die Qualität und es entsteht eher ein Kraftausdauerreiz.\n• Umfang: 50–60 Maximalsprünge pro Morgen plus Vereinstraining ergibt mehrere hundert Sprünge pro Tag.\nSuperkompensation:\n• Für Kraft- und Schnelligkeitstraining sind ca. 48–72 h Erholung empfehlenswert. Jana setzt die nächsten Reize meist schon nach wenigen Stunden, also in der Phase der Heterostase bzw. Erholung.\n• M3 zeigt zunächst einen leichten Anstieg (48 → 51 cm in Woche 4): Die neuen Reize lösten anfangs Anpassungen aus.\n• Danach fällt die Sprunghöhe auf 47 cm, also unter das Ausgangsniveau. Gleichzeitig steigen der morgendliche Ruhepuls (58 → 67/min) und die Müdigkeit (3 → 8). Das ist das typische Bild einer treppenförmig abfallenden Leistung, wenn Reize zu früh gesetzt werden, und deutet auf Übertraining hin.\n• Wenig Schlaf und Schulstress verzögern die Regeneration zusätzlich; die Monotonie der Übungen verstärkt die Stagnation.\nFazit: Janas Problem ist nicht zu wenig, sondern zu viel und zu dicht gesetzte Belastung. Sie verstößt gegen das Prinzip der optimalen Gestaltung von Belastung und Erholung."
+        },
+        {
+          "nr": "4",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 6,
+          "aufgabe": "Erläutern Sie, welche koordinativen Fähigkeiten für Janas Probleme bei der Annahme schneller, flatternder Aufschläge (M1) bedeutsam sind.",
+          "erwartung": [
+            {
+              "text": "Orientierungsfähigkeit: Lage und Flugbahn des Balls im Raum bestimmen und eigene Position anpassen (steht oft falsch)",
+              "be": 1
+            },
+            {
+              "text": "Reaktionsfähigkeit: schnelles Einleiten der Annahmebewegung auf das Signal Aufschlag/Flugbahn",
+              "be": 1
+            },
+            {
+              "text": "Umstellungsfähigkeit: Anpassung des Bewegungsprogramms an die unerwartete Richtungsänderung des Flatterballs",
+              "be": 1
+            },
+            {
+              "text": "Differenzierungsfähigkeit: feine Abstimmung von Krafteinsatz und Armwinkel, damit der Ball kontrolliert zum Zuspieler gelangt (unkontrollierte Richtung)",
+              "be": 1
+            },
+            {
+              "text": "Zuordnung zu Grundfähigkeiten nach Hirtz: Steuerungsfähigkeit (Differenzierung, Orientierung) und Adaptionsfähigkeit (Reaktion, Umstellung, Orientierung)",
+              "be": 1
+            },
+            {
+              "text": "Verknüpfung: Annahme erfolgt unter Zeit- und Präzisionsdruck; Ermüdung (Aufgabe 3) verschlechtert zusätzlich die koordinative Leistung",
+              "be": 1
+            }
+          ],
+          "muster": "• Orientierungsfähigkeit: Jana muss Flugbahn, Geschwindigkeit und Landepunkt des Aufschlags schnell bestimmen und ihre Körperposition daran anpassen. Dass sie oft falsch steht, deutet auf Defizite in diesem Bereich.\n• Reaktionsfähigkeit: Auf den schnellen Aufschlag muss die Annahmebewegung in kürzester Zeit eingeleitet werden.\n• Umstellungsfähigkeit: Flatterbälle ändern ihre Flugbahn unvorhersehbar. Jana muss ihr bereits gestartetes Bewegungsprogramm während der Ausführung umstellen.\n• Differenzierungsfähigkeit: Damit der Ball präzise zum Zuspieler gelangt, müssen Krafteinsatz, Armwinkel und Plattform fein abgestimmt werden; unkontrollierte Bälle zeigen hier Schwächen.\nNach Hirtz betreffen Differenzierung und Orientierung die Steuerungsfähigkeit, Reaktion, Umstellung und Orientierung die Adaptionsfähigkeit.\nDie Annahme ist eine Situation mit hohem Zeit- und Präzisionsdruck. Da koordinative Leistungen bei Ermüdung nachlassen, verschärft Janas Übertraining das Problem zusätzlich."
+        },
+        {
+          "nr": "5",
+          "operator": "Entwickeln",
+          "afb": "III",
+          "be": 12,
+          "aufgabe": "Entwickeln Sie für Jana einen überarbeiteten Trainingsplan für die nächsten vier Wochen, der Sprungkraft und Annahme verbessern soll. Begründen Sie Ihre Planung mithilfe von Trainingsprinzipien und Ihren Ergebnissen aus den Aufgaben 3 und 4.",
+          "erwartung": [
+            {
+              "text": "Einstieg mit Entlastungs-/Regenerationsphase (z. B. erste Woche ohne Zusatz-Sprungtraining), begründet mit Übertraining aus M3",
+              "be": 2
+            },
+            {
+              "text": "Sprungkrafttraining auf 2 Einheiten pro Woche mit 48–72 h Abstand, nicht am Tag vor dem Spiel bzw. nicht zusätzlich an Vereinstagen mit vielen Sprüngen",
+              "be": 2
+            },
+            {
+              "text": "konkrete Belastungskomponenten, z. B. 3–4 Serien à 5–8 Sprünge, maximal, vollständige Pausen 2–3 min; Tiefsprünge reduziert/niedrigere Höhe",
+              "be": 2
+            },
+            {
+              "text": "progressive Belastungssteigerung über die Wochen 2–4 (z. B. Serien oder Kastenhöhe steigern) bzw. Periodisierung/Zyklisierung erkennbar",
+              "be": 2
+            },
+            {
+              "text": "Annahmetraining mit Koordinationsschwerpunkt: variierte Aufschläge, Zeit- und Präzisionsdruck, wechselnde Positionen (Prinzip der Variation)",
+              "be": 1
+            },
+            {
+              "text": "Berücksichtigung der Individualität: Schule, Schlaf, Gesamtbelastung mit Vereinstraining abgestimmt",
+              "be": 1
+            },
+            {
+              "text": "korrekte Begründung mit mindestens drei passend benannten Trainingsprinzipien",
+              "be": 2
+            }
+          ],
+          "muster": "Grundidee: Weniger, aber gezielter belasten und die Erholung mitplanen.\nWoche 1 (Regeneration): Kein zusätzliches Sprungtraining, nur Vereinstraining und Spiel; zwei lockere Ausdauereinheiten (20–30 min) zur aktiven Erholung; Ziel: mindestens acht Stunden Schlaf. Begründung: M3 zeigt Übertraining; nach dem Prinzip der optimalen Gestaltung von Belastung und Erholung muss erst die Homöostase wiederhergestellt werden.\nWochen 2–4 (Aufbau):\n• Sprungkraft 2 × pro Woche, z. B. Mittwoch und Sonntag (an vereinsfreien Tagen, nicht am Tag vor dem Spiel), damit 48–72 h zwischen den Reizen liegen.\n• Woche 2: 3 × 6 Strecksprünge auf den Kasten, maximal, 2–3 min Pause; dazu 3 × 8 Kniebeugen mit sauberer Technik.\n• Woche 3: 4 × 6 Sprünge; Einführung von Tiefsprüngen aus nur 30–40 cm (3 × 5).\n• Woche 4: 4 × 8 Sprünge bzw. Tiefsprünge 4 × 5, Kastenhöhe leicht erhöht.\nBegründung: Prinzip des wirksamen Belastungsreizes (maximale Qualität durch vollständige Pausen), Prinzip der progressiven Belastungssteigerung (Steigerung von Woche zu Woche), Periodisierung/Zyklisierung (Entlastung → Aufbau).\nAnnahmetraining: Im Vereinstraining bzw. als Zusatz 2 × 15 min Annahme gegen variierte Aufschläge (Flatter-, Sprung-, Kurzaufschläge) aus unterschiedlichen Positionen, mit Zielzonen und zunehmendem Zeitdruck. Begründung: Verbesserung von Orientierungs-, Reaktions-, Umstellungs- und Differenzierungsfähigkeit; Prinzip der Variation der Trainingsbelastung.\nIndividualität: Der Plan berücksichtigt Schulbelastung und Schlaf (Prinzip der Individualität). Morgens vor der Schule wird nicht mehr trainiert. Nach Woche 4 sollte ein neuer CMJ-Test den Erfolg überprüfen."
+        }
+      ]
+    },
+    {
+      "id": "k-q1.1-2",
+      "themen": [
+        "Q1.1",
+        "Q3.2"
+      ],
+      "titel": "„Training wie die Profis“ in der U13: Kondition und Koordination im Kindes- und Jugendalter",
+      "zeit": 100,
+      "einleitung": "Ein ehrgeiziger Trainer übernimmt die U13-Basketballmannschaft eines Vereins (Spieler zwischen 11 und 13 Jahren). Er will das Team möglichst schnell erfolgreich machen und stellt ein neues Trainingskonzept vor. Mehrere Eltern sind skeptisch. In dieser Aufgabe prüfen Sie das Konzept aus trainingswissenschaftlicher Sicht.",
+      "material": [
+        {
+          "titel": "M1: Trainingskonzept des Trainers (fiktiv)",
+          "text": "„Ab sofort trainieren wir wie die Profis. Wir trainieren dreimal pro Woche 90 Minuten. Jede Einheit beginnt mit 30 Minuten Krafttraining an den Geräten im Fitnessraum mit 70–80 % der Maximalkraft, damit die Jungs endlich robuster werden. Danach folgen 6 × 400 m Läufe mit 90 Sekunden Pause für die Ausdauer. Den Rest der Zeit üben wir ausschließlich Basketball-Drills und Spielzüge. Spiele wie Völkerball, Fußball oder Koordinationsparcours streichen wir, die bringen für Basketball nichts. Alle bekommen dasselbe Programm, das ist fair. Wer im Test schlecht ist, muss eben mehr tun.“"
+        },
+        {
+          "titel": "M2: Daten dreier Spieler der U13 (fiktiv)",
+          "tabelle": {
+            "kopf": [
+              "Spieler",
+              "Kalendarisches Alter",
+              "Biologisches Alter (geschätzt)",
+              "Körpergröße",
+              "20-m-Sprint",
+              "Koordinationsparcours"
+            ],
+            "zeilen": [
+              [
+                "Tim",
+                "12;3 Jahre",
+                "ca. 14 Jahre",
+                "1,71 m",
+                "3,45 s",
+                "24,1 s"
+              ],
+              [
+                "Ben",
+                "12;5 Jahre",
+                "ca. 11 Jahre",
+                "1,49 m",
+                "3,88 s",
+                "22,6 s"
+              ],
+              [
+                "Can",
+                "12;0 Jahre",
+                "ca. 12 Jahre",
+                "1,58 m",
+                "3,70 s",
+                "23,4 s"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Hinweis",
+          "text": "Beim Koordinationsparcours (Slalomdribbling, Drehungen, Sprünge über Hindernisse, Ballprellen mit wechselnder Hand) ist eine niedrigere Zeit besser."
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Nennen",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Nennen Sie die sieben koordinativen Fähigkeiten und ordnen Sie sie den koordinativen Grundfähigkeiten nach Hirtz zu.",
+          "erwartung": [
+            {
+              "text": "Kopplungs-, Differenzierungs- und Gleichgewichtsfähigkeit genannt",
+              "be": 1
+            },
+            {
+              "text": "Orientierungs- und Rhythmisierungsfähigkeit genannt",
+              "be": 1
+            },
+            {
+              "text": "Reaktions- und Umstellungsfähigkeit genannt",
+              "be": 1
+            },
+            {
+              "text": "Steuerungsfähigkeit: Kopplung, Differenzierung, Gleichgewicht, Orientierung, Rhythmisierung",
+              "be": 1
+            },
+            {
+              "text": "Adaptionsfähigkeit: Gleichgewicht, Orientierung, Rhythmisierung, Reaktion, Umstellung",
+              "be": 1
+            },
+            {
+              "text": "Motorische Lernfähigkeit: alle sieben Fähigkeiten tragen bei",
+              "be": 1
+            }
+          ],
+          "muster": "Die sieben koordinativen Fähigkeiten sind: Kopplungs-, Differenzierungs-, Gleichgewichts-, Orientierungs-, Rhythmisierungs-, Reaktions- und Umstellungsfähigkeit.\nZuordnung nach Hirtz:\n• Steuerungsfähigkeit: Kopplung, Differenzierung, Gleichgewicht, Orientierung, Rhythmisierung\n• Adaptionsfähigkeit (Anpassungs- und Umstellungsfähigkeit): Gleichgewicht, Orientierung, Rhythmisierung, Reaktion, Umstellung\n• Motorische Lernfähigkeit: Alle sieben Fähigkeiten tragen dazu bei.\nEinige Fähigkeiten (Gleichgewicht, Orientierung, Rhythmisierung) gehören sowohl zur Steuerungs- als auch zur Adaptionsfähigkeit."
+        },
+        {
+          "nr": "2",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie das Gesetz der Trainierbarkeit und das Modell der sensiblen Phasen für die konditionellen und koordinativen Fähigkeiten.",
+          "erwartung": [
+            {
+              "text": "Gesetz der Trainierbarkeit: Ziele, Inhalte und Belastungen müssen alters- und geschlechtsgemäß sein, ausgerichtet am biologischen Alter",
+              "be": 1
+            },
+            {
+              "text": "Sensible Phasen: Lebensabschnitte mit besonders guter Trainierbarkeit einer Fähigkeit",
+              "be": 1
+            },
+            {
+              "text": "Koordinative Fähigkeiten: bestes Lernalter ca. 7–12 Jahre",
+              "be": 1
+            },
+            {
+              "text": "Schnelligkeit besonders günstig in der Kindheit (ca. 6/7–12/13 J.), Schnellkraft ca. 10/12–12/13 J.",
+              "be": 1
+            },
+            {
+              "text": "Maximalkraft besonders günstig im Jugendalter (ca. 12/13–16/18 J.)",
+              "be": 1
+            },
+            {
+              "text": "Aerobe Ausdauer in allen Phasen gut trainierbar; anaerobe Ausdauer erst ab später Kindheit, zunehmend günstiger bis 16/18 J.",
+              "be": 1
+            }
+          ],
+          "muster": "Gesetz der Trainierbarkeit: Ziele, Inhalte und Belastungen des Trainings müssen altersgemäß sein und geschlechtsspezifische Gegebenheiten berücksichtigen. Maßstab ist das biologische, nicht das kalendarische Alter. Im Kindesalter soll Training spielerisch angelegt sein.\nSensible Phasen sind Lebensabschnitte, in denen eine Fähigkeit besonders gut trainierbar ist (Modell nach Steinhöfer):\n• Koordinative Fähigkeiten: bestes motorisches Lernalter ca. 7–12 Jahre\n• Schnelligkeit: besonders günstig in der Kindheit (ca. 6/7–12/13 Jahre)\n• Schnellkraft: günstig v. a. ca. 10/12–12/13 Jahre\n• Maximalkraft: besonders günstig im Jugendalter (ca. 12/13–16/18 Jahre)\n• Aerobe Ausdauer: in allen Phasen gut trainierbar, am besten ca. 14/15–16/18 Jahre\n• Anaerobe Ausdauer: erst ab der späten Kindheit sinnvoll trainierbar, zunehmend günstiger bis ca. 16/18 Jahre."
+        },
+        {
+          "nr": "3",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erläutern Sie anhand von M2 den Unterschied zwischen kalendarischem und biologischem Alter und welche Folgen er für die Interpretation der Testergebnisse und die Belastungsgestaltung hat.",
+          "erwartung": [
+            {
+              "text": "Definition: kalendarisches Alter = Lebensjahre seit Geburt; biologisches Alter = tatsächlicher körperlicher Entwicklungsstand",
+              "be": 1
+            },
+            {
+              "text": "Anwendung M2: Tim und Ben sind kalendarisch fast gleich alt (12;3 / 12;5), biologisch aber ca. 3 Jahre auseinander (Früh- vs. Spätentwickler)",
+              "be": 2
+            },
+            {
+              "text": "Interpretation Sprint: Tims besserer Sprint (3,45 vs. 3,88 s) erklärbar durch größere Körpergröße/Muskelmasse infolge Reifung, nicht unbedingt durch Talent oder Training",
+              "be": 2
+            },
+            {
+              "text": "Interpretation Koordination: Ben ist im Koordinationsparcours besser (22,6 vs. 24,1 s); Wachstumsschub kann bei Tim die Koordination vorübergehend verschlechtern bzw. Ben profitiert von günstigen Hebelverhältnissen",
+              "be": 1
+            },
+            {
+              "text": "Folge: Belastung am biologischen Alter ausrichten (Ben nicht überfordern, Tim nicht unterfordern); Tests nicht nur sozial vergleichen, sondern intraindividuell bewerten",
+              "be": 2
+            }
+          ],
+          "muster": "• Kalendarisches Alter: die seit der Geburt vergangenen Lebensjahre. Biologisches Alter: tatsächlicher körperlicher Entwicklungsstand (Knochenreife, Größe, Pubertätsstand). Bei Gleichaltrigen kann es um mehrere Jahre abweichen.\n• Tim (12;3) und Ben (12;5) sind kalendarisch gleich alt, biologisch liegen aber rund drei Jahre zwischen ihnen: Tim ist Frühentwickler (ca. 14), Ben Spätentwickler (ca. 11). Can entspricht seinem kalendarischen Alter.\n• Interpretation: Tims deutlich besserer Sprint (3,45 s vs. 3,88 s) ist vor allem durch seinen Reifungsvorsprung zu erklären (Körpergröße 1,71 m, mehr Muskelmasse, hormonelle Veränderungen), nicht unbedingt durch Talent oder Trainingsfleiß.\n• Im Koordinationsparcours ist Ben am besten (22,6 s). Er befindet sich noch im besten motorischen Lernalter und hat günstige Hebel- und Körperverhältnisse; bei Tim kann der Wachstumsschub die Koordination vorübergehend stören.\n• Folgen: Belastungen müssen am biologischen Alter ausgerichtet werden. Für Ben wäre ein Krafttraining wie für Tim eine Überforderung, für Tim kann es eher passen. Testergebnisse sollten nicht nur sozial verglichen werden („Wer im Test schlecht ist …“), sondern intraindividuell im Verlauf; sonst werden Spätentwickler wie Ben fälschlich als untalentiert eingestuft und verlieren die Motivation."
+        },
+        {
+          "nr": "4",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie das Trainingskonzept (M1) im Hinblick auf die Trainingsprinzipien.",
+          "erwartung": [
+            {
+              "text": "Prinzip der Entwicklungs- und Gesundheitsförderung (übergeordnet): hohe Lasten an Erwachsenengeräten können die Entwicklung gefährden; Gesundheit hat Vorrang vor kurzfristigem Erfolg",
+              "be": 2
+            },
+            {
+              "text": "Prinzip der Individualität und Altersgemäßheit verletzt: gleiches Programm für alle trotz großer Unterschiede im biologischen Alter (M2)",
+              "be": 2
+            },
+            {
+              "text": "Prinzip der zunehmenden Spezialisierung verletzt: Streichen vielseitiger Spiele und Koordinationsparcours bedeutet Frühspezialisierung; das Allgemeine hat Vorrang",
+              "be": 2
+            },
+            {
+              "text": "Prinzip der regulierenden Wechselwirkung: einseitige Belastung statt vielseitiger Ausbildung aller leistungsbestimmenden Faktoren",
+              "be": 1
+            },
+            {
+              "text": "Positiver Aspekt erkannt: dreimal pro Woche Training entspricht dem Prinzip der Wiederholung und Kontinuität bzw. sinnvoller Häufigkeit",
+              "be": 1
+            }
+          ],
+          "muster": "• Prinzip der Entwicklungs- und Gesundheitsförderung: Es ist allen Leistungsprinzipien übergeordnet. Krafttraining mit 70–80 % der Maximalkraft an Erwachsenengeräten ist für 11- bis 13-Jährige mit unterschiedlicher Reife nicht entwicklungsgerecht und birgt Verletzungsrisiken (z. B. Wachstumsfugen, Fehlbelastung durch unpassende Geräte). Kurzfristiger Erfolg wird über die Gesundheit gestellt.\n• Prinzip der Individualität und Altersgemäßheit: „Alle bekommen dasselbe Programm“ widerspricht den großen Unterschieden im biologischen Alter (Tim ca. 14, Ben ca. 11). Gleiche Belastung bedeutet unterschiedliche Beanspruchung.\n• Prinzip der zunehmenden Spezialisierung: Das Allgemeine hat Vorrang vor dem Speziellen. Das Streichen von Völkerball, Fußball und Koordinationsparcours zugunsten reiner Basketball-Drills ist eine Frühspezialisierung.\n• Prinzip der regulierenden Wechselwirkung: Statt alle leistungsbestimmenden Faktoren vielseitig zu entwickeln, werden Kraft und anaerobe Ausdauer einseitig betont.\n• Positiv: Drei Einheiten pro Woche ermöglichen Kontinuität und ausreichende Reizhäufigkeit (Prinzip der Wiederholung und Kontinuität)."
+        },
+        {
+          "nr": "5",
+          "operator": "Beurteilen",
+          "afb": "III",
+          "be": 12,
+          "aufgabe": "Beurteilen Sie das Trainingskonzept (M1) und entwickeln Sie begründete Alternativen für die Bereiche Kraft, Ausdauer und Koordination.",
+          "erwartung": [
+            {
+              "text": "Anerkennung von Pro-Aspekten: Engagement, regelmäßiges Training, Kräftigung und Ausdauer grundsätzlich sinnvoll, Basketballtechnik wichtig",
+              "be": 2
+            },
+            {
+              "text": "Kritik Kraft: Maximalkraft erst im Jugendalter besonders trainierbar; hohe Lasten an Geräten nicht altersgemäß; Alternative: Kräftigung mit Körpergewicht/Partner, Technik vor Last, Schnellkraft spielerisch (Sprünge)",
+              "be": 2
+            },
+            {
+              "text": "Kritik Ausdauer: 6 × 400 m mit kurzer Pause = intensive anaerobe Belastung, für Kinder eher ungünstig; Alternative: aerobe Ausdauer spielerisch (Lauf- und Fangspiele, Fahrtspiel, Spielformen)",
+              "be": 1
+            },
+            {
+              "text": "Kritik Koordination: Streichen im besten motorischen Lernalter (7–12) ist ein Fehler; Alternative: vielseitige Spiele, Koordinationsparcours mit Ball, variiertes Üben",
+              "be": 2
+            },
+            {
+              "text": "Individualisierung nach biologischem Alter (z. B. Gruppen/Differenzierung nach Entwicklungsstand) und intraindividuelle Leistungsbewertung",
+              "be": 1
+            },
+            {
+              "text": "Hinweis auf Motivation/Drop-out-Gefahr durch Drill und Überforderung bei Kindern",
+              "be": 1
+            },
+            {
+              "text": "Abwägung mit Materialbezug und begründetes Gesamturteil",
+              "be": 2
+            },
+            {
+              "text": "Gesamturteil schlüssig aus den vorherigen Ergebnissen (Aufgaben 2–4) abgeleitet",
+              "be": 1
+            }
+          ],
+          "muster": "Positiv am Konzept:\n• Der Trainer ist engagiert, dreimal Training pro Woche sorgt für Kontinuität.\n• Kräftigung und Ausdauer sind grundsätzlich auch für Kinder sinnvoll, Basketballtechnik und Spielzüge sind wichtig.\nKritik und Alternativen:\n• Kraft: Die Maximalkraft ist nach dem Modell der sensiblen Phasen erst im Jugendalter besonders gut trainierbar. 70–80 % der Maximalkraft an Erwachsenengeräten sind für 11- bis 13-Jährige mit sehr unterschiedlicher Reife nicht altersgemäß. Alternative: 15 min Kräftigung mit dem eigenen Körpergewicht oder Partnerübungen (Rumpf, Beine, Arme), saubere Technik vor Zusatzlast; Schnellkraft spielerisch über Sprungformen, die in der günstigen Phase liegen.\n• Ausdauer: 6 × 400 m mit nur 90 s Pause sind eine intensive, überwiegend anaerob-laktazide Belastung. Die anaerobe Ausdauer ist bei Kindern nur eingeschränkt trainierbar und wird als unangenehm erlebt. Alternative: aerobe Ausdauer, die in allen Phasen gut trainierbar ist, spielerisch schulen (Fang- und Laufspiele, Fahrtspiel, Spielformen 3 gegen 3 über das ganze Feld).\n• Koordination: Gerade 7- bis 12-Jährige befinden sich im besten motorischen Lernalter. Das Streichen von vielseitigen Spielen und Koordinationsparcours verschenkt diese Phase und widerspricht dem Prinzip der zunehmenden Spezialisierung. Alternative: Koordinationsparcours mit Ball, Spiele aus anderen Sportarten, variiertes Üben mit Zeit- und Präzisionsdruck; das verbessert auch die Basketballtechnik.\n• Individualisierung: Gruppen nach Entwicklungsstand bilden, Belastung am biologischen Alter ausrichten; Fortschritte intraindividuell bewerten statt „Wer schlecht ist, muss mehr tun“.\n• Motivation: Drill und Überforderung erhöhen die Gefahr, dass Kinder den Sport aufgeben.\nGesamturteil: Das Konzept überträgt Erwachsenentraining auf Kinder und ist daher in seiner jetzigen Form abzulehnen. Ein vielseitiges, spielerisches und am biologischen Alter orientiertes Training mit Schwerpunkt Koordination und Technik ist für den langfristigen Erfolg im Basketball deutlich sinnvoller."
+        }
+      ]
+    },
+    {
+      "id": "k-q2.1-1",
+      "themen": [
+        "Q2.1",
+        "Q1.1"
+      ],
+      "titel": "Halbmarathon unter 1:30 h: Laktatdiagnostik und Trainingssteuerung",
+      "zeit": 115,
+      "einleitung": "Nele ist 24 Jahre alt und läuft seit drei Jahren. Ihr Ziel ist es, im Herbst einen Halbmarathon (21,1 km) unter 1:30 h zu laufen, also mit mindestens 14,1 km/h. Im Januar und im April hat sie in einem sportmedizinischen Institut einen Laktat-Stufen-Test absolviert. Ihr aktuelles Training hat sie selbst zusammengestellt. In dieser Aufgabe werten Sie die Leistungsdiagnostik aus und beurteilen Neles Training.",
+      "material": [
+        {
+          "titel": "M1: Fallbeispiel Nele (fiktiv)",
+          "text": "Nele trainiert sechsmal pro Woche. Sie hat gelesen, dass man „schnell trainieren muss, um schnell zu werden“, und läuft deshalb fast alle Einheiten „so, dass es richtig anstrengend ist“. Lange, langsame Läufe findet sie langweilig. Seit dem Frühjahr ist ihr Ruhepuls von 64 auf 56 Schläge/min gesunken. In den letzten Wochen fühlt sie sich aber in den Tempoeinheiten oft „platt“ und hat schwere Beine."
+        },
+        {
+          "titel": "M2: Laktat-Stufen-Test auf dem Laufband (3 min pro Stufe)",
+          "tabelle": {
+            "kopf": [
+              "Stufe",
+              "Geschwindigkeit (km/h)",
+              "Laktat Januar (mmol/l)",
+              "HF Januar (/min)",
+              "Laktat April (mmol/l)",
+              "HF April (/min)"
+            ],
+            "zeilen": [
+              [
+                "1",
+                "8",
+                "1,1",
+                "128",
+                "1,0",
+                "124"
+              ],
+              [
+                "2",
+                "10",
+                "1,4",
+                "142",
+                "1,2",
+                "137"
+              ],
+              [
+                "3",
+                "12",
+                "2,1",
+                "156",
+                "1,6",
+                "150"
+              ],
+              [
+                "4",
+                "14",
+                "3,2",
+                "170",
+                "2,4",
+                "163"
+              ],
+              [
+                "5",
+                "16",
+                "5,0",
+                "183",
+                "3,6",
+                "176"
+              ],
+              [
+                "6",
+                "18",
+                "8,1",
+                "194",
+                "6,2",
+                "190"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Neles aktuelle Trainingswoche",
+          "tabelle": {
+            "kopf": [
+              "Tag",
+              "Einheit",
+              "Steuerung"
+            ],
+            "zeilen": [
+              [
+                "Mo",
+                "10 km Dauerlauf",
+                "HF 175–180"
+              ],
+              [
+                "Di",
+                "10 × 400 m, 60 s Trabpause",
+                "so schnell wie möglich"
+              ],
+              [
+                "Mi",
+                "12 km Dauerlauf",
+                "HF 172–178"
+              ],
+              [
+                "Do",
+                "6 × 1.000 m, 2 min Pause",
+                "HF bis 188"
+              ],
+              [
+                "Fr",
+                "Ruhetag",
+                "–"
+              ],
+              [
+                "Sa",
+                "15 km Dauerlauf",
+                "HF 170–176"
+              ],
+              [
+                "So",
+                "5-km-Volkslauf",
+                "Wettkampf"
+              ]
+            ]
+          }
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie die Formen der Energiebereitstellung, die bei einem Halbmarathon leistungsbestimmend sind, und begründen Sie kurz deren Bedeutung.",
+          "erwartung": [
+            {
+              "text": "Halbmarathon als Langzeitausdauer (über 10 min, ca. 90 min) → überwiegend aerobe Energiebereitstellung",
+              "be": 1
+            },
+            {
+              "text": "Aerobe Glykolyse: Glukose/Glykogen mit O2 in den Mitochondrien zu CO2 und H2O, ca. 31 ATP, kein Laktat",
+              "be": 1
+            },
+            {
+              "text": "Aerobe Lipolyse: Fettsäuren mit O2, sehr hohe Energieausbeute, aber langsamere Bereitstellung",
+              "be": 1
+            },
+            {
+              "text": "Bedeutung: bei hohem Tempo überwiegend Glykogen; Glykogenvorräte begrenzt, Fettverbrennung schont Glykogen",
+              "be": 1
+            },
+            {
+              "text": "Anaerob-laktazide Anteile bei Tempoverschärfung/Endspurt; Tempo knapp unter der ANS (Laktat-Steady-State)",
+              "be": 1
+            },
+            {
+              "text": "Anaerob-alaktazid nur zu Beginn bzw. im Endspurt von geringer Bedeutung",
+              "be": 1
+            }
+          ],
+          "muster": "Ein Halbmarathon dauert bei Nele etwa 90 Minuten und gehört damit zur Langzeitausdauer. Die Energie wird überwiegend aerob bereitgestellt:\n• Aerobe Glykolyse: Glukose bzw. Glykogen wird in den Mitochondrien mit Sauerstoff vollständig zu CO2 und H2O abgebaut (ca. 31 ATP pro Glukose, kein Laktat). Bei dem hohen Wettkampftempo ist sie die Hauptenergiequelle.\n• Aerobe Lipolyse: Fettsäuren werden mit Sauerstoff abgebaut. Sie liefern sehr viel Energie, aber langsamer. Ein gut trainierter Fettstoffwechsel schont die begrenzten Glykogenvorräte.\n• Anaerob-laktazide Glykolyse: Da das Wettkampftempo nahe an der anaeroben Schwelle liegt, wird zusätzlich etwas Laktat gebildet; es muss im Laktat-Steady-State wieder abgebaut werden. Bei Tempoverschärfungen und im Endspurt steigt ihr Anteil.\n• Anaerob-alaktazid (ATP/KP): nur in den ersten Sekunden und beim Schlussspurt von Bedeutung."
+        },
+        {
+          "nr": "2",
+          "operator": "Darstellen",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Stellen Sie die Begriffe aerobe Schwelle, anaerobe Schwelle und aerob-anaerober Übergangsbereich dar.",
+          "erwartung": [
+            {
+              "text": "Aerobe Schwelle: ca. 2 mmol/l Laktat; Belastung, bei der Laktat erstmals über den Ruhewert steigt; Energie fast rein aerob",
+              "be": 2
+            },
+            {
+              "text": "Anaerobe Schwelle: 4 mmol/l Laktat (empirisch); maximales Laktat-Steady-State, Bildung und Abbau gerade im Gleichgewicht",
+              "be": 1
+            },
+            {
+              "text": "Oberhalb der ANS: Laktat steigt überproportional an, Belastung nur begrenzt durchhaltbar",
+              "be": 1
+            },
+            {
+              "text": "Aerob-anaerober Übergangsbereich: zwischen 2 und 4 mmol/l; aerober Stoffwechsel wird zunehmend durch anaerobe Glykolyse ergänzt",
+              "be": 1
+            },
+            {
+              "text": "Hinweis auf individuelle anaerobe Schwelle (IANS), da 4 mmol/l nicht für jeden zutrifft",
+              "be": 1
+            }
+          ],
+          "muster": "• Aerobe Schwelle (AS): liegt bei etwa 2 mmol Laktat/l Blut. Bis hierhin wird die Energie fast ausschließlich aerob gewonnen; ab dieser Intensität steigt der Laktatspiegel erstmals erkennbar über den Ruhewert.\n• Anaerobe Schwelle (ANS): empirisch bei 4 mmol/l festgelegt. Hier herrscht das maximale Laktat-Steady-State: Laktatbildung und -abbau stehen gerade noch im Gleichgewicht. Darüber steigt der Laktatwert überproportional an, die Belastung kann nur noch kurz durchgehalten werden.\n• Aerob-anaerober Übergangsbereich (AANÜ): Bereich zwischen 2 und 4 mmol/l, in dem der aerobe Stoffwechsel zunehmend durch die anaerobe Glykolyse unterstützt wird.\nDa der Punkt des überproportionalen Laktatanstiegs individuell verschieden ist, spricht man genauer von der individuellen anaeroben Schwelle (IANS)."
+        },
+        {
+          "nr": "3",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 10,
+          "aufgabe": "Analysieren Sie die Testergebnisse aus M2. Ermitteln Sie dazu für beide Tests näherungsweise Geschwindigkeit und Herzfrequenz an der aeroben und der anaeroben Schwelle, beschreiben Sie die Veränderung und erklären Sie diese durch Anpassungen des Organismus (auch unter Einbezug von M1).",
+          "erwartung": [
+            {
+              "text": "Januar: AS bei ca. 12 km/h (HF ca. 155), ANS zwischen 14 und 16 km/h, ca. 14,9 km/h (HF ca. 176)",
+              "be": 2
+            },
+            {
+              "text": "April: AS bei ca. 13 km/h (HF ca. 157), ANS zwischen 16 und 18 km/h, ca. 16,3 km/h (HF ca. 178)",
+              "be": 2
+            },
+            {
+              "text": "Beschreibung: Rechtsverschiebung der Laktat-Leistungs-Kurve, bei gleicher Geschwindigkeit weniger Laktat und niedrigere HF (z. B. 16 km/h: 5,0 → 3,6 mmol/l, 183 → 176/min)",
+              "be": 2
+            },
+            {
+              "text": "Bezug zum Ziel: 14,1 km/h lag im Januar knapp unter, im April deutlich unter der ANS → Ziel realistisch",
+              "be": 1
+            },
+            {
+              "text": "Erklärung durch Anpassungen im Muskelstoffwechsel (mehr Mitochondrien, aerobe Enzyme, bessere Laktatelimination, Kapillarisierung)",
+              "be": 2
+            },
+            {
+              "text": "Erklärung des gesunkenen Ruhepulses (M1) und der niedrigeren Belastungs-HF durch größeres Schlagvolumen (Herzanpassung)",
+              "be": 1
+            }
+          ],
+          "muster": "Januar:\n• AS (2 mmol/l): bei ca. 12 km/h (2,1 mmol/l), HF ca. 155/min.\n• ANS (4 mmol/l): zwischen 14 km/h (3,2) und 16 km/h (5,0), interpoliert bei ca. 14,9 km/h, HF ca. 176/min.\nApril:\n• AS: zwischen 12 km/h (1,6) und 14 km/h (2,4), bei ca. 13 km/h, HF ca. 157/min.\n• ANS: zwischen 16 km/h (3,6) und 18 km/h (6,2), bei ca. 16,3 km/h, HF ca. 178/min.\nVeränderung: Die Laktat-Leistungs-Kurve ist nach rechts verschoben. Auf jeder Stufe sind Laktat und Herzfrequenz niedriger, z. B. bei 16 km/h 3,6 statt 5,0 mmol/l und 176 statt 183 Schläge/min. Die Geschwindigkeit an der ANS ist um ca. 1,4 km/h gestiegen. Nele hat ihre aerobe Ausdauerleistungsfähigkeit deutlich verbessert. Ihr Zieltempo von 14,1 km/h lag im Januar knapp unter der ANS; im April liegt es sogar unter ihrer neuen ANS, sodass das Ziel realistisch erscheint.\nErklärung:\n• Muskelstoffwechsel: mehr und größere Mitochondrien, leistungsfähigere aerobe Enzyme, mehr Myoglobin; die aerobe Energiegewinnung deckt höhere Geschwindigkeiten ab, die anaerobe Glykolyse setzt später ein.\n• Bessere Kapillarisierung verbessert die Sauerstoffversorgung und den Abtransport von Laktat; die Laktatelimination ist verbessert.\n• Herz: Das Schlagvolumen ist größer, daher sinken Ruhepuls (64 → 56, M1) und Belastungsherzfrequenz bei gleicher Geschwindigkeit."
+        },
+        {
+          "nr": "4",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 6,
+          "aufgabe": "Erläutern Sie, wie Nele mithilfe der Testergebnisse (April) ihr Training über die Herzfrequenz steuern kann. Ordnen Sie dazu den Herzfrequenzbereichen geeignete Trainingsmethoden zu.",
+          "erwartung": [
+            {
+              "text": "Regenerationsbereich unterhalb der HF an der AS (unter ca. 150–155/min): Energie überwiegend aus Fetten, lockere Läufe",
+              "be": 1
+            },
+            {
+              "text": "Grundlagenbereich/extensive Dauermethode um die AS bzw. im unteren AANÜ (ca. 150–165/min)",
+              "be": 2
+            },
+            {
+              "text": "Intensive Dauermethode/Tempodauerlauf nahe der ANS (ca. 170–178/min)",
+              "be": 1
+            },
+            {
+              "text": "Intervall-/Wiederholungsmethode oberhalb der ANS (über ca. 178/min), nur kurz und dosiert",
+              "be": 1
+            },
+            {
+              "text": "Begründung, warum individuelle Testwerte genauer sind als Faustformeln (z. B. 220 – Lebensalter)",
+              "be": 1
+            }
+          ],
+          "muster": "Aus dem Test vom April lassen sich individuelle Trainingsbereiche ableiten:\n• Regeneration: HF unter ca. 150/min (unterhalb der AS). Lockere Läufe, Energie überwiegend aus der Lipolyse; dient der Erholung.\n• Grundlagenausdauer: ca. 150–165/min (um die AS bis in den unteren Übergangsbereich). Extensive Dauermethode über 60–120 min, verbessert Fettstoffwechsel, Kapillarisierung und Ökonomie.\n• Schwellentraining: ca. 170–178/min (nahe der ANS). Intensive Dauermethode, z. B. 30–45 min Tempodauerlauf, oder extensive Intervalle; verschiebt die ANS nach rechts.\n• Über ca. 178/min (oberhalb der ANS): intensive Intervall- oder Wiederholungsmethode; nur einmal pro Woche und in geringem Umfang.\nVorteil: Die Bereiche beruhen auf Neles eigenen Laktatwerten und sind daher genauer als Faustformeln wie HFmax = 220 – Lebensalter, die individuell stark abweichen können."
+        },
+        {
+          "nr": "5",
+          "operator": "Beurteilen",
+          "afb": "III",
+          "be": 12,
+          "aufgabe": "Beurteilen Sie Neles aktuelle Trainingswoche (M3) vor dem Hintergrund ihres Ziels und ihrer Testergebnisse und entwickeln Sie eine verbesserte Trainingswoche.",
+          "erwartung": [
+            {
+              "text": "Analyse: Dauerläufe mit HF 170–180 liegen an bzw. über der ANS (ca. 176–178) → intensive Dauermethode statt Grundlagentraining",
+              "be": 2
+            },
+            {
+              "text": "Fehlende Basis: keine extensiven Dauerläufe im Bereich der AS und kein langer Lauf (Trainingspyramide: aerobe Basis als Fundament)",
+              "be": 2
+            },
+            {
+              "text": "Zu wenig Erholung: fünf intensive Einheiten plus Wettkampf, nur ein Ruhetag; Symptome aus M1 (platt, schwere Beine) als Überlastung gedeutet",
+              "be": 2
+            },
+            {
+              "text": "Positiv: hohe Motivation, bisher Fortschritt (M2); intensive Reize in begrenzter Menge sinnvoll",
+              "be": 1
+            },
+            {
+              "text": "Verbesserte Woche mit Verteilung ca. 70–80 % locker/extensiv und 1–2 intensiven Einheiten mit konkreten HF-Werten aus M2",
+              "be": 2
+            },
+            {
+              "text": "langer Lauf (z. B. 18–24 km) im Grundlagenbereich und Ruhe-/Regenerationstag eingeplant",
+              "be": 1
+            },
+            {
+              "text": "begründetes Gesamturteil mit Bezug zu Trainingsprinzipien (z. B. optimale Gestaltung von Belastung und Erholung)",
+              "be": 2
+            }
+          ],
+          "muster": "Beurteilung:\n• Neles Dauerläufe (HF 170–180) liegen an oder sogar über ihrer ANS (ca. 176–178/min im April). Damit trainiert sie fast ausschließlich mit der intensiven Dauermethode bzw. im anaeroben Bereich; zusammen mit zwei Intervalleinheiten und einem Wettkampf sind fünf bis sechs Einheiten pro Woche intensiv.\n• Es fehlt die Basis der Trainingspyramide: extensive Dauerläufe im Bereich der AS (ca. 150–160/min) und ein langer Lauf, der Fettstoffwechsel, Glykogenspeicher und Ökonomie verbessert. Für einen Halbmarathon ist diese aerobe Grundlage entscheidend.\n• Die Erholung ist zu kurz (nur ein Ruhetag). Die Symptome aus M1 (platt, schwere Beine) deuten auf beginnende Überlastung hin. Verletzt wird das Prinzip der optimalen Gestaltung von Belastung und Erholung.\n• Positiv: Nele ist hochmotiviert und hat sich bis April deutlich verbessert. Intensive Reize sind in begrenzter Menge sinnvoll.\nVerbesserte Woche:\n• Mo: Ruhetag oder 30 min Regenerationslauf (HF unter 150)\n• Di: Intervalle 5 × 1.000 m bei ca. 16 km/h (HF bis ca. 180), 2–3 min Trabpause\n• Mi: 12 km extensiver Dauerlauf (HF 150–160)\n• Do: Ruhetag oder Alternativtraining (Rad locker)\n• Fr: 10 km mit 2 × 15 min Tempodauerlauf an der Schwelle (ca. 15,5 km/h, HF 170–176)\n• Sa: 6–8 km locker (HF unter 155)\n• So: langer Lauf 18–22 km im Grundlagenbereich (HF 150–160)\nDamit sind etwa 70–80 % des Umfangs locker bis extensiv und zwei Einheiten intensiv.\nUrteil: Neles bisheriger Plan ist zu intensitätslastig und für einen Halbmarathon ungeeignet. Mit mehr Umfang im aeroben Bereich, gezielten Schwelleneinheiten und ausreichender Erholung kann sie ihr Ziel unter 1:30 h realistisch erreichen."
+        }
+      ]
+    },
+    {
+      "id": "k-q2.1-2",
+      "themen": [
+        "Q2.1",
+        "Q1.1"
+      ],
+      "titel": "Spielspezifische Ausdauer im Handball: Belastungsprofil, Methoden und Leistungsdiagnostik",
+      "zeit": 105,
+      "einleitung": "Die A-Jugend-Handballmannschaft (17–18 Jahre) eines Vereins bereitet sich auf die neue Saison vor. Der Trainer hat ein sechswöchiges Vorbereitungsprogramm erstellt und will außerdem per Cooper-Test entscheiden, wer in den Kader für die Bundesliga-Qualifikation kommt. In dieser Aufgabe setzen Sie sich mit den Ausdaueranforderungen im Handball und dem Vorgehen des Trainers auseinander.",
+      "material": [
+        {
+          "titel": "M1: Belastungsprofil eines Feldspielers im Handball (fiktive Durchschnittswerte, A-Jugend)",
+          "tabelle": {
+            "kopf": [
+              "Merkmal",
+              "Wert"
+            ],
+            "zeilen": [
+              [
+                "Spielzeit",
+                "2 × 30 min (Netto-Spielzeit des Spielers ca. 45 min)"
+              ],
+              [
+                "Gesamtlaufstrecke",
+                "ca. 3,5–4,5 km"
+              ],
+              [
+                "Sprints",
+                "ca. 30–40, Dauer meist 2–4 s"
+              ],
+              [
+                "Sprünge",
+                "ca. 15–25"
+              ],
+              [
+                "Zweikämpfe mit Körperkontakt",
+                "ca. 40–60"
+              ],
+              [
+                "Herzfrequenz",
+                "im Mittel ca. 80–85 % der HFmax"
+              ],
+              [
+                "Blutlaktat",
+                "meist 3–7 mmol/l, in Phasen mit Tempogegenstößen bis 9 mmol/l"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M2: Vorbereitungsprogramm des Trainers (Ausdauerteil, je zweimal pro Woche)",
+          "tabelle": {
+            "kopf": [
+              "Wochen",
+              "Einheit A",
+              "Einheit B"
+            ],
+            "zeilen": [
+              [
+                "1–2",
+                "45 min Fahrtspiel im Wald mit Antritten nach Lust",
+                "4 Serien à 5 × 200 m in 75 % Tempo, 60 s Pause, 5 min Serienpause"
+              ],
+              [
+                "3–4",
+                "30 min Dauerlauf, HF 160–170",
+                "6 × 30 s Sprints über das Feld (90–100 %), 6 min Gehpause"
+              ],
+              [
+                "5–6",
+                "Testspiele gegen Oberligisten",
+                "3 × 8 min Spielform 4 gegen 4 auf dem ganzen Feld, 3 min Pause"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Aussage des Trainers",
+          "text": "„Wer im Cooper-Test unter 2.800 m bleibt, ist nicht fit genug für die Quali. Ausdauer ist Ausdauer – wer zwölf Minuten schnell laufen kann, hält auch 60 Minuten Handball durch.“"
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie die Grundlagenausdauer und die spezielle Ausdauer und gehen Sie dabei auf die Bedeutung der Grundlagenausdauer für Sportspieler ein.",
+          "erwartung": [
+            {
+              "text": "Grundlagenausdauer: sportartunabhängige, allgemeine (aerobe) Ausdauer als Basis aller Sportarten",
+              "be": 1
+            },
+            {
+              "text": "Spezielle Ausdauer: an die Anforderungsstruktur einer Sportart angepasste Ausdauer (z. B. Wechsel von Sprints und Pausen im Handball)",
+              "be": 1
+            },
+            {
+              "text": "Bedeutung: schnellere Erholung zwischen Belastungen und nach dem Training (Regeneration)",
+              "be": 1
+            },
+            {
+              "text": "Bedeutung: Erhöhung der physischen Leistungsfähigkeit und Belastungsverträglichkeit (höhere Trainingsumfänge möglich)",
+              "be": 1
+            },
+            {
+              "text": "Bedeutung: weniger Ermüdungsfehler, Konzentration, geringere Verletzungsanfälligkeit am Spielende",
+              "be": 1
+            },
+            {
+              "text": "Einschränkung: zu viel allgemeine Ausdauer kann Schnelligkeit/Schnellkraft mindern",
+              "be": 1
+            }
+          ],
+          "muster": "• Grundlagenausdauer (allgemeine Ausdauer): sportartunabhängige, überwiegend aerobe Ausdauer, die für alle Sportarten die Basis bildet und gesundheitsfördernd wirkt.\n• Spezielle Ausdauer: an die Anforderungen einer bestimmten Sportart angepasste Ausdauerform, im Handball z. B. die Fähigkeit, wiederholte Sprints, Sprünge und Zweikämpfe über 60 Minuten ohne Leistungsabfall zu bewältigen.\nBedeutung der Grundlagenausdauer für Sportspieler (nach Weineck):\n• schnellere Erholung in Spielpausen und zwischen den Einheiten\n• höhere physische Leistungsfähigkeit und Belastungsverträglichkeit, wodurch mehr Training möglich ist\n• weniger Ermüdungsfehler (Technik, Taktik), bessere Konzentration und geringere Verletzungsanfälligkeit, besonders in der Schlussphase\nEinschränkung: Ein Zuviel an allgemeiner Ausdauer kann zu Verlusten an Schnelligkeit und Schnellkraft führen; für Spielsportler ist die Grundlagenausdauer daher nur so weit zu entwickeln, wie es das Anforderungsprofil verlangt."
+        },
+        {
+          "nr": "2",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie die Dauer-, die Intervall- und die Wiederholungsmethode anhand ihrer Pausengestaltung und Intensität.",
+          "erwartung": [
+            {
+              "text": "Dauermethode: Belastung ohne Pause, lang andauernd",
+              "be": 1
+            },
+            {
+              "text": "Dauermethode: niedrige bis mittlere Intensität (extensiv/intensiv), Unterformen kontinuierlich und variabel (Fahrtspiel/Wechselmethode)",
+              "be": 1
+            },
+            {
+              "text": "Intervallmethode: Wechsel von Belastung und unvollständiger, lohnender Pause",
+              "be": 1
+            },
+            {
+              "text": "Intervallmethode: mittlere bis hohe Intensität, extensiv (60–80 %) und intensiv (80–90 %)",
+              "be": 1
+            },
+            {
+              "text": "Wiederholungsmethode: vollständige Pause bis nahe Ausgangszustand",
+              "be": 1
+            },
+            {
+              "text": "Wiederholungsmethode: sehr hohe Intensität (ca. 80/90–100 %), geringer Umfang",
+              "be": 1
+            }
+          ],
+          "muster": "Die Methoden unterscheiden sich vor allem in der Pausengestaltung:\n• Dauermethode: lang andauernde Belastung ohne Pause. Intensität niedrig (extensiv, Bereich der AS) bis mittel/hoch (intensiv, Bereich der ANS). Formen: kontinuierlich (gleichmäßiges Tempo) und variabel (planmäßig als Wechselmethode, unplanmäßig als Fahrtspiel).\n• Intervallmethode: Wechsel von Belastung und unvollständiger, lohnender Pause; der nächste Reiz beginnt im nicht vollständig erholten Zustand. Extensiv mit ca. 60–80 % und vielen Wiederholungen, intensiv mit ca. 80–90 % und weniger Wiederholungen.\n• Wiederholungsmethode: Belastungen mit sehr hoher Intensität (ca. 80/90–100 %), getrennt durch vollständige Pausen, nach denen der Sportler etwa den Ausgangszustand erreicht. Der Umfang ist gering."
+        },
+        {
+          "nr": "3",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie das Belastungsprofil (M1) im Hinblick auf die Energiebereitstellung und leiten Sie das Anforderungsprofil an die Ausdauer eines Handballspielers ab.",
+          "erwartung": [
+            {
+              "text": "Sprints (2–4 s), Sprünge, Zweikämpfe → anaerob-alaktazide Energiebereitstellung (ATP/KP, unter 6–8 s)",
+              "be": 2
+            },
+            {
+              "text": "Laktat 3–7 bis 9 mmol/l → deutliche anaerob-laktazide Anteile bei gehäuften intensiven Phasen (Tempogegenstoß)",
+              "be": 2
+            },
+            {
+              "text": "Spieldauer und Laufstrecke, HF 80–85 % → aerobe Energiebereitstellung als Basis über das ganze Spiel",
+              "be": 1
+            },
+            {
+              "text": "aerobe Bedeutung für Resynthese der Phosphatspeicher und Laktatabbau in Belastungspausen",
+              "be": 2
+            },
+            {
+              "text": "Ableitung: Handball erfordert spezielle, intervallartige (Schnelligkeits-)Ausdauer mit aerober Basis",
+              "be": 1
+            }
+          ],
+          "muster": "• Sprints von 2–4 s, Sprünge, Würfe und Zweikämpfe werden vor allem anaerob-alaktazid (ATP und Kreatinphosphat) versorgt; diese Speicher reichen nur ca. 6–8 s und müssen in den Pausen wieder aufgefüllt werden.\n• Laktatwerte von 3–7 mmol/l, bei Tempogegenstößen bis 9 mmol/l zeigen, dass bei gehäuften intensiven Aktionen die anaerobe Glykolyse deutlich beteiligt ist; die Spieler bewegen sich zeitweise über der ANS.\n• Die lange Spieldauer (Netto ca. 45 min), 3,5–4,5 km Laufstrecke und eine mittlere HF von 80–85 % HFmax zeigen, dass der aerobe Stoffwechsel die Grundversorgung sicherstellt.\n• Die aerobe Kapazität ist entscheidend für die Erholung in den kurzen Pausen: Phosphatspeicher werden aerob resynthetisiert, Laktat wird abgebaut. Je besser die aerobe Ausdauer, desto länger bleibt die Sprint- und Sprungqualität erhalten.\nAnforderungsprofil: Handball verlangt eine spezielle, intervallartige Ausdauer (wiederholte kurze Maximalbelastungen mit unvollständiger Erholung) auf einer soliden aeroben Grundlage, die aber nicht auf maximale Langzeitausdauer ausgerichtet sein muss."
+        },
+        {
+          "nr": "4",
+          "operator": "Zuordnen und Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Ordnen Sie den Einheiten in M2 die jeweilige Trainingsmethode zu und erläutern Sie deren Wirkung im Hinblick auf das Anforderungsprofil aus Aufgabe 3.",
+          "erwartung": [
+            {
+              "text": "Wochen 1–2 A: variable Dauermethode (Fahrtspiel, unplanmäßig), Wirkung: aerobe Basis, Umstellung aerob/anaerob, Laktatkompensation; spieltypisch durch Tempowechsel",
+              "be": 1
+            },
+            {
+              "text": "Wochen 1–2 B: extensive Intervallmethode (75 %, lohnende Pause), Wirkung: aerobe Kapazität, Kapillarisierung, Laktatelimination",
+              "be": 2
+            },
+            {
+              "text": "Wochen 3–4 A: kontinuierliche Dauermethode; HF 160–170 bei 17–18-Jährigen eher intensiv/extensiv im Grenzbereich, Wirkung aerobe Kapazität",
+              "be": 1
+            },
+            {
+              "text": "Wochen 3–4 B: Wiederholungsmethode mit Kurzzeitintervallen (90–100 %, vollständige Pause), Wirkung: anaerobe Energiebereitstellung/Laktatbildung, Willenskraft; spielspezifisch nur bedingt passend",
+              "be": 2
+            },
+            {
+              "text": "Wochen 5–6: Wettkampfmethode (Testspiele) und spielnahe intensive Intervallmethode (Spielform 4 gegen 4), Wirkung: spezielle Ausdauer unter Spielbedingungen",
+              "be": 1
+            },
+            {
+              "text": "Erkennen des Aufbaus vom Allgemeinen zum Speziellen (Trainingspyramide/zunehmende Spezialisierung)",
+              "be": 1
+            }
+          ],
+          "muster": "• Wochen 1–2, Einheit A: Fahrtspiel = variable Dauermethode in unplanmäßiger Form. Sie verbessert die aerobe Grundlage und die Umstellung zwischen aerober und anaerober Energiebereitstellung; die spontanen Antritte entsprechen dem unregelmäßigen Belastungswechsel im Handball.\n• Wochen 1–2, Einheit B: 4 × 5 × 200 m mit 75 % und 60 s Pause = extensive Intervallmethode (lohnende Pause). Wirkung: Ausbau der aeroben Kapazität, Kapillarisierung, Sportherzentwicklung und bessere Laktatelimination; wichtig für die Erholung zwischen Aktionen.\n• Wochen 3–4, Einheit A: 30 min gleichmäßig = kontinuierliche Dauermethode; HF 160–170 liegt bei 17- bis 18-Jährigen etwa im oberen extensiven bis intensiven Bereich und stabilisiert die aerobe Basis.\n• Wochen 3–4, Einheit B: 6 × 30 s mit 90–100 % und 6 min Pause = Wiederholungsmethode (Kurz- bis Mittelzeitintervalle, vollständige Pause). Wirkung: Verbesserung der anaeroben Glykolyse, hohe Laktatbildung und -toleranz, Willensschulung. 30-s-Sprints sind länger als typische Handballsprints, daher nur bedingt spielspezifisch.\n• Wochen 5–6: Testspiele = Wettkampfmethode, Spielform 4 gegen 4 über 8 min mit Pausen = spielnahe intensive Intervallmethode. Beide schulen die spezielle Ausdauer unter realen Anforderungen und verbinden Kondition mit Technik und Taktik.\nAufbau: Das Programm geht vom Allgemeinen (aerobe Basis) zum Speziellen (spielnahe Belastungen), entsprechend der Trainingspyramide und dem Prinzip der zunehmenden Spezialisierung."
+        },
+        {
+          "nr": "5",
+          "operator": "Erörtern",
+          "afb": "III",
+          "be": 12,
+          "aufgabe": "Erörtern Sie die Absicht des Trainers, den Cooper-Test als Kriterium für die Kaderauswahl zu nutzen (M3). Berücksichtigen Sie dabei die Gütekriterien sportmotorischer Tests und das Anforderungsprofil aus Aufgabe 3.",
+          "erwartung": [
+            {
+              "text": "Beschreibung Cooper-Test: 12 min möglichst weite Strecke, gleichmäßiges Tempo; korreliert mit VO2max, erfasst aerobe Leistungsfähigkeit",
+              "be": 1
+            },
+            {
+              "text": "Pro: geringer Aufwand, ganze Mannschaft gleichzeitig, bei standardisierter Durchführung gute Objektivität und Reliabilität",
+              "be": 2
+            },
+            {
+              "text": "Pro: aerobe Grundlage ist für Handball relevant (Erholung, Laktatabbau, Aufgabe 3); grobe Aussage über Trainingsfleiß",
+              "be": 1
+            },
+            {
+              "text": "Contra Validität: Test misst kontinuierliche Langzeitbelastung, nicht die intervallartige spezielle Ausdauer mit Sprints, Sprüngen, Zweikämpfen",
+              "be": 2
+            },
+            {
+              "text": "Contra: Ergebnis stark motivations-, tempo- und tagesformabhängig; schwere/kräftige Spieler (z. B. Kreisläufer) benachteiligt; positionsspezifische Anforderungen nicht berücksichtigt",
+              "be": 2
+            },
+            {
+              "text": "Contra: Leistungsfähigkeit im Handball als komplexes Gefüge (Komponentenmodell: Technik, Taktik, Psyche) – ein Ausdauertest allein ist kein geeignetes Auswahlkriterium",
+              "be": 1
+            },
+            {
+              "text": "Alternative/Ergänzung: spielnaher Test (z. B. Intervall- oder wiederholter Sprinttest, Yo-Yo-artiger Test) plus Spielbeobachtung",
+              "be": 1
+            },
+            {
+              "text": "Abwägung und begründetes Fazit mit Bezug zur Trainer-Aussage „Ausdauer ist Ausdauer“",
+              "be": 2
+            }
+          ],
+          "muster": "Der Cooper-Test ist ein 12-Minuten-Lauf, bei dem eine möglichst weite Strecke mit gleichmäßigem Tempo zurückgelegt wird. Die Laufleistung korreliert mit der VO2max und gibt damit Auskunft über die aerobe Ausdauerleistungsfähigkeit.\nFür den Einsatz spricht:\n• Er ist mit geringem Aufwand für die ganze Mannschaft gleichzeitig durchführbar. Bei standardisierter Durchführung (gleiche Bahn, Wetter, Vorbelastung, gleichmäßiges Tempo) sind Objektivität und Reliabilität gut.\n• Die aerobe Ausdauer ist auch im Handball wichtig, weil sie die Erholung zwischen intensiven Aktionen sichert (Resynthese der Phosphate, Laktatabbau). Ein sehr schwaches Ergebnis kann auf eine unzureichende Grundlage hinweisen.\nGegen den Einsatz als Auswahlkriterium spricht:\n• Validität: Der Test misst eine gleichmäßige Langzeitbelastung. Das Anforderungsprofil im Handball ist aber intervallartig mit kurzen Sprints, Sprüngen, Richtungswechseln und Zweikämpfen. Die spezielle Ausdauer wird nicht erfasst; die Aussage „Ausdauer ist Ausdauer“ ist fachlich falsch.\n• Das Ergebnis hängt stark von Motivation, Tagesform und Tempoeinteilung ab. Schwere, kräftige Spieler (z. B. Kreisläufer) sind benachteiligt, obwohl ihre Position andere Anforderungen stellt.\n• Nach dem Komponentenmodell hängt die Leistung im Handball auch von Technik, Taktik, Psyche und Kraft ab. Eine starre Grenze von 2.800 m würde womöglich spielstarke Spieler ausschließen.\n• Sinnvoller wären spielnahe Tests (z. B. wiederholte Sprints mit kurzen Pausen oder ein Intervall-Lauftest mit Richtungswechseln) in Kombination mit Spielbeobachtung.\nFazit: Der Cooper-Test kann als ergänzende Information über die aerobe Grundlage und den Trainingsstand dienen, etwa im intraindividuellen Vergleich vor und nach der Vorbereitung. Als alleiniges Auswahlkriterium für den Kader ist er wegen seiner geringen Validität für die handballspezifische Ausdauer und wegen der Vernachlässigung anderer Leistungskomponenten ungeeignet."
+        }
+      ]
+    }
+  ]
+}

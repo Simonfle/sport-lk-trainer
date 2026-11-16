@@ -157,6 +157,61 @@ h3.sec{margin-top:32px;font-size:1rem;color:var(--muted);font-weight:600}
 .done .stats{max-width:520px;margin:0 auto 24px}
 .done .btn-row{justify-content:center}
 
+/* Abitur-Probeklausuren */
+.pre{white-space:pre-line}
+.exam-filter button.on{border-color:var(--accent);color:var(--accent)}
+.exam-list{display:grid;gap:10px;margin-top:12px}
+.exam-item{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;text-align:left;width:100%;
+  display:flex;justify-content:space-between;gap:12px;align-items:center}
+.exam-item:hover{border-color:var(--accent)}
+.exam-item small{color:var(--muted);display:block;margin-top:3px}
+.exam-item .res{font-weight:800;white-space:nowrap;text-align:right}
+.exam-item .res small{font-weight:400}
+.mat{background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:16px;margin-top:12px}
+.mat h4{font-size:.95rem;margin-bottom:8px;color:#9fd6ff}
+.mat p{white-space:pre-line;line-height:1.6;font-size:.95rem}
+.mat table{border-collapse:collapse;font-size:.88rem;min-width:100%}
+.mat th,.mat td{border:1px solid var(--line);padding:6px 9px;text-align:left}
+.mat th{background:var(--card);color:var(--muted)}
+.mat .tw{overflow-x:auto}
+.part{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;margin-top:16px}
+.part .ph{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.part .ph b{font-size:1.02rem;line-height:1.45}
+.part .op{font-size:.75rem;color:var(--muted);white-space:nowrap;text-align:right}
+.part .op b{display:block;color:var(--accent);font-size:.9rem}
+.part .pmat{margin-top:10px;padding:12px;border-left:3px solid #7cc8ff;background:var(--bg2);border-radius:8px;white-space:pre-line;font-size:.93rem;line-height:1.55}
+.answer-wrap{position:relative;margin-top:12px}
+.answer-wrap textarea{width:100%;min-height:160px;resize:vertical;padding:14px 64px 14px 14px;border-radius:12px;border:1px solid var(--line);
+  background:var(--bg);color:var(--text);font:inherit;line-height:1.55;outline:none}
+.answer-wrap textarea:focus{border-color:var(--accent)}
+.answer-wrap textarea[readonly]{opacity:.85}
+.mic{position:absolute;right:10px;top:10px;width:46px;height:46px;border-radius:50%;background:var(--accent);color:#0d1117;
+  display:grid;place-items:center}
+.mic svg{width:22px;height:22px}
+.mic.rec{background:var(--bad);color:#fff;animation:pulse 1.2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(255,93,93,.6)}70%{box-shadow:0 0 0 14px rgba(255,93,93,0)}100%{box-shadow:0 0 0 0 rgba(255,93,93,0)}}
+.rec-hint{font-size:.8rem;color:var(--bad);margin-top:6px;min-height:1em}
+.words{font-size:.78rem;color:var(--muted);margin-top:4px}
+.tip{margin-top:10px;font-size:.88rem;color:#d6e6f5;background:rgba(124,200,255,.08);border:1px solid rgba(124,200,255,.25);border-radius:10px;padding:10px 12px}
+.eval{margin-top:14px;border-top:1px dashed var(--line);padding-top:14px}
+.eval h5{font-size:.9rem;margin-bottom:8px;color:var(--muted)}
+.crit{display:flex;gap:12px;align-items:flex-start;padding:10px 12px;border-radius:10px;background:var(--bg2);margin-top:6px;cursor:pointer;border:1px solid transparent}
+.crit.ok{border-color:rgba(61,220,132,.5);background:rgba(61,220,132,.08)}
+.crit input{margin-top:3px;width:18px;height:18px;accent-color:var(--good);flex:none}
+.crit span{flex:1;line-height:1.45;font-size:.93rem}
+.crit em{font-style:normal;font-weight:800;color:var(--muted);white-space:nowrap}
+.part-score{margin-top:10px;font-weight:800;text-align:right}
+details.muster{margin-top:10px}
+details.muster summary{cursor:pointer;color:#9fd6ff;font-weight:700;padding:6px 0}
+details.muster p{white-space:pre-line;line-height:1.6;font-size:.93rem;color:#d6e6f5;padding:6px 0}
+.result-box{background:var(--card);border:1px solid var(--accent);border-radius:var(--radius);padding:22px;margin-top:22px}
+.result-box .big-np{font-size:3rem;font-weight:800;line-height:1;color:var(--accent)}
+.result-box .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin:16px 0}
+.fb{margin-top:12px}
+.fb h5{font-size:.95rem;margin:12px 0 6px}
+.fb ul{padding-left:20px;line-height:1.55;font-size:.93rem}
+.fb li{margin-top:4px}
+
 /* Entwickler */
 .dev-title{font-size:1.5rem;font-weight:800;letter-spacing:-.02em}
 .facts{list-style:none;display:grid;gap:8px;margin-top:12px}
@@ -195,7 +250,7 @@ table.users{width:100%;border-collapse:collapse;font-size:.9rem;min-width:720px}
   <a data-go="home">🏠 Startseite</a>
   <a data-go="areas">🃏 Lernkarten</a>
   <a data-act="random">🎲 Zufällig abfragen</a>
-  <a class="soon">📝 Abi-Probeklausur</a>
+  <a data-go="exam">📝 Abitur-Probeklausuren</a>
   <a data-act="reset">↺ Fortschritt zurücksetzen</a>
   <a id="devLink">🛠 Entwickleroptionen</a>
   <a class="logout" data-act="logout">⎋ Abmelden</a>
@@ -270,6 +325,7 @@ table.users{width:100%;border-collapse:collapse;font-size:.9rem;min-width:720px}
       <div class="btn-row">
         <button class="btn big" data-go="areas">⚡ Jetzt Lernkarten lernen</button>
         <button class="btn ghost big" data-act="random">🎲 Zufällig abfragen</button>
+        <button class="btn ghost big" data-go="exam">📝 Abitur-Probeklausuren</button>
       </div>
     </div>
     <div class="panel overall">
@@ -311,6 +367,42 @@ table.users{width:100%;border-collapse:collapse;font-size:.9rem;min-width:720px}
       </div>
     </div>
     <div id="themeList"></div>
+  </section>
+
+  <!-- ABITUR-PROBEKLAUSUREN: Auswahl -->
+  <section id="view-exam" class="hidden">
+    <div class="back-row">
+      <button class="btn ghost small" data-go="home">← Startseite</button>
+      <span class="chip" id="examStat"></span>
+    </div>
+    <div class="hero">
+      <h2>Abitur-<em>Probeklausuren</em></h2>
+      <p>Aufgaben im Stil des hessischen Landesabiturs 2027 (Sport LK, „Problemerörterung mit Material“). Schreib oder sprich deine Antwort, danach bewertest du dich mit dem Erwartungshorizont und bekommst Punkte, Notenpunkte und Feedback.</p>
+    </div>
+    <div class="chapters exam-filter" id="examFilter"></div>
+    <h3 class="sec">📄 Komplette Probeklausuren</h3>
+    <div class="exam-list" id="examKlausuren"></div>
+    <h3 class="sec">✏️ Einzelaufgaben zum Üben</h3>
+    <div class="exam-list" id="examEinzel"></div>
+  </section>
+
+  <!-- ABITUR-PROBEKLAUSUREN: Bearbeiten und Bewerten -->
+  <section id="view-task" class="hidden">
+    <div class="back-row">
+      <button class="btn ghost small" id="taskBack">← Alle Aufgaben</button>
+      <span class="chip" id="taskTimer"></span>
+    </div>
+    <div class="hero">
+      <span class="chip" id="taskMeta"></span>
+      <h2 id="taskTitle" style="margin-top:10px"></h2>
+      <p id="taskIntro" class="pre"></p>
+    </div>
+    <div id="taskMaterial"></div>
+    <div id="taskParts"></div>
+    <div id="taskSubmitRow" class="btn-row" style="margin-top:20px">
+      <button class="btn big" id="taskSubmit">✓ Abgeben und bewerten</button>
+    </div>
+    <div id="taskResult" class="hidden"></div>
   </section>
 
   <!-- LERNKARTEN -->
@@ -363,6 +455,7 @@ const SUPABASE_KEY = "sb_publishable_gfhF_77PZiYxkEOBMfkO5Q_woBuEOB6";
 const EMAIL_DOMAIN = "users.sportabilernkarten.store"; // interne Login-Adresse, es wird keine E-Mail verschickt
 </script>
 <script src="karten.js"></script>
+<script src="pruefung.js"></script>
 <script>
 /* ---------- Lernkarten und Bereiche ---------- */
 const KARTEN = window.KARTEN || [];
@@ -503,14 +596,16 @@ function stageBar(cards){
 function stageDots(s){ return [1,2,3,4,5].map(i => `<i class="${i <= s ? "on" : ""}"></i>`).join("") + ` Stufe ${s}/5`; }
 
 /* ---------- Ansichten ---------- */
-const VIEWS = ["auth","home","areas","area","cards","dev"];
+const VIEWS = ["auth","home","areas","area","cards","dev","exam","task"];
 function show(view){
   if(!current && view !== "auth" && view !== "dev") view = "auth";
   if(view !== "cards" && sess) { flushSave(); }
+  if(view !== "task") leaveTask();
   VIEWS.forEach(v => $("view-"+v).classList.toggle("hidden", v !== view));
   if(view === "home") renderHome();
   if(view === "areas") renderAreas();
   if(view === "area") renderArea();
+  if(view === "exam") renderExam();
   closeMenu(); window.scrollTo(0,0);
 }
 
@@ -801,6 +896,219 @@ document.addEventListener("keydown", e => {
   else if(e.key === "e" || e.key === "E"){ $("explainBox").classList.remove("hidden"); setExplain(!explainOpen()); }
 });
 
+/* ---------- Abitur-Probeklausuren ---------- */
+const PR = window.PRUEFUNG || {einzel:[], klausuren:[]};
+const EXAM_THEMEN = ["Q1.1","Q1.2","Q1.4","Q2.1","Q2.2","Q2.3","Q3.1","Q3.2","Q4.1"];
+const examData = () => current.data.exam || (current.data.exam = {});
+let examFilter = "alle";
+
+// Notenpunkte nach der üblichen Abitur-Umrechnung (Prozent der BE)
+function notenpunkte(p){
+  const t = [[95,15],[90,14],[85,13],[80,12],[75,11],[70,10],[65,9],[60,8],[55,7],[50,6],[45,5],[40,4],[33,3],[27,2],[20,1]];
+  for(const [g, np] of t) if(p >= g) return np;
+  return 0;
+}
+function noteText(np){
+  return np >= 13 ? "sehr gut" : np >= 10 ? "gut" : np >= 7 ? "befriedigend" : np >= 4 ? "ausreichend" : np >= 1 ? "mangelhaft" : "ungenügend";
+}
+function resultBadge(id){
+  const r = examData()[id];
+  return r ? `<span class="res">${r.best} NP<small><br>bestes Ergebnis · ${r.n}× bearbeitet</small></span>` : `<span class="res"><small>noch offen</small></span>`;
+}
+const themeName = t => (THEMA[t] ? THEMA[t].name : t);
+const kBE = k => k.teil.reduce((a, t) => a + t.be, 0);
+
+function renderExam(){
+  const f = examFilter;
+  const done = Object.keys(examData()).length;
+  $("examStat").textContent = `${done} von ${PR.einzel.length + PR.klausuren.length} bearbeitet`;
+  const opts = [["alle","Alle"], ...EXAM_THEMEN.map(t => [t, t]), ["mix","Themenübergreifend"]];
+  $("examFilter").innerHTML = opts.map(([v, l]) => `<button class="${v === f ? "on" : ""}" data-f="${v}" title="${esc(themeName(v))}">${esc(l)}</button>`).join("");
+  $("examFilter").querySelectorAll("[data-f]").forEach(b => b.onclick = () => { examFilter = b.dataset.f; renderExam(); });
+
+  const kl = PR.klausuren.filter(k => f === "alle" || (f === "mix" ? k.id.includes("mix") : k.themen.includes(f)));
+  $("examKlausuren").innerHTML = kl.length ? kl.map(k => `<button class="exam-item" data-task="${esc(k.id)}">
+      <span><b>${esc(k.titel)}</b><small>${esc(k.themen.join(" · "))} · ${k.teil.length} Teilaufgaben · ${kBE(k)} BE · ca. ${k.zeit} min</small></span>
+      ${resultBadge(k.id)}</button>`).join("") : `<small class="muted">Hier gibt es noch keine Klausuren.</small>`;
+
+  const ez = f === "mix" ? [] : PR.einzel.filter(a => f === "alle" || a.thema === f);
+  $("examEinzel").innerHTML = ez.length ? ez.map(a => `<button class="exam-item" data-task="${esc(a.id)}">
+      <span><b>${esc(a.titel)}</b><small>${esc(a.thema)} · ${esc(a.operator)} · AFB ${esc(a.afb)} · ${a.be} BE</small></span>
+      ${resultBadge(a.id)}</button>`).join("") : `<small class="muted">${f === "mix" ? "Themenübergreifend gibt es nur komplette Klausuren." : "Hier gibt es noch keine Einzelaufgaben."}</small>`;
+  document.querySelectorAll("#view-exam [data-task]").forEach(b => b.onclick = () => openTask(b.dataset.task));
+}
+
+/* Aufgabe bearbeiten */
+let task = null;          // {id, titel, klausur:boolean, teile:[...], themen:[...]}
+let timerInt = null;
+const draftKey = (id, i) => `slk_draft_${current ? current.id : "x"}_${id}_${i}`;
+
+function openTask(id){
+  const k = PR.klausuren.find(x => x.id === id);
+  const e = PR.einzel.find(x => x.id === id);
+  if(!k && !e) return;
+  task = k ? {id, titel:k.titel, klausur:true, zeit:k.zeit, einleitung:k.einleitung, material:k.material, teile:k.teil, themen:k.themen}
+           : {id, titel:e.titel, klausur:false, einleitung:"", material:[], teile:[{...e, nr:""}], themen:[e.thema]};
+  task.start = Date.now(); task.done = false;
+  show("task");
+  $("taskTitle").textContent = task.titel;
+  const be = task.teile.reduce((a, t) => a + t.be, 0);
+  $("taskMeta").textContent = task.klausur ? `Probeklausur · ${task.themen.join(" · ")} · ${be} BE · ca. ${task.zeit} min` : `${task.themen[0]} · ${task.teile[0].operator} · AFB ${task.teile[0].afb} · ${be} BE`;
+  $("taskIntro").textContent = task.einleitung;
+  $("taskIntro").classList.toggle("hidden", !task.einleitung);
+  $("taskMaterial").innerHTML = task.material.map(m => `<div class="mat"><h4>${esc(m.titel)}</h4>${m.tabelle
+      ? `<div class="tw"><table><thead><tr>${m.tabelle.kopf.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead><tbody>${m.tabelle.zeilen.map(z => `<tr>${z.map(c => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`
+      : `<p>${esc(m.text)}</p>`}</div>`).join("");
+  $("taskParts").innerHTML = task.teile.map((t, i) => `<div class="part" id="part${i}">
+      <div class="ph"><b>${t.nr ? esc(t.nr) + " " : ""}${esc(t.aufgabe)}</b><span class="op"><b>${t.be} BE</b>${esc(t.operator)} · AFB ${esc(t.afb)}</span></div>
+      ${t.material ? `<div class="pmat">${esc(t.material)}</div>` : ""}
+      <div class="answer-wrap"><textarea id="ans${i}" placeholder="Schreib deine Antwort hier – oder tippe auf das Mikrofon und sprich."></textarea>
+        <button class="mic" id="mic${i}" title="Antwort einsprechen" aria-label="Antwort einsprechen">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0"/><line x1="12" y1="17" x2="12" y2="22"/><line x1="8" y1="22" x2="16" y2="22"/></svg>
+        </button></div>
+      <div class="rec-hint" id="hint${i}"></div><div class="words" id="words${i}"></div>
+      ${t.tipp ? `<div class="tip">💡 ${esc(t.tipp)}</div>` : ""}
+      <div class="eval hidden" id="eval${i}"></div></div>`).join("");
+  task.teile.forEach((t, i) => {
+    const ta = $("ans" + i);
+    try { ta.value = localStorage.getItem(draftKey(id, i)) || ""; } catch(e){}
+    const upd = () => { const n = ta.value.trim() ? ta.value.trim().split(/\s+/).length : 0; $("words" + i).textContent = n ? `${n} Wörter` : "";
+      try { localStorage.setItem(draftKey(id, i), ta.value); } catch(e){} };
+    ta.addEventListener("input", upd); upd();
+    $("mic" + i).onclick = () => toggleMic(i);
+  });
+  $("taskSubmitRow").classList.remove("hidden");
+  $("taskSubmit").textContent = "✓ Abgeben und bewerten";
+  $("taskSubmit").onclick = submitTask;
+  $("taskResult").classList.add("hidden"); $("taskResult").innerHTML = "";
+  clearInterval(timerInt);
+  const tick = () => {
+    const min = Math.floor((Date.now() - task.start) / 60000);
+    $("taskTimer").textContent = task.klausur ? `⏱ ${min} / ${task.zeit} min` : `⏱ ${min} min`;
+  };
+  tick(); timerInt = setInterval(tick, 15000);
+}
+function leaveTask(){ stopMic(); clearInterval(timerInt); }
+$("taskBack").onclick = () => show("exam");
+
+/* Spracheingabe (Mikrofon) */
+const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+let rec = null, recIdx = -1;
+function stopMic(){ if(rec){ try { rec.stop(); } catch(e){} } }
+function toggleMic(i){
+  if(!SR) return toast("Spracheingabe klappt in diesem Browser nicht. Nutze Chrome oder Safari – oder das Mikrofon auf deiner Handy-Tastatur.", true);
+  if(task.done) return;
+  if(rec){ const same = recIdx === i; stopMic(); if(same) return; }
+  const ta = $("ans" + i), btn = $("mic" + i), hint = $("hint" + i);
+  const base = ta.value.trim() ? ta.value.trim() + " " : "";
+  const r = new SR();
+  r.lang = "de-DE"; r.continuous = true; r.interimResults = true;
+  r.onresult = e => {
+    let fin = "", inter = "";
+    for(let k = 0; k < e.results.length; k++){
+      const res = e.results[k];
+      if(res.isFinal) fin += res[0].transcript.trim() + " "; else inter += res[0].transcript;
+    }
+    ta.value = base + fin + inter;
+    ta.dispatchEvent(new Event("input"));
+  };
+  r.onerror = e => {
+    if(e.error === "not-allowed" || e.error === "service-not-allowed") toast("Bitte erlaube den Mikrofon-Zugriff für diese Seite.", true);
+    else if(e.error !== "no-speech" && e.error !== "aborted") toast("Spracheingabe-Fehler: " + e.error, true);
+  };
+  r.onend = () => { btn.classList.remove("rec"); hint.textContent = ""; if(rec === r){ rec = null; recIdx = -1; } };
+  try { r.start(); } catch(e){ return toast("Mikrofon konnte nicht gestartet werden.", true); }
+  rec = r; recIdx = i;
+  btn.classList.add("rec");
+  hint.textContent = "🎙 Ich höre zu … sprich deine Antwort. Tippe nochmal aufs Mikrofon zum Beenden.";
+}
+
+/* Abgeben → Selbstbewertung mit Erwartungshorizont */
+function submitTask(){
+  stopMic();
+  const leer = task.teile.filter((t, i) => !$("ans" + i).value.trim()).length;
+  if(leer && !confirm(leer === task.teile.length ? "Du hast noch nichts geschrieben. Trotzdem den Erwartungshorizont ansehen?" : `${leer} Teilaufgabe(n) sind leer. Trotzdem abgeben?`)) return;
+  task.done = true;
+  clearInterval(timerInt);
+  const min = Math.max(1, Math.round((Date.now() - task.start) / 60000));
+  task.minuten = min;
+  task.teile.forEach((t, i) => {
+    $("ans" + i).readOnly = true;
+    $("mic" + i).classList.add("hidden");
+    const ev = $("eval" + i);
+    ev.classList.remove("hidden");
+    ev.innerHTML = `<h5>Erwartungshorizont – hake ab, was in deiner Antwort vorkommt:</h5>
+      ${t.erwartung.map((c, j) => `<label class="crit" id="c${i}_${j}"><input type="checkbox" data-i="${i}" data-j="${j}"><span>${esc(c.text)}</span><em>${c.be} BE</em></label>`).join("")}
+      <div class="part-score" id="ps${i}">0 / ${t.be} BE</div>
+      <details class="muster"><summary>📘 Musterlösung anzeigen</summary><p>${esc(t.muster)}</p></details>`;
+  });
+  document.querySelectorAll("#taskParts input[type=checkbox]").forEach(cb => cb.onchange = () => {
+    cb.closest(".crit").classList.toggle("ok", cb.checked); updateScore();
+  });
+  $("taskSubmit").textContent = "📊 Bewertung abschließen";
+  $("taskSubmit").onclick = finishTask;
+  $("taskTimer").textContent = `⏱ ${min} min gebraucht`;
+  updateScore();
+  $("eval0").scrollIntoView({behavior:"smooth", block:"start"});
+}
+function checked(i, j){ const cb = document.querySelector(`#taskParts input[data-i="${i}"][data-j="${j}"]`); return cb && cb.checked; }
+function scoreParts(){
+  return task.teile.map((t, i) => ({t, i, got: t.erwartung.reduce((a, c, j) => a + (checked(i, j) ? c.be : 0), 0)}));
+}
+function updateScore(){
+  scoreParts().forEach(p => $("ps" + p.i).textContent = `${p.got} / ${p.t.be} BE`);
+}
+
+function finishTask(){
+  const parts = scoreParts();
+  const got = parts.reduce((a, p) => a + p.got, 0), max = parts.reduce((a, p) => a + p.t.be, 0);
+  const pct = max ? Math.round(got / max * 100) : 0, np = notenpunkte(pct);
+  // speichern
+  const d = examData(), old = d[task.id];
+  d[task.id] = {best: Math.max(np, old ? old.best : 0), last: np, pct, n: (old ? old.n : 0) + 1, t: Date.now()};
+  scheduleSave();
+  try { task.teile.forEach((t, i) => localStorage.removeItem(draftKey(task.id, i))); } catch(e){}
+
+  // Feedback zusammenstellen
+  const gut = [], fehlt = [];
+  parts.forEach(p => p.t.erwartung.forEach((c, j) => (checked(p.i, j) ? gut : fehlt).push({c, nr: p.t.nr})));
+  const afb = {I:[0,0], II:[0,0], III:[0,0]};
+  parts.forEach(p => { const k = afb[p.t.afb] ? p.t.afb : "II"; afb[k][0] += p.got; afb[k][1] += p.t.be; });
+  const tipps = [];
+  const q = k => afb[k][1] ? afb[k][0] / afb[k][1] : 1;
+  if(q("I") < 0.6) tipps.push("Beim Grundwissen (AFB I: nennen, beschreiben, darstellen) fehlen Begriffe und Definitionen. Wiederhole die Lernkarten zu diesem Thema.");
+  if(q("II") < 0.6) tipps.push("Bei den Transferaufgaben (AFB II: erläutern, erklären, analysieren) reicht Aufzählen nicht: Stelle Zusammenhänge her (‚weil …‘, ‚dadurch …‘) und beziehe dich ausdrücklich auf das Material.");
+  if(q("III") < 0.6) tipps.push("Bei Beurteilen/Erörtern (AFB III) brauchst du Pro- und Contra-Argumente mit Bezug zum Material und ein begründetes eigenes Fazit.");
+  parts.forEach(p => {
+    const w = $("ans" + p.i).value.trim().split(/\s+/).filter(Boolean).length;
+    if(w < p.t.be * 8) tipps.push(`${p.t.nr ? "Teilaufgabe " + p.t.nr : "Deine Antwort"} war mit ${w} ${w === 1 ? "Wort" : "Wörtern"} sehr knapp. Für ${p.t.be} BE solltest du ausführlicher schreiben (Faustregel: mindestens ${p.t.be * 12} Wörter).`);
+  });
+  if(task.klausur && task.minuten > task.zeit) tipps.push(`Du hast ${task.minuten} statt ${task.zeit} Minuten gebraucht. Übe, die Zeit pro BE einzuteilen (ca. ${Math.round(task.zeit / max * 10) / 10} min pro BE).`);
+  if(pct >= 85) tipps.push("Sehr stark! Probiere als Nächstes eine themenübergreifende Klausur.");
+
+  const r = $("taskResult");
+  r.classList.remove("hidden");
+  r.innerHTML = `<div class="result-box">
+    <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap"><div class="big-np">${np}</div>
+      <div><b>Notenpunkte</b> (${noteText(np)})<br><small style="color:var(--muted)">${got} von ${max} BE · ${pct}%${old ? ` · bisher bestes Ergebnis: ${old.best} NP` : ""}</small></div></div>
+    <div class="grid">${["I","II","III"].filter(k => afb[k][1]).map(k => `<div class="stat"><b>${afb[k][0]}/${afb[k][1]}</b><small>AFB ${k}</small></div>`).join("")}</div>
+    <div class="fb">
+      ${gut.length ? `<h5>✅ Das war gut</h5><ul>${gut.slice(0, 8).map(x => `<li>${x.nr ? `<b>${esc(x.nr)}</b> ` : ""}${esc(x.c.text)}</li>`).join("")}${gut.length > 8 ? `<li>… und ${gut.length - 8} weitere Punkte</li>` : ""}</ul>` : ""}
+      ${fehlt.length ? `<h5>❌ Das hat gefehlt</h5><ul>${fehlt.map(x => `<li>${x.nr ? `<b>${esc(x.nr)}</b> ` : ""}${esc(x.c.text)} <small style="color:var(--muted)">(${x.c.be} BE)</small></li>`).join("")}</ul>` : ""}
+      ${tipps.length ? `<h5>💡 So wirst du besser</h5><ul>${tipps.map(t => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
+    </div>
+    <div class="btn-row" style="margin-top:16px">
+      <button class="btn" id="resRetry">↻ Nochmal bearbeiten</button>
+      ${task.themen.filter(t => cardsOfTheme(t).length).map(t => `<button class="btn ghost" data-lk="${esc(t)}">🃏 Lernkarten ${esc(t)}</button>`).join("")}
+      <button class="btn ghost" id="resBack">Alle Aufgaben</button>
+    </div></div>`;
+  $("taskSubmitRow").classList.add("hidden");
+  $("resRetry").onclick = () => openTask(task.id);
+  $("resBack").onclick = () => show("exam");
+  r.querySelectorAll("[data-lk]").forEach(b => b.onclick = () => startSession(cardsOfTheme(b.dataset.lk), THEMA[b.dataset.lk].name, "random"));
+  r.scrollIntoView({behavior:"smooth", block:"start"});
+}
+
 /* ---------- Menü ---------- */
 function openMenu(){ $("drawer").classList.add("open"); $("overlay").classList.add("open"); }
 function closeMenu(){ $("drawer").classList.remove("open"); $("overlay").classList.remove("open"); }
@@ -814,7 +1122,7 @@ document.querySelectorAll("[data-act]").forEach(el => el.addEventListener("click
   if(a === "logout") logout();
   if(a === "random"){ back = "home"; startSession(KERN, "🎲 Zufällig aus Q1–Q4", "random"); }
   if(a === "reset" && confirm("Deinen gesamten Lernfortschritt löschen? Alle Karten gehen zurück auf Stufe 1.")){
-    current.data = {v:2, cards:{}}; flushSave(); backend.save(current); show("home");
+    current.data = {v:2, cards:{}, exam: current.data.exam || {}}; flushSave(); backend.save(current); show("home");
   }
 }));
 

@@ -1,0 +1,1593 @@
+{
+  "einzel": [
+    {
+      "id": "e-q2.2-01",
+      "thema": "Q2.2",
+      "titel": "Arbeitsweisen der Muskulatur beim Kniebeugen",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 6,
+      "material": "Ein Schüler führt im Krafttraining eine Kniebeuge mit der Langhantel aus: Er senkt die Hantel kontrolliert ab, verharrt zwei Sekunden in der tiefen Position und drückt die Hantel anschließend wieder nach oben.",
+      "aufgabe": "Beschreiben Sie die drei Arbeitsweisen der Skelettmuskulatur und ordnen Sie sie den Phasen der Kniebeuge (Kniestreckmuskulatur) aus dem Material zu.",
+      "erwartung": [
+        {
+          "text": "Isometrisch (statisch-haltend): Spannungszunahme ohne Längenänderung, Widerstand wird gehalten",
+          "be": 1
+        },
+        {
+          "text": "Konzentrisch (positiv-dynamisch, überwindend): Spannungszunahme mit Verkürzung, Widerstand wird überwunden",
+          "be": 1
+        },
+        {
+          "text": "Exzentrisch (negativ-dynamisch, nachgebend/bremsend): Spannung bei gleichzeitiger Verlängerung des Muskels, Bewegung wird abgebremst",
+          "be": 1
+        },
+        {
+          "text": "Zuordnung: Absenken der Hantel = exzentrische Arbeit des M. quadriceps (Kniestrecker bremst)",
+          "be": 1
+        },
+        {
+          "text": "Zuordnung: Verharren in der tiefen Position = isometrische Arbeit",
+          "be": 1
+        },
+        {
+          "text": "Zuordnung: Hochdrücken = konzentrische Arbeit; konzentrisch + exzentrisch zusammen = dynamische Arbeit",
+          "be": 1
+        }
+      ],
+      "muster": "Die Skelettmuskulatur kann auf drei Weisen arbeiten:\n• Isometrisch (statisch-haltend): Die Muskelspannung nimmt zu, die Muskellänge bleibt aber gleich. Ein Widerstand wird gehalten.\n• Konzentrisch (positiv-dynamisch, überwindend): Die Spannung nimmt zu und der Muskel verkürzt sich (wird kürzer, dicker, härter). Ein Widerstand wird überwunden.\n• Exzentrisch (negativ-dynamisch, nachgebend): Der Muskel steht unter Spannung, wird aber gleichzeitig gedehnt bzw. verlängert. Eine Bewegung wird abgebremst.\nKonzentrische und exzentrische Arbeit fasst man als dynamische Arbeit zusammen.\n\nZuordnung zur Kniebeuge (Kniestrecker, M. quadriceps femoris):\n• Kontrolliertes Absenken: Der Quadrizeps wird unter Spannung verlängert und bremst das Absinken → exzentrisch.\n• Zwei Sekunden Verharren in der Hocke: Spannung ohne Längenänderung → isometrisch.\n• Hochdrücken der Hantel: Der Quadrizeps verkürzt sich und überwindet die Last → konzentrisch.",
+      "tipp": "Beschreiben heißt: Merkmale strukturiert und fachsprachlich wiedergeben. Nenne zu jeder Arbeitsweise sowohl den Fachbegriff als auch, was mit Muskellänge und Spannung passiert."
+    },
+    {
+      "id": "e-q2.2-02",
+      "thema": "Q2.2",
+      "titel": "Wege zur Steigerung der Maximalkraft",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Beschreiben Sie die physiologischen Mechanismen, über die die Maximalkraft gesteigert werden kann, und nennen Sie die jeweils passende Trainingsmethode.",
+      "erwartung": [
+        {
+          "text": "Weg 1 Muskelquerschnitt: Hypertrophie = Dickenzunahme der Muskelfasern durch Vermehrung kontraktiler Proteine (Aktin, Myosin), Faserzahl bleibt gleich",
+          "be": 2
+        },
+        {
+          "text": "Passende Methode: Muskelaufbautraining (MA, z. B. Hypertrophiemethode)",
+          "be": 1
+        },
+        {
+          "text": "Weg 2 nervale Ansteuerung: intramuskuläre Koordination mit Rekrutierung, Frequenzierung, Synchronisation der motorischen Einheiten",
+          "be": 1
+        },
+        {
+          "text": "Passende Methode: IK-Training (90–100 % Kmax, 1–5 Wdh.)",
+          "be": 1
+        },
+        {
+          "text": "Intermuskuläre Koordination (Zusammenspiel Agonist, Synergist, Antagonist) bzw. Kombination MA + IK als Pyramidentraining genannt",
+          "be": 1
+        }
+      ],
+      "muster": "Die Maximalkraft kann auf zwei grundsätzlichen Wegen gesteigert werden:\n\n1. Vergrößerung des Muskelquerschnitts (Muskelquantität)\n• Hypertrophie: Die einzelnen Muskelfasern werden dicker, weil mehr kontraktile Proteine (Aktin und Myosin, mehr Myofibrillen) eingelagert werden. Die Anzahl der Fasern bleibt gleich.\n• Methode: Muskelaufbautraining (Anfänger-, Fitness- oder Hypertrophiemethode), z. B. 80–90 % Kmax, 5–10 Wiederholungen.\n\n2. Verbesserung der nervalen Ansteuerung (Muskelqualität)\n• Intramuskuläre Koordination: Mehr motorische Einheiten werden gleichzeitig aktiviert (Rekrutierung), mit höherer Impulsfrequenz angesteuert (Frequenzierung) und feuern zeitgleicher (Synchronisation).\n• Methode: IK-Training mit 90–100 % Kmax und 1–5 Wiederholungen nach der Wiederholungsmethode.\n• Intermuskuläre Koordination: Agonisten und Synergisten arbeiten zeitlich optimal, Antagonisten entspannen rechtzeitig → mehr Nettokraft.\n\nDie Kombination aus MA- und IK-Training (z. B. Pyramidentraining) bildet das eigentliche Maximalkrafttraining.",
+      "tipp": "Ordne deine Antwort klar nach den zwei Wegen (Querschnitt und Ansteuerung). Zu jedem Weg gehören Mechanismus UND Methode."
+    },
+    {
+      "id": "e-q2.2-03",
+      "thema": "Q2.2",
+      "titel": "Schnellkraft bei Kugelstoßerin und Tischtennisspieler",
+      "operator": "Erläutern",
+      "afb": "II",
+      "be": 6,
+      "material": "Lea (18) ist Kugelstoßerin und muss eine 4-kg-Kugel aus der Drehung maximal beschleunigen. Ihr Mitschüler Ben (17) spielt leistungsorientiert Tischtennis; er muss mit einem leichten Schläger in Sekundenbruchteilen auf schnelle Bälle antworten.",
+      "aufgabe": "Erläutern Sie, wovon die Schnellkraftleistung von Lea und von Ben jeweils vorrangig abhängt.",
+      "erwartung": [
+        {
+          "text": "Definition Schnellkraft: Fähigkeit, Widerstände mit höchstmöglicher Kontraktionsgeschwindigkeit zu überwinden bzw. in kurzer Zeit einen großen Impuls zu erteilen",
+          "be": 1
+        },
+        {
+          "text": "Lea: hoher Widerstand (Kugel), Schnellkraft hängt in hohem Maße von der Maximalkraft ab",
+          "be": 2
+        },
+        {
+          "text": "Ben: geringer Widerstand, leistungsbestimmend ist die schnelle Kontraktionsfähigkeit der Muskelfasern (Startkraft), Maximalkraft tritt zurück",
+          "be": 2
+        },
+        {
+          "text": "Schnelle Kontraktionsfähigkeit hängt vom Anteil/Querschnitt der FT-Fasern (v. a. FTG) ab; Merksatz: je höher der Widerstand, desto wichtiger die Maximalkraft",
+          "be": 1
+        }
+      ],
+      "muster": "Schnellkraft ist die Fähigkeit, den eigenen Körper oder ein Gerät mit höchster Geschwindigkeit zu bewegen bzw. einem Gegenstand in möglichst kurzer Zeit einen möglichst großen Impuls zu erteilen. Wovon sie abhängt, bestimmt vor allem die Höhe des Widerstands.\n\n• Lea (Kugelstoßen): Die 4-kg-Kugel ist ein vergleichsweise hoher Widerstand. Um ihr einen maximalen Kraftimpuls zu geben, muss Lea große Kräfte entwickeln. Ihre Schnellkraftleistung hängt deshalb in hohem Maße von der Maximalkraft ab (bei hohen Lasten dominiert die Maximalkraft, dazu kommt die Explosivkraft als steiler Kraftanstieg).\n• Ben (Tischtennis): Der Schläger ist sehr leicht, die Zeit für den Schlag extrem kurz. Die Maximalkraft tritt hier in den Hintergrund. Entscheidend ist die schnelle Kontraktionsfähigkeit, also die Fähigkeit, unabhängig vom Maximalkraftniveau sehr schnell Kraft zu entwickeln (Startkraft, hohe Anfangskraft in den ersten Millisekunden).\n• Die schnelle Kontraktionsfähigkeit hängt von der Muskelfaserzusammensetzung ab, v. a. von einem hohen Anteil schnell zuckender FT-Fasern (besonders FTG-Fasern mit großem Querschnitt).\n\nFazit: Je höher der Widerstand, desto wichtiger ist die Maximalkraft; je geringer der Widerstand, desto wichtiger die Kontraktionsgeschwindigkeit.",
+      "tipp": "Erläutern heißt: Zusammenhang erklären UND am Beispiel veranschaulichen. Beziehe dich ausdrücklich auf beide Personen aus dem Material."
+    },
+    {
+      "id": "e-q2.2-04",
+      "thema": "Q2.2",
+      "titel": "Maximalkraft indirekt bestimmen",
+      "operator": "Ermitteln",
+      "afb": "II",
+      "be": 7,
+      "material": "Tim (17) schafft beim Bankdrücken mit 60 kg genau 10 saubere Wiederholungen. Für die Umrechnung gilt (nach Ferrauti): Anteil der Maximalkraft y = 1,0278 – 0,0278 · x (x = maximale Wiederholungszahl), also MK = W / (1,0278 – 0,0278 · x).",
+      "aufgabe": "Ermitteln Sie Tims Maximalkraft (1RM) beim Bankdrücken und leiten Sie daraus die Trainingslasten für die Hypertrophiemethode und für das IK-Training ab. Begründen Sie kurz, warum die indirekte Bestimmung hier sinnvoll ist.",
+      "erwartung": [
+        {
+          "text": "Richtiger Rechenweg: 1,0278 – 0,0278 · 10 = 0,7498",
+          "be": 1
+        },
+        {
+          "text": "Ergebnis: MK = 60 kg / 0,7498 ≈ 80 kg",
+          "be": 1
+        },
+        {
+          "text": "Hypertrophiemethode 80–90 % Kmax → ca. 64–72 kg (5–10 Wdh.)",
+          "be": 2
+        },
+        {
+          "text": "IK-Training 90–100 % Kmax → ca. 72–80 kg (1–5 Wdh.)",
+          "be": 1
+        },
+        {
+          "text": "Begründung: direkter 1RM-Test aufwendig und verletzungsträchtig; Bereich 10 ± 5 Wdh. liefert praktikable, ausreichend genaue Schätzung",
+          "be": 2
+        }
+      ],
+      "muster": "Berechnung:\n• Anteil der Maximalkraft bei 10 Wiederholungen: y = 1,0278 – 0,0278 · 10 = 1,0278 – 0,278 = 0,7498 (≈ 75 %).\n• MK = 60 kg / 0,7498 ≈ 80,0 kg. Tims 1RM beim Bankdrücken liegt also bei etwa 80 kg.\n\nTrainingslasten:\n• Hypertrophiemethode (80–90 % Kmax, 5–10 Wdh.): 0,8 · 80 = 64 kg bis 0,9 · 80 = 72 kg.\n• IK-Training (90–100 % Kmax, 1–5 Wdh.): 72 kg bis 80 kg.\n\nBegründung der indirekten Bestimmung:\n• Ein direkter Maximalkrafttest erfordert Lasten am absoluten Limit; das ist aufwendig und birgt gerade für Jugendliche und wenig Geübte ein hohes Verletzungsrisiko.\n• Mit 10 Wiederholungen liegt Tim im empfohlenen Bereich von etwa 10 ± 5 Wiederholungen: Das Gewicht ist weit genug vom Maximum entfernt, die Leistung wird aber noch nicht vorrangig von der Kraftausdauer bestimmt, sodass die lineare Formel hinreichend genau ist.",
+      "tipp": "Ermitteln heißt: Ergebnis rechnerisch herleiten. Schreibe den Rechenweg vollständig auf und runde sinnvoll, bevor du die Prozentbereiche anwendest."
+    },
+    {
+      "id": "e-q2.2-05",
+      "thema": "Q2.2",
+      "titel": "Drei Trainingsprotokolle zuordnen",
+      "operator": "Analysieren",
+      "afb": "II",
+      "be": 8,
+      "material": "Drei Sportler protokollieren je eine Einheit an der Beinpresse:\n• A (Ruderin): 50 % Kmax, Wiederholungen bis zur völligen Ermüdung (ca. 25), 6 Serien, Serienpause 1 min.\n• B (Skispringer): 95 % Kmax, 2 Wiederholungen zügig-explosiv, 4 Serien, Serienpause 4 min.\n• C (Rugbyspieler): 85 % Kmax, 8 Wiederholungen langsam bis zügig (1 s drücken, 2 s absenken), 6 Serien, Serienpause 3 min.",
+      "aufgabe": "Analysieren Sie die drei Protokolle, indem Sie die jeweilige Krafttrainingsmethode bestimmen, ihre Hauptwirkung angeben und die Wahl im Hinblick auf die Sportart begründen.",
+      "erwartung": [
+        {
+          "text": "A = Kraftausdauermethode (Intervallmethode, 35–60 % Kmax, viele Wdh. bis zur Ermüdung)",
+          "be": 1
+        },
+        {
+          "text": "A: Wirkung Ermüdungswiderstandsfähigkeit/verbesserte Glykolyse; passend, da Rudern viele kraftvolle Schläge über Minuten fordert",
+          "be": 2
+        },
+        {
+          "text": "B = IK-Training (Wiederholungsmethode, 90–100 % Kmax, 1–5 Wdh., vollständige Pause)",
+          "be": 1
+        },
+        {
+          "text": "B: Wirkung bessere Rekrutierung/Frequenzierung/Synchronisation, kaum Hypertrophie → Relativkraft steigt; passend, da Skispringer leicht bleiben muss",
+          "be": 2
+        },
+        {
+          "text": "C = Muskelaufbautraining/Hypertrophiemethode (80–90 % Kmax, 5–10 Wdh., exzentrische Phase doppelt so lang)",
+          "be": 1
+        },
+        {
+          "text": "C: Wirkung starke Hypertrophie; passend, da Rugby Körpermasse und Durchsetzungsvermögen im Kontakt verlangt",
+          "be": 1
+        }
+      ],
+      "muster": "Protokoll A (Ruderin):\n• Methode: Kraftausdauermethode (Intervallmethode; 50 % Kmax liegt im Bereich 35–60 %, Wiederholungen bis zur völligen Ermüdung, kurze Serienpause).\n• Wirkung: höhere Ermüdungswiderstandsfähigkeit bei Kraftleistungen, Verbesserung der aeroben und anaeroben Glykolyse, Hypertrophie nur gering.\n• Begründung: Beim Rudern müssen über mehrere Minuten viele kraftvolle Schläge gegen den Wasserwiderstand erbracht werden; die Muskulatur muss gut mit Energie versorgt werden.\n\nProtokoll B (Skispringer):\n• Methode: IK-Training (Wiederholungsmethode; 95 % Kmax, 2 Wdh., zügig-explosiv, vollständige Pause von 4 min).\n• Wirkung: gesteigerte Rekrutierung, Frequenzierung und Synchronisation der motorischen Einheiten; das Kraftdefizit sinkt, Hypertrophie bleibt gering.\n• Begründung: Der Skispringer braucht einen explosiven Absprung, muss aber für die Flugphase möglichst leicht sein. IK-Training steigert die Maximalkraft ohne nennenswerten Massezuwachs → die relative Kraft steigt.\n\nProtokoll C (Rugbyspieler):\n• Methode: Muskelaufbautraining, genauer Hypertrophiemethode (85 % Kmax, 8 Wdh., langsam bis zügig, Regel 1:2 für konzentrische zu exzentrischer Phase).\n• Wirkung: starke bis sehr starke Hypertrophie und damit Maximalkraftzuwachs über den Muskelquerschnitt.\n• Begründung: Im Rugby sind Körpermasse und Maximalkraft im Zweikampf und Gedränge leistungsentscheidend; Gewichtszunahme ist hier eher erwünscht.",
+      "tipp": "Analysieren heißt: Material gezielt nach Kriterien auswerten. Belege jede Methodenzuordnung mit konkreten Belastungsnormativen aus dem Protokoll."
+    },
+    {
+      "id": "e-q2.2-06",
+      "thema": "Q2.2",
+      "titel": "Rekrutierung der Muskelfasern",
+      "operator": "Erklären",
+      "afb": "II",
+      "be": 6,
+      "material": "Ein Trainer sagt: „Wer seine schnellen Fasern trainieren will, muss entweder richtig schwer oder richtig schnell trainieren. Langsames Training mit leichten Gewichten bringt dafür nichts.“",
+      "aufgabe": "Erklären Sie die Aussage des Trainers mithilfe des Rekrutierungsprinzips (Größenordnungsprinzip nach Henneman) und der Eigenschaften der Muskelfasertypen.",
+      "erwartung": [
+        {
+          "text": "ST-Fasern: langsam, wenig Kraft, ermüdungsresistent, kleine motorische Einheiten; FT-Fasern: schnell, kraftvoll, schnell ermüdend, große motorische Einheiten",
+          "be": 2
+        },
+        {
+          "text": "Henneman: motorische Einheiten werden in fester Reihenfolge nach Größe rekrutiert, erst kleine (ST), mit steigender Kraftanforderung größere (FTO, zuletzt FTG)",
+          "be": 2
+        },
+        {
+          "text": "Langsam + leicht (bis ca. 50 %) → vorwiegend ST-Fasern; FT-Fasern bei langsamer Ausführung erst deutlich über 60 % Kmax",
+          "be": 1
+        },
+        {
+          "text": "Maximal schnelle Ausführung aktiviert FT-Fasern auch bei 30–35 % Last; nur aktivierte Fasern passen sich an",
+          "be": 1
+        }
+      ],
+      "muster": "Grundlage sind die Eigenschaften der Fasertypen:\n• ST-Fasern (Typ I) kontrahieren langsam, entwickeln wenig Kraft, sind sehr ermüdungsresistent und gehören zu kleinen motorischen Einheiten.\n• FT-Fasern (Typ II, FTO und FTG) kontrahieren schnell und kraftvoll, ermüden rasch und gehören zu großen motorischen Einheiten.\n\nRekrutierungsprinzip nach Henneman:\n• Motorische Einheiten werden in einer festen Reihenfolge nach ihrer Größe aktiviert. Bei geringer Kraftanforderung arbeiten zuerst die kleinen Einheiten mit ST-Fasern. Erst wenn die Anforderung steigt, kommen größere Einheiten mit FTO- und zuletzt FTG-Fasern hinzu.\n\nKonsequenz (Erklärung der Aussage):\n• Bei langsamer Ausführung und niedriger Intensität (bis etwa 50 % der Maximalbelastung) werden vorwiegend ST-Fasern beansprucht; die schnellen Fasern bleiben weitgehend inaktiv.\n• Damit bei langsamer Ausführung auch FT-Fasern arbeiten, muss die Last deutlich über 60 % Kmax liegen („richtig schwer“).\n• Alternativ werden FT-Fasern durch eine maximal schnelle, explosive Ausführung aktiviert; dann genügen bereits 30–35 % der Maximallast („richtig schnell“).\n• Da sich nur Fasern anpassen, die auch aktiviert werden, hat der Trainer recht: Langsames Training mit leichten Gewichten bringt den FT-Fasern kaum Trainingsreize.",
+      "tipp": "Erklären heißt: einen Sachverhalt auf Ursachen und Gesetzmäßigkeiten zurückführen. Verknüpfe das Prinzip ausdrücklich mit beiden Teilen der Trainer-Aussage (schwer UND schnell)."
+    },
+    {
+      "id": "e-q2.2-07",
+      "thema": "Q2.2",
+      "titel": "Hypertrophietraining für eine Hochspringerin?",
+      "operator": "Beurteilen",
+      "afb": "III",
+      "be": 8,
+      "material": "Hochspringerin Mara (19, 1,82 m, 63 kg) möchte ihre Sprungkraft verbessern. Eine Freundin, die Bodybuilding betreibt, rät ihr: „Mach drei Monate lang viermal pro Woche Beintraining mit 8–12 Wiederholungen bis zum Muskelversagen. Mehr Muskeln heißt mehr Kraft, und mehr Kraft heißt höher springen.“",
+      "aufgabe": "Beurteilen Sie den Rat der Freundin im Hinblick auf Maras Leistungsziel.",
+      "erwartung": [
+        {
+          "text": "Zutreffend: Maximalkraft ist Basis der Schnell-, Explosiv- und Reaktivkraft; Kraft ist proportional zum Muskelquerschnitt",
+          "be": 1
+        },
+        {
+          "text": "Kraftanforderungsprofil Hochsprung: Reaktivkraft (Absprung als schneller DVZ, Bodenkontakt ca. 150–200 ms), Explosiv-, Schnellkraft, hohe relative Kraft",
+          "be": 2
+        },
+        {
+          "text": "Problem: Hypertrophie erhöht Körpergewicht → relative Kraft steigt kaum bzw. Sprunghöhe sinkt; langsame Ausführung trainiert nicht die DVZ-Fähigkeit",
+          "be": 2
+        },
+        {
+          "text": "Alternative: Maximalkraft eher über IK-Training (90–100 %, 1–5 Wdh.), dazu Reaktivkraftmethode (Hürdensprünge, Drop-Jumps) bei guter Kraftbasis",
+          "be": 1
+        },
+        {
+          "text": "Abwägung Pro und Contra mit Bezug auf Maras Daten (leicht, groß) und auf den Umfang (4×/Woche bis Muskelversagen)",
+          "be": 1
+        },
+        {
+          "text": "Begründetes eigenes Fazit (z. B. allenfalls kurzer MA-Block als Basis, Schwerpunkt IK und Reaktivkraft)",
+          "be": 1
+        }
+      ],
+      "muster": "Was am Rat richtig ist:\n• Die Maximalkraft ist die Basis aller anderen Kraftarten; auch Schnell-, Explosiv- und Reaktivkraft hängen von ihr ab. Da die Kraft proportional zum Muskelquerschnitt ist, kann Hypertrophietraining (8–12 Wdh.) die Maximalkraft tatsächlich steigern.\n\nWas gegen den Rat spricht:\n• Kraftanforderungsprofil Hochsprung: Der Absprung nach dem Anlauf ist ein schneller Dehnungs-Verkürzungs-Zyklus mit einer Bodenkontaktzeit von nur ca. 150–200 ms. Leistungsbestimmend sind Reaktiv-, Explosiv- und Schnellkraft sowie eine hohe relative Kraft, da Mara ihr eigenes Körpergewicht nach oben beschleunigen muss.\n• Zusätzliche Muskelmasse erhöht ihr Körpergewicht. Steigt die Masse stärker als die nutzbare Kraft, sinkt die relative Kraft und damit die Sprunghöhe.\n• Die langsame Ausführung bis zum Muskelversagen schult weder die schnelle Kontraktionsfähigkeit noch die reaktive Spannungsfähigkeit im DVZ.\n• Viermal pro Woche Beintraining bis zum Versagen ist zudem ein sehr hoher Umfang mit Gefahr unzureichender Erholung.\n\nSinnvollere Alternative:\n• Maximalkraft vor allem über IK-Training (90–100 % Kmax, 1–5 Wdh., vollständige Pausen) steigern: Kraftgewinn über bessere Ansteuerung bei kaum Massezuwachs.\n• Ergänzend Reaktivkraftmethode (Hürdensprünge, einbeinige Sprungserien, Drop-Jumps), da Mara als Leistungssportlerin vermutlich über eine Kraftbasis verfügt.\n\nFazit: Der Rat ist für eine Bodybuilderin sinnvoll, für Mara aber nur eingeschränkt. Allenfalls ein kurzer, moderater Muskelaufbaublock als Basis ist vertretbar; der Schwerpunkt sollte auf IK- und Reaktivkrafttraining liegen.",
+      "tipp": "Beurteilen heißt: begründetes Sachurteil fällen. Nenne sowohl berechtigte als auch problematische Aspekte und beziehe dich auf die Daten im Material, bevor du ein klares Fazit ziehst."
+    },
+    {
+      "id": "e-q2.2-08",
+      "thema": "Q2.2",
+      "titel": "Ausgleichsprogramm bei Rundrücken",
+      "operator": "Entwickeln",
+      "afb": "III",
+      "be": 8,
+      "material": "Jan (17) sitzt täglich viele Stunden am Schreibtisch und trainiert im Studio fast ausschließlich Bankdrücken und Bizepscurls. Eine Physiotherapeutin stellt einen ausgeprägten Rundrücken mit nach vorn gezogenen Schultern fest: Die Brustmuskulatur ist verkürzt, die Muskulatur zwischen den Schulterblättern (Mm. rhomboidei, mittlerer und unterer Trapezius) ist abgeschwächt.",
+      "aufgabe": "Entwickeln Sie für Jan ein begründetes Krafttrainingsprogramm zum Abbau der muskulären Dysbalance.",
+      "erwartung": [
+        {
+          "text": "Diagnose: muskuläre Dysbalance = gestörtes Kräftegleichgewicht Agonist–Antagonist durch einseitiges Training/Haltung; Folgen Haltungsschäden, Verletzungsanfälligkeit",
+          "be": 1
+        },
+        {
+          "text": "Prinzip: abgeschwächte Muskeln kräftigen (Rhomboiden, mittlerer/unterer Trapezius), verkürzte Muskeln dehnen (Brustmuskel)",
+          "be": 2
+        },
+        {
+          "text": "Mindestens zwei konkrete Übungen für die Schulterblattfixatoren (z. B. Rudern am Kabelzug, Reverse Flys, Face Pulls) plus Dehnübung für den Brustmuskel",
+          "be": 1
+        },
+        {
+          "text": "Begründete Belastungsnormative: z. B. Anfängermethode/Kraftausdauer 40–65 % Kmax, 12–20 Wdh., 3–4 Serien, saubere Technik",
+          "be": 2
+        },
+        {
+          "text": "Anpassung des bisherigen Trainings: Bankdrücken/Curls reduzieren, Agonist und Antagonist künftig stets gemeinsam trainieren (Verhältnis Zug : Druck mind. 1:1, anfangs mehr Zug)",
+          "be": 1
+        },
+        {
+          "text": "Stimmige Gesamtkonzeption mit Häufigkeit/Dauer (z. B. 2–3× pro Woche, 8–12 Wochen) und Erfolgskontrolle",
+          "be": 1
+        }
+      ],
+      "muster": "Ausgangslage:\nJan weist eine muskuläre Dysbalance auf, also eine Störung des Kräftegleichgewichts zwischen Agonist und Antagonist. Durch Sitzhaltung und einseitiges Training (Bankdrücken) hat sich die Brustmuskulatur mit höherer Spannung angepasst und verkürzt, während die Schulterblattfixatoren abgeschwächt sind. Die Gelenkstellung verschiebt sich (Schultern nach vorn), Folgen sind Haltungsschäden und erhöhte Verletzungsanfälligkeit.\n\nZiele:\n• Abgeschwächte Muskulatur kräftigen: Mm. rhomboidei, mittlerer und unterer Trapezius, Außenrotatoren der Schulter.\n• Verkürzte Muskulatur dehnen: M. pectoralis major/minor.\n\nProgramm (2–3 Einheiten pro Woche, 8–12 Wochen):\n• Rudern am Kabelzug mit Schulterblattzusammenführung\n• Reverse Flys (vorgebeugt mit Kurzhanteln oder am Gerät)\n• Face Pulls am Seilzug\n• Bauchlage-Übung „Y-T-W“ für den unteren Trapezius\n• Dehnung des Brustmuskels in der Türöffnung nach jeder Einheit\n\nBelastungsnormative:\n• Anfänger- bzw. Kraftausdauerbereich: 40–65 % Kmax, 12–20 Wiederholungen, langsam bis zügig, 3–4 Serien, Serienpause 1–2 min. Begründung: Die abgeschwächten Haltemuskeln sollen zunächst Ermüdungswiderstand und Koordination aufbauen; niedrige Lasten erlauben eine saubere Technik.\n• Nach ca. 4–6 Wochen progressive Steigerung (MA-Fitnessmethode, 70–85 %, 8–15 Wdh.).\n\nAnpassung des bisherigen Trainings:\n• Bankdrücken und Curls vorübergehend reduzieren, Zug- und Druckübungen mindestens im Verhältnis 1:1, anfangs mit Übergewicht der Zugübungen.\n• Grundsatz für die Zukunft: Agonist und Antagonist immer gemeinsam trainieren.\n\nErfolgskontrolle: Haltungsfoto bzw. Beweglichkeitstest vorher/nachher, Kontrolle durch die Physiotherapeutin.",
+      "tipp": "Entwickeln heißt: eine eigene, begründete Lösung konzipieren. Leite jede Maßnahme aus der Diagnose ab und gib konkrete Belastungsnormative an."
+    },
+    {
+      "id": "e-q2.3-01",
+      "thema": "Q2.3",
+      "titel": "Einteilung der motorischen Schnelligkeit",
+      "operator": "Darstellen",
+      "afb": "I",
+      "be": 6,
+      "material": "",
+      "aufgabe": "Stellen Sie die Einteilung der motorischen Schnelligkeit nach Grosser und Zintl dar und nennen Sie zu jeder komplexen Schnelligkeitsfähigkeit ein sportliches Beispiel.",
+      "erwartung": [
+        {
+          "text": "Reaktionsschnelligkeit als eigene Kategorie",
+          "be": 1
+        },
+        {
+          "text": "Elementare Schnelligkeit: Aktionsschnelligkeit (azyklisch) und Frequenzschnelligkeit (zyklisch), geringe Widerstände",
+          "be": 1
+        },
+        {
+          "text": "Komplexe Schnelligkeit azyklisch: Kraftschnelligkeit (kraftakzentuiert) und Kraftschnelligkeitsausdauer/Schnellkraftausdauer (ausdauerakzentuiert)",
+          "be": 1
+        },
+        {
+          "text": "Komplexe Schnelligkeit zyklisch: Sprintkraft (kraftakzentuiert) und Sprintausdauer (ausdauerakzentuiert)",
+          "be": 1
+        },
+        {
+          "text": "Passende Beispiele für alle vier komplexen Fähigkeiten (z. B. Kugelstoß, wiederholte Blocksprünge, Startbeschleunigung, 200-m-Lauf)",
+          "be": 2
+        }
+      ],
+      "muster": "Nach Grosser und Zintl wird die motorische Schnelligkeit gegliedert in:\n\n1. Reaktionsschnelligkeit: schnellstmögliches Reagieren auf akustische, optische oder taktile Reize.\n\n2. Elementare Schnelligkeitsfähigkeiten (geringe Widerstände, bestimmt durch die Qualität der neuromuskulären Steuerung):\n• Aktionsschnelligkeit (azyklisch), z. B. schneller Fechtstoß\n• Frequenzschnelligkeit (zyklisch), z. B. Tapping, Skippings\n\n3. Komplexe Schnelligkeitsfähigkeiten (höhere Widerstände bzw. Ermüdung):\n• Kraftschnelligkeit (azyklisch, kraftakzentuiert): z. B. Kugelstoß oder Sprungwurf\n• Kraftschnelligkeitsausdauer/Schnellkraftausdauer (azyklisch, ausdauerakzentuiert): z. B. viele Blocksprünge im Volleyballsatz ohne Höhenverlust\n• Sprintkraft (zyklisch, kraftakzentuiert): z. B. Beschleunigungsphase nach dem Tiefstart\n• Sprintausdauer (zyklisch, ausdauerakzentuiert): z. B. 200-m-Lauf, Geschwindigkeit bis ca. 30 s halten",
+      "tipp": "Darstellen heißt: strukturiert und übersichtlich wiedergeben. Gliedere klar nach den drei Ebenen und den Merkmalen zyklisch/azyklisch sowie kraft-/ausdauerakzentuiert."
+    },
+    {
+      "id": "e-q2.3-02",
+      "thema": "Q2.3",
+      "titel": "Ablauf einer Reaktion",
+      "operator": "Beschreiben",
+      "afb": "I",
+      "be": 5,
+      "material": "",
+      "aufgabe": "Beschreiben Sie die Komponenten der Reaktionszeit und unterscheiden Sie Einfach- und Wahlreaktion an je einem sportlichen Beispiel.",
+      "erwartung": [
+        {
+          "text": "Reaktionszeit = Zeit vom Reiz bis zum Bewegungsbeginn",
+          "be": 1
+        },
+        {
+          "text": "Reizaufnahme im Rezeptor und afferente Weiterleitung zum ZNS",
+          "be": 1
+        },
+        {
+          "text": "Verarbeitung im ZNS (Wahrnehmung, Entscheidung, Programmierung), efferente Weiterleitung und Erregung des Muskels",
+          "be": 1
+        },
+        {
+          "text": "Einfachreaktion: ein bekanntes Signal, eine festgelegte Antwort, z. B. Sprintstart auf Startschuss",
+          "be": 1
+        },
+        {
+          "text": "Wahlreaktion: mehrere mögliche Signale/Antworten, deutlich längere Zeit, z. B. Torhüter beim Siebenmeter",
+          "be": 1
+        }
+      ],
+      "muster": "Die Reaktionszeit (Latenzzeit) ist die Zeit vom Reizbeginn bis zum Beginn der Bewegung. Sie setzt sich zusammen aus:\n• Reizaufnahme durch den Rezeptor (Auge, Ohr, Haut)\n• Weiterleitung über afferente Nervenbahnen zum zentralen Nervensystem\n• Verarbeitung im ZNS: Wahrnehmung, Entscheidung, Programmierung der Antwort\n• Weiterleitung über efferente Nervenbahnen zum Muskel\n• Erregung des Muskels bis zur messbaren Kraftentwicklung\n\nUnterscheidung:\n• Einfachreaktion: Auf ein bekanntes Signal folgt eine festgelegte Antwort, z. B. der Sprinter auf den Startschuss.\n• Wahlreaktion: Es gibt mehrere mögliche Signale und Antworten, zwischen denen entschieden werden muss, z. B. die Handballtorhüterin beim Siebenmeter (Ecke links/rechts, hoch/tief). Wahlreaktionen dauern deutlich länger, weil die Entscheidungsphase im ZNS aufwendiger ist.",
+      "tipp": "Beschreibe die Komponenten in der zeitlichen Reihenfolge vom Reiz bis zum Muskel. Beispiele müssen eindeutig zeigen, ob eine oder mehrere Antwortmöglichkeiten bestehen."
+    },
+    {
+      "id": "e-q2.3-03",
+      "thema": "Q2.3",
+      "titel": "Schnelligkeitsarten im 100-m-Lauf",
+      "operator": "Zuordnen",
+      "afb": "II",
+      "be": 6,
+      "material": "Abschnittszeiten eines Schülers im 100-m-Lauf (elektronisch gemessen):\n• 0–10 m: 1,95 s (davon Reaktionszeit 0,17 s)\n• 10–30 m: 2,30 s\n• 30–60 m: 3,24 s\n• 60–80 m: 2,14 s\n• 80–100 m: 2,22 s\nGesamtzeit: 11,85 s",
+      "aufgabe": "Ordnen Sie den Abschnitten des Laufs die Geschwindigkeitsabschnitte nach Jonath et al. sowie die jeweils dominierenden Schnelligkeitsfähigkeiten zu. Belegen Sie Ihre Zuordnung mit den Daten.",
+      "erwartung": [
+        {
+          "text": "Reaktionsabschnitt (0,17 s): Reaktionsschnelligkeit als Einfachreaktion auf akustisches Signal",
+          "be": 1
+        },
+        {
+          "text": "0–30 m positiver Beschleunigungsabschnitt: Sprintkraft (zyklisch gegen Trägheit der Körpermasse), Startabdruck Kraftschnelligkeit",
+          "be": 2
+        },
+        {
+          "text": "30–60 m gleichförmiger Abschnitt mit Höchstgeschwindigkeit (ca. 9,3 m/s, auch 60–80 m ca. 9,3 m/s): Frequenzschnelligkeit und Reaktivkraft",
+          "be": 2
+        },
+        {
+          "text": "80–100 m negativer Beschleunigungsabschnitt (Geschwindigkeit sinkt auf ca. 9,0 m/s): Sprintausdauer",
+          "be": 1
+        }
+      ],
+      "muster": "Berechnete Durchschnittsgeschwindigkeiten: 10–30 m: 20 m / 2,30 s ≈ 8,7 m/s; 30–60 m: 30 m / 3,24 s ≈ 9,3 m/s; 60–80 m: 20 m / 2,14 s ≈ 9,3 m/s; 80–100 m: 20 m / 2,22 s ≈ 9,0 m/s.\n\n• Reaktionsabschnitt (0,17 s vor der Bewegung): Reaktionsschnelligkeit, genauer Einfachreaktion auf das akustische Startsignal.\n• Positiver Beschleunigungsabschnitt (0 bis ca. 30 m): Die Geschwindigkeit steigt stark an. Dominierend ist die Sprintkraft, da der Körper zyklisch gegen den hohen Widerstand seiner eigenen Trägheit beschleunigt werden muss; beim Abdruck aus dem Block zusätzlich Kraftschnelligkeit.\n• Gleichförmiger Geschwindigkeitsabschnitt (ca. 30–80 m): Die Geschwindigkeit bleibt mit ca. 9,3 m/s maximal und konstant. Dominierend sind Frequenzschnelligkeit (zyklische Bewegung bei geringem Widerstand) und Reaktivkraft (kurze Bodenkontakte).\n• Negativer Beschleunigungsabschnitt (80–100 m): Die Geschwindigkeit fällt auf ca. 9,0 m/s ab. Gefragt ist die Sprintausdauer, also die Widerstandsfähigkeit gegen ermüdungsbedingten Geschwindigkeitsabfall.",
+      "tipp": "Zuordnen heißt: Sachverhalte begründet in einen Zusammenhang stellen. Rechne die Geschwindigkeiten aus, damit deine Zuordnung durch die Daten belegt ist."
+    },
+    {
+      "id": "e-q2.3-04",
+      "thema": "Q2.3",
+      "titel": "Die Schnelligkeitsbarriere",
+      "operator": "Erläutern",
+      "afb": "II",
+      "be": 6,
+      "material": "Leon (16) läuft seit zwei Jahren dreimal pro Woche 6 × 60 m in gleichbleibendem, „zügigem“ Tempo. Seine 60-m-Zeit stagniert seit Monaten bei 7,90 s.",
+      "aufgabe": "Erläutern Sie mithilfe des Begriffs Schnelligkeitsbarriere, wie es zu Leons Stagnation gekommen ist, und erläutern Sie zwei Möglichkeiten, die Barriere zu überwinden.",
+      "erwartung": [
+        {
+          "text": "Schnelligkeitsbarriere = Stagnation der Schnelligkeitsleistung auf einem bestimmten Niveau",
+          "be": 1
+        },
+        {
+          "text": "Entstehung bei Leon: gleichförmige Wiederholung mit immer gleicher, submaximaler Geschwindigkeit → stabiles Bewegungsmuster (dynamischer Stereotyp) mit festen räumlich-zeitlichen Parametern im ZNS",
+          "be": 2
+        },
+        {
+          "text": "Möglichkeit 1 mit Erläuterung, z. B. erleichterte Bedingungen (Bergabläufe, Zugseil) → supramaximale Geschwindigkeit, neue Frequenzmuster",
+          "be": 1
+        },
+        {
+          "text": "Möglichkeit 2 mit Erläuterung, z. B. Kontrastmethode (erschwert – normal – erleichtert) oder Variation der Inhalte/Krafttraining",
+          "be": 1
+        },
+        {
+          "text": "Hinweis, dass Leon künftig mit maximaler Geschwindigkeit nach der Wiederholungsmethode trainieren muss",
+          "be": 1
+        }
+      ],
+      "muster": "Unter der Schnelligkeitsbarriere versteht man die Stagnation der Schnelligkeitsleistung auf einem bestimmten Niveau.\n\nEntstehung bei Leon:\n• Leon läuft seit zwei Jahren immer dieselbe Strecke in immer demselben, nur „zügigen“ (also submaximalen) Tempo.\n• Durch diese häufige, gleichförmige Wiederholung wird im ZNS ein stabiles Bewegungsmuster (dynamischer Stereotyp) mit festgelegten räumlich-zeitlichen Parametern (Schrittfrequenz, Schrittlänge) eingeschliffen.\n• Dieses Muster lässt sich nur schwer überwinden; Leons 60-m-Zeit stagniert bei 7,90 s.\n\nMöglichkeiten zur Überwindung:\n• Erleichterte Bedingungen: Läufe mit leichtem Gefälle oder mit unterstützendem Zugseil ermöglichen supramaximale Geschwindigkeiten. Leon erlebt höhere Schrittfrequenzen, das starre Programm wird aufgebrochen.\n• Kontrastmethode: Wechsel von erschwerten (Bergauf, Zugwiderstand), normalen und erleichterten Bedingungen; die wechselnden Anforderungen verhindern ein erneutes Einschleifen eines starren Musters.\n• Ergänzend: Variation der Inhalte (Koordinationsläufe, Sprint-ABC) und Krafttraining für bessere Kraftvoraussetzungen.\n\nZudem muss Leon künftig mit maximaler Geschwindigkeit und vollständigen Pausen (Wiederholungsmethode) trainieren, sonst schleift er erneut ein langsameres Muster ein.",
+      "tipp": "Erläutern verlangt Begriff, Zusammenhang und Beispielbezug. Verbinde die Entstehung der Barriere ausdrücklich mit Leons Trainingsgewohnheiten."
+    },
+    {
+      "id": "e-q2.3-05",
+      "thema": "Q2.3",
+      "titel": "Fehler in einer Sprinteinheit",
+      "operator": "Analysieren",
+      "afb": "II",
+      "be": 8,
+      "material": "Trainingseinheit einer Schul-Leichtathletik-AG (Ziel: Verbesserung der Sprintschnelligkeit), November, Außentemperatur 6 °C:\n1. 5 min lockeres Einlaufen\n2. 10 min statisches Dehnen (je Muskel 30 s halten)\n3. 20 min Kraftausdauer-Zirkel (Liegestütz, Sit-ups, Kniebeugen)\n4. 10 × 40 m Sprint, Pause jeweils 45 s Gehen\n5. 15 min Auslaufen",
+      "aufgabe": "Analysieren Sie die Trainingseinheit anhand der trainingspraktischen Grundsätze zum Schnelligkeitstraining.",
+      "erwartung": [
+        {
+          "text": "Aufwärmen zu kurz: nötig 15–30 min, Körperkerntemperatur ca. 38,5 °C (bei Kälte besonders wichtig)",
+          "be": 1
+        },
+        {
+          "text": "Statisches Dehnen ungünstig: senkt Tonus/Vorspannung; besser dynamisches (tonisierendes) Dehnen für Elastizität und Entspannungsfähigkeit",
+          "be": 1
+        },
+        {
+          "text": "Reihenfolge falsch: Sprints nach dem Kraftzirkel → Ermüdung; Grundsatz Schnelligkeit vor Kraft vor Ausdauer, Schnelligkeit im ersten Teil",
+          "be": 2
+        },
+        {
+          "text": "Pausen zu kurz: Faustregel 1 min pro 10 m → ca. 4 min (2–3 min WP); bei 45 s keine KP-Resynthese, Sprints nicht maximal",
+          "be": 2
+        },
+        {
+          "text": "Umfang/Organisation: 10 Sprints ohne Serienstruktur, besser 3–4 Serien à 4–5 mit Serienpause 4–5 min",
+          "be": 1
+        },
+        {
+          "text": "Fehlende Leistungskontrolle/Feedback (Zeitmessung) bzw. Folge: Training wird zum Schnelligkeitsausdauer-/Ausdauertraining, Gefahr der Schnelligkeitsbarriere",
+          "be": 1
+        }
+      ],
+      "muster": "Die Einheit verfehlt ihr Ziel, weil mehrere Grundsätze des Schnelligkeitstrainings verletzt werden:\n\n• Erhöhte Körperkerntemperatur: 5 min Einlaufen reichen nicht. Angestrebt werden ca. 38,5 °C, dafür sind 15–30 min systematisches Aufwärmen nötig – bei 6 °C erst recht.\n• Elastizität und Entspannungsfähigkeit: 10 min statisches Dehnen senkt Muskeltonus und Vorspannung. Vor Schnelligkeitstraining ist tonisierendes, dynamisches Dehnen angebracht.\n• Vermeidung muskulärer Ermüdung / Schnelligkeit vor Kraft vor Ausdauer: Die Sprints folgen auf einen 20-minütigen Kraftausdauerzirkel. Die Schüler sind vorermüdet; Schnelligkeitstraining gehört direkt nach das Aufwärmen.\n• Maximale Geschwindigkeit und Wiederholungsmethode: Für 40-m-Sprints gilt die Faustregel 1 min Pause pro 10 m, also ca. 4 min (Steinhöfer: WP 2–3 min, SP 4–5 min). Nach 45 s sind die KP-Speicher nicht wieder aufgefüllt, die Geschwindigkeit sinkt von Lauf zu Lauf.\n• Umfang und Organisation: Statt 10 Sprints am Stück wären 3–4 Serien zu je 4–5 Sprints mit längerer Serienpause sinnvoll.\n• Leistungskontrolle und Feedback: Es ist keine Zeitmessung vorgesehen.\n\nFolge: Die Einheit trainiert eher Schnelligkeitsausdauer bzw. Kurzzeitausdauer unter Ermüdung als Sprintschnelligkeit. Durch das Laufen mit sinkender Geschwindigkeit droht zudem eine Schnelligkeitsbarriere.",
+      "tipp": "Gehe die Einheit Schritt für Schritt durch und benenne bei jedem Fehler den verletzten Grundsatz mit Fachbegriff und, wenn möglich, dem richtigen Richtwert."
+    },
+    {
+      "id": "e-q2.3-06",
+      "thema": "Q2.3",
+      "titel": "Tapping und Drop-Jump im Vergleich",
+      "operator": "Vergleichen",
+      "afb": "II",
+      "be": 6,
+      "material": "Testergebnisse zweier Fußballspielerinnen (17 Jahre):\n• Nele: Fußtapping 12,4 Hz; Nieder-Hoch-Sprung (20 cm) Bodenkontaktzeit 205 ms\n• Aylin: Fußtapping 10,1 Hz; Nieder-Hoch-Sprung (20 cm) Bodenkontaktzeit 164 ms",
+      "aufgabe": "Vergleichen Sie die Testergebnisse der beiden Spielerinnen und ziehen Sie Schlussfolgerungen für ihr Schnelligkeitsprofil.",
+      "erwartung": [
+        {
+          "text": "Fußtapping misst elementare zyklische Schnelligkeit (Frequenzschnelligkeit); Drop-Jump-Kontaktzeit misst elementare azyklische Schnelligkeit (Aktionsschnelligkeit) bzw. Qualität der Bewegungsprogramme",
+          "be": 2
+        },
+        {
+          "text": "Nele: Tapping über 12 Hz = perspektivisch günstig, Kontaktzeit über 170 ms = Schwäche in der azyklischen Schnelligkeit/reaktiven Spannungsfähigkeit",
+          "be": 1
+        },
+        {
+          "text": "Aylin: Kontaktzeit unter 170 ms = günstig, Tapping 10,1 Hz unterdurchschnittlich für Leistungsniveau (Spitzenleichtathleten ca. 12 Hz)",
+          "be": 1
+        },
+        {
+          "text": "Schlussfolgerung: gegensätzliche Profile; Nele Stärke in Frequenz (Laufschnelligkeit), Aylin in azyklischen Aktionen (Antritt, Absprung)",
+          "be": 1
+        },
+        {
+          "text": "Hinweis auf eingeschränkte Trainierbarkeit elementarer Schnelligkeit (genetisch geprägt) bzw. Trainingsableitung",
+          "be": 1
+        }
+      ],
+      "muster": "Bedeutung der Tests:\n• Fußtapping erfasst die elementare zyklische Schnelligkeit (Frequenzschnelligkeit) als nervale Voraussetzung für hohe Laufgeschwindigkeiten. Frequenzen über 12 Hz gelten als perspektivisch günstig.\n• Der Nieder-Hoch-Sprung aus 20 cm erfasst über die Bodenkontaktzeit die elementare azyklische Schnelligkeit, also die Qualität der zugrunde liegenden Bewegungsprogramme. Kontaktzeiten unter 170 ms gelten als günstig.\n\nVergleich:\n• Nele erreicht mit 12,4 Hz einen sehr guten Tappingwert (über dem Mittel von Spitzenleichtathleten mit ca. 11,9 Hz), ihre Kontaktzeit liegt mit 205 ms aber klar über 170 ms.\n• Aylin zeigt das umgekehrte Bild: Ihre Kontaktzeit ist mit 164 ms günstig, ihre Tappingfrequenz mit 10,1 Hz dagegen eher durchschnittlich (Fußballer im Mittel ca. 10,5 Hz).\n\nSchlussfolgerung:\n• Nele hat eine Stärke in der Frequenzschnelligkeit und damit gute Voraussetzungen für hohe Laufgeschwindigkeit; Schwächen hat sie bei azyklischen, reaktiven Aktionen wie Absprüngen oder schnellen Stopps.\n• Aylin ist bei azyklischen Einzelaktionen (Antritt, Kopfballsprung) stark, bei zyklischer Frequenz schwächer.\n• Da die elementare Schnelligkeit weitgehend genetisch bestimmt und nur begrenzt trainierbar ist, sollten beide ihre Stärken nutzen und Schwächen über Technik, Koordinationsmethode und Kraft-/Reaktivkrafttraining teilweise ausgleichen.",
+      "tipp": "Vergleichen heißt: Gemeinsamkeiten und Unterschiede kriteriengeleitet herausarbeiten. Nutze die Richtwerte (12 Hz, 170 ms) als Maßstab und formuliere am Ende ein Ergebnis."
+    },
+    {
+      "id": "e-q2.3-07",
+      "thema": "Q2.3",
+      "titel": "Werden Sprinter geboren?",
+      "operator": "Stellung nehmen",
+      "afb": "III",
+      "be": 8,
+      "material": "In einem Zeitungsinterview sagt ein ehemaliger Leichtathletiktrainer: „Gute Sprinter werden als solche geboren. Was die Natur nicht mitgegeben hat, kann auch das beste Training nicht ersetzen.“",
+      "aufgabe": "Nehmen Sie Stellung zur Aussage des Trainers.",
+      "erwartung": [
+        {
+          "text": "Pro: Muskelfaserverteilung (FT-Anteil) weitgehend genetisch festgelegt",
+          "be": 1
+        },
+        {
+          "text": "Pro: elementare Schnelligkeit und Reaktionsschnelligkeit nur in engen Grenzen trainierbar (angeborene Komponenten der neuralen Steuerung), Körperbau",
+          "be": 1
+        },
+        {
+          "text": "Contra: komplexe Schnelligkeit gut trainierbar, v. a. Maximal-/Schnellkraft (Sprintkraft), Technik/intermuskuläre Koordination",
+          "be": 2
+        },
+        {
+          "text": "Contra: anaerobe Energiebereitstellung, Sprintausdauer, Antizipation (Startreaktion) trainierbar; Querschnitt und Ansteuerung der FT-Fasern veränderbar",
+          "be": 1
+        },
+        {
+          "text": "Bedeutung frühzeitiger Schulung im Kindesalter (sensible Phasen) einbezogen",
+          "be": 1
+        },
+        {
+          "text": "Strukturierte Abwägung beider Seiten",
+          "be": 1
+        },
+        {
+          "text": "Begründetes Fazit (z. B. Anlage notwendige, aber nicht hinreichende Bedingung)",
+          "be": 1
+        }
+      ],
+      "muster": "Die Aussage ist teilweise richtig, greift aber zu kurz.\n\nArgumente für die Aussage:\n• Die Muskelfaserverteilung, also ein hoher Anteil schneller FT-Fasern, ist weitgehend genetisch festgelegt und durch Training kaum veränderbar.\n• Elementare Schnelligkeit (Aktions- und Frequenzschnelligkeit) und Reaktionsschnelligkeit hängen von angeborenen Komponenten der neuralen Steuerung ab und sind nur in engen Grenzen trainierbar.\n• Auch der Körperbau (Hebelverhältnisse, Beinlänge) ist vorgegeben.\n\nArgumente gegen die Aussage:\n• Sprinten ist überwiegend eine komplexe Schnelligkeitsleistung. Sprintkraft in der Beschleunigung hängt in hohem Maße von der Maximal- und Schnellkraft ab, die gut trainierbar sind (z. B. IK-Training, Reaktivkraftmethode).\n• Technik und inter-/intramuskuläre Koordination lassen sich mit der Koordinationsmethode deutlich verbessern.\n• Die anaerob-alaktazide Energiebereitstellung (KP-Speicher) und die Sprintausdauer sind trainierbar.\n• Die Startreaktion kann über Antizipation und Technik verbessert werden.\n• Querschnitt und Ansteuerung der vorhandenen FT-Fasern lassen sich steigern.\n• Gerade im Kindesalter muss Schnelligkeit frühzeitig geschult werden; wer diese Phase verpasst, schöpft sein Potenzial nicht aus.\n\nFazit: Die genetische Anlage ist eine notwendige Voraussetzung für Spitzenleistungen im Sprint, aber keine hinreichende. Erst langfristiges, frühzeitig begonnenes und gezieltes Training macht aus Talent einen guten Sprinter. Der zweite Satz des Trainers ist daher nur für die elementaren Komponenten zutreffend.",
+      "tipp": "Stellung nehmen heißt: begründete eigene Position nach Abwägung beider Seiten. Trenne trainierbare und kaum trainierbare Faktoren klar voneinander und schließe mit einem eindeutigen Fazit."
+    },
+    {
+      "id": "e-q2.3-08",
+      "thema": "Q2.3",
+      "titel": "Reaktionstraining für eine Handballtorhüterin",
+      "operator": "Entwickeln",
+      "afb": "III",
+      "be": 8,
+      "material": "Torhüterin Pia (17) spielt in der Jugend-Bundesliga. Ihr Trainer stellt fest, dass sie bei Würfen aus dem Rückraum oft „zu spät“ reagiert, obwohl sie bei einem Lichtsignal-Reaktionstest sehr gute Werte erzielt.",
+      "aufgabe": "Entwickeln Sie für Pia Inhalte eines Reaktions- und Antizipationstrainings und begründen Sie Ihre Auswahl.",
+      "erwartung": [
+        {
+          "text": "Erklärung des Widerspruchs: Lichtsignaltest = Einfachreaktion; im Spiel Wahlreaktion unter Zeitdruck, reine Reaktion zu langsam → Antizipation nötig",
+          "be": 2
+        },
+        {
+          "text": "Bezug zur Antizipationsmethode (Steinhöfer): Reaktionstraining im Rahmen des Technik- und Taktiktrainings, spielnahe komplexe Signale",
+          "be": 1
+        },
+        {
+          "text": "Mindestens zwei konkrete, spielnahe Übungen (z. B. Würfe mit variierenden Wurfarmen/Täuschungen, Videotraining zu Ausholbewegungen, Würfe aus wechselnden Positionen auf Zuruf)",
+          "be": 2
+        },
+        {
+          "text": "Ergänzend Technikschulung der Abwehrbewegungen (Reaktionsmethode: Technik einschleifen) bzw. Steigerung von Einfach- zu Wahlreaktionen",
+          "be": 1
+        },
+        {
+          "text": "Belastungsgestaltung begründet: ausgeruhter Zustand, kurze Serien, ausreichende Pausen, Konzentration/maximale Willensanspannung",
+          "be": 1
+        },
+        {
+          "text": "Stimmiges Gesamtkonzept mit Progression (einfach → komplex)",
+          "be": 1
+        }
+      ],
+      "muster": "Analyse:\nDer Lichtsignal-Reaktionstest erfasst eine Einfachreaktion auf ein bekanntes Signal. Im Spiel muss Pia dagegen Wahlreaktionen unter hohem Zeitdruck leisten (Wurfecke, Wurfhöhe, Täuschung). Eine reine Reaktion auf den fliegenden Ball ist dafür zu langsam. Pia muss lernen, Würfe zu antizipieren, also aus Anlauf, Körperhaltung und Ausholbewegung des Werfers den Wurf vorherzusagen. Die Reaktionsschnelligkeit selbst ist zudem nur begrenzt trainierbar, die Antizipation dagegen gut.\n\nTrainingskonzept (Antizipationsmethode nach Steinhöfer, eingebettet ins Technik- und Taktiktraining):\n1. Techniksicherung (Reaktionsmethode): Abwehrbewegungen (Spreizen, Beinparade, hohe Bälle) auf einfache Signale einschleifen, bis sie automatisiert sind.\n2. Von Einfach- zu Wahlreaktionen: Würfe auf Zuruf des Trainers in zwei, später vier mögliche Ecken.\n3. Antizipationsschulung mit Video: Ausholbewegungen von Rückraumwerferinnen kurz vor dem Abwurf stoppen, Pia sagt die Wurfecke voraus.\n4. Spielnahe Würfe: Rückraumspielerinnen werfen aus wechselnden Positionen mit unterschiedlichen Wurfarmen und Täuschungen; Pia achtet gezielt auf Schlüsselreize (Schulter-, Handgelenkstellung).\n5. Komplexe Spielformen: 3:3 auf das Tor, Würfe mit Sichtbehinderung durch Abwehrspielerinnen.\n\nBelastungsgestaltung:\n• Im ausgeruhten Zustand zu Beginn der Einheit, kurze Serien (z. B. 6–8 Würfe), ausreichende Pausen, damit Konzentration und maximale Willensanspannung erhalten bleiben.\n• Rückmeldung nach jeder Serie (Trefferquote, Video).\n• Progression von einfachen zu komplexen Signalen, damit die Informationsanforderungen stetig steigen.",
+      "tipp": "Entwickeln verlangt eine eigene, begründete Lösung. Kläre zuerst, warum Testwert und Spielleistung auseinanderfallen, und leite daraus die Inhalte ab."
+    }
+  ],
+  "klausuren": [
+    {
+      "id": "k-q2.2-1",
+      "themen": [
+        "Q2.2",
+        "Q1.1"
+      ],
+      "titel": "Sprungkraft einer Volleyballerin",
+      "zeit": 110,
+      "einleitung": "Sophie (17, 1,78 m, 68 kg) spielt als Außenangreiferin in der U18-Regionalliga Volleyball. Im Leistungstest vor der Saison schneidet sie bei den Sprungtests schlechter ab als ihre Mitspielerinnen. Ihr Trainer hat ihr daraufhin einen zusätzlichen Krafttrainingsplan gegeben. Sie sollen Sophies Leistungsvoraussetzungen und ihr Training fachlich untersuchen und verbessern.",
+      "material": [
+        {
+          "titel": "M1: Fallbeispiel Sophie",
+          "text": "Sophie trainiert viermal pro Woche Volleyball (Technik, Taktik, Spielformen) und spielt am Wochenende. Im Spiel springt sie pro Satz etwa 15- bis 20-mal zum Angriff oder Block. Sie berichtet: „Bei meinen Angriffssprüngen komme ich nach drei Anlaufschritten einfach nicht so hoch wie die anderen. Ich habe das Gefühl, ich ‚versacke‘ beim Absprung im Boden.“ Krafttraining hat sie bisher nur im Rahmen von Zirkeltraining in der Halle gemacht. Verletzungen hatte sie bislang keine."
+        },
+        {
+          "titel": "M2: Zusatz-Krafttrainingsplan des Trainers (6 Wochen)",
+          "tabelle": {
+            "kopf": [
+              "Tag",
+              "Inhalt",
+              "Intensität",
+              "Wiederholungen/Serien",
+              "Pausen"
+            ],
+            "zeilen": [
+              [
+                "Montag",
+                "Kraftzirkel mit 8 Stationen (Beinpresse, Ausfallschritte, Wadenheben, Sit-ups, Rückenstrecker, Liegestütz, Rudern, Kniebeuge)",
+                "40 % Kmax, langsam bis zügig",
+                "je 25 Wdh., 3 Durchgänge",
+                "30 s zwischen Stationen, 2 min zwischen Durchgängen"
+              ],
+              [
+                "Donnerstag",
+                "Drop-Jumps (Tief-Hoch-Sprünge) von einem 60 cm hohen Kasten",
+                "maximal",
+                "5 Serien × 10 Sprünge",
+                "1 min zwischen den Serien"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Ergebnisse des Leistungstests",
+          "tabelle": {
+            "kopf": [
+              "Test",
+              "Sophie",
+              "Mittelwert der Mannschaft"
+            ],
+            "zeilen": [
+              [
+                "Squat-Jump (Sprunghöhe)",
+                "31 cm",
+                "32 cm"
+              ],
+              [
+                "Counter-Movement-Jump (Sprunghöhe)",
+                "34 cm",
+                "38 cm"
+              ],
+              [
+                "Drop-Jump aus 40 cm: Sprunghöhe",
+                "29 cm",
+                "36 cm"
+              ],
+              [
+                "Drop-Jump aus 40 cm: Bodenkontaktzeit",
+                "280 ms",
+                "195 ms"
+              ],
+              [
+                "Kniebeuge (Langhantel): Last × maximale Wiederholungen",
+                "60 kg × 8",
+                "–"
+              ],
+              [
+                "Kniebeuge: geschätzte Maximalkraft relativ zum Körpergewicht",
+                "?",
+                "1,30"
+              ]
+            ]
+          }
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Darstellen",
+          "afb": "I",
+          "be": 8,
+          "aufgabe": "Stellen Sie die Erscheinungsformen der Kraft und ihre Wechselbeziehungen dar. Definieren Sie dabei Maximalkraft, Schnellkraft und Reaktivkraft.",
+          "erwartung": [
+            {
+              "text": "Definition Maximalkraft: höchstmögliche Kraft bei maximaler willkürlicher Kontraktion gegen einen Widerstand (statisch, konzentrisch, exzentrisch)",
+              "be": 1
+            },
+            {
+              "text": "Definition Schnellkraft: Fähigkeit, Widerstände mit höchstmöglicher Kontraktionsgeschwindigkeit zu überwinden bzw. in kurzer Zeit einen großen Impuls zu erteilen",
+              "be": 1
+            },
+            {
+              "text": "Definition Reaktivkraft: hoher Kraftstoß im Dehnungs-Verkürzungs-Zyklus, Kopplung exzentrisch-konzentrisch unter 200 ms",
+              "be": 1
+            },
+            {
+              "text": "Startkraft (Kraftwert nach 30 ms) und Explosivkraft (maximaler Kraftanstieg) als weitere Formen genannt und erklärt",
+              "be": 2
+            },
+            {
+              "text": "Kraftausdauer als Ermüdungswiderstandsfähigkeit bei Kraftleistungen (Maximalkraftausdauer, Schnellkraftausdauer)",
+              "be": 1
+            },
+            {
+              "text": "Wechselbeziehung: Maximalkraft als Basis aller Kraftarten; Explosivkraft zwischen Maximal- und Reaktivkraft, Startkraft zwischen Reaktiv- und Schnellkraft",
+              "be": 2
+            }
+          ],
+          "muster": "Kraft im Sport ist die Fähigkeit des neuromuskulären Systems, durch Innervations- und Stoffwechselprozesse mit mehr als 30 % des Kraftmaximums Widerstände zu überwinden, ihnen entgegenzuwirken oder sie zu halten. Man unterscheidet folgende Erscheinungsformen:\n\n• Maximalkraft: höchstmögliche Kraft, die das neuromuskuläre System bei maximaler willkürlicher Kontraktion gegen einen Widerstand entfalten kann; statisch, konzentrisch oder exzentrisch.\n• Schnellkraft: Fähigkeit, den eigenen Körper oder ein Gerät mit höchster Geschwindigkeit zu bewegen bzw. Widerständen in möglichst kurzer Zeit einen möglichst großen Impuls zu erteilen.\n• Reaktivkraft: Fähigkeit, bei Dehnungs-Verkürzungs-Zyklen einen hohen Kraftstoß zu erzeugen; die Umkehr von exzentrischer zu konzentrischer Phase muss unter 200 ms liegen.\n• Startkraft: Kraftwert 30 ms nach Kontraktionsbeginn, also hohe Anfangskraft; Grundlage ist die Aktivierung vieler FTG-Fasern.\n• Explosivkraft: maximaler Kraftanstieg im Kraft-Zeit-Verlauf; stark von der Maximalkraft abhängig.\n• Kraftausdauer: Ermüdungswiderstandsfähigkeit bei lang andauernden oder sich wiederholenden Kraftleistungen; unterteilt in Maximalkraftausdauer und Schnellkraftausdauer.\n\nWechselbeziehungen (modifiziert nach Steinhöfer):\n• Die Maximalkraft ist die Basis aller anderen Kraftarten.\n• Auf einer Grundachse von der Maximalkraft zur Schnellkraft liegen Explosivkraft (zwischen Maximal- und Reaktivkraft) und Startkraft (zwischen Reaktiv- und Schnellkraft).\n• Je höher der Widerstand, desto stärker dominiert die Maximalkraft; bei geringen Widerständen dominiert die Startkraft.\n• Die Kraftausdauer überlagert diese Formen."
+        },
+        {
+          "nr": "2",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 4,
+          "aufgabe": "Beschreiben Sie den Dehnungs-Verkürzungs-Zyklus am Beispiel von Sophies Angriffsabsprung.",
+          "erwartung": [
+            {
+              "text": "Exzentrische Bremsphase beim Aufsetzen nach dem Anlauf: Knie- und Fußstrecker werden unter Spannung gedehnt",
+              "be": 1
+            },
+            {
+              "text": "Speicherung elastischer Energie in Sehnen und Muskeln (Gummiband-Modell)",
+              "be": 1
+            },
+            {
+              "text": "Auslösung des Dehnungsreflexes (Muskelspindel) mit zusätzlicher reflektorischer Innervation",
+              "be": 1
+            },
+            {
+              "text": "Unmittelbar folgende konzentrische Phase setzt Energie und Reflexinnervation frei → höherer Kraftstoß; nur bei kurzer Kopplung (< 200 ms), sonst Verlust als Wärme",
+              "be": 1
+            }
+          ],
+          "muster": "Beim Angriffsabsprung setzt Sophie nach dem letzten Anlaufschritt mit beiden Füßen auf. \n• Exzentrische Phase (Bremsphase): Knie- und Fußstrecker (M. quadriceps, M. triceps surae) werden unter Spannung gedehnt und bremsen die Abwärtsbewegung.\n• Dabei wird wie in einem gespannten Gummiband elastische Energie in Sehnen und Muskeln gespeichert.\n• Zusätzlich löst die schnelle Dehnung über die Muskelspindeln den Dehnungsreflex aus, der eine zusätzliche reflektorische Innervation bewirkt.\n• Konzentrische Phase: Unmittelbar danach verkürzen sich die Muskeln; gespeicherte Energie und Reflexinnervation werden freigesetzt, sodass ein höherer Kraftstoß entsteht als bei rein konzentrischer Arbeit.\n• Voraussetzung ist eine sehr kurze Umkehr unter 200 ms, sonst verpufft die Energie als Wärme."
+        },
+        {
+          "nr": "3",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie Sophies Testergebnisse (M3). Ermitteln Sie dazu ihre Maximalkraft in der Kniebeuge (Formel: MK = W / (1,0278 – 0,0278 · x)) sowie ihre relative Kraft, und beziehen Sie Ihre Ergebnisse auf ihre Beschreibung in M1.",
+          "erwartung": [
+            {
+              "text": "Berechnung: 1,0278 – 0,0278 · 8 = 0,8054; MK = 60 kg / 0,8054 ≈ 74,5 kg",
+              "be": 1
+            },
+            {
+              "text": "Relative Kraft: 74,5 kg / 68 kg ≈ 1,10, deutlich unter Mannschaftsmittel 1,30 → Maximalkraftdefizit",
+              "be": 1
+            },
+            {
+              "text": "Squat-Jump (31 vs. 32 cm) nahezu durchschnittlich → konzentrische Schnellkraft kaum defizitär",
+              "be": 1
+            },
+            {
+              "text": "CMJ – SJ: Sophie nur +3 cm, Mannschaft +6 cm → geringe Nutzung des DVZ bei langsamer Ausholbewegung",
+              "be": 2
+            },
+            {
+              "text": "Drop-Jump: Sprunghöhe sogar unter CMJ, Kontaktzeit 280 ms > 200 ms → kein schneller DVZ, geringe reaktive Spannungsfähigkeit",
+              "be": 2
+            },
+            {
+              "text": "Bezug zu M1: „Versacken“ beim Absprung entspricht langer Bodenkontaktzeit/fehlender Reaktivkraft und Maximalkraftbasis",
+              "be": 1
+            }
+          ],
+          "muster": "Maximalkraft und relative Kraft:\n• Anteil der Maximalkraft bei 8 Wiederholungen: 1,0278 – 0,0278 · 8 = 0,8054.\n• MK = 60 kg / 0,8054 ≈ 74,5 kg.\n• Relative Kraft: 74,5 kg / 68 kg ≈ 1,10. Das Mannschaftsmittel liegt bei 1,30. Sophie hat also ein deutliches Defizit in der Maximalkraft der Beinstrecker.\n\nSprungtests:\n• Squat-Jump (rein konzentrische Schnellkraft): 31 cm gegenüber 32 cm – Sophie liegt fast im Durchschnitt.\n• Counter-Movement-Jump (exzentrisch-konzentrische Schnellkraft): 34 cm gegenüber 38 cm. Der Gewinn durch die Ausholbewegung beträgt bei Sophie nur 3 cm, bei der Mannschaft 6 cm. Sie nutzt die Vorteile des Dehnungs-Verkürzungs-Zyklus (elastische Energie, Dehnungsreflex) kaum.\n• Drop-Jump (Reaktivkraft): Sophie springt mit 29 cm sogar niedriger als im CMJ, die Mannschaft dagegen ähnlich hoch. Ihre Bodenkontaktzeit von 280 ms liegt weit über der Grenze von 200 ms für einen schnellen DVZ (Mannschaft 195 ms). Sophie kann die Spannung in der exzentrischen Phase nicht halten; die reaktive Spannungsfähigkeit ist gering.\n\nBezug zu M1:\n• Sophies Gefühl, beim Absprung im Boden zu „versacken“, wird durch die lange Kontaktzeit und die geringe Drop-Jump-Leistung bestätigt. Ursache sind eine fehlende Maximalkraftbasis (Reaktivkraft hängt von Maximalkraft, schneller Kontraktionsfähigkeit und reaktiver Spannungsfähigkeit ab) und eine schwach ausgeprägte Reaktivkraft. Da der Angriffssprung nach Anlauf ein DVZ ist, ist dies für ihre Spielposition leistungslimitierend."
+        },
+        {
+          "nr": "4",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erläutern Sie, welche Krafttrainingsmethode der Trainer am Montag (M2) einsetzt, welche Anpassungen der Muskulatur dadurch zu erwarten sind und inwiefern diese Sophies Defizite beheben.",
+          "erwartung": [
+            {
+              "text": "Methode: Kraftausdauermethode (Intervallmethode, 35–60 % Kmax, viele Wdh., kurze Pausen, Zirkeltraining)",
+              "be": 1
+            },
+            {
+              "text": "Belegung mit Normativen aus M2 (40 %, 25 Wdh., 30 s ÜP, Zirkel mit 8 Stationen)",
+              "be": 1
+            },
+            {
+              "text": "Rekrutierung: langsame Ausführung bei geringer Last spricht vorwiegend ST-Fasern an (Henneman), FT-Fasern kaum",
+              "be": 2
+            },
+            {
+              "text": "Zu erwartende Anpassungen: verbesserte aerobe/anaerobe Glykolyse, Ermüdungswiderstandsfähigkeit, Hypertrophie gering, keine Verbesserung der IK (ZNS-Wirkung keine)",
+              "be": 2
+            },
+            {
+              "text": "Bewertung: Maximalkraft- und Reaktivkraftdefizit aus Aufgabe 3 werden nicht behoben; Volleyball fordert v. a. Schnell-/Reaktivkraft mit anaerob-alaktazider Energiebereitstellung",
+              "be": 2
+            }
+          ],
+          "muster": "Methode:\nAm Montag setzt der Trainer die Kraftausdauermethode ein. Das zeigen die Belastungsnormative: geringe Intensität (40 % Kmax, im Bereich 35–60 %), viele Wiederholungen (25), langsame bis zügige Ausführung, kurze Übungspausen (30 s) und die Organisationsform Zirkeltraining mit 8 Stationen. Es handelt sich um eine Intervallmethode mit lohnenden Pausen.\n\nZu erwartende Anpassungen:\n• Nach dem Rekrutierungsprinzip (Henneman) werden bei geringer Last und langsamer Ausführung vorwiegend die kleinen motorischen Einheiten mit ST-Fasern aktiviert. Die großen FT-Einheiten, die für explosive Sprünge entscheidend sind, werden kaum angesprochen und können sich deshalb auch nicht anpassen.\n• Die Wirkung liegt im Stoffwechsel: Verbesserung der aeroben und anaeroben Glykolyse, bessere Energieversorgung der Muskulatur und damit höhere Ermüdungswiderstandsfähigkeit.\n• Die Hypertrophie ist gering bis mittel; eine Wirkung auf das ZNS (intramuskuläre Koordination) ist praktisch nicht vorhanden.\n\nBezug zu Sophies Defiziten:\n• Sophies Probleme liegen in der Maximalkraft (relative Kraft 1,10) und in der Reaktivkraft (Kontaktzeit 280 ms). Beides wird durch Kraftausdauertraining nicht verbessert.\n• Volleyball verlangt viele kurze, maximale Sprünge mit Pausen dazwischen; die Energiebereitstellung ist überwiegend anaerob-alaktazid. Kraftausdauertraining ist für Spielsportler daher nicht die Methode der ersten Wahl und allenfalls als allgemeine Basis sinnvoll."
+        },
+        {
+          "nr": "5",
+          "operator": "Beurteilen",
+          "afb": "III",
+          "be": 6,
+          "aufgabe": "Beurteilen Sie die Drop-Jump-Einheit vom Donnerstag (M2) im Hinblick auf Sophies Voraussetzungen.",
+          "erwartung": [
+            {
+              "text": "Positiv: Inhalt passt grundsätzlich zum Defizit (Reaktivkraft), Drop-Jump ist Standardübung der Reaktivkraftmethode",
+              "be": 1
+            },
+            {
+              "text": "Kritik Voraussetzung: Reaktivkrafttraining erfordert gute Maximalkraftbasis, die Sophie fehlt; Belastungsaufbau Hüpfen → Sprünge → Drop-Jumps übersprungen",
+              "be": 1
+            },
+            {
+              "text": "Kritik Fallhöhe: 60 cm an der Obergrenze; bei 280 ms Kontaktzeit schon aus 40 cm kein reaktiver Sprung → hohe, verletzungsträchtige Belastungsspitzen",
+              "be": 1
+            },
+            {
+              "text": "Kritik Normative: Umfang 50 Sprünge (Anfänger 2–3 Serien) zu hoch, Serienpause 1 min statt 5–10 min → Ermüdung, Kontaktzeiten verlängern sich",
+              "be": 1
+            },
+            {
+              "text": "Abwägung mit Bezug auf Spielsportlerin (extremes Reaktivtraining nicht empfohlen, propriozeptives Training wichtiger)",
+              "be": 1
+            },
+            {
+              "text": "Begründetes Fazit (in dieser Form ungeeignet, mit niedriger Fallhöhe nach Kraftaufbau sinnvoll)",
+              "be": 1
+            }
+          ],
+          "muster": "Positiv:\n• Der Trainer hat erkannt, dass Sophie im Absprung Defizite hat. Drop-Jumps sind die Standardübung der Reaktivkraftmethode und zielen auf die reaktive Spannungsfähigkeit im DVZ.\n\nKritisch:\n• Voraussetzung für Reaktivkrafttraining ist eine gute Maximalkraftbasis. Sophie hat mit einer relativen Kraft von 1,10 genau hier ein Defizit und bisher kaum Krafttrainingserfahrung.\n• Die empfohlene langsame Belastungssteigerung (ein- und beidbeinige Hüpfübungen → Sprünge über niedrige Hürden → zuletzt Tief-Hoch-Sprünge) wird übersprungen.\n• Die Fallhöhe von 60 cm liegt an der Obergrenze (15–60 cm). Da Sophie schon aus 40 cm 280 ms Bodenkontakt hat, wird sie aus 60 cm erst recht „versacken“; es entstehen hohe, verletzungsträchtige Belastungsspitzen ohne reaktiven Trainingseffekt.\n• Der Umfang von 5 × 10 Sprüngen ist für eine Anfängerin zu hoch (Anfänger: 2–3 Serien), und die Serienpause von 1 min liegt weit unter den geforderten 5–10 min. Reaktivkraft darf nur im frischen Zustand trainiert werden, sonst verlängern sich die Kontaktzeiten.\n• Für Spielsportlerinnen wird extremes Reaktivkrafttraining ohnehin nicht empfohlen; wichtiger sind moderate Sprungformen und propriozeptives Training.\n\nFazit: Die Einheit ist in dieser Form für Sophie ungeeignet und verletzungsgefährdend. Drop-Jumps aus geringer Höhe (ca. 20–40 cm) mit wenigen Wiederholungen und langen Pausen sind erst nach einem Maximalkraftaufbau und vorbereitenden Sprungformen sinnvoll."
+        },
+        {
+          "nr": "6",
+          "operator": "Entwickeln",
+          "afb": "III",
+          "be": 6,
+          "aufgabe": "Entwickeln Sie für Sophie einen begründeten Krafttrainingsplan für die nächsten acht Wochen, der an ihr Volleyballtraining angepasst ist.",
+          "erwartung": [
+            {
+              "text": "Ziele aus der Analyse abgeleitet: Maximalkraft der Beinstrecker steigern, anschließend Reaktiv-/Schnellkraft",
+              "be": 1
+            },
+            {
+              "text": "Phase 1 (ca. Wo. 1–4): Muskelaufbautraining (z. B. Fitnessmethode 70–85 %, 8–15 Wdh.) mit Kniebeuge, Beinpresse, Wadenheben, Rumpfkräftigung",
+              "be": 1
+            },
+            {
+              "text": "Phase 2 (ca. Wo. 5–8): IK-Training bzw. Pyramide (90–100 %, 1–5 Wdh., Wiederholungsmethode) für Maximalkraft ohne großen Massezuwachs",
+              "be": 1
+            },
+            {
+              "text": "Paralleler Reaktivkraftaufbau progressiv: Hüpfen → Hürdensprünge → Drop-Jumps aus niedriger Höhe, Normative (wenige Serien, 5–10 min SP)",
+              "be": 1
+            },
+            {
+              "text": "Technikorientiertes Schnellkrafttraining (Angriffs-/Blocksprünge) und propriozeptives Training integriert",
+              "be": 1
+            },
+            {
+              "text": "Organisation begründet: 2 Krafteinheiten/Woche, nicht am Tag vor dem Spiel, Schnelligkeit/Sprünge vor Kraft in der Einheit, Kontrolle durch Retest",
+              "be": 1
+            }
+          ],
+          "muster": "Ziele (aus Aufgabe 3): Steigerung der Maximalkraft der Bein- und Hüftstrecker als Basis, darauf aufbauend Verbesserung der Reaktivkraft (kürzere Bodenkontaktzeit) und Übertragung auf den Angriffssprung.\n\nRahmen: 2 Krafteinheiten pro Woche (z. B. Montag und Mittwoch), nicht am Tag vor dem Spiel. Innerhalb einer Einheit erfolgen Sprungformen im ausgeruhten Zustand vor dem Hanteltraining.\n\nPhase 1 (Woche 1–4): Muskelaufbau und Technik\n• Kniebeuge, Beinpresse, Ausfallschritte, Wadenheben, Rumpfstabilisation (Agonist und Antagonist, z. B. auch Beinbeuger).\n• Fitnessmethode: 70–85 % Kmax, 8–12 Wdh., 3–4 Serien, Serienpause 2–3 min, kontrolliert mit Regel 1 s konzentrisch / 2 s exzentrisch.\n• Begründung: Sophie hat kaum Krafttrainingserfahrung; Querschnitt und intermuskuläre Koordination bilden die Basis für späteres IK-Training.\n• Sprungvorbereitung: ein- und beidbeinige Hüpfübungen, Seilspringen, propriozeptives Training auf instabilem Untergrund.\n\nPhase 2 (Woche 5–8): Maximalkraft über IK und Reaktivkraft\n• Kniebeuge als Pyramide bzw. IK-Training: 85–95 % Kmax, 2–5 Wdh., 3–5 Serien, vollständige Pausen von 3–5 min (Wiederholungsmethode). Begründung: weitere Maximalkraftsteigerung ohne starke Gewichtszunahme, relative Kraft steigt.\n• Reaktivkraft: Sprünge über niedrige Hürden, ab Woche 7 Drop-Jumps aus 20–30 cm, 2–3 Serien à 6–8 Sprünge, Serienpause 5–10 min, Abbruch bei Verlängerung der Kontaktzeit.\n• Technikorientiertes Schnellkrafttraining: Angriffssprünge mit Anlauf und Blocksprünge mit maximalem Einsatz im Volleyballtraining.\n\nKontrolle: Wiederholung von CMJ, Drop-Jump (Kontaktzeit) und indirektem Maximalkrafttest nach acht Wochen."
+        }
+      ]
+    },
+    {
+      "id": "k-q2.2-2",
+      "themen": [
+        "Q2.2",
+        "Q1.1"
+      ],
+      "titel": "Schulterprobleme eines Schwimmers",
+      "zeit": 110,
+      "einleitung": "Jonas (18) ist Kraulschwimmer im Landeskader und trainiert neunmal pro Woche im Wasser. Seit einigen Monaten klagt er über Schmerzen in der rechten Schulter. Ein Freund empfiehlt ihm, zusätzlich im Fitnessstudio „Brust und Schultern aufzubauen“. Sie sollen Jonas’ Situation untersuchen und ein sinnvolles Krafttraining konzipieren.",
+      "material": [
+        {
+          "titel": "M1: Fallbeispiel Jonas",
+          "text": "Jonas schwimmt pro Woche etwa 45 km, fast ausschließlich Kraul. Beim Kraulzug ziehen vor allem der große Brustmuskel (M. pectoralis major), der breite Rückenmuskel (M. latissimus dorsi) und die Innenrotatoren der Schulter den Arm kraftvoll nach unten-hinten. Außenrotatoren (z. B. M. infraspinatus) und die Muskeln zwischen den Schulterblättern (Mm. rhomboidei, mittlerer und unterer Trapezius) sind dagegen vor allem für das Stabilisieren und Zurückführen des Arms zuständig. Eine Sportärztin stellt bei Jonas nach vorn gezogene Schultern und eine eingeschränkte Außenrotation fest."
+        },
+        {
+          "titel": "M2: Kraft- und Beweglichkeitsmessung (Sportmedizinisches Zentrum, fiktive Werte)",
+          "tabelle": {
+            "kopf": [
+              "Messung",
+              "rechts",
+              "links",
+              "Richtwert"
+            ],
+            "zeilen": [
+              [
+                "Innenrotation Schulter (Drehmoment)",
+                "54 Nm",
+                "52 Nm",
+                "–"
+              ],
+              [
+                "Außenrotation Schulter (Drehmoment)",
+                "29 Nm",
+                "33 Nm",
+                "–"
+              ],
+              [
+                "Verhältnis Außen- zu Innenrotation",
+                "0,54",
+                "0,63",
+                "mind. 0,66"
+              ],
+              [
+                "Bankdrücken: geschätzte Maximalkraft",
+                "90 kg (beidseitig)",
+                "",
+                "Verhältnis Druck : Zug ca. 1 : 1"
+              ],
+              [
+                "Rudern liegend: geschätzte Maximalkraft",
+                "60 kg (beidseitig)",
+                "",
+                ""
+              ],
+              [
+                "Beweglichkeit Brustmuskulatur (Dehntest)",
+                "verkürzt",
+                "leicht verkürzt",
+                "unauffällig"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Trainingsvorschlag des Freundes (3× pro Woche zusätzlich)",
+          "text": "„Mach einfach meinen Plan mit: Montag Brust und Trizeps (Bankdrücken, Schrägbankdrücken, Butterfly, Dips), Mittwoch Beine, Freitag Schultern (Schulterdrücken, Frontheben, Seitheben, enges Bankdrücken). Immer 4 Sätze à 8–10 Wiederholungen mit etwa 80–85 % deines Maximums, Satzpause 2 Minuten, die letzte Wiederholung muss richtig wehtun. Nach drei Monaten bist du deutlich stärker und ziehst im Wasser viel mehr durch.“"
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie, wie die Belastungskomponenten Intensität, Dauer, Umfang und Dichte im Krafttraining angegeben werden, und beschreiben Sie die Organisationsformen Stations-, Serien- und Zirkeltraining.",
+          "erwartung": [
+            {
+              "text": "Intensität: % Kmax, Bewegungstempo, Krafteinsatz (subjektiv), Arbeitsweise",
+              "be": 1
+            },
+            {
+              "text": "Dauer: Zeitangabe oder Wiederholungszahl einer Übung",
+              "be": 1
+            },
+            {
+              "text": "Umfang: Anzahl der Serien (z. B. 4 Serien zu 3 Übungen)",
+              "be": 1
+            },
+            {
+              "text": "Dichte: Pausenlänge, Unterscheidung WP, ÜP, SP",
+              "be": 1
+            },
+            {
+              "text": "Stationstraining: alle Serien einer Übung nacheinander; Serientraining: Serie aus 2–4 Übungen nacheinander",
+              "be": 1
+            },
+            {
+              "text": "Zirkeltraining: mehr als fünf Stationen nacheinander, meist mehrere Durchgänge",
+              "be": 1
+            }
+          ],
+          "muster": "Belastungskomponenten im Krafttraining (nach Grosser & Zintl; Steinhöfer):\n• Intensität: Anteil der maximal möglichen Last in % Kmax, ergänzt durch Bewegungstempo (langsam, zügig, explosiv), Krafteinsatz (subjektiver Anstrengungsgrad: gering bis maximal) und Arbeitsweise (konzentrisch, exzentrisch, statisch, dynamisch).\n• Dauer: Dauer einer Übung als Zeitangabe oder als Wiederholungszahl.\n• Umfang: Anzahl der Serien, z. B. vier Serien zu drei Übungen.\n• Dichte: Länge der Pausen zwischen den Belastungen; man unterscheidet Wiederholungspause (WP), Übungspause (ÜP) und Serienpause (SP).\n\nOrganisationsformen:\n• Stationstraining: Sämtliche Serien einer Übung werden nacheinander absolviert, erst dann wird zur nächsten Übung gewechselt.\n• Serientraining: Eine Serie besteht aus 2–4 Übungen, die nacheinander durchgeführt werden, bevor die nächste Serie folgt.\n• Zirkeltraining: Ein Kreis aus mehr als fünf Stationen wird nacheinander durchlaufen und meist mehrfach wiederholt."
+        },
+        {
+          "nr": "2",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie, was man unter einer muskulären Dysbalance versteht, wie sie entsteht und welche Folgen sie haben kann.",
+          "erwartung": [
+            {
+              "text": "Definition: Störung des Kräftegleichgewichts zwischen Agonist und Antagonist",
+              "be": 1
+            },
+            {
+              "text": "Entstehung durch einseitiges Training bzw. einseitige Belastung",
+              "be": 1
+            },
+            {
+              "text": "Muskelverkürzung: ein Muskel passt sich mit höherer Spannung an, Gegenspieler bleibt gleich",
+              "be": 1
+            },
+            {
+              "text": "Abschwächung/Verlängerung: ein Muskel passt sich mit niedrigerer Spannung an, Gegenspieler bleibt gleich",
+              "be": 1
+            },
+            {
+              "text": "Folge: verändertes Verkürzungsverhältnis um das Gelenk, verschobene Gelenkstellung",
+              "be": 1
+            },
+            {
+              "text": "Folgen: Leistungsminderung, erhöhte Verletzungsanfälligkeit, Haltungsschäden",
+              "be": 1
+            }
+          ],
+          "muster": "Eine muskuläre Dysbalance ist eine Störung des Kräftegleichgewichts zwischen einem Muskel (Agonist) und seinem Gegenspieler (Antagonist).\n\nEntstehung:\n• Sie entsteht v. a. durch einseitiges Training oder einseitige Alltags- bzw. Sportbelastung.\n• Muskelverkürzung: Ein Muskel passt sich dem Reiz mit einer höheren Spannung an, während der Gegenspieler unverändert bleibt.\n• Muskelabschwächung (Verlängerung): Ein Muskel passt sich mit niedrigerer Spannung an bzw. wird zu wenig beansprucht, während der Gegenspieler gleich bleibt.\n• In beiden Fällen verändert sich das Verkürzungsverhältnis um das Gelenk; die Gelenkstellung wird verschoben.\n\nFolgen:\n• Leistungsminderung, weil Bewegungen nicht mehr optimal ausgeführt werden können\n• erhöhte Verletzungsanfälligkeit (Fehlbelastung von Sehnen, Bändern, Gelenkflächen)\n• Haltungsschäden\n\nDeshalb gilt als Grundsatz des Krafttrainings das Kräftegleichgewicht: Agonist und Antagonist werden stets gemeinsam trainiert, verkürzte Muskeln gedehnt und abgeschwächte gekräftigt."
+        },
+        {
+          "nr": "3",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie die Materialien M1 und M2 im Hinblick auf eine muskuläre Dysbalance bei Jonas.",
+          "erwartung": [
+            {
+              "text": "Verhältnis Außen-/Innenrotation rechts 0,54 und links 0,63 unter Richtwert 0,66 → Außenrotatoren beidseitig zu schwach, rechts deutlicher",
+              "be": 2
+            },
+            {
+              "text": "Druck : Zug = 90 : 60 kg = 1,5 : 1 statt ca. 1 : 1 → Schulterblattfixatoren/Zugmuskulatur des oberen Rückens zu schwach",
+              "be": 1
+            },
+            {
+              "text": "Brustmuskulatur verkürzt (rechts stärker) → passt zu nach vorn gezogenen Schultern",
+              "be": 1
+            },
+            {
+              "text": "Ursache aus M1: Kraulen belastet einseitig Brustmuskel, Latissimus, Innenrotatoren; Antagonisten werden kaum kräftigend gefordert (45 km/Woche)",
+              "be": 2
+            },
+            {
+              "text": "Seitendifferenz rechts > links als Hinweis auf Zusammenhang mit den Schmerzen in der rechten Schulter",
+              "be": 1
+            },
+            {
+              "text": "Zusammenfassende Diagnose: Dysbalance zwischen verkürzter/kräftiger Innenrotations-/Brustmuskulatur und abgeschwächten Außenrotatoren/Schulterblattfixatoren",
+              "be": 1
+            }
+          ],
+          "muster": "Messergebnisse (M2):\n• Das Verhältnis von Außen- zu Innenrotation liegt rechts bei 0,54 und links bei 0,63 und damit beidseitig unter dem Richtwert von mindestens 0,66. Die Außenrotatoren sind im Verhältnis zu den Innenrotatoren zu schwach, rechts besonders deutlich.\n• Beim Vergleich Bankdrücken (90 kg) zu Rudern liegend (60 kg) ergibt sich ein Verhältnis Druck : Zug von 1,5 : 1 statt etwa 1 : 1. Die Muskulatur des oberen Rückens, v. a. die Schulterblattfixatoren, ist also relativ zu schwach.\n• Die Brustmuskulatur ist verkürzt, rechts stärker als links.\n\nUrsachen (M1):\n• Jonas schwimmt etwa 45 km pro Woche fast nur Kraul. Dabei arbeiten vor allem Brustmuskel, Latissimus und Innenrotatoren kraftvoll gegen den Wasserwiderstand; sie passen sich mit höherer Spannung an und verkürzen.\n• Außenrotatoren und Schulterblattfixatoren haben überwiegend stabilisierende Aufgaben und erhalten kaum kräftigende Reize; sie bleiben relativ schwach.\n• Die Folge ist die beschriebene Haltung mit nach vorn gezogenen Schultern und eingeschränkter Außenrotation.\n\nDiagnose:\nJonas hat eine ausgeprägte muskuläre Dysbalance im Schulterbereich zwischen der kräftigen, verkürzten Brust- und Innenrotationsmuskulatur einerseits und den abgeschwächten Außenrotatoren und Schulterblattfixatoren andererseits. Dass die Werte rechts deutlich schlechter sind, passt zu den Schmerzen in der rechten Schulter; die Dysbalance ist eine wahrscheinliche Ursache."
+        },
+        {
+          "nr": "4",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erläutern Sie, welche Krafttrainingsmethode der Freund vorschlägt (M3) und welche Anpassungen der Muskulatur diese bewirkt. Erläutern Sie anschließend die Auswirkungen des Plans auf Jonas’ Schulterproblem.",
+          "erwartung": [
+            {
+              "text": "Methode: Muskelaufbautraining, Hypertrophiemethode (80–85 % Kmax, 8–10 Wdh., bis zur Ausbelastung) mit Belegen aus M3",
+              "be": 1
+            },
+            {
+              "text": "Anpassung Hypertrophie: Dickenzunahme der Fasern durch Vermehrung von Aktin/Myosin, Faserzahl gleich",
+              "be": 1
+            },
+            {
+              "text": "Auslöser/Mechanismus: hohe Muskelspannung bis zur Ermüdung, mechanischer/metabolischer Stress, gesteigerte Proteinsynthese in der Erholung (Superkompensation), Testosteron",
+              "be": 2
+            },
+            {
+              "text": "Weitere Anpassungen: bessere Rekrutierung/Frequenzierung beider Fasertypen und intermuskuläre Koordination → Maximalkraft steigt",
+              "be": 1
+            },
+            {
+              "text": "Auswirkung: Plan trainiert fast nur Druck- bzw. Innenrotations-/Brustmuskulatur (Agonisten der Dysbalance), keine Zugübungen/Außenrotatoren → Dysbalance verstärkt sich",
+              "be": 2
+            },
+            {
+              "text": "Weitere Folgen: zusätzliche Belastung der schmerzenden Schulter, ggf. Gewichtszunahme, Verletzungsrisiko steigt",
+              "be": 1
+            }
+          ],
+          "muster": "Methode:\nDer Freund schlägt ein Muskelaufbautraining nach der Hypertrophiemethode vor: 80–85 % des Maximums, 8–10 Wiederholungen, 4 Sätze, Training bis zur starken Ermüdung (die letzte Wiederholung „muss wehtun“), dynamisch, Satzpausen von 2 Minuten.\n\nAnpassungen der Muskulatur:\n• Hauptwirkung ist die Hypertrophie: Die einzelnen Muskelfasern werden dicker, weil vermehrt kontraktile Proteine (Aktin, Myosin; mehr Myofibrillen) eingelagert werden. Die Anzahl der Fasern bleibt gleich.\n• Auslöser sind die hohe Muskelspannung über ausreichende Dauer bis zur Ermüdung, mechanischer und metabolischer Stress sowie Mikroverletzungen. In der Erholungsphase wird die Proteinsynthese gesteigert (Superkompensation), unterstützt durch Hormone wie Testosteron und ausreichende Eiweißzufuhr.\n• Zusätzlich verbessern sich die intermuskuläre Koordination sowie Rekrutierung und Frequenzierung beider Fasertypen; die Maximalkraft steigt stark.\n\nAuswirkungen auf Jonas:\n• Fast alle Übungen (Bankdrücken, Schrägbank, Butterfly, Dips, Schulterdrücken, Frontheben) beanspruchen Brustmuskulatur, vorderen Deltamuskel und Innenrotatoren – genau die Muskeln, die bei Jonas ohnehin kräftig und verkürzt sind.\n• Zugübungen für den oberen Rücken und Übungen für die Außenrotatoren fehlen völlig. Die Antagonisten bleiben schwach.\n• Die Hypertrophie würde das Ungleichgewicht daher vergrößern: Das Verhältnis Druck : Zug verschlechtert sich weiter, die Schultern werden noch stärker nach vorn gezogen.\n• Die bereits schmerzende Schulter erhält zusätzliche hohe Belastungen; das Verletzungsrisiko steigt. Mehr Muskelmasse an Brust und Schulter erhöht zudem das Körpergewicht und den Wasserwiderstand, ohne dass die Vortriebsleistung sicher zunimmt.\n• Der Plan verstößt damit gegen den Grundsatz des Kräftegleichgewichts zwischen Agonist und Antagonist."
+        },
+        {
+          "nr": "5",
+          "operator": "Entwickeln",
+          "afb": "III",
+          "be": 12,
+          "aufgabe": "Entwickeln Sie ein begründetes Krafttrainingskonzept für Jonas, das seine Dysbalance abbaut und mit seinem Schwimmtraining vereinbar ist. Beurteilen Sie abschließend die Grenzen Ihres Konzepts.",
+          "erwartung": [
+            {
+              "text": "Ziele aus der Diagnose: Außenrotatoren und Schulterblattfixatoren kräftigen, Brustmuskulatur/Innenrotatoren dehnen, Kräfteverhältnis Druck : Zug ca. 1 : 1 und AR/IR ≥ 0,66",
+              "be": 2
+            },
+            {
+              "text": "Konkrete Kräftigungsübungen (mind. drei, z. B. Außenrotation mit Theraband/Kabelzug, Rudern, Reverse Flys, Face Pulls, Y-T-W in Bauchlage)",
+              "be": 2
+            },
+            {
+              "text": "Dehnprogramm für M. pectoralis und Innenrotatoren mit Durchführungshinweis (z. B. nach dem Training, statisch 30 s)",
+              "be": 1
+            },
+            {
+              "text": "Belastungsnormative begründet: zunächst Anfänger-/Kraftausdauerbereich (40–65 % Kmax, 12–20 Wdh., langsam, saubere Technik), später progressive Steigerung (MA-Fitnessmethode)",
+              "be": 2
+            },
+            {
+              "text": "Organisation und Einbindung: 2–3× pro Woche, z. B. Serientraining/Zirkel, nicht direkt vor intensiven Wassereinheiten; Brust-/Druckübungen vorerst reduzieren",
+              "be": 2
+            },
+            {
+              "text": "Erfolgskontrolle: erneute Messung (Verhältnisse aus M2) nach 8–12 Wochen, Schmerzentwicklung",
+              "be": 1
+            },
+            {
+              "text": "Grenzen: ärztliche Abklärung der Schmerzen, Schwimmumfang selbst als Ursache bleibt (ggf. Technik/Umfang anpassen), Zeitaufwand, Adaptationsdauer",
+              "be": 1
+            },
+            {
+              "text": "Begründetes Fazit zur Eignung des Konzepts",
+              "be": 1
+            }
+          ],
+          "muster": "Ziele (aus Aufgabe 3):\n• Kräftigung der abgeschwächten Außenrotatoren (M. infraspinatus, M. teres minor) und der Schulterblattfixatoren (Mm. rhomboidei, mittlerer und unterer Trapezius)\n• Dehnung der verkürzten Brust- und Innenrotationsmuskulatur\n• Zielwerte: Verhältnis Außen- zu Innenrotation mindestens 0,66, Druck : Zug etwa 1 : 1\n\nÜbungsauswahl:\n• Außenrotation mit Theraband bzw. am Kabelzug (Ellbogen am Körper, 90° gebeugt)\n• Rudern am Kabelzug bzw. liegendes Rudern mit bewusstem Zusammenführen der Schulterblätter\n• Reverse Flys und Face Pulls für den hinteren Deltamuskel und die Schulterblattmuskulatur\n• Y-T-W-Übung in Bauchlage für den unteren Trapezius\n• Dehnung: Brustmuskeldehnung im Türrahmen, Dehnung der Innenrotatoren (z. B. „Sleeper Stretch“), jeweils ca. 30 s nach dem Training\n\nBelastungsnormative:\n• Phase 1 (Woche 1–4): Anfängermethode bzw. Kraftausdauerbereich mit 40–65 % Kmax, 12–20 Wiederholungen, langsam und kontrolliert, 3–4 Serien, Serienpause 1–2 min. Begründung: Die kleinen Rotatorenmuskeln sind Haltemuskeln, die Schulter schmerzt bereits, und eine saubere Technik hat Vorrang. Das Training verbessert die intermuskuläre Koordination und die Ermüdungswiderstandsfähigkeit.\n• Phase 2 (Woche 5–10): progressive Steigerung (MA-Fitnessmethode, 70–80 % Kmax, 10–12 Wdh.) für die Zugübungen, um Kraft und Querschnitt des oberen Rückens zu erhöhen. Für die Außenrotatoren bleibt der Bereich 12–15 Wdh.\n\nOrganisation:\n• 2–3 kurze Einheiten (30–40 min) pro Woche als Serientraining (je eine Zug-, eine Außenrotations- und eine Rumpfübung pro Serie), alternativ als Zirkel an Land vor dem Wassertraining mit geringer Intensität.\n• Nicht unmittelbar vor besonders harten Wassereinheiten, damit die Stabilisatoren nicht vorermüdet sind.\n• Bankdrücken und Schulterdrücken vorerst reduzieren bzw. pausieren; später nur im Verhältnis 1 : 1 mit Zugübungen.\n\nErfolgskontrolle:\n• Wiederholung der Messungen aus M2 nach 8–12 Wochen, Dokumentation des Schmerzverlaufs.\n\nGrenzen:\n• Die Schulterschmerzen müssen ärztlich bzw. physiotherapeutisch abgeklärt werden; liegt bereits eine strukturelle Verletzung vor, reicht Krafttraining allein nicht.\n• Die Hauptursache – der hohe, einseitige Kraulumfang – bleibt bestehen; ergänzend sollten Technik (z. B. Armführung) überprüft und ggf. andere Lagen wie Rücken eingebaut werden.\n• Anpassungen brauchen Zeit; erste Kraftgewinne sind nach wenigen Wochen v. a. nerval, strukturelle Anpassungen erst nach Monaten.\n• Zusätzlicher Zeitaufwand bei bereits neun Wassereinheiten.\n\nFazit: Das Konzept setzt am Kern der Dysbalance an und ist mit dem Schwimmtraining vereinbar. Es ist jedoch nur in Verbindung mit medizinischer Abklärung und einer Überprüfung des Schwimmtrainings erfolgversprechend."
+        }
+      ]
+    },
+    {
+      "id": "k-q2.3-1",
+      "themen": [
+        "Q2.3",
+        "Q2.2"
+      ],
+      "titel": "Zwei Sprinterinnen im Vergleich",
+      "zeit": 110,
+      "einleitung": "Mia (16) und Sara (17) laufen im selben Leichtathletikverein die 100 m. Bei den Kreismeisterschaften führt Mia nach 30 m deutlich, wird im Ziel aber noch von Sara abgefangen. Ihr Trainer möchte das Training beider Athletinnen gezielter gestalten. Sie sollen die Laufdaten auswerten und das Schnelligkeitstraining untersuchen und optimieren.",
+      "material": [
+        {
+          "titel": "M1: Abschnittszeiten im 100-m-Finale (elektronische Zeitmessung, fiktive Werte)",
+          "tabelle": {
+            "kopf": [
+              "Abschnitt",
+              "Mia: Abschnittszeit (s)",
+              "Sara: Abschnittszeit (s)"
+            ],
+            "zeilen": [
+              [
+                "Reaktionszeit",
+                "0,16",
+                "0,19"
+              ],
+              [
+                "0–10 m (inkl. Reaktion)",
+                "2,05",
+                "2,20"
+              ],
+              [
+                "10–20 m",
+                "1,20",
+                "1,22"
+              ],
+              [
+                "20–30 m",
+                "1,08",
+                "1,08"
+              ],
+              [
+                "30–40 m",
+                "1,04",
+                "1,04"
+              ],
+              [
+                "40–50 m",
+                "1,02",
+                "1,02"
+              ],
+              [
+                "50–60 m",
+                "1,02",
+                "1,01"
+              ],
+              [
+                "60–70 m",
+                "1,03",
+                "1,01"
+              ],
+              [
+                "70–80 m",
+                "1,05",
+                "1,01"
+              ],
+              [
+                "80–90 m",
+                "1,09",
+                "1,02"
+              ],
+              [
+                "90–100 m",
+                "1,12",
+                "1,03"
+              ],
+              [
+                "Endzeit",
+                "11,70",
+                "11,64"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M2: Typische Dienstagseinheit der Trainingsgruppe (Oktober, abends auf der Bahn)",
+          "text": "• 8 min lockeres Einlaufen\n• 10 min statisches Dehnen (jede Position 30–40 s halten)\n• 25 min Kraftzirkel: Kniebeugen, Ausfallschritte, Sit-ups, Liegestütze, Wadenheben (je 30 s Belastung, 15 s Pause, 3 Durchgänge)\n• 10 × 60 m Sprints „so schnell es geht“, dazwischen jeweils 60 s Gehpause zurück zum Start\n• 15 min Auslaufen\nDer Trainer stoppt keine Zeiten: „Die Mädels sollen sich auf das Laufen konzentrieren, nicht auf die Uhr.“"
+        },
+        {
+          "titel": "M3: Aussage des Trainers",
+          "text": "„Mia ist von Natur aus ein Startwunder, Sara ist eher die Langsame mit langem Atem. Daran kann man nicht viel ändern. Deshalb lasse ich beide einfach dasselbe trainieren.“"
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Darstellen",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Definieren Sie Schnelligkeit und stellen Sie die Einteilung der motorischen Schnelligkeit nach Grosser und Zintl dar.",
+          "erwartung": [
+            {
+              "text": "Definition: konditionell und koordinativ bestimmte Fähigkeit, auf Reize schnellstmöglich zu reagieren und/oder Bewegungen bei geringen Widerständen mit höchster Geschwindigkeit auszuführen",
+              "be": 2
+            },
+            {
+              "text": "Reaktionsschnelligkeit",
+              "be": 1
+            },
+            {
+              "text": "Elementare Schnelligkeit: Aktionsschnelligkeit (azyklisch), Frequenzschnelligkeit (zyklisch)",
+              "be": 1
+            },
+            {
+              "text": "Komplexe Schnelligkeit azyklisch: Kraftschnelligkeit, Kraftschnelligkeitsausdauer",
+              "be": 1
+            },
+            {
+              "text": "Komplexe Schnelligkeit zyklisch: Sprintkraft, Sprintausdauer",
+              "be": 1
+            }
+          ],
+          "muster": "Schnelligkeit ist die konditionell und koordinativ bestimmte Fähigkeit, auf Reize bzw. Signale schnellstmöglich zu reagieren und/oder zyklische oder azyklische Bewegungen bei geringen Widerständen mit höchster Geschwindigkeit auszuführen (nach Steinhöfer). Der Aspekt der geringen Widerstände grenzt sie von der Schnellkraft ab.\n\nEinteilung nach Grosser und Zintl:\n• Reaktionsschnelligkeit\n• Elementare Schnelligkeitsfähigkeiten (geringe Widerstände, v. a. neuromuskulär bestimmt):\n  – Aktionsschnelligkeit (azyklisch)\n  – Frequenzschnelligkeit (zyklisch)\n• Komplexe Schnelligkeitsfähigkeiten (höhere Widerstände bzw. Ermüdung):\n  – Kraftschnelligkeit (azyklisch, kraftakzentuiert)\n  – Kraftschnelligkeitsausdauer bzw. Schnellkraftausdauer (azyklisch, ausdauerakzentuiert)\n  – Sprintkraft (zyklisch, kraftakzentuiert)\n  – Sprintausdauer (zyklisch, ausdauerakzentuiert)"
+        },
+        {
+          "nr": "2",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie die Abschnitte einer Sprintstrecke nach Jonath et al. und den typischen Geschwindigkeitsverlauf eines 100-m-Laufs.",
+          "erwartung": [
+            {
+              "text": "Reaktionsabschnitt: unmittelbar vor dem Startablauf",
+              "be": 1
+            },
+            {
+              "text": "Positiver Beschleunigungsabschnitt bis zur Maximalgeschwindigkeit",
+              "be": 1
+            },
+            {
+              "text": "Gleichförmiger Geschwindigkeitsabschnitt mit (annähernd) maximaler Geschwindigkeit",
+              "be": 1
+            },
+            {
+              "text": "Negativer Beschleunigungsabschnitt: ermüdungsbedingter Geschwindigkeitsabfall",
+              "be": 1
+            },
+            {
+              "text": "Verlauf: starker Anstieg, Beschleunigung je nach Niveau ca. 30–40 m (Topsprinter länger), danach kaum noch Zunahme",
+              "be": 1
+            },
+            {
+              "text": "Leistungsstärkere Läufer: längerer gleichförmiger Abschnitt, geringerer Geschwindigkeitsabfall",
+              "be": 1
+            }
+          ],
+          "muster": "Nach Jonath et al. wird eine Sprintstrecke nach ihren Geschwindigkeitswerten in vier Abschnitte eingeteilt:\n• Reaktionsabschnitt: die Zeit unmittelbar vor dem Startablauf vom Signal bis zum Bewegungsbeginn\n• Positiver Beschleunigungsabschnitt: bis zum Erreichen der Maximalgeschwindigkeit\n• Gleichförmiger Geschwindigkeitsabschnitt: annähernd gleichbleibende maximale Geschwindigkeit\n• Negativer Beschleunigungsabschnitt: Abfall der Geschwindigkeit gegen Ende\n\nTypischer Verlauf:\n• Nach der Reaktion steigt die Geschwindigkeit zunächst stark an. Die Beschleunigungsphase dauert je nach Leistungsstand ca. 30–40 m, bei Topsprintern deutlich länger; ab etwa 20–30 m nimmt die Geschwindigkeit nur noch gering zu.\n• Es folgt ein Abschnitt annähernd gleichförmiger Höchstgeschwindigkeit.\n• Zum Ende fällt die Geschwindigkeit ermüdungsbedingt ab.\n• Leistungsstärkere Läuferinnen halten die Höchstgeschwindigkeit länger und zeigen einen geringeren Geschwindigkeitsabfall."
+        },
+        {
+          "nr": "3",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 10,
+          "aufgabe": "Analysieren Sie die Laufdaten der beiden Sprinterinnen (M1). Ermitteln Sie dazu ausgewählte Abschnittsgeschwindigkeiten, ordnen Sie die Abschnitte nach Jonath et al. zu und leiten Sie Stärken und Schwächen beider Athletinnen in Bezug auf die Schnelligkeitsfähigkeiten ab.",
+          "erwartung": [
+            {
+              "text": "Geschwindigkeiten korrekt ermittelt, z. B. Mia max. 10 m / 1,02 s ≈ 9,8 m/s (40–60 m), am Ende 10 m / 1,12 s ≈ 8,9 m/s; Sara max. 10 m / 1,01 s ≈ 9,9 m/s (50–80 m), am Ende ≈ 9,7 m/s",
+              "be": 2
+            },
+            {
+              "text": "Zuordnung der Abschnitte (Mia: Beschleunigung bis ca. 40 m, gleichförmig ca. 40–70 m, negativ ab ca. 70 m; Sara: gleichförmig ca. 50–90 m, kaum Abfall)",
+              "be": 1
+            },
+            {
+              "text": "Mia Stärke: bessere Reaktion (0,16 vs. 0,19 s) → Reaktionsschnelligkeit; nach 30 m 0,17 s Vorsprung → Sprintkraft/Beschleunigung",
+              "be": 2
+            },
+            {
+              "text": "Mia Schwäche: Geschwindigkeitsabfall ca. 9 % ab 70 m, verliert auf 60–100 m ca. 0,22 s → Sprintausdauer",
+              "be": 2
+            },
+            {
+              "text": "Sara Stärke: höhere/länger gehaltene Höchstgeschwindigkeit (Frequenzschnelligkeit) und geringer Abfall (Sprintausdauer); Schwäche: Reaktion und Beschleunigung (Sprintkraft)",
+              "be": 2
+            },
+            {
+              "text": "Mögliche Ursachen benannt (z. B. Mia: Programmermüdung/KP-Speicher; Sara: geringere Kraftvoraussetzungen, Starttechnik)",
+              "be": 1
+            }
+          ],
+          "muster": "Geschwindigkeiten (v = s / t, je 10 m):\n• Mia: 10–20 m 8,3 m/s; 20–30 m 9,3 m/s; 30–40 m 9,6 m/s; 40–60 m je 9,8 m/s; 60–70 m 9,7 m/s; 70–80 m 9,5 m/s; 80–90 m 9,2 m/s; 90–100 m 8,9 m/s.\n• Sara: 10–20 m 8,2 m/s; 20–30 m 9,3 m/s; 30–40 m 9,6 m/s; 40–50 m 9,8 m/s; 50–80 m je 9,9 m/s; 80–90 m 9,8 m/s; 90–100 m 9,7 m/s.\n\nAbschnitte nach Jonath et al.:\n• Mia: Reaktionsabschnitt (0,16 s), positive Beschleunigung bis ca. 40 m, gleichförmiger Abschnitt nur von ca. 40 bis 70 m, danach deutlicher negativer Beschleunigungsabschnitt.\n• Sara: Reaktionsabschnitt (0,19 s), Beschleunigung bis ca. 50 m, gleichförmiger Abschnitt von ca. 50 bis 90 m, kaum Geschwindigkeitsabfall.\n\nMia:\n• Stärken: Sie reagiert schneller (0,16 s gegenüber 0,19 s) und beschleunigt besser: Schon nach 10 m liegt sie 0,15 s, nach 30 m 0,17 s vorn (4,33 s gegenüber 4,50 s kumuliert). Das spricht für gute Reaktionsschnelligkeit und Sprintkraft bzw. Kraftschnelligkeit beim Startabdruck.\n• Schwächen: Ihre Höchstgeschwindigkeit (9,8 m/s) ist etwas geringer und sie kann sie nur kurz halten. Ab 70 m fällt die Geschwindigkeit auf 8,9 m/s, also um rund 9 %. Auf den letzten 40 m verliert sie gegenüber Sara ca. 0,22 s. Ihre Sprintausdauer ist unzureichend.\n\nSara:\n• Stärken: höhere Höchstgeschwindigkeit (9,9 m/s), die sie über ca. 40 m konstant hält, und ein Abfall von nur ca. 2 % – gute Frequenzschnelligkeit bzw. Reaktivkraft und gute Sprintausdauer.\n• Schwächen: langsamere Reaktion und schwächere Beschleunigung auf den ersten 20 m – Defizite bei Reaktionsschnelligkeit, Starttechnik und Sprintkraft.\n\nMögliche Ursachen: Bei Mia könnten eine früh einsetzende Programmermüdung bzw. ein geringeres Vermögen, die Geschwindigkeit bis ca. 30 s ohne Koordinationsverlust zu halten, verantwortlich sein; bei Sara fehlende Maximal- und Schnellkraftvoraussetzungen für die Beschleunigung."
+        },
+        {
+          "nr": "4",
+          "operator": "Überprüfen",
+          "afb": "II",
+          "be": 6,
+          "aufgabe": "Überprüfen Sie die Trainingseinheit (M2) anhand der trainingspraktischen Grundsätze zum Schnelligkeitstraining.",
+          "erwartung": [
+            {
+              "text": "Aufwärmen zu kurz (8 min statt 15–30 min, Ziel ca. 38,5 °C) bei kühlen Abendtemperaturen",
+              "be": 1
+            },
+            {
+              "text": "Statisches Dehnen widerspricht Grundsatz Elastizität/Entspannungsfähigkeit (tonisierendes Dehnen besser)",
+              "be": 1
+            },
+            {
+              "text": "Sprints nach dem Kraftzirkel: Verstoß gegen Vermeidung muskulärer Ermüdung bzw. Schnelligkeit vor Kraft vor Ausdauer",
+              "be": 1
+            },
+            {
+              "text": "Pausen 60 s zu kurz (Faustregel 1 min pro 10 m → ca. 6 min), keine Serienstruktur → keine maximalen Sprints, eher Schnelligkeitsausdauer",
+              "be": 2
+            },
+            {
+              "text": "Keine Zeitmessung: Verstoß gegen Leistungskontrolle und Feedback",
+              "be": 1
+            }
+          ],
+          "muster": "• Erhöhte Körperkerntemperatur: 8 min Einlaufen an einem Oktoberabend reichen nicht. Für Schnelligkeitstraining sind 15–30 min systematisches Aufwärmen nötig, um ca. 38,5 °C Körperkerntemperatur zu erreichen.\n• Elastizität und Entspannungsfähigkeit: Langes statisches Dehnen senkt die Muskelvorspannung; empfohlen ist dynamisches, tonisierendes Dehnen.\n• Vermeidung muskulärer Ermüdung / Schnelligkeit vor Kraft vor Ausdauer: Die Sprints folgen auf einen 25-minütigen Kraftzirkel. Die Athletinnen sind vorermüdet und können keine maximalen Geschwindigkeiten erreichen.\n• Maximale Geschwindigkeit und Wiederholungsmethode: Nach der Faustregel (1 min Pause pro 10 m) bräuchte es bei 60 m etwa 6 min Pause. Mit 60 s werden die KP-Speicher nicht aufgefüllt; die Geschwindigkeit sinkt von Lauf zu Lauf. Zudem fehlt eine Gliederung in Serien mit längeren Serienpausen. Faktisch wird eher Schnelligkeitsausdauer bzw. Kurzzeitausdauer trainiert.\n• Leistungskontrolle und Feedback: Ohne Zeitmessung können weder Trainer noch Athletinnen beurteilen, ob wirklich maximal gelaufen wird.\n\nErgebnis: Die Einheit erfüllt zentrale Grundsätze nicht und ist als Schnelligkeitstraining ungeeignet."
+        },
+        {
+          "nr": "5",
+          "operator": "Entwickeln",
+          "afb": "III",
+          "be": 12,
+          "aufgabe": "Nehmen Sie Stellung zur Aussage des Trainers (M3) und entwickeln Sie für Mia eine Trainingseinheit, die gezielt an ihrer Schwäche ansetzt. Begründen Sie Ihre Entscheidungen.",
+          "erwartung": [
+            {
+              "text": "Stellungnahme Pro: Reaktions- und elementare Schnelligkeit, Faserverteilung weitgehend genetisch bestimmt, nur begrenzt trainierbar",
+              "be": 1
+            },
+            {
+              "text": "Stellungnahme Contra: komplexe Schnelligkeit (Sprintausdauer, Sprintkraft) gut trainierbar; gleiches Training für unterschiedliche Profile widerspricht dem Prinzip der Individualität",
+              "be": 2
+            },
+            {
+              "text": "Zielformulierung für Mia: Verbesserung der Sprintausdauer (Geschwindigkeitserhalt ab 70 m)",
+              "be": 1
+            },
+            {
+              "text": "Aufwärmen korrekt (15–30 min, dynamisches Dehnen, Lauf-ABC, Steigerungsläufe)",
+              "be": 1
+            },
+            {
+              "text": "Hauptteil Sprintausdauermethode: Wiederholungsmethode, maximale Intensität (95–100 %), Strecken bis 200 m bzw. bis ca. 30 s, z. B. Überdistanzläufe 120–150 m",
+              "be": 2
+            },
+            {
+              "text": "Normative stimmig: geringer Umfang (z. B. 2 Serien × 3 Läufe), lange vollständige Pausen (mehrere Minuten, Serienpause länger), Zeitmessung",
+              "be": 2
+            },
+            {
+              "text": "Begründung über Programmermüdung/Stabilisierung der Bewegungsprogramme bzw. anaerob-laktazide Energiebereitstellung",
+              "be": 1
+            },
+            {
+              "text": "Sinnvolle Ergänzung (Koordinationsmethode zu Beginn oder Krafttraining nach den Sprints) und begründetes Fazit",
+              "be": 2
+            }
+          ],
+          "muster": "Stellungnahme zu M3:\n• Teilweise richtig: Reaktionsschnelligkeit und elementare Schnelligkeit sowie die Muskelfaserverteilung sind weitgehend genetisch festgelegt und nur in engen Grenzen trainierbar. Mias guter Start kann also teilweise Anlage sein.\n• Aber: Die Unterschiede zwischen beiden liegen vor allem im Bereich der komplexen Schnelligkeit. Sprintausdauer (Mia) und Sprintkraft bzw. Beschleunigung (Sara) sind gut trainierbar, ebenso Starttechnik und Antizipation. Wenn beide dasselbe trainieren, widerspricht das dem Prinzip der Individualität; jede sollte gezielt an ihrer Schwäche arbeiten, ohne ihre Stärke zu vernachlässigen.\n• Fazit zu M3: Die Aussage ist zu pauschal; individuelles Training ist notwendig.\n\nTrainingseinheit für Mia (Ziel: Verbesserung der Sprintausdauer, d. h. Geschwindigkeit ab 70 m halten):\n\n1. Aufwärmen (ca. 25 min): Einlaufen, Mobilisation und dynamisches Dehnen, Lauf-ABC (Skippings, Anfersen, Hopserlauf), 3 Steigerungsläufe über 80 m. Ziel: Körperkerntemperatur ca. 38,5 °C, Elastizität, Verletzungsprophylaxe.\n\n2. Hauptteil – Sprintausdauermethode (ca. 40 min):\n• 2 Serien à 3 Läufe über 120 m bzw. 150 m (Überdistanzläufe), Intensität 95–100 %.\n• Pausen zwischen den Läufen 6–8 min (gehend, warm angezogen), Serienpause 12–15 min.\n• Zeitmessung jedes Laufs, zusätzlich 100-m-Durchgangszeit; Abbruch, wenn die Zeiten deutlich einbrechen.\n• Begründung: Strecken bis maximal 200 m bzw. bis ca. 30 s mit maximaler Intensität nach der Wiederholungsmethode verbessern die Widerstandsfähigkeit gegen ermüdungsbedingten Geschwindigkeitsabfall. Limitierend ist wahrscheinlich die Programmermüdung, also das Nachlassen der differenzierten Steuerung der Bewegungsprogramme; maximal gelaufene Überdistanzen stabilisieren diese Programme. Zugleich wird die anaerob-laktazide Energiebereitstellung gefordert. Vollständige Pausen sichern, dass jeder Lauf mit höchster Intensität erfolgt.\n\n3. Ergänzung (ca. 15 min): Kurzes Kraftprogramm erst nach den Sprints (Grundsatz Schnelligkeit vor Kraft vor Ausdauer), z. B. Rumpfstabilisation; danach Auslaufen.\n\nIn einer weiteren Wocheneinheit sollte Mia ihre Stärke erhalten (Starts und Beschleunigungssprints 30–40 m), während Sara schwerpunktmäßig Reaktions- und Beschleunigungstraining sowie Maximal- und Schnellkrafttraining erhält.\n\nFazit: Mit gezieltem Sprintausdauertraining kann Mia ihre Schwäche verringern; die Behauptung, man könne „nicht viel ändern“, trifft auf diese komplexe Fähigkeit nicht zu."
+        }
+      ]
+    },
+    {
+      "id": "k-q2.3-2",
+      "themen": [
+        "Q2.3",
+        "Q3.2"
+      ],
+      "titel": "Schnelligkeit im Fußball",
+      "zeit": 110,
+      "einleitung": "Die U19-Fußballerinnen eines Vereins haben in der vergangenen Saison viele Gegentore nach schnellen Kontern kassiert. Der neue Trainer möchte die Schnelligkeit seiner Spielerinnen verbessern und hat dazu Tests durchgeführt. Sie sollen die Schnelligkeitsanforderungen im Fußball, die Testergebnisse und das geplante Training fachlich untersuchen.",
+      "material": [
+        {
+          "titel": "M1: Schnelligkeit im Fußball (Informationstext, fiktiv)",
+          "text": "Spielanalysen im Frauenfußball zeigen, dass eine Feldspielerin pro Spiel etwa 30 bis 50 Sprints absolviert. Die meisten Sprints sind kürzer als 20 m, nur wenige länger als 30 m. Zwischen zwei Sprints liegen im Mittel rund 90 Sekunden mit geringerer Intensität, in entscheidenden Phasen folgen Sprints aber auch kurz aufeinander. Viele Sprints beginnen aus der Bewegung, enthalten Richtungswechsel und werden durch Ball, Gegenspielerin oder Mitspielerin ausgelöst. Entscheidend ist oft nicht, wer am schnellsten läuft, sondern wer die Situation am schnellsten erkennt und richtig entscheidet."
+        },
+        {
+          "titel": "M2: Testergebnisse dreier Spielerinnen",
+          "tabelle": {
+            "kopf": [
+              "Spielerin",
+              "Fußtapping (Hz)",
+              "Nieder-Hoch-Sprung 20 cm: Bodenkontaktzeit (ms)",
+              "20-m-Sprint aus dem Hochstart (s)",
+              "Reaktionstest Lichtsignal (ms)"
+            ],
+            "zeilen": [
+              [
+                "Hanna (Innenverteidigerin)",
+                "9,8",
+                "212",
+                "3,38",
+                "205"
+              ],
+              [
+                "Emily (Außenverteidigerin)",
+                "12,3",
+                "168",
+                "3,12",
+                "182"
+              ],
+              [
+                "Lina (Stürmerin)",
+                "11,0",
+                "190",
+                "3,05",
+                "176"
+              ],
+              [
+                "Richtwert günstig",
+                "über 12",
+                "unter 170",
+                "–",
+                "–"
+              ]
+            ]
+          }
+        },
+        {
+          "titel": "M3: Trainingsidee des Trainers",
+          "text": "„Schnelligkeit ist eine Frage des Willens. Ab sofort machen wir am Ende jedes Trainings Linienläufe: Von der Grundlinie zum Strafraum und zurück, zur Mittellinie und zurück, zur anderen Grundlinie und zurück – fünf Durchgänge, 30 Sekunden Pause. Wer langsamer wird, läuft eine Extrarunde. So werden wir schneller und fitter zugleich.“"
+        }
+      ],
+      "teil": [
+        {
+          "nr": "1",
+          "operator": "Nennen",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Nennen Sie die wesentlichen Einflussfaktoren der Schnelligkeit und beschreiben Sie die Bedeutung der Energiebereitstellung und der Muskelfaserzusammensetzung.",
+          "erwartung": [
+            {
+              "text": "Neuronale Faktoren (Rekrutierung, Frequenzierung, Nervenleitgeschwindigkeit, Wechsel Erregung/Hemmung) und Koordination/Technik",
+              "be": 1
+            },
+            {
+              "text": "Kraft (Maximal-, Schnell-, Reaktivkraft), Elastizität/Entspannungsfähigkeit, psychisch-kognitive Faktoren (Konzentration, Antizipation) und weitere (Temperatur, Ermüdung, Alter)",
+              "be": 1
+            },
+            {
+              "text": "Energiebereitstellung: maximale Leistungen bis ca. 5–7 s anaerob-alaktazid über ATP/KP, kaum Laktat",
+              "be": 1
+            },
+            {
+              "text": "Bei längeren maximalen Belastungen bis ca. 30 s zunehmend anaerob-laktazid",
+              "be": 1
+            },
+            {
+              "text": "FT-Fasern kontrahieren schneller und kräftiger als ST-Fasern, ermüden aber schneller; hoher FT-Anteil Voraussetzung",
+              "be": 1
+            },
+            {
+              "text": "Faserverteilung weitgehend genetisch festgelegt; trainierbar v. a. Querschnitt und Ansteuerung der FT-Fasern",
+              "be": 1
+            }
+          ],
+          "muster": "Einflussfaktoren der Schnelligkeit:\n• Neuronale Faktoren: Qualität der nervalen Steuerung, Rekrutierung und Frequenzierung der motorischen Einheiten, Nervenleitgeschwindigkeit, schneller Wechsel von Erregung und Hemmung\n• Koordination: intra- und intermuskuläre Koordination, Bewegungstechnik\n• Muskuläre Faktoren: Anteil schneller FT-Fasern, Muskelquerschnitt\n• Kraft: Maximal-, Schnell- und Reaktivkraft\n• Energetische Faktoren: anaerob-alaktazide Energiebereitstellung\n• Elastizität und Entspannungsfähigkeit der Muskulatur\n• Psychisch-kognitive Faktoren: Konzentration, Willensanspannung, Antizipation\n• Weitere: Körpertemperatur, Ermüdungszustand, Alter, Geschlecht, Körperbau\n\nEnergiebereitstellung:\n• Maximale Schnelligkeitsleistungen bis ca. 5–7 s werden überwiegend anaerob-alaktazid über ATP und Kreatinphosphat abgedeckt; es entsteht kaum Laktat.\n• Bei längeren maximalen Belastungen bis ca. 30 s (Sprintausdauer) gewinnt die anaerob-laktazide Energiebereitstellung an Bedeutung.\n\nMuskelfaserzusammensetzung:\n• FT-Fasern (Typ II) kontrahieren deutlich schneller und kräftiger als ST-Fasern (Typ I), ermüden aber rascher. Ein hoher FT-Anteil ist eine wesentliche Voraussetzung für Schnelligkeitsleistungen.\n• Die Faserverteilung ist weitgehend genetisch festgelegt; trainierbar sind vor allem Querschnitt und Ansteuerung der vorhandenen FT-Fasern."
+        },
+        {
+          "nr": "2",
+          "operator": "Beschreiben",
+          "afb": "I",
+          "be": 6,
+          "aufgabe": "Beschreiben Sie den Begriff Handlungsschnelligkeit und seine Komponenten nach Steinhöfer.",
+          "erwartung": [
+            {
+              "text": "Definition: Fähigkeit, technisch-taktische Handlungen situationsgerecht und präzise in optimaler Zeit und Intensität effektiv zu realisieren",
+              "be": 2
+            },
+            {
+              "text": "Einordnung: Begriff aus den Sportspielen, ergänzt die rein motorische Schnelligkeit",
+              "be": 1
+            },
+            {
+              "text": "Motorische Komponente koordinativ: intra-/intermuskuläre Koordination, Lauf-, Schuss-, Sprungtechniken",
+              "be": 1
+            },
+            {
+              "text": "Motorische Komponente konditionell: muskuläre und energetische Faktoren, z. B. Antrittsschnelligkeit, Sprung-, Schusskraft",
+              "be": 1
+            },
+            {
+              "text": "Kognitive Komponente: Informationsaufnahme und -verarbeitung, Wahrnehmen, Antizipieren, Entscheiden",
+              "be": 1
+            }
+          ],
+          "muster": "Handlungsschnelligkeit bezeichnet die Fähigkeit, technisch-taktische Handlungen situationsgerecht und präzise in optimaler Zeit und Intensität effektiv zu realisieren (nach Steinhöfer). Der Begriff stammt aus dem Bereich der Sportspiele und ergänzt die rein motorische Schnelligkeit: Es kommt nicht nur darauf an, schnell zu sein, sondern im richtigen Moment das Richtige schnell zu tun.\n\nKomponenten:\n• Motorische Komponente (neurophysiologische Vorgänge):\n  – koordinative Anteile: intra- und intermuskuläre Koordination, Lauf-, Sprung-, Schuss- und Passtechniken\n  – konditionelle Anteile: muskuläre und energetische Faktoren, z. B. Antrittsschnelligkeit, Sprung- und Schusskraft\n• Kognitive Komponente (psychische Vorgänge):\n  – Prozesse der Informationsaufnahme und -verarbeitung\n  – Reagieren aufgrund von Wahrnehmen, Antizipieren und Entscheiden"
+        },
+        {
+          "nr": "3",
+          "operator": "Analysieren",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Analysieren Sie die Testergebnisse der drei Spielerinnen (M2), indem Sie die Tests den Schnelligkeitsfähigkeiten zuordnen und die Ergebnisse vor dem Hintergrund der Richtwerte und der Spielpositionen deuten.",
+          "erwartung": [
+            {
+              "text": "Zuordnung: Fußtapping = elementare zyklische Schnelligkeit (Frequenz), Nieder-Hoch-Sprung = elementare azyklische Schnelligkeit, 20-m-Sprint = Antritts-/Beschleunigungsfähigkeit (Sprintkraft), Lichtsignaltest = Reaktionsschnelligkeit (Einfachreaktion)",
+              "be": 2
+            },
+            {
+              "text": "Emily: als Einzige Tapping > 12 Hz und Kontaktzeit < 170 ms → günstige elementare Voraussetzungen",
+              "be": 1
+            },
+            {
+              "text": "Lina: elementare Werte nur mittel, aber schnellster 20-m-Sprint und beste Reaktion → komplexe Schnelligkeit/Kraftvoraussetzungen gut; Hinweis: elementare Schnelligkeit allein bestimmt nicht die Sprintleistung",
+              "be": 2
+            },
+            {
+              "text": "Hanna: in allen Tests am schwächsten (9,8 Hz, 212 ms, 3,38 s, 205 ms) → größter Förderbedarf, als Innenverteidigerin bei Kontern besonders relevant",
+              "be": 2
+            },
+            {
+              "text": "Einschränkung: Tests erfassen nur motorische Schnelligkeit (Einfachreaktion), nicht Handlungsschnelligkeit/Wahlreaktion aus M1",
+              "be": 1
+            }
+          ],
+          "muster": "Zuordnung der Tests:\n• Fußtapping: elementare zyklische Schnelligkeit (Frequenzschnelligkeit); günstig über 12 Hz.\n• Nieder-Hoch-Sprung aus 20 cm: elementare azyklische Schnelligkeit, Qualität der Bewegungsprogramme; günstig unter 170 ms Kontaktzeit.\n• 20-m-Sprint aus dem Hochstart: Antritts- bzw. Beschleunigungsfähigkeit, also komplexe Schnelligkeit (Sprintkraft).\n• Lichtsignal-Reaktionstest: Reaktionsschnelligkeit in Form einer Einfachreaktion.\n\nDeutung:\n• Emily (Außenverteidigerin) erreicht als Einzige beide Richtwerte (12,3 Hz, 168 ms). Sie hat sehr günstige elementare Voraussetzungen. Ihr 20-m-Sprint (3,12 s) ist gut, aber nicht der beste – möglicherweise fehlen Kraftvoraussetzungen für die Beschleunigung.\n• Lina (Stürmerin) liegt bei den elementaren Tests nur im mittleren Bereich (11,0 Hz, 190 ms), ist aber im 20-m-Sprint (3,05 s) und im Reaktionstest (176 ms) die Beste. Das zeigt, dass die Antrittsleistung als komplexe Fähigkeit stark von Kraft (Sprintkraft) und Technik abhängt und nicht allein von der elementaren Schnelligkeit. Für eine Stürmerin ist das ein günstiges Profil.\n• Hanna (Innenverteidigerin) schneidet in allen Tests am schwächsten ab (9,8 Hz, 212 ms, 3,38 s, 205 ms). Da Innenverteidigerinnen bei Kontern direkte Laufduelle bestreiten müssen, besteht hier der größte Förderbedarf – v. a. in Sprintkraft und Reaktion bzw. Antizipation, da die elementaren Werte nur begrenzt trainierbar sind.\n\nEinschränkung: Alle Tests erfassen motorische Schnelligkeit unter standardisierten Bedingungen und mit Einfachreaktion. Die in M1 betonte Handlungsschnelligkeit (Situation erkennen, entscheiden, Wahlreaktionen) wird nicht erfasst."
+        },
+        {
+          "nr": "4",
+          "operator": "Erläutern",
+          "afb": "II",
+          "be": 8,
+          "aufgabe": "Erläutern Sie unter Bezug auf M1, warum für Fußballerinnen neben der motorischen Schnelligkeit vor allem Reaktions- und Antizipationsfähigkeit trainiert werden sollten und wie dies methodisch geschehen kann.",
+          "erwartung": [
+            {
+              "text": "Bezug M1: Sprints werden durch Ball/Gegnerin/Mitspielerin ausgelöst, aus der Bewegung, mit Richtungswechsel → komplexe Signale und Wahlreaktionen",
+              "be": 1
+            },
+            {
+              "text": "Wahlreaktion dauert deutlich länger als Einfachreaktion; unter Zeitdruck reicht reine Reaktion nicht → Antizipation verkürzt effektive Reaktionszeit",
+              "be": 2
+            },
+            {
+              "text": "Reaktionsschnelligkeit selbst nur begrenzt trainierbar (angeborene neurale Komponenten), Verbesserung über Technik und Antizipation",
+              "be": 1
+            },
+            {
+              "text": "Methodik: Reaktionsschulung im Rahmen von Technik- und Taktiktraining (Antizipationsmethode nach Steinhöfer), spielspezifisch statt nur allgemein",
+              "be": 2
+            },
+            {
+              "text": "Konkretes Übungsbeispiel mit Progression von Einfach- zu Wahlreaktion bzw. mit spielnahen Signalen (z. B. 1:1 nach Pass, Antritt auf Farbsignal mit Ball)",
+              "be": 2
+            }
+          ],
+          "muster": "Bezug zu M1:\n• Im Fußball werden die meisten Sprints nicht durch ein festes Startsignal, sondern durch Ball, Gegnerin oder Mitspielerin ausgelöst. Sie beginnen aus der Bewegung und enthalten Richtungswechsel. Die Spielerin muss also aus vielen Informationen die relevante erkennen und zwischen mehreren Handlungsmöglichkeiten wählen.\n\nBegründung:\n• Das sind Wahlreaktionen, die deutlich länger dauern als Einfachreaktionen, weil die Verarbeitung im ZNS (Wahrnehmen, Entscheiden, Programmieren) aufwendiger ist.\n• Da Reaktionen im Spiel unter Zeitdruck stattfinden, wäre eine reine Reaktion oft zu spät. Durch Antizipation – die gedankliche Vorwegnahme etwa des Passwegs oder des Laufwegs der Gegnerin – wird die effektive Reaktionszeit verkürzt. Wer eine Situation früher erkennt, startet früher, auch wenn sie nicht schneller läuft (vgl. M1: „wer die Situation am schnellsten erkennt“).\n• Die Reaktionsschnelligkeit selbst ist nur in engen Grenzen trainierbar, da sie an angeborene Komponenten der neuralen Steuerung gebunden ist. Gut verbesserbar sind dagegen Technik und Antizipation.\n\nMethodisches Vorgehen:\n• Nach Steinhöfer erfolgt die Schulung über die Antizipationsmethode im Rahmen des Technik- und Taktiktrainings. Eine allgemeine Reaktionsschulung (z. B. Starts auf Pfiff) reicht nicht, nötig ist eine spielspezifische Reaktionsschulung komplexer Handlungen.\n• Progression: zunächst mehrere unterschiedliche Reaktionshandlungen hintereinander auf einfache Signale, dann Wahlreaktionen auf verschiedene Signale, schließlich spielnahe Situationen.\n• Beispiel: Zwei Spielerinnen stehen nebeneinander; der Trainer passt in eine von zwei Zonen, die Spielerin, die zuerst am Ball ist, greift im 1:1 ein Minitor an, die andere verteidigt. Steigerung: Pass erst nach Körpertäuschung des Trainers, später durch eine Mitspielerin mit Blickfinte."
+        },
+        {
+          "nr": "5",
+          "operator": "Beurteilen",
+          "afb": "III",
+          "be": 12,
+          "aufgabe": "Beurteilen Sie die Trainingsidee des Trainers (M3) im Hinblick auf das Ziel, die Schnelligkeit seiner Spielerinnen zu verbessern, und machen Sie einen begründeten Gegenvorschlag.",
+          "erwartung": [
+            {
+              "text": "Positiv: Antritte, Abstoppen und Richtungswechsel auf kurzen, fußballtypischen Strecken; Sprintkraft/Schnellkraftausdauer; Willensanspannung ist ein Grundsatz",
+              "be": 1
+            },
+            {
+              "text": "Kritik Zeitpunkt: am Ende des Trainings im ermüdeten Zustand → Verstoß gegen Vermeidung muskulärer Ermüdung / Schnelligkeit vor Kraft vor Ausdauer",
+              "be": 2
+            },
+            {
+              "text": "Kritik Belastung: 30 s Pausen, Strafrunden → keine KP-Resynthese, keine maximale Geschwindigkeit; eher (Schnelligkeits-)Ausdauertraining, Gefahr Schnelligkeitsbarriere/langsame Muster",
+              "be": 2
+            },
+            {
+              "text": "Kritik Spielnähe: feste, vorhersehbare Laufwege, kein Ball, kein Gegner → keine Reaktion, Antizipation, Entscheidung (Handlungsschnelligkeit, M1)",
+              "be": 1
+            },
+            {
+              "text": "Bezug M1: Spielsprints meist < 20 m mit ca. 90 s Pause → Linienläufe über bis zu 100 m und kurze Pausen entsprechen nicht dem Anforderungsprofil",
+              "be": 1
+            },
+            {
+              "text": "Gegenvorschlag: Schnelligkeit zu Beginn nach Aufwärmen, Wiederholungsmethode, kurze Antritte 5–20 m mit Richtungswechsel, vollständige Pausen (ca. 1 min pro 10 m)",
+              "be": 2
+            },
+            {
+              "text": "Gegenvorschlag enthält Reaktions-/Antizipationsformen mit Ball/Gegnerin und ggf. Kraft-/Koordinationstraining, individuell (z. B. Hanna)",
+              "be": 1
+            },
+            {
+              "text": "Abwägung und begründetes Fazit (z. B. Linienläufe allenfalls als Ergänzung mit langen Pausen; Kernziel verfehlt)",
+              "be": 2
+            }
+          ],
+          "muster": "Positive Aspekte:\n• Linienläufe enthalten Antritte, Abstoppen und Richtungswechsel auf kurzen Strecken – Bewegungen, die im Fußball vorkommen (Sprintkraft, Kraftschnelligkeit).\n• Mehrere Durchgänge schulen auch Schnellkraft- bzw. Sprintausdauer.\n• Maximale Willensanspannung ist tatsächlich ein Grundsatz des Schnelligkeitstrainings.\n\nKritische Aspekte:\n• Zeitpunkt: Die Läufe finden am Ende des Trainings statt, also im ermüdeten Zustand. Das verstößt gegen die Grundsätze „Vermeidung muskulärer Ermüdung“ und „Schnelligkeit vor Kraft vor Ausdauer“. Die Spielerinnen können keine maximalen Geschwindigkeiten mehr erreichen.\n• Belastungsgestaltung: Ein Durchgang umfasst 6 Teilstrecken mit insgesamt über 300 m und dauert damit deutlich länger als eine Minute. Mit nur 30 s Pause werden die KP-Speicher nicht aufgefüllt. Die Strafrunden erhöhen die Ermüdung weiter. Das ist eher anaerob-laktazides Ausdauertraining als Schnelligkeitstraining. Schnelligkeit muss nach der Wiederholungsmethode mit maximaler Intensität und vollständigen Pausen trainiert werden; sonst werden langsamere Bewegungsmuster eingeschliffen (Gefahr der Schnelligkeitsbarriere).\n• Anforderungsprofil (M1): Spielsprints sind meist kürzer als 20 m und durch ca. 90 s geringerer Intensität getrennt. Linienläufe bis zur anderen Grundlinie und 30-s-Pausen bilden das nicht ab.\n• Spielnähe: Die Laufwege sind fest und vorhersehbar, es gibt weder Ball noch Gegnerin. Wahrnehmen, Antizipieren und Entscheiden – laut M1 oft ausschlaggebend – werden nicht trainiert.\n• Die These „Schnelligkeit ist eine Frage des Willens“ greift zu kurz; Schnelligkeit hängt auch von neuronalen, muskulären, energetischen und kognitiven Faktoren ab.\n\nGegenvorschlag:\n• Schnelligkeitsblock zu Beginn der Einheit direkt nach einem 20-minütigen Aufwärmen mit dynamischem Dehnen und Lauf-ABC (Koordinationsmethode).\n• Antrittssprints über 5–20 m mit Richtungswechsel, aus der Bewegung, mit maximaler Intensität: z. B. 3 Serien à 4 Sprints, Pausen ca. 1–2 min (Faustregel 1 min pro 10 m), Serienpause 4–5 min, mit Zeitmessung bzw. Wettkampfform.\n• Reaktions- und Antizipationsformen: Antritte auf optische Signale (Farbhütchen) als Wahlreaktion, 1:1-Situationen nach Pass des Trainers, Konterspiel 3:2 auf Tore.\n• Ergänzend Krafttraining (Maximal- und Schnellkraft der Beine) und individuelle Schwerpunkte, z. B. für Hanna Sprintkraft und Antizipation im Verteidigungsverhalten.\n• Sprintausdauer kann gezielt in einer separaten Spielform mit kurzen Pausen trainiert werden – bewusst unter Ermüdung, aber nicht als Ersatz für Schnelligkeitstraining.\n\nFazit: Die Trainingsidee verbessert eher die Ausdauer unter Ermüdung als die Schnelligkeit und verfehlt das Ziel des Trainers weitgehend. Linienläufe sind allenfalls als Ergänzung mit langen Pausen sinnvoll; im Mittelpunkt sollten maximale, kurze, spielnahe Antritte mit Reaktions- und Entscheidungsanforderungen stehen."
+        }
+      ]
+    }
+  ]
+}
