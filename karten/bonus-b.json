@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "bonus.b-001",
+    "thema": "BONUS",
+    "kapitel": "L15 Beweglichkeit",
+    "q": "Definiere den Begriff Beweglichkeit (Flexibilität).",
+    "a": "Beweglichkeit (Flexibilität) ist die Fähigkeit, willkürliche Bewegungen mit großer bzw. optimaler Schwingungsweite (Bewegungsamplitude) in bestimmten Gelenken auszuführen.\n• Sie setzt sich aus den Komponenten Dehnfähigkeit und Gelenkigkeit zusammen.\n• Unterscheidungskategorien: allgemein/speziell, aktiv/passiv, statisch/dynamisch.",
+    "e": "Beweglichkeit sagt, wie weit du ein Gelenk bewegen kannst, ohne dass dich Muskeln oder Knochen bremsen. Beispiel: Eine Hürdenläuferin muss das Schwungbein weit nach vorne bringen können, eine Turnerin braucht für den Spagat eine große Schwingungsweite im Hüftgelenk.",
+    "quelle": "L15.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-002",
+    "thema": "BONUS",
+    "kapitel": "L15 Beweglichkeit",
+    "q": "Erläutere den Unterschied zwischen Dehnfähigkeit und Gelenkigkeit als Komponenten der Beweglichkeit.",
+    "a": "• Dehnfähigkeit: bezieht sich auf das tendomuskuläre System (Muskeln, Sehnen, Bänder, Gelenkkapseln) und deren Fähigkeit, sich dehnen zu lassen; sie ist trainierbar.\n• Gelenkigkeit: bezieht sich auf den Bau und die Funktion der knöchernen Verbindungen (Gelenkstrukturen); sie ist weitgehend anatomisch vorgegeben.",
+    "e": "Stell dir ein Gelenk wie eine Tür vor: Die Gelenkigkeit ist das Scharnier (wie weit es überhaupt aufgehen kann), die Dehnfähigkeit sind die Gummibänder, die die Tür zurückhalten. Beispiel: Wer im Sitzen nicht an die Zehen kommt, scheitert meist an der Dehnfähigkeit der hinteren Oberschenkelmuskulatur, nicht am Hüftgelenk selbst.",
+    "quelle": "L15.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-003",
+    "thema": "BONUS",
+    "kapitel": "L15 Beweglichkeit",
+    "q": "Nenne und erläutere die drei Unterscheidungskategorien der Beweglichkeit.",
+    "a": "• Allgemein vs. speziell: allgemeine Beweglichkeit betrifft die wichtigsten Gelenksysteme des Körpers; spezielle Beweglichkeit betrifft bestimmte, für eine Sportart wichtige Gelenke.\n• Aktiv vs. passiv: aktive Beweglichkeit wird durch innere Kräfte (eigene Muskelkraft des Antagonisten) erreicht; passive Beweglichkeit durch äußere Kräfte (Partner, Schwerkraft, Gerät).\n• Statisch vs. dynamisch: statische Beweglichkeit = Halten einer Dehnstellung über einen gewissen Zeitraum; dynamische Beweglichkeit = federnde Ausführung.\n• Zusätzlich gibt es Mischformen (z. B. aktiv-statisch, passiv-dynamisch).",
+    "e": "Die drei Paare kann man frei kombinieren. Beispiel: Ein Hürdenläufer braucht spezielle Beweglichkeit im Hüftgelenk; wenn er sein Bein ohne Hilfe hoch hält, ist das aktiv-statisch, wenn der Trainer es hochdrückt, passiv.",
+    "quelle": "L15.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-004",
+    "thema": "BONUS",
+    "kapitel": "L15 Beweglichkeit",
+    "q": "Erläutere die vier Mischformen der Beweglichkeit (aktiv/passiv kombiniert mit statisch/dynamisch).",
+    "a": "• Passiv-statisch: eine Dehnposition wird durch äußere Kräfte (z. B. Gewichtskraft, Partner) eingenommen und gehalten.\n• Aktiv-statisch: eine Dehnposition wird durch eigene Muskelkraft eingenommen und über mehrere Sekunden gehalten.\n• Aktiv-dynamisch: federnde Bewegungen werden ausschließlich durch eigene Muskelkraft erzeugt.\n• Passiv-dynamisch: federnde Bewegungen werden von außen (z. B. durch einen Partner) unterstützt.",
+    "e": "Das Buch erklärt das an einer Turnerin: Spagat im Stand, in den sie durch ihr Gewicht sinkt = passiv-statisch; Spagat im Handstand halten = aktiv-statisch; federnd zwischen Handstand und Spagat wechseln = aktiv-dynamisch; dasselbe mit Hilfe der Trainerin = passiv-dynamisch.",
+    "quelle": "L15.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-005",
+    "thema": "BONUS",
+    "kapitel": "L15 Beweglichkeit",
+    "q": "Wie verhalten sich aktive und passive Beweglichkeit zueinander? Begründe.",
+    "a": "Die passive Beweglichkeit ist immer größer als die aktive Beweglichkeit.\n• Begründung: Bei der passiven Beweglichkeit wirken äußere Kräfte (Partner, Schwerkraft), die stärker sein können als die Kraft des eigenen Antagonisten.\n• Die Differenz zwischen beiden (Bewegungsreserve) hängt v. a. von der Kraft der Antagonisten ab, weshalb Kraft und Beweglichkeit sich gegenseitig beeinflussen.",
+    "e": "Mit Hilfe kommt man immer weiter als allein. Beispiel: Du kannst dein gestrecktes Bein im Liegen vielleicht aktiv auf 70° heben, mit einem Partner, der nachdrückt, aber auf 90°. Wer die Oberschenkelvorderseite kräftigt, kann die Lücke verkleinern.",
+    "quelle": "L15.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-006",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Was ist das Hauptziel des Dehnens?",
+    "a": "Hauptziel des Dehnens ist es, den Muskeltonus (muskuläre Anspannung) zu reduzieren, um\n• den Bewegungsausschlag (Schwingungsweite in den Gelenken) zu vergrößern,\n• den Muskel dehnfähiger, elastischer und verletzungsresistenter zu machen,\n• einen ökonomischen Energieumsatz bei der Muskelarbeit zu ermöglichen.",
+    "e": "Ein angespannter Muskel ist wie ein straff gespanntes Seil: Er lässt wenig Bewegung zu. Beispiel: Ein Speerwerfer braucht vor dem Abwurf eine große Vordehnung der Brust- und Schultermuskulatur; ist die Muskulatur zu angespannt, verliert er Amplitude und damit Wurfweite.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-007",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Definiere den Muskeltonus und erkläre, wie er gesteuert wird und warum er für die Beweglichkeit bedeutsam ist.",
+    "a": "• Muskeltonus = Anspannung (Grundspannung) der Muskulatur, die von der Höhe der neuronalen Aktivierung abhängt; nötig z. B. für aufrechtes Stehen.\n• Steuerung: vom Zentralnervensystem über die Muskelspindeln; der Tonus wird durch Innervation von mehr oder weniger Muskelfasern erhöht oder gesenkt.\n• Bedeutung: Ein erhöhter Tonus bzw. verminderte Entspannungsfähigkeit erhöht den Widerstand gegen Dehnung und schränkt die Beweglichkeit ein.\n• Leistungsminderung v. a. in Sportarten, die vor maximal schnellkräftigen Bewegungen eine gute Vordehnung brauchen (z. B. Speer-, Diskuswurf).",
+    "e": "Der Muskeltonus ist sozusagen der Leerlauf des Muskels: Auch in Ruhe ist er nie ganz aus. Beispiel: Nach einem stressigen Klausurtag sind Nacken und Schultern verspannt; dann kommt man beim Dehnen deutlich weniger weit als nach einem warmen Bad.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-008",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Nenne Faktoren, die den Muskeltonus erhöhen bzw. senken (Abb. 15.1).",
+    "a": "Erhöhter Muskeltonus (beweglichkeitsmindernd):\n• intensive muskuläre Belastung\n• aufputschende Umgebung / Stress\n• psychische Erregung\n• muskuläre Ermüdung\n• kalte Umgebung / niedrige Temperaturen\nGesenkter Muskeltonus (beweglichkeitssteigernd):\n• Massagen\n• warme Bäder / Wärme\n• autogenes Training\n• Meditation / Entspannung\n• Schlaf / Ruhe",
+    "e": "Faustregel: Alles, was dich aufregt, kalt oder müde macht, spannt die Muskeln an; alles, was dich wärmt und beruhigt, entspannt sie. Beispiel: Vor einem Finale ist ein Sprinter nervös und friert in der Startzone, seine Muskeln sind dadurch fester als im ruhigen Training an einem warmen Tag.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-009",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Welche Reflexe bestimmen, welchen Widerstand ein Muskel seiner Dehnung entgegensetzt?",
+    "a": "• Dehnungsreflex der Muskelspindeln (Muskelspindelreflex)\n• Hemmreflex der Golgi-Sehnenorgane (Sehnenspindeln), die autogene Hemmung\n• ergänzend die reziproke Antagonistenhemmung und die reziproke Antagonistenerregung\nZusammen regeln sie Länge und Spannung des Muskels und damit seinen Dehnwiderstand.",
+    "e": "Im Muskel sitzen zwei Messfühler: einer für die Länge, einer für die Spannung. Beispiel: Wenn du ruckartig in eine Dehnung wippst, meldet die Muskelspindel Gefahr und der Muskel zieht sich zusammen, statt nachzugeben.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-010",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Beschreibe Lage, Funktion und Reflex der Muskelspindeln (Muskelspindelreflex).",
+    "a": "• Muskelspindeln sind Dehnungs- bzw. Längenrezeptoren, die in der Muskelfaser liegen und Länge bzw. Dehnungsgrad eines Muskels messen.\n• Ablauf: Wird ein Muskel (Agonist) gedehnt, geben zuerst die kontraktilen Elemente nach; bei weiterer Dehnung werden die Muskelspindeln gedehnt.\n• Reflexbogen: Erregung über den sensorischen Nerv zum Rückenmark und von dort über den motorischen Nerv zurück zum Muskel.\n• Folge: Kontraktion des zuvor gedehnten Agonisten (Muskelspindelreflex), unterstützt durch die reziproke Antagonistenhemmung.\n• Aufgaben: Muskeltonus durch Zu- und Abschalten von Muskelfasern beeinflussen, Muskulatur vor Überdehnung schützen, indirekt die Dehnfähigkeit begrenzen.",
+    "e": "Die Muskelspindel ist der Längenwächter: Wird der Muskel zu schnell lang, gibt sie Alarm und der Muskel zieht sich zusammen. Beispiel: Beim Patellarsehnenreflex schlägt der Arzt unter die Kniescheibe, der Oberschenkelstrecker wird kurz gedehnt und nach etwa 40 Millisekunden schnellt der Unterschenkel nach vorne.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-011",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Erkläre die reziproke Antagonistenhemmung.",
+    "a": "• Wenn der Agonist zur reflektorischen Längenregelung kontrahiert (Muskelspindelreflex), wird gleichzeitig eine Kontraktion des Antagonisten unterdrückt bzw. abgeschwächt.\n• Dadurch unterstützt sie das Längenkontrollsystem: Der Agonist kann ungestört auf die Dehnung reagieren.\n• Wird in der Dehnmethodik genutzt: Eine Kontraktion des Antagonisten hemmt reflektorisch den zu dehnenden Muskel.",
+    "e": "Wenn ein Muskel arbeitet, bekommt sein Gegenspieler automatisch das Signal: Halt dich raus. Beispiel: Beim Patellarsehnenreflex streckt sich der Oberschenkelstrecker, und gleichzeitig wird die Oberschenkelrückseite gehemmt, damit sie nicht dagegenhält.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-012",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Beschreibe Lage, Funktion und Reflex der Sehnenspindeln (Golgi-Sehnenorgane).",
+    "a": "• Sehnenspindeln (Golgi-Sehnenorgane) liegen am Übergang von Muskel und Sehne bzw. in den Sehnen.\n• Sie sind primär Spannungsrezeptoren und messen die Spannung eines Muskels.\n• Bei maximaler Kontraktion oder sehr starker Dehnung des Agonisten lösen sie über einen Reflexbogen die autogene Hemmung aus: Der Agonist erschlafft, die Sehne wird vor zu hoher Spannung geschützt.\n• Unterstützt durch reziproke Antagonistenerregung: Der Antagonist kontrahiert reflektorisch und reduziert die Dehnungsspannung im Agonisten.\n• Ihre Reizschwelle für Dehnungsreize ist deutlich höher als die der Muskelspindeln; sie greifen nur bei erheblicher Dehnung.",
+    "e": "Die Sehnenspindel ist die Notbremse: Wird die Spannung gefährlich hoch, schaltet sie den Muskel ab, bevor die Sehne reißt. Beispiel: Beim Gewichtheben kann ein Athlet eine zu schwere Last plötzlich fallen lassen, weil der Muskel reflektorisch nachgibt.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-013",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Erkläre den Mechanismus der autogenen Hemmung am Beispiel des Umknickens im Sprunggelenk.",
+    "a": "• Beim Umknicken versuchen die seitlichen Unterschenkelmuskeln (Agonist), den Fuß durch maximale Kontraktion zu stabilisieren.\n• Reicht ihre Kraft nicht aus, droht ein Muskel- bzw. Sehnenabriss.\n• Die Sehnenspindeln registrieren die extreme Spannung und lösen die autogene Hemmung aus, unterstützt durch die reziproke Antagonistenerregung: Der Agonist erschlafft völlig.\n• Folge: Die Außenbänder reißen je nach Krafteinwirkung teilweise oder komplett.\n• Biologischer Sinn: Ein Bänderriss heilt wieder aus, ein Sehnen- oder Muskelabriss würde irreversible Funktionseinschränkungen verursachen.",
+    "e": "Der Körper opfert lieber das Band als die Sehne, weil das Band besser heilt. Beispiel: Eine Basketballerin landet nach dem Rebound auf dem Fuß einer Gegnerin; die Muskeln geben schlagartig nach, und statt eines Sehnenabrisses gibt es einen Außenbandriss, der nach einigen Wochen verheilt.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-014",
+    "thema": "BONUS",
+    "kapitel": "L15 Biologische Grundlagen",
+    "q": "Vergleiche Muskelspindeln und Sehnenspindeln hinsichtlich Funktion und ausgelöster Reflexe (Tab. 15.1).",
+    "a": "Muskelspindeln:\n• Funktion: Längenkontrolle (Längenrezeptoren)\n• Bei Dehnung des Agonisten: Kontraktion des Agonisten (Muskelspindelreflex) und Hemmung des Antagonisten (reziproke Antagonistenhemmung)\nSehnenspindeln:\n• Funktion: Spannungskontrolle (Spannungsrezeptoren)\n• Bei starker Dehnung oder maximaler Kontraktion des Agonisten: Hemmung des Agonisten (autogene Hemmung) und Kontraktion des Antagonisten (reziproke Antagonistenerregung)",
+    "e": "Eselsbrücke: Muskelspindel = Muskel macht zu (Kontraktion), Sehnenspindel = Sehne schützt, Muskel lässt los (Hemmung). Beispiel: Wippendes Dehnen weckt die Muskelspindeln (Muskel wird fester), eine maximale Anspannung vor dem Dehnen soll dagegen die Sehnenspindeln reizen, damit der Muskel danach lockerer wird.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-015",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Nenne die erreichbaren (gesicherten) Trainingswirkungen von Beweglichkeitstraining.",
+    "a": "• Erhaltung und Verbesserung der Beweglichkeit\n• Steigerung von Wohlbefinden und Körpergefühl\n• Wiederherstellung der Beweglichkeit nach Verletzungen\n• Schaffung optimaler Voraussetzungen für die sportliche Leistungsfähigkeit in Training und Wettkampf (bei angemessener sportspezifischer Anwendung)\n(nach Klee & Wiemann)",
+    "e": "Dehnen kann weniger, als oft behauptet wird, aber diese vier Dinge sind wissenschaftlich gesichert. Beispiel: Nach einer Knieoperation hilft gezieltes Beweglichkeitstraining, das Knie wieder voll beugen zu können.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-016",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Nenne die nicht erreichbaren Trainingswirkungen von Beweglichkeitstraining.",
+    "a": "Durch Beweglichkeitstraining nicht erreichbar sind:\n• Verringerung der (akuten) Verletzungsgefahr\n• Absenken der Muskelspannung\n• Verbesserung der Entspannungsfähigkeit\n• Behebung muskulärer Dysbalancen durch Beseitigung von Muskelverkürzungen\nViele angenommene Wirkungen des Stretchings wurden mit der Aufklärung der Funktion des Titinmoleküls widerlegt.",
+    "e": "Viele Mythen ums Dehnen halten sich hartnäckig. Beispiel: Der Fußballtrainer, der vor dem Spiel lange statisch dehnen lässt, damit sich niemand verletzt, erreicht damit laut Forschung keinen Verletzungsschutz, sondern eher eine schwächere Schnellkraft.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-017",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Welche Rolle spielt das Titinmolekül für die Bewertung des Stretchings?",
+    "a": "• Titin ist ein elastisches Riesenprotein im Sarkomer, das den Muskel nach einer Dehnung wieder in seine Ausgangslänge zurückführt.\n• Mit der Aufklärung dieser Funktion wurden viele angenommene positive Wirkungen des passiv-statischen Stretchings (z. B. dauerhafte Muskelverlängerung, Beseitigung von Verkürzungen) widerlegt (Klee & Wiemann).",
+    "e": "Titin wirkt im Muskel wie eine eingebaute Feder: Zieht man den Muskel lang, schnurrt er danach wieder auf seine Länge zurück. Beispiel: Ein Gummiband, das man 30 Sekunden dehnt, ist danach nicht dauerhaft länger, ähnlich verhält es sich mit dem Muskel.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-018",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Erläutere den Zusammenhang zwischen Dehnen und Verletzungsprophylaxe.",
+    "a": "• Dehnen bzw. Stretching ist als direkte (kurzfristige) Verletzungsvorbeugung ungeeignet, da die dabei auftretenden Muskelspannungen oft die Anforderungen der Sportart übersteigen und Muskelverletzungen eher begünstigen.\n• Langfristig passt sich das Bindegewebe an Dehnreize an: Es wird zugkräftiger und belastungsresistenter, wodurch Muskelverletzungen vorgebeugt wird.\n• Folgerung: Beweglichkeitstraining als eigenständigen Trainingsinhalt begreifen, nicht als gewohnheitsmäßigen Bestandteil des Aufwärmens.\n• Merksatz: Verletzungsvorbeugung nur durch Langzeit-Dehnprogramme!",
+    "e": "Dehnen schützt nicht heute, sondern erst nach Monaten regelmäßigen Übens. Beispiel: Eine Handballerin, die dreimal pro Woche separat 20 Minuten Beweglichkeitstraining macht, stärkt ihr Bindegewebe; fünf Minuten Stretching vor dem Spiel bringen dagegen keinen Schutz.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-019",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Welche Dehnmethode ist für Spielsportler die Methode der Wahl? Begründe.",
+    "a": "Aktiv-dynamisches Dehnen.\n• Stretching (passiv-statisch) beeinträchtigt unmittelbar nachfolgende Schnelligkeits- und Schnellkraftleistungen merklich; die Einbußen lassen sich nur durch tonisierende Übungen verringern.\n• Beim aktiv-dynamischen Dehnen treten diese Einbußen nicht auf.\n• Es entspricht dem Bewegungsprofil der Sportspiele, da die Muskulatur in Spielaktionen fast ausschließlich dynamisch gedehnt wird.\n• Merksätze: Kein statisches Dehnen im Aufwärmen und vor maximalen Belastungen! Im Spielsport ist aktiv-dynamisches Dehnen die Methode der Wahl!",
+    "e": "Im Spiel wird der Muskel schwungvoll gedehnt, also sollte man ihn auch so vorbereiten. Beispiel: Basketballer machen beim Aufwärmen Beinschwünge und Ausfallschritte statt lange Dehnpositionen zu halten, damit ihre Sprungkraft beim Anpfiff voll da ist.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-020",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Erläutere, warum Dehnen muskuläre Dysbalancen nicht behebt und was stattdessen getan werden sollte.",
+    "a": "• Durch Dehnen werden muskuläre Dysbalancen nicht verringert; eine vermeintliche Muskelverkürzung wird durch Dehnen nicht dauerhaft beseitigt.\n• Stattdessen sollte der zu schwache Muskel (meist der Antagonist) gekräftigt werden (Klee & Wiemann).\n• Merksatz: Dehnen behebt keine muskulären Dysbalancen!",
+    "e": "Eine Dysbalance ist ein Kräfteungleichgewicht, und das lässt sich nur mit Kraft ausgleichen. Beispiel: Wer durch viel Sitzen ein Hohlkreuz mit schwacher Bauchmuskulatur hat, sollte vor allem die Bauchmuskeln kräftigen, statt nur den Hüftbeuger zu dehnen.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-021",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Kann Dehnen Muskelkater verhindern? Begründe.",
+    "a": "Nein.\n• Die Entstehung von Muskelkater kann durch Stretching und andere Dehnmethoden nicht verhindert werden (Freiwald).\n• Dehnen kann sogar Muskelkatersymptome auslösen, da starke Dehnspannungen selbst Mikroverletzungen verursachen können (Klee & Wiemann).\n• Merksatz: Stretching verhindert keinen Muskelkater!",
+    "e": "Muskelkater sind winzige Risse im Muskel, und die werden durch weiteres Ziehen nicht kleiner. Beispiel: Wer nach dem ersten Bergablauf des Jahres intensiv dehnt, hat am übernächsten Tag trotzdem Muskelkater in den Oberschenkeln.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-022",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Erkläre, was Muskelkater ist und wie er entsteht.",
+    "a": "• Muskelkater ist eine Verletzung des Muskels.\n• Ursache: ungewohnte Bewegungsabläufe oder Muskelermüdung führen zum Verlust der intra- oder intermuskulären Koordination.\n• Unkoordinierte Kontraktionen verursachen Mikrotraumen in den Muskelfibrillen (Zerreißen der Z-Streifen); besonders häufig bei exzentrischen (nachgebenden) Kontraktionen.\n• Durch die Risse dringt Wasser ein, nach ca. 24-36 Stunden bilden sich kleine Ödeme.\n• Schmerzauslösende Substanzen (Mediatoren) treten in den Extrazellularraum aus und führen zu schmerzhafter reflektorischer Verspannung.\n• Symptome: Muskeln steif, hart, kraftlos, schmerzen bei Bewegung und Druck.",
+    "e": "Muskelkater kommt nicht von Milchsäure, sondern von kleinen Rissen im Muskel. Beispiel: Nach einer Wanderung bergab (exzentrische Arbeit der Oberschenkel) tun die Beine meist erst am nächsten oder übernächsten Tag weh, weil sich die Schwellungen erst langsam bilden.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-023",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Wie sollte man nach einem intensiven Training dehnen? Begründe.",
+    "a": "• Nicht direkt statisch dehnen: Unter der Dehnspannung wird die Durchblutung der Muskulatur erheblich gesenkt, der Abtransport von Stoffwechselprodukten (z. B. Laktat) verschlechtert sich.\n• Stattdessen zuerst Auslaufen und Lockerungsprogramm.\n• Erst danach ist leichtes statisches oder dynamisches Dehnen sinnvoll.\n• Merksatz: Nach einem intensiven Training zuerst lockern und dann leichtes Dehnen!",
+    "e": "Ein stark gedehnter Muskel drückt seine Blutgefäße zusammen, wie ein Gartenschlauch, auf den man tritt. Beispiel: Nach einem 400-m-Lauf sollte man erst locker austraben, damit das Laktat abtransportiert wird, und erst später sanft dehnen.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-024",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Nenne die Merksätze zum Dehnen.",
+    "a": "• Kein statisches Dehnen im Aufwärmen und vor maximalen Belastungen!\n• Verletzungsvorbeugung nur durch Langzeit-Dehnprogramme!\n• Im Spielsport ist aktiv-dynamisches Dehnen die Methode der Wahl!\n• Nach intensivem Training zuerst lockern, dann leichtes Dehnen!\n• Stretching verhindert keinen Muskelkater!\n• Dehnen behebt keine muskulären Dysbalancen!\n• Dehnen steigert Wohlbefinden und Körpergefühl!\n• Dehnen verbessert nicht die Entspannungsfähigkeit der Muskulatur!",
+    "e": "Diese acht Sätze fassen die moderne Sicht aufs Dehnen zusammen und räumen mit alten Mythen auf. Beispiel: Ein Sprinter sollte direkt vor dem Start auf statisches Dehnen verzichten, kann aber an trainingsfreien Tagen ein Dehnprogramm für sein Wohlbefinden und die langfristige Beweglichkeit machen.",
+    "quelle": "L15.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-025",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnwirkungen",
+    "q": "Begründe, weshalb sich Kraft und Beweglichkeit gegenseitig beeinflussen.",
+    "a": "• Aktive Beweglichkeit hängt von der Kraft des Antagonisten ab, der das Gelenk in die Endstellung bewegen muss; mehr Kraft vergrößert die aktive Beweglichkeit.\n• Kraft hängt umgekehrt von der Beweglichkeit ab: Eine gute Vordehnung (große Amplitude) erlaubt einen längeren Beschleunigungsweg und nutzt elastische Energie (Dehnungs-Verkürzungs-Zyklus).\n• Eine eingeschränkte Beweglichkeit erhöht den Widerstand des Antagonisten und mindert so die Kraftentfaltung des Agonisten.\n• Einseitiges Krafttraining ohne volle Bewegungsamplitude kann die Beweglichkeit einschränken; Training über die volle Amplitude erhält sie.",
+    "e": "Kraft und Beweglichkeit sind Partner: Der eine bringt Weg, der andere bringt Druck. Beispiel: Ein Speerwerfer, der den Arm weit nach hinten führen kann, hat einen längeren Beschleunigungsweg und wirft weiter; gleichzeitig braucht er Kraft, um diese Position aktiv einzunehmen.",
+    "quelle": "L15.4",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.b-026",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Nenne die Hauptdehnmethoden zur Verbesserung der Beweglichkeit und ihre Systematik (nach Klee & Wiemann).",
+    "a": "• Dynamisches Dehnen (federnd): aktiv-dynamisch und passiv-dynamisch\n• Statisches Dehnen (Stretching, Halten der Position): passiv-statisch (passives Stretching) und aktiv-statisch (aktives Stretching)\n• Innerhalb des aktiven Stretchings besonders hervorzuheben: neuromuskuläre Dehntechniken\n  – Aktivierung des Agonisten: Kontraktions-Relaxations-Stretching\n  – Aktivierung des Antagonisten: Antagonisten-Kontraktions-Stretching (zwei Varianten)",
+    "e": "Erst teilt man in federnd (dynamisch) und haltend (statisch), dann jeweils in mit eigener Kraft (aktiv) und mit Hilfe von außen (passiv). Beispiel: Beinschwünge sind aktiv-dynamisch, das Ziehen der Ferse ans Gesäß mit der Hand ist passiv-statisch.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-027",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Beschreibe das dynamische Dehnen und seine beiden Formen.",
+    "a": "• Dynamisches Dehnen zeichnet sich durch wiederholte, federnde Bewegungen aus.\n• Aktiv-dynamisch: Die Bewegungen werden ausschließlich durch innere Muskelkräfte erzeugt.\n• Passiv-dynamisch: Die Bewegungsausführung wird von außen, z. B. durch einen Partner, unterstützt.\n• Belastung laut Tab. 15.2: 3-5 Serien mit je 15-20 Wiederholungen, mit zunehmender Intensität innerhalb der Serie.",
+    "e": "Beim dynamischen Dehnen bleibt man in Bewegung und federt rhythmisch in die Endposition. Beispiel: Ein Fußballer schwingt beim Aufwärmen das gestreckte Bein mehrmals vor und zurück, jedes Mal etwas höher.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-028",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Beschreibe das statische Dehnen (Stretching) und unterscheide passives und aktives Stretching.",
+    "a": "• Statisches Dehnen (Stretching) ist durch das Halten der Dehnposition für einen bestimmten Zeitraum gekennzeichnet.\n• Passiv-statisch (passives Stretching): Die Dehnposition wird durch äußere Kräfte (Partner, Schwerkraft, Hilfsmittel) eingenommen und gehalten.\n• Aktiv-statisch (aktives Stretching): Die Dehnposition wird unter Ausnutzung neuromuskulärer Reflexe eingenommen, durch Aktivierung des zu dehnenden Muskels (Agonist) oder seines Gegenspielers (Antagonist).",
+    "e": "Statisch heißt: rein in die Position und dort bleiben. Beispiel: Beim klassischen Wadendehnen an der Wand drückt das Körpergewicht die Ferse nach unten (passiv), beim Hochhalten des Beins mit eigener Kraft arbeitet man aktiv.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-029",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Erkläre das Kontraktions-Relaxations-Stretching und seinen neurophysiologischen Hintergrund.",
+    "a": "• Der zu dehnende Muskel (Agonist) wird vor dem Dehnen 1-10 Sekunden maximal isometrisch kontrahiert.\n• Anschließend wird er statisch gedehnt.\n• Hintergrund: Die maximale Kontraktion reizt die Sehnenspindeln (Golgi-Sehnenorgane) und soll die autogene Hemmung auslösen.\n• Folge: Entspannung (Hemmung) des zu dehnenden Muskels, dadurch größere Dehnamplitude.\n• Gehört zu den neuromuskulären Techniken (aktives Stretching mit Aktivierung des Agonisten).",
+    "e": "Erst fest anspannen, dann loslassen und dehnen: Die Anspannung soll die Notbremse der Sehnenspindel auslösen. Beispiel: Zum Dehnen der Oberschenkelrückseite drückt man das gestreckte Bein gegen den Widerstand eines Partners nach unten, entspannt dann und lässt sich weiter in die Dehnung ziehen.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-030",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Beschreibe die beiden Verfahren des Antagonisten-Kontraktions-Stretchings und ihren Wirkmechanismus.",
+    "a": "Verfahren 1 (Kontrahieren plus Dehnen):\n• Der Agonist wird statisch bis in die maximale Dehnstellung gedehnt.\n• Dann wird der Antagonist 10-20 Sekunden maximal kontrahiert, während die Dehnstellung des Agonisten weiter verstärkt wird.\nVerfahren 2 (erst Kontrahieren, dann Dehnen):\n• Zuerst wird der Antagonist 10-20 Sekunden maximal isometrisch kontrahiert.\n• Danach wird der Agonist statisch gedehnt.\nWirkmechanismus beider Verfahren:\n• Die Kontraktion des Antagonisten löst die reziproke (Antagonisten-)Hemmung im zu dehnenden Muskel aus, er entspannt reflektorisch und lässt sich weiter dehnen.",
+    "e": "Hier arbeitet der Gegenspieler, damit der zu dehnende Muskel abschaltet. Beispiel: Um die Oberschenkelrückseite zu dehnen, spannt man aktiv den Oberschenkelstrecker an und zieht das gestreckte Bein in Richtung Brust; die Rückseite wird dadurch reflektorisch gehemmt.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-031",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Vergleiche Kontraktions-Relaxations-Stretching und Antagonisten-Kontraktions-Stretching.",
+    "a": "Kontraktions-Relaxations-Stretching:\n• kontrahiert wird der zu dehnende Muskel (Agonist), 1-10 s maximal isometrisch\n• Mechanismus: Reizung der Sehnenspindeln, autogene Hemmung\nAntagonisten-Kontraktions-Stretching:\n• kontrahiert wird der Gegenspieler (Antagonist), 10-20 s maximal\n• Mechanismus: reziproke Antagonistenhemmung des zu dehnenden Muskels\nGemeinsam: Beide sind neuromuskuläre Techniken des aktiv-statischen Dehnens und nutzen Reflexe, um den Dehnwiderstand zu senken.",
+    "e": "Der Unterschied liegt darin, wer vorher arbeitet: der Muskel selbst oder sein Gegenspieler. Beispiel: Für die Wade drückt man beim ersten Verfahren den Fußballen kräftig gegen die Wand (Wade arbeitet), beim zweiten zieht man die Fußspitze aktiv zum Schienbein (Schienbeinmuskel arbeitet).",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-032",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Beschreibe das aktiv-dynamische Dehnen nach Tab. 15.2 (Durchführung, Umfang, Vor- und Nachteile).",
+    "a": "• Durchführung: rhythmisch, mit geringer Geschwindigkeit, zunehmende Intensität innerhalb der Serie\n• Umfang: 3-5 Serien, 15-20 Wiederholungen\n• Vorteile: koordinativer Anteil, Kräftigung (des Antagonisten), disziplinspezifisches Üben möglich\n• Nachteil: Effektivität setzt ein hohes Maß an Kontrolle voraus",
+    "e": "Diese Methode trainiert neben der Beweglichkeit auch Koordination und Kraft, weil die eigenen Muskeln die Bewegung erzeugen. Beispiel: Ein Hürdenläufer macht kontrollierte Schwungbeinbewegungen wie beim Hürdenüberlaufen, muss aber darauf achten, nicht unkontrolliert zu reißen.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-033",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Beschreibe das passiv-dynamische Dehnen nach Tab. 15.2 (Durchführung, Umfang, Vor- und Nachteile).",
+    "a": "• Durchführung: rhythmisch geführt, langsam ausführen, zunehmende Intensität innerhalb der Serie\n• Umfang: 3-5 Serien, 15-20 Wiederholungen\n• Vorteile: weite Amplituden werden erzielt; Entspannung und Entlastung des übenden Sportlers\n• Nachteile: keine Kräftigung des Antagonisten; Erfahrung des Trainingspartners nötig",
+    "e": "Hier macht der Partner die Arbeit, deshalb erreicht man große Weiten, trainiert aber keine Kraft. Beispiel: Eine Trainerin führt das Bein einer liegenden Turnerin rhythmisch federnd in Richtung Kopf; sie muss genau wissen, wie weit sie gehen darf.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-034",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Beschreibe das aktiv-statische und das passiv-statische Dehnen nach Tab. 15.2 (Durchführung, Umfang, Vor- und Nachteile).",
+    "a": "Aktiv-statisch:\n• Durchführung: langsame Dehnung bis zum Einsetzen eines Spannungsempfindens\n• Umfang: 15 s, 1-3 Wiederholungen\n• Vorteil: präzise, kontrollierte Belastung, dadurch Schutz vor Überlastung\n• Nachteil: in reiner Form nicht möglich\nPassiv-statisch:\n• Durchführung: geführte Dehnung mit anschließendem Halten der Position\n• Umfang: 15 s, 1-3 Wiederholungen\n• Vorteile: hohe Intensität, hohe Reizdauer, gezielte Dehnung, Entspannung der übenden Person\n• Nachteil: keine koordinativen und kräftigenden Anteile",
+    "e": "Beide halten die Position, der Unterschied ist, ob man selbst oder etwas von außen dehnt. Beispiel: Beim passiven Stretching der Oberschenkelvorderseite zieht man die Ferse mit der Hand zum Po und hält 15 Sekunden, das ist intensiv, aber trainiert keine Kraft.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-035",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Beschreibe die neuromuskulären Dehntechniken nach Tab. 15.2 (Durchführung, Umfang, Vor- und Nachteile).",
+    "a": "• Durchführung: Dauerdehnung nach Kontraktion des Agonisten bzw. Antagonisten\n• Umfang: maximale Kontraktionszeit ca. 20 s, Entspannungszeit 2-3 s, Dehnungszeit ca. 20 s, 1-3 Wiederholungen\n• Vorteile: gute Kontrolle, intensive Dehnung\n• Nachteile: großer Zeitaufwand, schwierige Ausführung",
+    "e": "Diese Techniken sind sehr wirksam, aber aufwendig, weil man anspannen, kurz lösen und dann lange dehnen muss. Beispiel: Im Schulsport mit 30 Schülern dauert eine solche Übung für alle Muskelgruppen sehr lange und muss erst sorgfältig erklärt werden.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-036",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Was kennzeichnet ein Stretching-Basisprogramm und welche Ausführungshinweise gelten?",
+    "a": "Kennzeichen:\n• berücksichtigt die wesentlichen Muskelbereiche\n• ist abwechslungsreich\n• wird regelmäßig durchgeführt; gehört zum langfristigen Trainingsaufbau\nAusführungshinweise (nach Weineck):\n• Dehnstellung einnehmen und durch Bewegen in Pfeilrichtung verstärken\n• keine ruckartigen Bewegungen (kein Wippen)\n• ein leichtes Ziehen im Muskel ist normal\n• Stellung 15-30 Sekunden halten\n• regelmäßig und ruhig atmen, entspannen",
+    "e": "Ein Basisprogramm ist wie Zähneputzen für die Muskeln: wenige Übungen, aber regelmäßig. Beispiel: Das Programm Top Ten nach Weineck enthält zehn Übungen für die wichtigsten Muskeln, die man zweimal pro Woche in einer ruhigen Einheit durchführen kann.",
+    "quelle": "L15.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-037",
+    "thema": "BONUS",
+    "kapitel": "L15 Dehnmethoden",
+    "q": "Bewerte die Methoden des Beweglichkeitstrainings hinsichtlich ihrer Brauchbarkeit im Schulsport.",
+    "a": "• Aktiv-dynamisches Dehnen: gut geeignet für das Aufwärmen, da koordinativ, kräftigend und ohne Leistungseinbußen; erfordert aber Bewegungskontrolle und Anleitung.\n• Aktiv- und passiv-statisches Dehnen: einfach zu vermitteln, gut für eigene Beweglichkeitseinheiten oder den Stundenausklang (nach Lockerung), nicht vor Schnellkraftbelastungen.\n• Passiv-dynamisches Dehnen: im Schulsport problematisch, da erfahrene Partner nötig sind und Überdehnungsgefahr besteht.\n• Neuromuskuläre Techniken: wirksam, aber zeitaufwendig und schwierig; eher in Oberstufe oder Projekten.\n• Insgesamt: Methode nach Ziel und Zeitpunkt wählen; Wissen über Dehnmythen vermitteln.",
+    "e": "Im Schulsport zählt, was sicher, einfach und zeitsparend ist. Beispiel: Für eine Basketballstunde eignen sich Ausfallschritte und Armkreisen zum Aufwärmen, während Partnerdehnungen mit Wippen bei unerfahrenen Schülern schnell zu Zerrungen führen können.",
+    "quelle": "L15.4",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.b-038",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Was überprüfen die Janda-Tests und welchem Zweck dienen sie?",
+    "a": "• Die Janda-Tests (nach dem tschechischen Arzt und Physiotherapeuten Vladimir Janda) überprüfen die wichtigsten Muskeln des Körpers auf ihre Beweglichkeit (Dehnfähigkeit).\n• Hintergrund: Starke Trainingsreize können langfristig zu Verkürzungen bestimmter Muskeln führen.\n• Zweck: Mit einfachen Tests vorliegende Defizite erkennen und im Sinne einer Verletzungsprophylaxe durch gezieltes Beweglichkeitstraining beheben.\n• Getestet werden: Wadenmuskulatur, gerader Kniestrecker, Hüftlendenmuskel, Schenkelanzieher, Sitzbeinunterschenkelmuskulatur (ischiocrurale Muskulatur), Rückenstrecker.",
+    "e": "Janda-Tests sind einfache Checks, ob ein Muskel verkürzt ist. Beispiel: Ein Fußballer stellt im Test fest, dass er die Ferse nicht ans Gesäß bekommt, sein Kniestrecker ist verkürzt, also baut er gezielte Übungen dafür ein.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-039",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Wie wird die Dehnfähigkeit des dreiköpfigen Wadenmuskels getestet und bewertet?",
+    "a": "• Testposition: tiefe Hockposition barfuß, Füße parallel, fußbreiter Abstand (Sohlenhockstand).\n• Bewertung: Kann die Hockstellung mit ganzer Fußsohle am Boden eingenommen werden, ist die Dehnfähigkeit ausreichend.\n• Muss der Proband zum Erreichen der tiefen Hocke die Fersen anheben, liegt eine Verkürzung der Wadenmuskulatur vor.",
+    "e": "Die Wade neigt zur Verkürzung, besonders bei Läufern. Beispiel: Wer beim tiefen Hocken immer auf den Zehenspitzen landet oder nach hinten kippt, hat meist eine verkürzte Wadenmuskulatur.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-040",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Wie wird die Dehnfähigkeit des geraden Kniestreckers getestet und bewertet?",
+    "a": "• Test: Die Ferse wird (in Bauchlage) mit leichter Partnerunterstützung Richtung Gesäß geführt.\n• Optimal dehnbar: Ferse erreicht das Gesäß.\n• Leichte Verkürzung: Abstand trotz Nachhilfe bis 15 cm.\n• Starke Verkürzung: Abstand über 15 cm.\n• Der gerade Kniestrecker ist bei Sportlern und Büroarbeitern am häufigsten verkürzt.",
+    "e": "Der gerade Kniestrecker zieht über Hüfte und Knie und wird durch viel Sitzen und Sprinten oft kurz. Beispiel: Bleibt bei einer Schülerin zwischen Ferse und Po eine Lücke von 20 cm, ist ihr Kniestrecker stark verkürzt.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-041",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Wie wird die Dehnfähigkeit des Hüftlendenmuskels getestet und welche Folgen hat seine Verkürzung?",
+    "a": "• Test: In Rückenlage wird der Oberschenkel des Gegenbeins Richtung Brustkorb herangezogen.\n• Verkürzung liegt vor, wenn das Testbein dabei nach oben geht (meist auch mit Streckung des Unterschenkels).\n• Folgen einer Verkürzung: v. a. bei schwacher Bauchmuskulatur Hohlkreuzbildung mit nachfolgenden Rückenproblemen.\n• Häufig stark verkürzt bei Fußballern und viel sitzenden Menschen.",
+    "e": "Der Hüftlendenmuskel verbindet Lendenwirbelsäule und Oberschenkel; ist er zu kurz, zieht er das Becken nach vorne. Beispiel: Ein Büroangestellter, der täglich acht Stunden sitzt, bekommt durch den verkürzten Hüftbeuger leicht ein Hohlkreuz und Rückenschmerzen.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-042",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Wie wird die Dehnfähigkeit der Schenkelanzieher (Adduktoren) bewertet?",
+    "a": "• Gemessen wird der Abduktionswinkel (Abspreizen des Beins).\n• Gute Dehnfähigkeit: Abduktion von 60°.\n• Leichte Verkürzung: 40-60°.\n• Starke Verkürzung: unter 40°.\n• Bedeutung: Adduktorenverletzungen gehören in vielen Sportarten zu den häufigsten Verletzungen.",
+    "e": "Die Adduktoren ziehen das Bein zur Körpermitte und werden bei Seitwärtsbewegungen stark beansprucht. Beispiel: Fußballer und Eishockeyspieler ziehen sich häufig Leistenzerrungen zu; ein Abspreizwinkel unter 40° wäre ein Warnsignal.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-043",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Wie wird die Dehnfähigkeit der Sitzbeinunterschenkelmuskulatur (ischiocrurale Muskulatur) bewertet?",
+    "a": "• Test: In Rückenlage wird ein Bein gestreckt angehoben, das Gegenbein ist fixiert.\n• Gute Dehnfähigkeit: Anheben bis 90° ohne Spannungsschmerz in der Kniekehle.\n• Leichte Verkürzung: 80-90°.\n• Starke Verkürzung: 60-80°.",
+    "e": "Gemeint sind die Muskeln der Oberschenkelrückseite, die vom Sitzbein zum Unterschenkel ziehen. Beispiel: Wenn ein Partner dein gestrecktes Bein hebt und es bei 70° in der Kniekehle zieht, ist diese Muskulatur stark verkürzt.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-044",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Wie wird die Dehnfähigkeit des Rückenstreckers bewertet und welche Folgen hat eine Verkürzung?",
+    "a": "• Messgröße: Stirn-Kniescheiben-Abstand im Langsitz bei maximaler Rumpfbeuge.\n• Gute Dehnfähigkeit: 0-10 cm.\n• Leichte Verkürzung: 10-15 cm.\n• Starke Verkürzung: mehr als 15 cm.\n• Folgen: Verkürzung meist im Bereich der Lendenwirbelsäule, beeinflusst die Lendenlordose und führt häufig zu Bandscheibenproblemen.",
+    "e": "Der Rückenstrecker hält uns aufrecht, wird aber im Lendenbereich leicht zu kurz. Beispiel: Wenn deine Stirn im Langsitz 20 cm vor den Knien stehen bleibt, deutet das auf einen stark verkürzten Rückenstrecker hin.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-045",
+    "thema": "BONUS",
+    "kapitel": "L16 Beweglichkeitstests",
+    "q": "Fasse die Bewertungsgrenzen der Janda-Tests mit Messwerten in einer Übersicht zusammen.",
+    "a": "• Wadenmuskel: Sohlenhockstand; Fersen heben sich = Verkürzung\n• Gerader Kniestrecker: Ferse am Gesäß = optimal; bis 15 cm = leicht; über 15 cm = stark verkürzt\n• Hüftlendenmuskel: Testbein hebt sich beim Heranziehen des Gegenbeins = Verkürzung\n• Schenkelanzieher: 60° Abduktion = gut; 40-60° = leicht; unter 40° = stark verkürzt\n• Sitzbeinunterschenkelmuskulatur: 90° = gut; 80-90° = leicht; 60-80° = stark verkürzt\n• Rückenstrecker: Stirn-Knie 0-10 cm = gut; 10-15 cm = leicht; über 15 cm = stark verkürzt",
+    "e": "Lerntipp: Bei den Strecken gilt die Grenze 15 cm (Kniestrecker und Rückenstrecker), bei den Winkeln je 20° Abstufung nach unten (Adduktoren 60/40, Oberschenkelrückseite 90/80/60). Beispiel: Wer beim Beinheben 85° schafft, ist leicht verkürzt.",
+    "quelle": "L16.5",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-046",
+    "thema": "BONUS",
+    "kapitel": "L17 Leistungsmotivation",
+    "q": "Nenne und erläutere die drei Bezugsnormen zur Bewertung sportlicher Leistungen.",
+    "a": "• Individuelle Bezugsnorm: Vergleich mit früheren eigenen Leistungen bzw. einem angenommenen eigenen Könnensniveau.\n• Sachbezogene (sachliche) Bezugsnorm: Bewertung an den objektiv gegebenen Bewältigungsmöglichkeiten einer spezifischen sportlichen Anforderung (Handlungsergebnis als solches).\n• Soziale Bezugsnorm: Vergleich der eigenen Leistung mit der Leistung anderer Personen.",
+    "e": "Die Frage ist immer: Womit vergleiche ich meine Leistung? Beispiel: Eine Läuferin freut sich über 5:40 min auf 1000 m, weil sie sich um 10 s verbessert hat (individuell), weil sie die Note 2 erreicht (sachlich) oder weil sie die Schnellste der Klasse war (sozial).",
+    "quelle": "L17.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-047",
+    "thema": "BONUS",
+    "kapitel": "L17 Leistungsmotivation",
+    "q": "Nenne die fünf Bedingungen für leistungsmotiviertes Handeln (nach Heckhausen bzw. Gabler).",
+    "a": "1. Die Handlung führt zu einem objektivierbaren Ergebnis (hat Anfang und Ende).\n2. Das Handlungsergebnis ist auf einen Gütemaßstab beziehbar, der als Bezugsnorm dient (sachbezogen, individuell oder sozial).\n3. Dem Gütemaßstab ist ein Schwierigkeitsmaßstab zugeordnet: Die Handlung muss gelingen oder misslingen können.\n4. Der Handelnde sieht Güte- und Schwierigkeitsmaßstab als verbindlich an.\n5. Das Handlungsergebnis wird vom Handelnden als selbst verursacht erlebt.",
+    "e": "Nur wenn alle fünf Punkte erfüllt sind, spricht man von Leistungshandeln. Beispiel: Ein Marathonläufer bei km 40 hat ein messbares Ziel (Zielzeit), sie kann scheitern, er nimmt sie ernst und weiß, dass es an ihm liegt, ob er die letzten Reserven mobilisiert.",
+    "quelle": "L17.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-048",
+    "thema": "BONUS",
+    "kapitel": "L17 Leistungsmotivation",
+    "q": "Erläutere die Bedingungen objektivierbares Ergebnis und Gütemaßstab für leistungsmotiviertes Handeln.",
+    "a": "Objektivierbares Ergebnis:\n• Die Handlung muss einen Anfang und ein Ende haben, sodass ein Ergebnis erkennbar ist.\n• Tätigkeiten ohne markierbares Ende gelten nicht als Leistungshandlung, es sei denn, ein Ziel wird gesetzt.\nGütemaßstab:\n• Das Ergebnis muss auf einen Gütemaßstab beziehbar sein, z. B. c-g-s-System (Zentimeter, Gramm, Sekunde) oder Gestaltungskriterien.\n• Ergebnisse im Sport sind messbar, durch Regeln definiert oder aufgabenimmanent.",
+    "e": "Ohne Ziel und Maßstab weiß man nicht, ob man gut war. Beispiel: Einfaches Jonglieren mit dem Ball ist keine Leistungshandlung; versucht der Spieler aber, den Ball möglichst oft hochzuhalten und zählt mit, wird es eine.",
+    "quelle": "L17.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-049",
+    "thema": "BONUS",
+    "kapitel": "L17 Leistungsmotivation",
+    "q": "Erläutere die Bedingungen Schwierigkeitsmaßstab, Verbindlichkeit und Selbstverursachung für leistungsmotiviertes Handeln.",
+    "a": "• Schwierigkeitsmaßstab: Für die Aufgabe sind spezifische Fähigkeiten und Anstrengung nötig; Leistungshandlungen müssen grundsätzlich gelingen oder misslingen können.\n• Verbindlichkeit: Der Handelnde muss Güte- und Schwierigkeitsmaßstab als für sich verbindlich ansehen; sonst reagiert er weder mit Freude noch mit Enttäuschung.\n• Selbstverursachung: Das Ergebnis muss als selbst verursacht erlebt werden; zufällige Ergebnisse oder Ergebnisse durch Doping gelten nicht als eigene Leistung.",
+    "e": "Leistung macht nur stolz, wenn sie schwer, gewollt und selbst geschafft war. Beispiel: Ein Salto, der nur passiert, weil man auf dem 3-m-Brett ausrutscht, ist keine Leistung, und ein Schüler, dem die Noten im Sport egal sind, erlebt seinen Sprint nicht als Leistung.",
+    "quelle": "L17.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-050",
+    "thema": "BONUS",
+    "kapitel": "L17 Leistungsmotivation",
+    "q": "Definiere Leistungsmotivation bzw. leistungsmotiviertes Handeln (nach Alfermann & Stoll).",
+    "a": "Leistungsmotivation ist das Bestreben,\n• eine Aufgabe zu meistern und dabei einen Gütemaßstab zu erreichen oder zu übertreffen,\n• Hindernisse zu überwinden,\n• Ausdauer auch bei Misserfolg zu zeigen und\n• sich selbst für das Leistungsergebnis verantwortlich zu fühlen.\nMerksatz: Der Kern der Leistungsmotivation ist die Auseinandersetzung mit einem Gütemaßstab.",
+    "e": "Leistungsmotiviert ist man, wenn man wissen will, was man selbst draufhat. Beispiel: Ein Freizeitjogger misst nach wenigen Läufen seine Zeit, um sie beim nächsten Mal zu unterbieten, das Erfolgserlebnis ist die eigentliche Belohnung.",
+    "quelle": "L17.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-051",
+    "thema": "BONUS",
+    "kapitel": "L17 Leistungsmotivation",
+    "q": "Grenze leistungsmotiviertes Handeln von anderem angestrengtem Verhalten ab.",
+    "a": "• Nicht jedes angestrengte Bemühen ist leistungsmotiviert; Leistungsziele können aus anderen Gründen verfolgt werden (z. B. höheres Gehalt, Ansehen und Prestige, Prüfung bestehen, um nicht mehr lernen zu müssen).\n• Leistungsmotiviert ist Verhalten nur, wenn es auf die Selbstbewertung der eigenen Tüchtigkeit zielt, in Auseinandersetzung mit einem Gütemaßstab (Rheinberg & Vollmeyer).\n• Anreiz ist der Stolz, etwas Anspruchsvolles geschafft zu haben, und die Zufriedenheit mit der eigenen Tüchtigkeit (Erfolgserlebnis).",
+    "e": "Entscheidend ist das Warum der Anstrengung. Beispiel: Ein Profi, der nur für die Siegprämie trainiert, ist extrinsisch motiviert; ein Hobbyradler, der sich über seine neue Bestzeit auf dem Tacho freut, ist leistungsmotiviert.",
+    "quelle": "L17.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-052",
+    "thema": "BONUS",
+    "kapitel": "L17 Leistungsmotivation",
+    "q": "Nenne die drei Modelle der kognitiven Leistungsmotivationsforschung und ihren jeweiligen Schwerpunkt.",
+    "a": "• Risikowahlmodell (Atkinson): betont die beiden Motivtendenzen Hoffnung auf Erfolg (Erfolgsmotiv) und Furcht vor Misserfolg (Misserfolgsmotiv).\n• Attributionstheorie (Weiner, Heckhausen): ergänzt die Ursachenzuschreibung für Erfolg und Misserfolg; dazu gehört das Selbstbewertungsmodell der Leistungsmotivation (Heckhausen), das die Selbstbewertung hinzufügt.\n• Theorie der Zielorientierung: zentrale Dispositionen sind Aufgabenorientierung und Wettbewerbs- bzw. Egoorientierung.",
+    "e": "Die Modelle bauen aufeinander auf: Erst wählt man eine Aufgabe (Risikowahl), dann erklärt man sein Ergebnis (Attribution), und dahinter steht, was man unter Erfolg versteht (Zielorientierung). Beispiel: Eine Hochspringerin wählt eine Einstiegshöhe, reißt sie, erklärt das mit Pech und will sich vor allem selbst verbessern.",
+    "quelle": "L17.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-053",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Erläutere die Kernaussage des Risikowahlmodells nach Atkinson.",
+    "a": "• Erfolgszuversichtliche (hoch motivierte) Menschen wählen meist reizvolle, mittelschwere Aufgaben.\n• Misserfolgsängstliche (niedrig motivierte) Personen wählen sehr leichte oder sehr schwere Aufgaben.\n• Grundlage: Leistungsmotiv mit den Tendenzen Hoffnung auf Erfolg (HE) und Furcht vor Misserfolg (FM) plus situative Anreize: Erfolgswahrscheinlichkeit (W) und Anreizwert (A) der Aufgabe.",
+    "e": "Mittelschwere Aufgaben sind spannend, weil Erfolg möglich, aber nicht sicher ist. Beispiel: Beim Hochsprung wählt der erfolgszuversichtliche Schüler eine Einstiegshöhe knapp unter seiner Bestleistung, der misserfolgsängstliche eine lächerlich niedrige oder eine unerreichbar hohe Höhe.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-054",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Beschreibe die Herkunft des Risikowahlmodells (McClelland und Atkinson).",
+    "a": "• McClelland (1953): Leistungsmotivtheorie; Motivation als Ergebnis von Motiven mit je einer annähernden und einer vermeidenden Komponente; das Leistungsmotiv ist eine Persönlichkeitsvariable mit den Tendenzen Hoffnung auf Erfolg (aufsuchend) und Furcht vor Misserfolg (meidend).\n• Je nachdem, welche Tendenz überwiegt, ist eine Person erfolgszuversichtlich (hoch motiviert) oder misserfolgsängstlich (niedrig motiviert).\n• Atkinson (1974): entwickelte daraus eine interaktionistische Motivationstheorie, die das Zusammenwirken personaler Motive und situativer Anreize betrachtet (Risikowahlmodell).",
+    "e": "McClelland schaute nur auf die Person, Atkinson nahm die Situation dazu. Beispiel: Ob ein Schüler sich beim Bodenturnen an den Salto traut, hängt nach Atkinson nicht nur von seiner Persönlichkeit ab, sondern auch davon, wie schwer und reizvoll der Salto für ihn ist.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-055",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Erkläre den Zusammenhang von Erfolgswahrscheinlichkeit und Anreizwert im Risikowahlmodell und begründe, warum mittelschwere Aufgaben für Erfolgszuversichtliche am attraktivsten sind.",
+    "a": "• Erfolgswahrscheinlichkeit (W) und Anreizwert (A) hängen umgekehrt zusammen: Je größer W, desto kleiner A und umgekehrt (A = 1 - W).\n• Die resultierende Motivation ergibt sich aus Motiv x W x A; das Produkt W x A ist bei mittlerer Schwierigkeit (W = 0,5) maximal.\n• Erfolgszuversichtliche (HE > FM) werden daher von mittelschweren Aufgaben am stärksten angezogen.\n• Bei Misserfolgsängstlichen (FM > HE) ist die Vermeidungstendenz bei mittelschweren Aufgaben am größten; sie weichen auf sehr leichte (sicherer Erfolg) oder sehr schwere Aufgaben (Scheitern ist entschuldbar) aus.",
+    "e": "Ein leichter Sieg ist wenig wert, ein unmöglicher Sieg ist unwahrscheinlich, in der Mitte stimmt die Mischung. Beispiel: Ein Tennisspieler freut sich kaum über einen Sieg gegen einen Anfänger, aber sehr über einen Sieg gegen einen gleich starken Gegner; beim Profi verliert er dagegen ohne Gesichtsverlust.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-056",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Welche Einschränkung gilt bei der Charakterisierung von Personen als erfolgszuversichtlich oder misserfolgsängstlich?",
+    "a": "• Diese Charakterisierungen sind scharf zugespitzt (idealtypisch).\n• Hoffnung auf Erfolg ist nicht im mathematischen Sinn das genaue Gegenteil von Furcht vor Misserfolg.\n• In der Regel bestehen nur mittlere negative Zusammenhänge zwischen beiden Dimensionen; eine Person kann beide Tendenzen in unterschiedlicher Ausprägung besitzen.",
+    "e": "Menschen sind keine Schubladen. Beispiel: Ein Sportler kann sich sehr auf einen Wettkampf freuen und gleichzeitig große Angst vor dem Versagen haben; beide Tendenzen existieren nebeneinander.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-057",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Was versteht man unter Kausalattribution und wer sind die Hauptvertreter der Attributionstheorie?",
+    "a": "• Kausalattributionen sind Ursachenerklärungen (Ursachenzuschreibungen) für Erfolg und Misserfolg.\n• Die Attributionstheorie ist ein sozial-kognitiver Ansatz, ein Prozessmodell der Leistungsmotivation aus den 1970er-Jahren, das kognitive Zwischenprozesse betont.\n• Hauptvertreter: Bernard Weiner (1974) und Heinz Heckhausen (Heckhausen & Weiner, 1974).\n• Den Annahmen über die Ursachen von Erfolg und Misserfolg kommt im Motivationsgeschehen zentrale Bedeutung zu.",
+    "e": "Nach jedem Wettkampf fragt man sich: Woran lag es? Die Antwort beeinflusst, wie motiviert man weitermacht. Beispiel: Wer eine Niederlage auf fehlendes Training schiebt, trainiert mehr; wer sie auf fehlendes Talent schiebt, gibt eher auf.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-058",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Unterscheide prospektive und retrospektive Kausalattributionen und beschreibe ihre Wirkung.",
+    "a": "• Prospektive (vorausschauende) Attributionen treten in der Phase der Handlungsplanung auf und beeinflussen die aktuelle Handlung.\n• Retrospektive (rückblickende) Attributionen erfolgen nach der Leistungshandlung als Interpretation des Ergebnisses und beeinflussen zukünftiges Leistungshandeln (z. B. Aufgabenwahl, Ausdauer).\n• Attributionen können also sowohl Folge als auch Ursache von Handlungen sein.\n• Zusätzlich lösen sie emotionale Reaktionen aus (Vorfreude, Stolz, Angst, Scham), die aktuelles und künftiges Handeln mitbestimmen.",
+    "e": "Man erklärt Ergebnisse vorher (Ich schaffe das, weil ich gut trainiert habe) und nachher (Ich habe es geschafft, weil ...). Beispiel: Eine Turnerin, die ihren Sturz am Balken auf Konzentrationsmangel zurückführt, geht den nächsten Wettkampf mit dem Plan an, sich besser zu fokussieren.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-059",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Beschreibe das Prozessmodell eines Motivationsprozesses in einer Leistungssituation nach Gabler (Abb. 17.3).",
+    "a": "• Ausgangspunkt: Leistungsmotiv (hypothetisches Konstrukt, nur indirekt aus der Person-Umwelt-Interaktion erschließbar) und situative Umweltbedingungen.\n• Phase Abwägen und Planen: prospektive Bewertung der Handlungsfolgen und emotionale Reaktion (z. B. Hoffnung, Furcht).\n• Phase Handeln: die beobachtbare Leistungshandlung.\n• Phase Bewerten des Ergebnisses: reflexive Selbstbewertung (Kausalattribution) und emotionale Reaktion (z. B. Stolz, Scham).\n• Von außen beobachtbar sind Umweltbedingungen und Handlung; die internen Zwischenprozesse laufen kognitiv und emotional ab.",
+    "e": "Das Modell ist eine Zeitleiste: vorher abwägen, dann handeln, danach bewerten. Beispiel: Ein Elfmeterschütze überlegt, ob er treffen wird (Hoffnung oder Angst), schießt und erklärt danach sein Tor mit seiner guten Technik, worauf er stolz ist.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-060",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Erläutere die Klassifikation von Ursachen für Erfolg und Misserfolg nach Weiner (2x2-Schema).",
+    "a": "Dimensionen: Ursachenlokalisation (internal = in der Person / external = in der Umwelt) und Zeitstabilität (stabil / variabel).\n• Internal-stabil: Fähigkeit (Begabung, Talent)\n• Internal-variabel: Anstrengung\n• External-stabil: Aufgabenschwierigkeit\n• External-variabel: Zufall (Glück, Pech)\nAls dritte Dimension kommt die Kontrollierbarkeit hinzu.",
+    "e": "Stell dir ein Viererfeld vor: innen/außen und dauerhaft/wechselnd. Beispiel Tennis: Talent ist internal-stabil, der Einsatzwille im Spiel internal-variabel, die Stärke des Gegners external-stabil und Windböen external-variabel.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-061",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Ordne typische Ursachen für Erfolg und Misserfolg in einem Tenniswettkampf dem Attributionsschema zu (Tab. 17.2).",
+    "a": "• Internal-stabil: Wettkampfroutine, Trainingszustand, Ehrgeiz, Talent, Fähigkeit\n• Internal-variabel: Einsatzwille im Spiel, körperliche und psychische Verfassung im Spiel, Spieltaktik\n• External-stabil: Trainer, soziale Unterstützung (z. B. Eltern), gegnerische Stärke bzw. Schwäche, Spielklasse\n• External-variabel: Glück bzw. Pech, Unterstützung durch Zuschauer, schwankende Leistung des Gegners, Wetter und andere Bedingungen",
+    "e": "So lässt sich fast jede Ausrede eines Sportlers einordnen. Beispiel: Sagt eine Spielerin nach einer Niederlage, der Gegner habe heute einen Sahnetag gehabt, ist das external-variabel; sagt sie, sie sei einfach nicht gut genug, internal-stabil.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-062",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Erläutere das Grundmodell der Attributionstheorie: Wie attribuieren Erfolgszuversichtliche und Misserfolgsängstliche?",
+    "a": "Erfolgszuversichtliche:\n• Erfolg: internal-stabile Faktoren (eigene Fähigkeit, Talent; auch Anstrengung)\n• Misserfolg (zum Selbstschutz): variable Faktoren (Pech, schlechter Tag, mangelnde Anstrengung, schwacher Schiedsrichter)\n• Folge: Erfolge befriedigen stark; nach Misserfolg bleibt Zuversicht auf Erfolg beim nächsten Versuch, motivational sehr günstig.\nMisserfolgsängstliche:\n• Erfolg: externale Faktoren (Glück, Zufall, zu leichte Aufgabe), daher geringer Belohnungswert\n• Misserfolg: internal-stabile Faktoren (mangelnde eigene Fähigkeit)\n• Folge: in künftigen Leistungssituationen geringere Anstrengung.",
+    "e": "Der Optimist nimmt Erfolge persönlich und Misserfolge nicht, der Pessimist genau umgekehrt. Beispiel: Reißt ein erfolgszuversichtlicher Schüler eine viel zu hohe Latte, sagt er: Heute war nicht mein Tag. Springt ein misserfolgsängstlicher über eine sehr niedrige Höhe, sagt er: Das war ja auch leicht.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-063",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Welche Bedeutung hat die Dimension Kontrollierbarkeit in der Attributionstheorie?",
+    "a": "• Kontrollierbarkeit gilt neben Zeitstabilität und Ursachenlokalisation als dritte wesentliche Dimension der Kausalattribution.\n• Sie wirkt sich v. a. auf die weiteren Folgen der Handlung aus: Kann ein Sportler die Ursache nicht kontrollieren, unternimmt er keine Anstrengung, sie zu verändern.\n• Erfolgszuversichtliche sehen ihre Leistungen als selbst kontrollierbar an.\n• Misserfolgsängstliche glauben, die Ursachen ihrer Leistungen seien nicht kontrollierbar.",
+    "e": "Was ich beeinflussen kann, versuche ich zu ändern, was ich nicht beeinflussen kann, nehme ich hin. Beispiel: Ein Schwimmer, der seine schlechte Zeit auf fehlendes Techniktraining zurückführt, übt gezielt; einer, der sie auf seine kurzen Arme schiebt, sieht keinen Sinn im Üben.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-064",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Beschreibe das Selbstbewertungsmodell der Leistungsmotivation nach Heckhausen.",
+    "a": "• Ergänzt die Attributionstheorie um weitere kognitive Prozesse.\n• Das Leistungsmotiv ist kein eigenschaftsähnliches Persönlichkeitsmerkmal, sondern ein sich selbst stabilisierendes System aus drei Teilprozessen:\n  1. Zielsetzung (Anspruchsniveau)\n  2. Ursachenerklärung (Kausalattribution)\n  3. Selbstbewertung (Affektbilanz)\n• Kernaussage: Die Erfolgs-Misserfolgs-Bilanz ist bei Erfolgszuversichtlichen positiv, bei Misserfolgsängstlichen negativ; in beiden Fällen führt die Bilanzierung zu einer affektiven Verfestigung der jeweiligen Leistungsmotivation.",
+    "e": "Das Modell erklärt, warum Optimisten Optimisten und Pessimisten Pessimisten bleiben: Das System bestätigt sich selbst. Beispiel: Eine erfolgszuversichtliche Läuferin wählt passende Ziele, erklärt Erfolge mit ihrem Training, ist stolz und geht motivierter in den nächsten Lauf.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-065",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Vergleiche Erfolgszuversichtliche und Misserfolgsängstliche anhand der Komponenten des Selbstbewertungsmodells (Tab. 17.3).",
+    "a": "Zielsetzung / Anspruchsniveau:\n• Erfolgszuversichtlich: realistische, mittelschwere Aufgaben\n• Misserfolgsängstlich: unrealistische, zu schwere oder zu leichte Aufgaben\nKausalattribution bei Erfolg:\n• E: Anstrengung, eigene Tüchtigkeit\n• M: Glück, leichte Aufgabe\nKausalattribution bei Misserfolg:\n• E: mangelnde eigene Anstrengung, Pech\n• M: mangelnde eigene Fähigkeit\nSelbstbewertung / Affektbilanz:\n• E: positive Bilanz von Erfolg und Misserfolg\n• M: negative Bilanz von Erfolg und Misserfolg",
+    "e": "Die Tabelle zeigt drei Stellschrauben, die bei beiden Typen in entgegengesetzte Richtungen gedreht sind. Beispiel: Zwei Schüler bekommen beim Weitsprung dieselbe Note; der eine ist zufrieden und führt sie auf seinen Einsatz zurück, der andere findet sie Glück und fühlt sich trotzdem schlecht.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-066",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Erkläre, warum sich das Selbstbewertungssystem misserfolgsängstlicher Personen selbst stabilisiert.",
+    "a": "• Sie meiden realistische Anforderungen, sehen daher weder den Zusammenhang zwischen Anstrengung und Ergebnis noch ihren eigenen Leistungszuwachs.\n• Erfolge bei unrealistischen Aufgaben werden mit Glück erklärt, Erfolge bei leichten Aufgaben nicht der eigenen Fähigkeit zugeschrieben.\n• Jeder Misserfolg bestätigt das schlechte Selbstbild (internal-stabile Attribution).\n• Selbst bei gleich vielen Erfolgen und Misserfolgen entsteht eine negative Selbstbekräftigungsbilanz: Ein Erfolg bedeutet wenig, ein Misserfolg belastet sehr.\n• Realistische Leistungssituationen wirken bedrohlich und werden gemieden; Selbstwirksamkeit kann nicht erlebt werden.\n• Handlungsdirektive: Reduzierung von Selbstwertbelastungen statt Steigerung der eigenen Tüchtigkeit (Brunstein & Heckhausen).",
+    "e": "Das ist ein Teufelskreis: Wer Angst vor dem Scheitern hat, sucht sich Aufgaben, an denen er nichts über sich lernt. Beispiel: Ein ängstlicher Schüler meldet sich nur bei sehr leichten Turnübungen; gelingt sie, war sie ja leicht, misslingt sie, fühlt er sich bestätigt, dass er unsportlich ist.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-067",
+    "thema": "BONUS",
+    "kapitel": "L17 Attribution",
+    "q": "Beschreibe den Ablauf des Selbstbewertungsmodells am Beispiel eines hoch motivierten Sportlers (Abb. 17.4).",
+    "a": "• Handlungsdirektive: Steigerung der eigenen Tüchtigkeit.\n• Erwartungsemotion: Hoffnung auf Erfolg (Erfolgsmotiv).\n• Zielsetzung: niveauvolle, realistisch-anspruchsvolle Aufgabe.\n• Ergebnisbilanz: ausgewogenes Verhältnis von Erfolg und Misserfolg.\n• Attribution: Erfolg mit Fähigkeit/Anstrengung, Misserfolg mit Anstrengungsmangel bzw. Pech.\n• Affektbilanz: Überwiegen positiver Selbstbewertungsemotionen.\n• Ergebnis: positive Affekte verstärken das weitere Leistungshandeln.",
+    "e": "Beim Hochmotivierten greift ein Zahnrad ins andere und alles treibt ihn weiter an. Beispiel: Ein Judoka sucht sich gleich starke Trainingspartner, gewinnt und verliert etwa gleich oft, erklärt Siege mit seinem Können, Niederlagen mit zu wenig Einsatz und geht mit Lust ins nächste Training.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-068",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Erläutere die Theorie der Zielorientierung und unterscheide Aufgaben- und Egoorientierung.",
+    "a": "• Grundannahme: Akteure in Leistungskontexten wollen ihr Können und ihre Kompetenz unter Beweis stellen und den Eindruck eigener Unfähigkeit vermeiden.\n• Aufgabenorientierung: Ziele beziehen sich auf die Lösung der Aufgabe selbst; im Vordergrund steht die Leistungsqualität; Bewertung mit intraindividuellem (individuellem) bzw. sachlichem Maßstab.\n• Egoorientierung (Wettbewerbsorientierung): Ziel ist, andere zu übertreffen; Bewertung mit sozialem Maßstab, abhängig vom Können der anderen.\n• Die Ausrichtung gilt als gelernte, relativ stabile Motivdisposition.\n• Kernaussage: Hoch motivierte sind stark aufgabenorientiert, niedrig motivierte eher wettbewerbsorientiert.",
+    "e": "Aufgabenorientiert fragt: Bin ich besser geworden? Egoorientiert fragt: Bin ich besser als die anderen? Beispiel: Eine Schwimmerin freut sich über ihre persönliche Bestzeit, auch wenn sie Fünfte wird (aufgabenorientiert); ihre Teamkollegin ist trotz Bestzeit frustriert, weil sie nicht gewonnen hat (egoorientiert).",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-069",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Mit welchen psychischen Merkmalen korrelieren Aufgaben- und Egoorientierung (Tab. 17.4)?",
+    "a": "Aufgabenorientierung korreliert mit:\n• dem Glauben, dass Erfolg durch Anstrengung bedingt ist\n• Motiven der Fähigkeitsentwicklung und Teamzugehörigkeit\n• dem Glauben, dass Sport der Aufgabenbewältigung, Verbesserung der Fitness und des Selbstvertrauens dient\n• Wahrnehmung eigener Kompetenz, positiven Emotionen, elterlicher Aufgabenorientierung\n• außerdem: intrinsischer Motivation, Freude, Ausdauer nach Misserfolg, Wahl mittlerer Schwierigkeit\nEgoorientierung korreliert mit:\n• dem Glauben, dass der Besitz von Fähigkeiten Erfolg garantiert\n• Motiven wie Status, Macht und Anerkennung\n• dem Glauben, dass sozialer Status zentraler Zweck des Sports ist\n• unsportlichen (unfairen) Einstellungen und aggressivem Verhalten\n• elterlicher Egoorientierung",
+    "e": "Aufgabenorientierte ähneln den Erfolgszuversichtlichen und intrinsisch Motivierten. Beispiel: Ein egoorientierter Fußballer, der unbedingt gewinnen will, greift eher zu einem Foul als ein aufgabenorientierter Mitspieler, dem es um gutes Spielen geht.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-070",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Vergleiche Hoch- und Niedrigmotivierte nach dem Risikowahlmodell hinsichtlich Motivrichtung, Ergebnis- und Affektbilanz, Aufgabenwahl und Wettkampfleistung (Tab. 17.5).",
+    "a": "Hochmotivierte:\n• Motivrichtung: erfolgszuversichtlich, wenig misserfolgsängstlich\n• Ergebnisbilanz positiv: erinnern sich eher an Erfolge\n• Affektbilanz positiv: mehr Stolz und Freude als Scham und Enttäuschung\n• Aufgabenwahl: suchen Herausforderungen, mittelschwere Aufgaben (0,40 < p < 0,60)\n• Wettkampf: Leistungen gleich gut oder besser als im Training\nNiedrigmotivierte:\n• wenig erfolgszuversichtlich, misserfolgsängstlich\n• negative Ergebnisbilanz: erinnern sich eher an Misserfolge\n• negative Affektbilanz: mehr Scham und Enttäuschung\n• Aufgabenwahl: meiden Herausforderungen, eher leicht (p > 0,75) oder zu schwer (p < 0,25)\n• Wettkampf: Leistungen schlechter als im Training",
+    "e": "p steht hier für die Erfolgswahrscheinlichkeit. Beispiel: Ein misserfolgsängstlicher Turner zeigt im Training eine saubere Kür, im Wettkampf vor Publikum patzt er; sein erfolgszuversichtlicher Kollege turnt im Wettkampf sogar noch besser.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-071",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Fasse die Kernelemente und Kernaussagen des Risikowahlmodells, der Attributionstheorie und der Theorie der Zielorientierung zusammen (Abb. 17.5).",
+    "a": "Risikowahlmodell:\n• Kernelemente: Erfolgsmotiv (HE), Misserfolgsmotiv (FM), in- und extrinsische Anreize\n• Kernaussage: Hochmotivierte suchen Aufgaben mittlerer Schwierigkeit, Niedrigmotivierte sehr leichte oder sehr schwere.\nAttributionstheorie:\n• Kernelemente: Kausalattributionen mit drei Dimensionen (Stabilität, Lokalisation, Kontrollierbarkeit)\n• Kernaussage: Hochmotivierte führen Erfolg auf internale, Misserfolg auf variable Ursachen zurück; Niedrigmotivierte attribuieren Erfolg external, Misserfolg internal-stabil.\nZielorientierung:\n• Kernelemente: Aufgabenorientierung vs. Ego- (Wettkampf-)orientierung\n• Kernaussage: Hochmotivierte bevorzugen Aufgabenziele und eine sachliche/individuelle Bezugsnorm; Niedrigmotivierte eine Wettkampforientierung und soziale Bezugsnorm.",
+    "e": "Drei Brillen auf dasselbe Phänomen: Welche Aufgabe wähle ich, wie erkläre ich das Ergebnis, was bedeutet für mich Erfolg? Beispiel: Ein hoch motivierter Kugelstoßer wählt eine realistische Zielweite, erklärt einen schlechten Stoß mit fehlender Konzentration und freut sich vor allem über persönliche Fortschritte.",
+    "quelle": "L17.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-072",
+    "thema": "BONUS",
+    "kapitel": "L17 Motivationsmodelle",
+    "q": "Welche praktischen Empfehlungen zur Steigerung der Leistungsmotivation lassen sich aus den Motivationstheorien ableiten (nach Alfermann & Stoll)?",
+    "a": "• Schwierigkeitsgrad einer Aufgabe anpassen: mittelschwere, realistische Aufgaben anbieten (Risikowahlmodell).\n• Realistische, motivationsgünstige Kausalattributionen fördern: Erfolg auf Fähigkeit und Anstrengung, Misserfolg auf veränderbare Ursachen wie Anstrengung zurückführen (Reattributionstraining).\n• Individuelle Bezugsnorm nutzen: Fortschritte im Vergleich zu früheren eigenen Leistungen rückmelden.\n• Aufgabenorientierung fördern: Lernen, Verbesserung und Meistern der Aufgabe statt Sieg über andere betonen.\n• Positive Affektbilanz fördern: Erfolge bewusst machen und loben, Stolz und Freude ermöglichen.",
+    "e": "Die Empfehlungen setzen genau an den Stellschrauben der Modelle an. Beispiel: Eine Sportlehrerin lässt beim Hochsprung jeden seine Einstiegshöhe nahe der eigenen Bestleistung wählen, lobt persönliche Verbesserungen und erklärt Fehlversuche mit veränderbaren Technikfehlern statt mit Talent.",
+    "quelle": "L17.3",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.b-073",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Definiere Aggression und Aggressivität (nach Gabler).",
+    "a": "• Aggressionen sind Verhaltensweisen, die auf die soziale Umwelt im Sinne einer Schädigung gerichtet sind.\n• Aggressivität ist die relativ überdauernde Bereitschaft (das Motiv), sich aggressiv zu verhalten.\n• Unterschied: Aggression = konkretes Verhalten (Handlung); Aggressivität = Persönlichkeitsdisposition.",
+    "e": "Aggression ist das, was jemand tut, Aggressivität ist, wie schnell jemand dazu neigt. Beispiel: Ein Eishockeyspieler, der oft in Schlägereien verwickelt ist, hat eine hohe Aggressivität; der einzelne Faustschlag in einem Spiel ist eine Aggression.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-074",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Warum sind zielstrebiges Angreifen und zupackendes Verhalten im Sport nicht per se aggressiv?",
+    "a": "• Im Alltagssprachgebrauch werden zielstrebige, angriffslustige Handlungen oft als aggressiv bezeichnet.\n• Dann wäre aber die Mehrzahl aller Verhaltensweisen im Wettkampfsport aggressiv.\n• Sportpsychologen beziehen daher den Aspekt der Schädigung ausdrücklich in die Definition ein: Angreifen ohne Schädigungsabsicht ist nicht aggressiv, auch wenn es engagiert und körperbetont ist.",
+    "e": "Wenn ein Trainer ruft: Spielt aggressiver!, meint er mutiger und entschlossener, nicht verletzender. Beispiel: Ein Handballer, der energisch zum Kreis zieht, verhält sich nicht aggressiv im wissenschaftlichen Sinn, solange er den Gegner nicht schädigen will.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-075",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Begründe, warum eine Aggressionsdefinition die Absicht (Intention) und nicht nur die Wirkung der Handlung berücksichtigen muss.",
+    "a": "• Eine Definition nur über die Wirkung (Effekt) würde gezielte, aber erfolglose Schädigungsversuche nicht als aggressiv einstufen.\n• Gleichzeitig würden unbeabsichtigte Verletzungen (z. B. durch unglückliche Zusammenstöße) fälschlich als aggressiv gelten.\n• Daher umfasst die Definition die Schädigung und die Absicht zur Schädigung; aggressiv ist eine Handlung bereits, wenn die Schädigungsabsicht besteht.",
+    "e": "Es zählt die Absicht, nicht nur das Ergebnis. Beispiel aus dem Buch: Ein Boxer schlägt gezielt nach dem Kopf, der Gegner weicht aus, das ist trotzdem aggressiv; im Eishockey verletzt sich ein Spieler nach einem Zusammenprall auf dem Eis, ohne dass jemand das wollte, das ist nicht aggressiv.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-076",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Welche Rolle spielen Regeln und Normen bei der Abgrenzung aggressiver von nicht aggressiven Handlungen im Sport?",
+    "a": "• Sportlicher Wettkampf (den Gegner an seinen Zielen hindern) ist nicht mit sozialer Schädigung gleichzusetzen; Regeln und Normen stecken den Rahmen ab.\n• Gabler: Eine Handlung im Sport ist erst dann aggressiv, wenn ihre Ziele nicht mehr mit den Normen vereinbar sind, die die Akteure als verbindlich ansehen.\n• Normabweichung ist nicht gleich Regelwidrigkeit: Jedes normabweichende Verhalten ist aggressiv, aber auch regelentsprechendes Verhalten kann aggressiv sein.\n• Regelkonforme Härte, die alle akzeptieren (z. B. Tackling im Rugby, Bodycheck im Eishockey), ist nicht aggressiv.",
+    "e": "Regeln sind die geschriebenen Gesetze, Normen die ungeschriebenen Erwartungen. Beispiel: Ein Tackling ist im Rugby normal, im Basketball dagegen grob unsportlich und aggressiv; ein absichtlicher Wurf auf den Kopf des Handballtorwarts kann regelkonform wirken, weil der Schiedsrichter die Absicht nicht erkennt, ist aber normabweichend.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-077",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Gib Gablers Definition einer aggressiven Handlung im Sport wieder und erläutere den Unterschied zwischen sozialer Behinderung und personaler Schädigung.",
+    "a": "Definition (nach Gabler): Eine Handlung im Sport ist aggressiv, wenn eine Person in Abweichung von sportlichen Normen mit dieser Handlung intendiert, einer anderen Person Schaden im Sinne einer personalen Schädigung zuzufügen; diese kann in Form körperlicher (oder psychischer) Verletzung und Schmerz erfolgen.\n• Soziale Behinderung: den Gegner in seinen Aktionen behindern (legitimer Teil des Wettkampfs).\n• Personale Schädigung: Angriff auf die Person selbst (Verletzung, Schmerz), normabweichend und damit aggressiv.\n• Merksatz: Aggressives Verhalten weicht immer von der sportlichen Norm ab, kann aber als implizite Aggression durchaus regelentsprechend sein.",
+    "e": "Den Gegner am Torschuss zu hindern ist Sport, ihm wehtun zu wollen ist Aggression. Beispiel: Ein Verteidiger, der den Ball wegspitzelt, behindert sozial; einer, der gezielt auf den Knöchel tritt, schädigt personal.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-078",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Unterscheide explizit und implizit norm- bzw. regelabweichende Handlungen.",
+    "a": "Normabweichend (= aggressiv):\n• explizit: die Handlung zielt auf eine (körperliche) Schädigung des Gegners\n• implizit: die Handlung nimmt eine personale Schädigung in Kauf\nRegelabweichend:\n• explizit: der Regelverstoß wird beabsichtigt (selten; soll vom Schiedsrichter erkannt werden)\n• implizit: ein Regelverstoß wird mehr oder weniger in Kauf genommen\nNormentsprechende intendierte Handlungen sind nicht aggressiv, normabweichende zielgerichtete Handlungen sind aggressiv.",
+    "e": "Explizit heißt: Ich will es; implizit heißt: Ich nehme es in Kauf. Beispiel: Das taktische Foul im Basketball zum Stoppen der Uhr ist explizit regelabweichend, aber normentsprechend; das überharte Attackieren des besten Gegenspielers ist implizit normabweichend.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-079",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Erläutere das Klassifikationsraster aggressiver und nicht aggressiver Handlungen nach Gabler (Tab. 19.1) und begründe, warum zwei Zellen leer bleiben.",
+    "a": "Zeilen (Norm): normentsprechend = nicht aggressiv; normabweichend implizit (Schädigung in Kauf nehmen) bzw. explizit (Schädigung beabsichtigen) = aggressiv.\nSpalten (Regel): regelentsprechend; regelabweichend implizit (Verstoß in Kauf nehmen); regelabweichend explizit (Verstoß beabsichtigen).\n• Normentsprechend: zufälliges Berühren der Wurfhand (regelentsprechend), Klammern des Kreisläufers (implizit regelabweichend), taktisches Foul zum Uhrstoppen (explizit regelabweichend).\n• Normabweichend implizit: Wurf auf den Kopf des Torwarts zur Einschüchterung (regelentsprechend), überhartes Attackieren des besten Spielers (implizit regelabweichend).\n• Normabweichend explizit: Wurf auf den Kopf mit Schädigungsabsicht (regelentsprechend), Revanchefoul/Faustschlag (implizit regelabweichend).\n• Leere Zellen: normabweichend und explizit regelabweichend, da ein bewusst für den Schiedsrichter sichtbar gemachter Regelverstoß mit Schädigungsabsicht kaum vorkommt; wer schädigen will, versucht dies verdeckt bzw. nimmt den Regelverstoß nur in Kauf.",
+    "e": "Das Raster kombiniert zwei Fragen: Weicht die Handlung von der Fairness-Norm ab? Und wie verhält sie sich zum Regelwerk? Beispiel: Ein taktisches Foul in der Schlussphase im Basketball ist ein absichtlicher Regelverstoß, aber völlig normal und damit nicht aggressiv.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-080",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Unterscheide explizite und instrumentelle Aggression (nach Gabler).",
+    "a": "Explizite Aggression:\n• oberstes Ziel ist die personale Schädigung (des Gegners, Schiedsrichters, evtl. auch Zuschauer, Trainer)\n• innerhalb oder außerhalb des Wettkampfs, offen (Revanchefoul) oder verdeckt (verstecktes Schlagen)\n• wird mit Gewalt gleichgesetzt\nInstrumentelle Aggression:\n• oberstes Ziel ist die Leistungsverbesserung; die Schädigung des Gegners wird zugunsten des Leistungsziels in Kauf genommen\n• gilt als zentrales Problem des Sports, da sie oft verdeckt und mehr oder minder regelgerecht erfolgt und von Trainern, Mitspielern oder Zuschauern teilweise sogar erwartet wird",
+    "e": "Bei der expliziten Aggression ist das Wehtun das Ziel, bei der instrumentellen nur das Mittel zum Zweck. Beispiel: Der Faustschlag nach einem Foul ist explizit, das rücksichtslose Hineingrätschen, um den Ball zu erobern, oder das angezogene Knie beim Sprungwurf ist instrumentell.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-081",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Nenne und erläutere die drei äußeren Erscheinungsformen aggressiver Handlungen.",
+    "a": "• Körperliche (physische) Aggression: mit Körperteilen (v. a. Arme, Beine) oder Sportgeräten verübt.\n• Verbale Aggression: abfällige Bemerkungen, Fluchen, Drohungen mit dem Ziel der persönlichen Herabsetzung von Gegen-, Mitspieler oder Schiedsrichter.\n• Symbolische Aggression: Drohen mit Faust oder Schläger, abfällige Handbewegungen, Gesten und Gebärden als symbolische körperliche bzw. verbale Aggression.",
+    "e": "Aggression kann man mit dem Körper, mit Worten oder mit Gesten zeigen. Beispiel aus dem Buch: Ein gefoulter Fußballer zeigt dem Verteidiger einen Vogel (symbolisch), drückt ihn mit der Brust weg (körperlich) und beschimpft ihn (verbal).",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-082",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Was versteht man unter Assertivität im Sport und wie grenzt sie sich von Aggression ab?",
+    "a": "• Assertivität = selbstbehauptendes, bestimmtes, sich durchsetzendes Verhalten im Rahmen der sportlichen Normen und Regeln.\n• Solche Handlungen wirken vermeintlich aggressiv, werden in der Sportart aber nicht so wahrgenommen, weil sie regel- und normgerecht sind (Schlicht & Strauß).\n• Abgrenzung: Assertivität enthält keine Schädigungsabsicht; Aggression zielt auf personale Schädigung bzw. nimmt sie in Kauf.\n• Assertivität und Aggression liegen im Einzelfall nicht weit auseinander; Sportler müssen lernen, wo die Grenze liegt.",
+    "e": "Assertiv heißt: Ich setze mich durch, ohne dir zu schaden. Beispiel: Ein Center, der unter dem Korb mit vollem Körpereinsatz seine Position behauptet, ist assertiv; hebt er dabei absichtlich den Ellbogen ins Gesicht des Gegners, wird es aggressiv.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-083",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Was versteht man unter Autoaggression im Sport?",
+    "a": "• Autoaggression: aggressive Handlung, die sich gegen die eigene Person richtet.\n• Beispiele im Sport: Einnahme von Dopingmitteln (Dopingsünder ist zugleich Täter und Opfer, da er den eigenen Körper schädigt), Konsum von Rauschmitteln, Essstörungen.\n• Ursache ist nicht selten ein gestörtes Körperbild.\n• Mädchen und Frauen zeigen eher autoaggressives Verhalten als Jungen und Männer.",
+    "e": "Aggression muss sich nicht gegen andere richten, man kann sich auch selbst schaden. Beispiel: Eine Turnerin, die sich für ein niedriges Wettkampfgewicht krankhaft herunterhungert, verhält sich autoaggressiv.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-084",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggression",
+    "q": "Vergleiche die Aggressionsdefinition von Tiedemann mit der von Gabler.",
+    "a": "Tiedemann:\n• Aggression ist Teil eines stammesgeschichtlich begründeten Affekt-Musters, das in lebensbedrohlichen Situationen mit Angreifen (statt Fliehen) reagieren lässt; kulturell (in Grenzen) formbar.\n• Aggression im Sport: stammesgeschichtliches Affekt-Muster, mit dem Menschen in einem jungen kulturellen Tätigkeitsfeld umgehen müssen.\n• Aggression ist wertneutral, notwendiger Bestandteil vieler Kampf- und Ballsportarten; Ziel ist ein sauberer Zweikampf: mit Aggressivität, aber ohne Gewalt.\n• Streit angeboren oder erworben sei falsch gestellt: Aggression ist Grundausstattung, der Umgang damit erlernbar.\nGabler (gängige Lehrmeinung):\n• Aggression ist an Schädigungsabsicht und Normabweichung gebunden, also negativ bewertet; normgerechtes Durchsetzen heißt Assertivität.\nUnterschied: Tiedemann fasst Aggression weit und neutral (ähnlich Assertivität), Gabler eng und an Schädigung gebunden.",
+    "e": "Für Tiedemann ist Aggression eine Energie, die man gut oder schlecht nutzen kann; für Gabler beginnt Aggression erst, wo man schaden will. Beispiel: Ein Boxer, der entschlossen angreift, ist bei Tiedemann aggressiv, aber nicht gewalttätig; bei Gabler wäre er assertiv, solange er regel- und normgerecht kämpft.",
+    "quelle": "L19.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-085",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "In welche Gruppen lassen sich die Theorien zur Entstehung von Aggression einteilen?",
+    "a": "Nach Schlicht & Strauß:\n• Individuumsbezogene Theorien (genetische Ansätze, Frustrations-Aggressions-Theorie, soziale Lerntheorie)\n• Gruppenbezogene Theorien (Deindividuation, Emergente-Normen-Theorie, Theorie der realistischen Gruppenkonflikte, bloße Zugehörigkeit)\n• Gesellschaftsbezogene Theorien (Konzept der sozialen Schicht, Desintegrationsansatz)\n• Motivationspsychologische Theorien (Zielorientierungstheorie, Risikowahlmodell und Attributionstheorien)\nJede Theorie erklärt nur einen Teil des vielfältigen Phänomens Aggression.",
+    "e": "Man kann Aggression beim Einzelnen, in der Gruppe, in der Gesellschaft oder in der Motivation suchen. Beispiel: Randale von Fußballfans lässt sich durch Gruppeneffekte erklären, ein einzelnes Revanchefoul eher durch Frustration oder Motivanregung.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-086",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Erläutere die genetischen Ansätze (Trieb-/Instinkttheorie) zur Entstehung von Aggression.",
+    "a": "• Vertreter: Freud (1940), Lorenz (1963)\n• Aggression ist genetisch bedingt, angeboren und unvermeidbar.\n• Sie wird als internaler Reiz (Spannungszustand, individuelles Erregungspotenzial) aufgefasst, der sich aufstaut.\n• Katharsishypothese: Ein erhöhter Erregungszustand kann durch aggressives Verhalten abgebaut werden (z. B. Sport als Ventil).\n• Kritik (Zusatzwissen): Die Katharsishypothese ist empirisch kaum belegt; Aggressionsausleben kann Aggression eher verstärken.",
+    "e": "Nach dieser Vorstellung ist Aggression wie Dampf in einem Kessel, der irgendwann raus muss. Beispiel: Die Idee, dass Kampfsport aggressive Jugendliche friedlicher macht, weil sie dort Dampf ablassen, beruht auf der Katharsishypothese.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-087",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Erläutere die Frustrations-Aggressions-Theorie und ihre Weiterentwicklung.",
+    "a": "• Vertreter: Dollard et al. (1939), weiterentwickelt von Berkowitz (1962)\n• Ursprüngliche Thesen (Dollard): Jede Aggression ist Folge von Frustration, und Frustration führt immer zu Aggression.\n• Frustration = Erlebnis der Enttäuschung, Nichtbefriedigung bzw. Störung einer zielgerichteten Aktivität.\n• Berkowitz: Externe Reize (Frustration, Ärger) können zu Aggression führen (nicht müssen); aggressive Hinweisreize erhöhen das Aggressionspotenzial.\n• Kritik: Nicht jede Frustration führt zu Aggression (auch Rückzug, Anstrengung möglich), und nicht jede Aggression beruht auf Frustration (z. B. instrumentelle Aggression); individuelle Bewertungen und Hemmungen werden nicht berücksichtigt.",
+    "e": "Wer an seinem Ziel gehindert wird, wird wütend, so die Grundidee. Beispiel: Ein Stürmer, dem ein klarer Elfmeter verweigert wird, foult kurz danach seinen Gegenspieler; aggressive Hinweisreize wären etwa gegnerische Fans mit Schalke-Trikots im Dortmunder Fanblock.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-088",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Erläutere die soziale Lerntheorie der Aggression nach Bandura.",
+    "a": "• Vertreter: Bandura (1973)\n• Aggressionen gehören zum erlernten Verhaltensrepertoire einer Person; sie sind nicht angeboren.\n• Lernen am Modell: Beobachten aggressiver Vorbilder (z. B. Profisportler, Trainer, Eltern), besonders wenn diese damit Erfolg haben.\n• Lernen am Erfolg (Verstärkung): Aggressives Verhalten, das belohnt wird (Sieg, Anerkennung), wird häufiger gezeigt.\n• Konsequenz: Aggression kann auch wieder verlernt werden; faire Vorbilder und konsequente Sanktionen wirken entgegen.",
+    "e": "Kinder machen nach, was sie sehen, besonders wenn es sich lohnt. Beispiel: Ein Jugendspieler sieht im Fernsehen, wie ein Profi mit einer Schwalbe einen Elfmeter herausholt und gefeiert wird, und probiert das am Wochenende selbst aus.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-089",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Nenne die gruppenbezogenen Theorien der Aggressionsentstehung mit Vertretern und Kernaussagen.",
+    "a": "• Deindividuation (Zimbardo, 1969): Anonymität und Versunkenheit in Gruppen und Massen erhöhen die Aggressionswahrscheinlichkeit.\n• Emergente-Normen-Theorie (Turner & Killian, 1972): Gruppennormen, die in einer Situation entstehen, bestimmen aggressives Verhalten.\n• Theorie der realistischen Gruppenkonflikte (Sherif et al., 1955): Konkurrierende Ziele von Gruppen führen zu Aggression; kooperative Handlungen reduzieren sie.\n• Bloße Zugehörigkeit (Tajfel, 1978): Schon die bloße Gruppenmitgliedschaft führt zu Diskriminierung und Aggressionsverhalten.",
+    "e": "In der Gruppe verhalten sich Menschen anders als allein. Beispiel: Ein vermummter Fan im Block zündet Pyrotechnik, was er allein nie täte (Deindividuation); bei einem Derby führen die konkurrierenden Ziele beider Fangruppen zu Feindseligkeiten (realistische Gruppenkonflikte).",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-090",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Nenne die gesellschaftsbezogenen Theorien der Aggressionsentstehung mit Vertretern und Kernaussagen.",
+    "a": "• Konzept der sozialen Schicht (Geiger, 1932): Die Zugehörigkeit zu einer sozialen Schicht und deren Lebensstil sind eng mit der Einstellung gegenüber aggressivem Verhalten verknüpft.\n• Desintegrationsansatz (Heitmeyer, 1995): Soziale Desintegration führt zu Aggression und Gewalt, die als Versuch der Kompensation persönlicher Perspektivlosigkeit zu sehen sind.",
+    "e": "Hier sucht man die Ursachen in den Lebensumständen der Gesellschaft. Beispiel: Junge Männer ohne Ausbildung und Zukunftsperspektive finden in gewaltbereiten Fangruppen Anerkennung und Zugehörigkeit, die ihnen sonst fehlt (Desintegrationsansatz).",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-091",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Nenne die motivationspsychologischen Theorien der Aggressionsentstehung mit Vertretern und Kernaussagen.",
+    "a": "• Zielorientierungstheorie (Nicholls, 1984): Egoorientierte Personen neigen eher zu Aggression und unfairem Verhalten, aufgabenorientierte Personen eher zu positivem sportlichem Benehmen.\n• Risikowahlmodell und Attributionstheorien (Konrath, 1982; Gabler, 2002): Aggressives Verhalten ist Ergebnis einer Aggressionsmotivanregung mit den Komponenten Aggressionstendenz und Aggressionshemmungstendenz, unter besonderer Berücksichtigung der Absichtsattribution und affektiver Prozesse.",
+    "e": "Diese neueren Ansätze übertragen die Erkenntnisse der Leistungsmotivation auf Aggression. Beispiel: Ein Spieler, der unbedingt gewinnen will (egoorientiert), ist eher bereit, den Gegner umzutreten, als einer, der vor allem gut spielen möchte.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-092",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Erläutere das Prozessmodell der Aggressionsmotivation (nach Konrath bzw. Beckmann et al.).",
+    "a": "• Das Aggressionsmotiv besteht wie das Leistungsmotiv aus zwei Komponenten: Aggressionstendenz (aufsuchend) und Aggressionshemmungstendenz (meidend).\n• Ablauf:\n  1. Frustrierende Situation regt das Aggressionsmotiv an.\n  2. Absichtsattribution: Wird dem Verursacher Absicht unterstellt?\n  3. Affektive Reaktion: Ärger, Wut.\n  4. Aktivierung von Aggressionstendenz und Aggressionshemmungstendenz.\n  5. Je nachdem, welche überwiegt: Ausführung oder Hemmung der aggressiven Handlung.\n  6. Bei Zielerreichung: Deaktivierung der Aggressionsmotivation.\n• Aggression entsteht, wenn die Aggressionstendenz größer ist als die Hemmungstendenz.",
+    "e": "Es ist ein inneres Tauziehen zwischen Wut und Selbstbeherrschung. Beispiel aus dem Buch: Ein Angreifer wird zum dritten Mal vom selben Verteidiger gefoult und unterstellt Absicht; ist er schon gelb vorbelastet, siegt die Hemmung und er schimpft nur; ist er reizbar und die Stimmung aufgeheizt, schubst er den Verteidiger; zeigt der Schiedsrichter dem Verteidiger Gelb, beruhigt er sich.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-093",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Welche Bedeutung hat die Absichtsattribution im Prozessmodell der Aggressionsmotivation?",
+    "a": "• Absichtsattribution = Bewertung, ob dem Verursacher einer Schädigung oder Frustration eine Absicht unterstellt wird.\n• Sie bestimmt Art und Stärke der emotionalen Reaktion (Ärger, Wut).\n• Wichtige Hinweise: Wiederholung des Fouls, bisheriges Verhalten des Gegenspielers bzw. der Mannschaft, Ruf des Spielers, Spielsituation.\n• Wird keine Absicht unterstellt, bleibt der Ärger meist gering und eine Aggression unwahrscheinlich.",
+    "e": "Ob man sich rächt, hängt davon ab, ob man glaubt, es war Absicht. Beispiel: Ein erstes, unglückliches Foul nimmt ein Stürmer mit Ärger hin; tritt derselbe Verteidiger ihn auch an der Mittellinie um, unterstellt er Absicht und wird wütend.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-094",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Beschreibe das erweiterte Prozessmodell zum Ablauf einer Aggressionssituation nach Gabler (Abb. 19.2).",
+    "a": "Gabler erweiterte Konraths Modell um handlungsbegleitende Emotionen, Handlungskontrolle und Selbstbewertungsprozesse:\n• Ausgangslage: Disposition der Person (Aggressivität) und Umwelt (Situation)\n• Bewertung der Situation, begleitet von Ärger, Wut\n• Anregung von Aggressionstendenzen\n• Bewertung der erwarteten positiven und negativen Handlungsfolgen, begleitet von Hoffnung, Furcht\n• Entschluss\n• Aggressive Handlung (beobachtbar)\n• Bewertung der eingetretenen Handlungsfolgen mit affektiver Reaktion (Befriedigung bzw. Nichtbefriedigung, Abreaktion)\nBeobachtbar ist die Handlung; Emotionen über Ausdruck/Physiologie und Befragung; kognitive Prozesse nur über Selbstaussagen.",
+    "e": "Das Modell ähnelt Gablers Leistungsmotivationsmodell: abwägen, handeln, bewerten. Beispiel: Zidane wird von Materazzi beleidigt (Situation, Wut), wägt kaum Folgen ab, entschließt sich zum Kopfstoß und muss danach mit der Roten Karte leben.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-095",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Vergleiche die Frustrations-Aggressions-Theorie nach Dollard mit der motivationstheoretischen Erklärung nach Gabler und zeige, welche Schwächen Gablers Ansatz behebt.",
+    "a": "Dollard:\n• monokausal und deterministisch: Frustration führt immer zu Aggression, Aggression hat immer Frustration als Ursache.\n• Schwächen: erklärt keine instrumentelle Aggression; ignoriert individuelle Unterschiede, Bewertungen der Situation und Hemmungen; nicht jede Frustration führt zu Aggression.\nGabler:\n• Frustration ist nur ein möglicher Auslöser; entscheidend sind kognitive Bewertungen (Absichtsattribution, erwartete Folgen) und Emotionen.\n• Aggressionstendenz und Hemmungstendenz konkurrieren; Persönlichkeitsdisposition und Situation (z. B. Gelbe Karte, Spielstand) werden berücksichtigt.\n• Erklärt dadurch, warum dieselbe Frustration bei verschiedenen Personen oder Situationen unterschiedlich wirkt.",
+    "e": "Dollard sieht einen Automatismus, Gabler einen Abwägungsprozess. Beispiel Revanchefoul: Nach Dollard foult der gefoulte Spieler zurück, weil er frustriert ist; nach Gabler nur dann, wenn er Absicht unterstellt, die Folgen (Rote Karte) geringer gewichtet und seine Wut die Hemmung übersteigt.",
+    "quelle": "L19.5",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.b-096",
+    "thema": "BONUS",
+    "kapitel": "L19 Aggressionstheorien",
+    "q": "Erläutere den Zusammenhang zwischen Zielorientierung und Aggressionsneigung im Sport.",
+    "a": "• Egoorientierte Personen neigen eher zu Aggressionen und unfairem Verhalten; aufgabenorientierte eher zu positivem sportlichem Benehmen.\n• Aufgabenorientierte wollen ihre Fähigkeiten verbessern, nutzen individuelle und sachliche Bezugsnormen und verbinden Erfolg mit Anstrengung und persönlicher Entwicklung (Leistungsmotiv).\n• Egoorientierte wollen besser sein als andere und sehen im Erfolg Möglichkeiten zu sozialem Aufstieg und finanziellem Gewinn (Machtmotiv).\n• Empirie: Duda et al. (1991) im Basketball: hohe Egoorientierung geht mit Bereitschaft zu unsportlichem und aggressivem Verhalten einher; Studien in Eishockey, Handball und Fußball bestätigen das.",
+    "e": "Wer nur gewinnen will, dem ist jedes Mittel recht; wer besser werden will, braucht keine unfairen Mittel. Beispiel: Ein Basketballer, dem nur der Sieg zählt, foult in der Schlussphase hart, während ein aufgabenorientierter Spieler versucht, mit sauberer Verteidigung zu bestehen.",
+    "quelle": "L19.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-097",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Definiere Fairness im Sport.",
+    "a": "• Fairness ist die Tugend im Sport: die moralische Haltung, durch die sowohl das Reglement als auch die sportliche Einstellung gewahrt werden; durch Fairness sichert das Individuum aus eigenem Antrieb den Sinn von Wettkampf und Spiel (Court).\n• Fairness geht über das Einhalten konstitutiver und strategischer Regeln sowie das Berücksichtigen der Spielidee hinaus.\n• Sie beinhaltet: Achtung des Geists der Regeln, Befolgen von Schiedsrichterurteilen, Garantie der Chancengleichheit, Bemühen um Chancengerechtigkeit, Achtung aller Beteiligten als Person.",
+    "e": "Fair ist nicht nur, wer keine Regeln bricht, sondern wer den Sinn des Spiels respektiert. Beispiel: Katrin Green setzte sich dafür ein, dass ihre stärkste Konkurrentin mit ihren Spikes laufen durfte, obwohl sie dadurch selbst nur Silber gewann.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-098",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Was ist mit dem Geist der Regeln gemeint?",
+    "a": "• Fairplay bedeutet nicht nur die formelle Beachtung geschriebener Regeln (Buchstabe der Regeln).\n• Der faire Sportler handelt nach dem Sinn und Zweck der Regeln (Geist der Regeln), auch in Situationen, die die Regeln nicht erfassen (von Weizsäcker).\n• Regeln können nie alle Situationen abdecken; in offenen Situationen soll man so handeln, wie es dem Sinn des Wettkampfs (Chancengleichheit, Unversehrtheit, Achtung des Gegners) entspricht.",
+    "e": "Regeln sind nur das Gerüst, der Geist ist die Haltung dahinter. Beispiel: Kein Regelwerk verlangt, den Ball ins Aus zu spielen, wenn ein Gegner verletzt am Boden liegt; wer es trotzdem tut, handelt im Geist der Regeln.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-099",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Erläutere die drei zentralen Kriterien der Fairness: Regeleinhaltung, Chancengleichheit und Achtung des Gegners.",
+    "a": "• Regeleinhaltung: Einhalten der Regeln und darüber hinaus Beachtung ihres Geistes.\n• Chancengleichheit: Beide Parteien haben während des Wettkampfs die gleichen Chancen auf den Sieg; keine Partei nimmt Vorteile an oder nutzt Nachteile aus, die sich nicht aus den Regeln ergeben. Eigene taktische und technische Überlegenheit darf im Rahmen der Regeln aber voll ausgeschöpft werden (strategische Regeln).\n• Achtung des Gegners als Person: Der Gegner ist kein Feind, sondern Spielpartner; funktional braucht das Spiel einen unverletzten Gegner, außerdem enthalten Regelwerke moralische Werte (grobe Fouls, Beleidigungen werden hart bestraft).",
+    "e": "Fair heißt: Regeln halten, gleiche Chancen lassen und den Gegner respektieren. Beispiel: Ein Kampfrichter, der nach Ansicht einer Fotoserie einen fälschlich ungültig gegebenen Kugelstoßversuch von David Storl doch wertet, sorgt für Chancengleichheit.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-100",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Nenne die Aspekte von Fairness im erweiterten Sinne (Abb. 19.4).",
+    "a": "• Einhaltung konstitutiver Regeln (Spielregeln)\n• Beachtung strategischer Regeln\n• Berücksichtigung der Regeln zur Sportidee (das Spiel mit seiner Idee wirklich spielen wollen)\n• Achtung des Geists der Regeln\n• Befolgen der Urteile von Schieds- bzw. Kampfrichtern (Respekt vor dem Schiedsgericht)\n• Garantie der Chancengleichheit\n• Bemühen um Chancengerechtigkeit\n• Achtung des Gegners (und des Schiedsgerichts) als Person\nFairness betrifft nicht nur Sportler, sondern auch ihr Umfeld (Kampfrichter, Zuschauer, Fotografen usw.).",
+    "e": "Die Aspekte überlappen sich teilweise und gehen vom reinen Regelbefolgen bis zur menschlichen Haltung. Beispiel: Badmintonspielerinnen, die 2012 absichtlich verloren, hielten zwar die konstitutiven Regeln ein, verletzten aber die Sportidee, weil sie gar nicht gewinnen wollten.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-101",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Unterscheide formelle und informelle Fairness (nach Lenk).",
+    "a": "• Formelle Fairness: das bloße Einhalten der konstitutiven Regeln (Spielregeln); kann durch Sanktionen erzwungen werden.\n• Informelle Fairness: eine Art Ritterlichkeit, die nicht durch Sanktionen erzwungen werden kann, sondern in der Achtung aus ritterlichem Geist gegenüber Gegner und Schiedsrichter zum Ausdruck kommt.\n• Gabler sieht schon das bewusste, konsequente Einhalten der Regeln (auch unter erschwerten Bedingungen) als konstitutives Element der Fairness.",
+    "e": "Formell fair ist, wer nicht foult; informell fair, wer dem Gegner aufhilft. Beispiel: Ein Tennisspieler, der einen falschen Aus-Ruf des Linienrichters zu seinen Ungunsten korrigiert, zeigt informelle Fairness.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-102",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Unterscheide Chancengleichheit und Chancengerechtigkeit im Sport und setze sie in Beziehung zur Fairness.",
+    "a": "Chancengleichheit:\n• formal gleiche Wettkampfbedingungen für alle; keine Ausnutzung eigener Vorteile oder gegnerischer Nachteile jenseits der Spielregeln\n• im weiteren Sinn auch gleiche Vorbereitungsbedingungen, was bei ungleichen Ressourcen (Budget, Technik, Material) kaum erreichbar ist\nChancengerechtigkeit:\n• geht auf John Rawls zurück (gerechte Güterverteilung)\n• nach Loland: Eliminierung oder Kompensation wesentlicher Ungleichheiten zwischen Personen, die das Individuum nicht kontrollieren kann und für die es nicht verantwortlich ist (z. B. Witterung, Körpergröße, Gewicht)\nBezug zur Fairness: Garantie der Chancengleichheit und Bemühen um Chancengerechtigkeit sind beides Aspekte der Fairness; sportlicher Wettkampf soll aber gerade Ungleichheit der Leistung sichtbar machen (Null-Summen-Spiel, Gabler).",
+    "e": "Gleichheit heißt: gleiche Regeln für alle; Gerechtigkeit heißt: unverschuldete Nachteile ausgleichen. Beispiel: Im Hochsprung springen alle über dieselbe Latte (Chancengleichheit); Gewichtsklassen im Boxen oder ein Draft-System wie in der NBA gleichen dagegen unverschuldete Unterschiede aus (Chancengerechtigkeit).",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-103",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Erläutere die Einordnung sportlicher Handlungen auf einem Kontinuum zwischen fair und unfair (nach Gabler, Tab. 19.3).",
+    "a": "• Fair: bewusstes, konsequentes Einhalten der Regeln und der Chancengleichheit sowie Achten des Gegners als Person (z. B. Schiedsrichterentscheidung zum eigenen Nachteil korrigieren).\n• Weder fair noch unfair (neutral): allgemein regelentsprechendes oder regelabweichendes, aber normentsprechendes Verhalten (z. B. normales Foul im Basketball, Halten im Handball, Übertreten im Volleyball).\n• Unfair (normabweichend):\n  – aggressiv: bewusst schädigendes (explizit) oder Schaden in Kauf nehmendes (implizit) Verhalten (z. B. Revanchefoul, versteckte Fouls, Beleidigungen)\n  – betrügerisch: Verstoß gegen die Norm der Chancengleichheit, Vorteil jenseits der Regeln (z. B. Schwalbe, Doping, Spielmanipulation, Wettbetrug)\n• Nicht fair ist also nicht automatisch unfair.",
+    "e": "Zwischen fair und unfair gibt es eine große neutrale Mitte. Beispiel Volleyball: Akzeptiert ein Spieler eine knappe Schiedsrichterentscheidung zu seinen Gunsten, ist das weder fair noch unfair; korrigiert er sie freiwillig zu seinem Nachteil, ist es fair.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-104",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Wie hängen Fairness und Motivation zusammen?",
+    "a": "• Die Bewertung einer fairen Handlung hängt davon ab, ob sie intrinsisch oder extrinsisch motiviert ist.\n• Intrinsisch: Die Person handelt fair um der fairen Handlung willen; gilt als sittlich gut.\n• Extrinsisch: Die Person handelt fair wegen möglicher Folgen (Lob, Fair-Play-Preis, Vermeidung von Strafe); gilt meist nur als sittlich richtig.",
+    "e": "Entscheidend ist, warum jemand fair ist. Beispiel: Ein Spieler, der ein Handspiel zugibt, weil er es richtig findet, handelt intrinsisch fair; einer, der es nur zugibt, weil die Kamera ihn ohnehin überführt, handelt extrinsisch.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-105",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Warum ist faires Handeln aus der Außenperspektive oft nicht feststellbar? Nenne die Einflussfaktoren.",
+    "a": "Faires Handeln muss immer im Kontext sportartspezifischer Regeln und Normen, der situativen Bedingungen und der gesellschaftlichen Voraussetzungen bewertet werden. Einflussfaktoren (nach Gabler, Loland):\n• Erfolgsdruck im Wettkampfsport (Kommerzialisierung)\n• Innenperspektive eines Sportlers: äußerlich faire Handlung muss nicht faire Gesinnung bedeuten\n• Innenperspektive einer Sportart: gleiche Handlung kann je nach Sportart/Wettbewerb unterschiedlich bewertet werden\n• situative Zwänge im Wettkampfbetrieb\n• Chancengleichheit und Chancengerechtigkeit",
+    "e": "Was von außen fair aussieht, muss innerlich nicht fair gemeint sein. Beispiel: Alpay Özalan bekam den UEFA-Fair-Play-Preis, weil er einen Stürmer nicht foulte, sagte aber selbst, er hätte foulen müssen und sei nur zu spät gewesen.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-106",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Erläutere, wie Erfolgsdruck, die Innenperspektive einer Sportart und situative Zwänge die Beurteilung von Fairness beeinflussen.",
+    "a": "• Erfolgsdruck: Kommerzialisierung erzeugt hohen psychischen Druck; in Konfliktsituationen fällt die Entscheidung für Fairness schwer. Pilz: Solange der Erfolgsdruck nicht gemindert wird, sind Unfairness und das faire Foul sinnhaftes Handeln, und Fairplay einzuklagen ist unredlich.\n• Innenperspektive der Sportart: Normen sind sportartspezifisch; z. B. darf im Radsport bei einer Etappe ein Ausreißer im Windschatten fahren und am Ende vorbeiziehen, beim Eintagesrennen gilt Abwechseln in der Führungsarbeit als fair.\n• Situative Zwänge: z. B. ein schon feststehender Meister schont Kräfte gegen einen Abstiegskandidaten und benachteiligt so andere Abstiegskandidaten; im Sinne der Chancengleichheit wäre voller Einsatz fair.",
+    "e": "Fairness ist nicht in jeder Sportart und Situation gleich zu bewerten. Beispiel: Ein Bundesligist, der vor dem Champions-League-Finale mit der B-Elf antritt, verschenkt Punkte an einen Abstiegskandidaten, was für dessen Konkurrenten unfair wirkt.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-107",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Wo stößt der Fairnessbegriff im Sport an seine Grenzen?",
+    "a": "• Im professionellen Showsport: Durch ungleiche Ressourcenverteilung (Budget, Technik, Material) entsteht eine Ambivalenz von Fairness und Chancengleichheit bzw. Chancengerechtigkeit.\n• Im Jugendsport: Fairnesserziehung wird durch zu hohen Erfolgsdruck und eine stark egoorientierte Ausrichtung des Sports erschwert.\n• Zudem: Auszeichnungen für Fairness (z. B. nach Anzahl Gelber Karten) können Scheinmoral sein (Fair is foul, and foul is fair).",
+    "e": "Wo viel Geld im Spiel ist, wird Fairness schnell zum Luxus. Beispiel: Kolumbien erhielt 2014 den FIFA-Fair-Play-Preis wegen weniger Gelber Karten, obwohl ein Kolumbianer mit einem brutalen Foul Neymar verletzt hatte.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-108",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Was bedeutet Fairness der Zuschauer?",
+    "a": "• Parteilichkeit in Grenzen (Beifall für die eigene Mannschaft, Anfeuern) ist normentsprechend.\n• Parteilichkeit kann aber die Chancengleichheit beeinträchtigen (z. B. Auspfeifen des Gegners bei Heimspielen).\n• Faires Zuschauerverhalten liegt vor, wenn Zuschauer gezielt die Leistungen aller Athleten unterstützen und zu deren Chancengleichheit beitragen.",
+    "e": "Auch das Publikum kann fair oder unfair sein. Beispiel: Wenn Zuschauer beim Freiwurf des Gegners pfeifen und kreischen, stören sie die Chancengleichheit; applaudieren sie auch einem gelungenen Spielzug des Gegners, verhalten sie sich fair.",
+    "quelle": "L19.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-109",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Nimm kritisch Stellung zur Fairnessdefinition von Heringer.",
+    "a": "Heringer: 1. Fair ist alles, was nicht unfair ist. 2. Unfair ist alles, was den Witz des Spiels zerstört. 3. Der Witz des Spiels ist das gemeinsame Ziel der Spieler. 4. Das gemeinsame Ziel ist: Spielen und durch Spielen gewinnen.\nStärken:\n• bindet Fairness an den Sinn des Spiels (Sportidee), nicht nur an Regeln\n• erfasst z. B. absichtliches Verlieren oder Manipulation als unfair\nKritik:\n• fair und nicht unfair werden gleichgesetzt; die neutrale Kategorie (weder fair noch unfair) nach Gabler fehlt\n• besonders vorbildliches (informelles) faires Verhalten wird nicht von bloß regelkonformem unterschieden\n• Achtung des Gegners als Person und Chancengerechtigkeit werden nicht ausdrücklich erfasst",
+    "e": "Heringers Definition ist elegant, aber sie macht jeden zum fairen Sportler, der nur nicht stört. Beispiel: Ein normales Foul im Handball zerstört den Witz des Spiels nicht, wäre bei Heringer also fair, während Gabler es als neutral einstuft.",
+    "quelle": "L19.3",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.b-110",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairnesserziehung",
+    "q": "In welchem Verhältnis stehen Aggressionsvermeidung und Fairnesserziehung?",
+    "a": "• Aggressionsvermeidung und Fairnesserziehung sind zwei Seiten einer Medaille.\n• Beide zielen auf einen ethisch guten Sport.\n• Gabler: Unter ethischen Gesichtspunkten geht es sowohl darum, welche Untugenden (böse Handlungen) unterlassen, als auch welche Tugenden (gute Handlungen) gefordert und pädagogisch gefördert werden sollen.",
+    "e": "Die eine Seite verhindert Schlechtes, die andere fördert Gutes. Beispiel: Ein Jugendtrainer bestraft Revanchefouls konsequent (Aggressionsvermeidung) und lobt gleichzeitig Spieler, die dem Gegner aufhelfen (Fairnesserziehung).",
+    "quelle": "L19.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-111",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairnesserziehung",
+    "q": "Nenne Programme und Ansätze zur Aggressionsvermeidung im Sport.",
+    "a": "Merksatz: Zahlreiche Programme sollen präventiv wirken; darüber hinaus müssen aggressive Handlungen klar definiert und konsequent sanktioniert werden.\nErzieherische Interventionen:\n• Schulprogramme (z. B. bewegte Schule, gesunde Schule)\n• Streitschlichterprogramme\n• Stressmanagementtraining (z. B. Muskelentspannung, Copingstrategien)\n• therapeutische Ansätze (z. B. kognitive Verhaltenstherapie)\n• Projekte zum Thema Gewalt und Sport\n• Fanprojekte",
+    "e": "Weil Aggression viele Ursachen hat, braucht es viele Gegenmittel. Beispiel: Fanprojekte arbeiten mit jugendlichen Fußballfans, um Gewalt im Stadion vorzubeugen, während Streitschlichter in der Schule Konflikte schon im Sportunterricht entschärfen.",
+    "quelle": "L19.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-112",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairnesserziehung",
+    "q": "Welche Empfehlungen gibt die International Society of Sport Psychology (ISSP) zur Vermeidung von Aggression im Sport?",
+    "a": "• strikte Bestrafung aggressiver Handlungen\n• Vermitteln und Einüben von Fairness bereits im Jugendalter\n• realistischer Umgang der Medien mit Aggression\n• Aggressionsfortbildung aller Akteure (Trainer, Manager, Spieler usw.)\n• Teilnahme aller Personen an Anti-Aggressions-Programmen\n• Alkoholverbot bei Sportveranstaltungen",
+    "e": "Die ISSP setzt bei allen Beteiligten an, nicht nur bei den Spielern. Beispiel: Wenn Medien eine Rudelbildung nicht als spektakuläres Highlight in Endlosschleife zeigen, wird Aggression weniger als cool vermittelt.",
+    "quelle": "L19.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-113",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairnesserziehung",
+    "q": "Nenne Gablers Leitlinien zur Aggressionsvermeidung in der Schule und die beiden Sanktionsformen.",
+    "a": "Leitlinien (Gabler, 1996):\n• Aggressive Handlungen definieren und nach ihrer Schwere klassifizieren\n• klare Regeln gemeinsam mit den Schülern aufstellen und begründen\n• Sanktionen für antisoziales Verhalten konsequent durchführen\n• Konsequenzen müssen von den Tätern selbst getragen werden\nSanktionsformen:\n• repressive Bestrafung\n• Wiedergutmachung und Versöhnung: Der Täter missbilligt seine Tat und stellt so Normvertrauen und die verletzte Ordnung wieder her.",
+    "e": "Regeln wirken besser, wenn die Schüler sie selbst mitgestaltet haben. Beispiel: Wer im Sportunterricht absichtlich einen Mitschüler umrennt, setzt aus (repressiv) oder entschuldigt sich und hilft beim Kühlen (Wiedergutmachung); bei schweren oder wiederholten Taten ist eher Strafe angezeigt, bei spontanen leichteren eher Versöhnung.",
+    "quelle": "L19.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-114",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairnesserziehung",
+    "q": "Wie sind Fairnessprojekte und moralische Kampagnen im Sport zu bewerten?",
+    "a": "• Wegen zunehmender Fairnessverstöße (Doping, vorgetäuschte Fouls, instrumentelle Aggression) werden verstärkt Fairnessprojekte durchgeführt (z. B. Anti-Doping-Kampagne des DOSB Gemeinsam gegen Doping: Aufklärung plus moralischer Appell, ergänzt durch harte Strafen und Forschung zu Nachweisverfahren).\n• Der Erfolg rein moralisch ausgerichteter Kampagnen ist fraglich.\n• Erfolge im Kleinen ermutigen zum Eintreten für Fairness, z. B. die Mini-Liga des Berliner Basketball-Verbands mit einem klaren Verhaltenskodex für alle Akteure (Trainer, Zuschauer, Spieler, Schiedsrichter, Freunde).",
+    "e": "Große Appelle verpuffen oft, kleine konkrete Regeln vor Ort wirken. Beispiel: In der Berliner Mini-Liga gilt für alle in der Halle ein Kodex mit Respekt, Anerkennung der Schiedsrichterentscheidungen und Lernen aus Fehlern, und die Kinder spielen dort tatsächlich in fairer Atmosphäre.",
+    "quelle": "L19.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-115",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairnesserziehung",
+    "q": "Warum kann eine hohe technisch-taktische Ausbildung mit starker Aufgabenorientierung zu einem ethisch guten Sport beitragen?",
+    "a": "• Gut ausgebildete Sportler haben faire Lösungen automatisiert und greifen auch unter Wettkampfstress darauf zurück; unfaire Mittel werden weitgehend überflüssig.\n• Ein variables technisches Repertoire erlaubt, Konflikten und Verletzungsrisiken auszuweichen.\n• Assertives (sich durchsetzendes, regelgerechtes) Verhalten bleibt Teil des Sports; Sportler müssen lernen, wo Assertivität endet und Aggression beginnt.\n• Eine aufgabenorientierte Zielorientierung (Leistung als Streben nach der persönlichen Grenze) schafft ein Gegengewicht zur egoorientierten Ausrichtung des kommerziellen Showsports.",
+    "e": "Wer es technisch kann, muss nicht foulen. Beispiel: Ein Fußballverteidiger, der sauberes Tackling automatisiert hat, trennt den Gegner auch in der Nachspielzeit fair vom Ball; Dirk Nowitzki entzog sich mit seinem Fadeaway-Wurf dem harten Körperkontakt.",
+    "quelle": "L19.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.b-116",
+    "thema": "BONUS",
+    "kapitel": "L19 Fairness",
+    "q": "Erkläre, warum man beim Ins-Aus-Spielen des Balls bei einem verletzten Spieler im Fußball von Pseudofairness sprechen könnte.",
+    "a": "• Die Geste ist inzwischen eine ritualisierte, erwartete Norm; sie wird mit Applaus belohnt und mit Rückgabe des Balls beantwortet.\n• Wer sie unterlässt, wird von Zuschauern und Medien sanktioniert; sie ist daher oft eher extrinsisch motiviert (sittlich richtig, aber nicht unbedingt sittlich gut).\n• Sie kann taktisch missbraucht werden (vorgetäuschte Verletzung zur Spielunterbrechung, Zeitschinden).\n• Echte (informelle) Fairness wäre freiwillig und nicht durch sozialen Druck erzwungen.",
+    "e": "Wenn alle es erwarten, ist es keine besondere Ritterlichkeit mehr. Beispiel: Eine Mannschaft lässt sich in der Schlussphase bei knapper Führung auffällig oft fallen, weil sie weiß, dass der Gegner den Ball ins Aus spielen wird.",
+    "quelle": "L19.3",
+    "typ": "zusatz"
+  }
+]

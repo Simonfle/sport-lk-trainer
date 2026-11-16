@@ -1,0 +1,792 @@
+[
+  {
+    "id": "q3.1-001",
+    "thema": "Q3.1",
+    "kapitel": "Grundlagen motorisches Lernen",
+    "q": "Definiere sportmotorisches Lernen.",
+    "a": "Sportmotorisches Lernen ist die umgebungsbezogene, relativ überdauernde Ausbildung und Korrektur von sportmotorischem Gedächtnisbesitz (nach Olivier et al., 2013).\n• umgebungsbezogen: Lernen entsteht durch Auseinandersetzung mit der Umwelt (Üben, Erfahrung)\n• relativ überdauernd: die Veränderung bleibt längerfristig erhalten\n• Ausbildung und Korrektur: Neues wird angeeignet, Vorhandenes verändert\n• Gedächtnisbesitz: das Gelernte wird im motorischen Gedächtnis gespeichert",
+    "e": "Lernen heißt nicht, dass etwas einmal klappt, sondern dass es dauerhaft im Kopf (und Körper) abgespeichert ist. Beispiel: Wer Radfahren gelernt hat, kann es auch nach zehn Jahren Pause noch, weil das Bewegungsmuster im Gedächtnis gespeichert ist.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-002",
+    "thema": "Q3.1",
+    "kapitel": "Grundlagen motorisches Lernen",
+    "q": "Erläutere das Verhältnis von Lernprozess und Lernergebnis beim sportmotorischen Lernen.",
+    "a": "• Sportmotorisches Lernen ist ein Prozess, der zu einem Ergebnis führt: einer sportmotorischen Verhaltensänderung.\n• Diese Verhaltensänderung ist das eigentliche Ziel des Lernens.\n• Der Lernprozess selbst ist nicht beobachtbar, nur das Ergebnis.\n• Lehrer und Trainer können daher nur vom Ergebnis (der gezeigten Bewegung) auf den Lernprozess zurückschließen.",
+    "e": "Man kann nicht in den Kopf des Sportlers schauen, sondern nur sehen, was er zeigt. Beispiel: Ein Trainer sieht, dass ein Schüler nach drei Wochen den Korbleger sauber ausführt, und schließt daraus, dass ein Lernprozess stattgefunden hat.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-003",
+    "thema": "Q3.1",
+    "kapitel": "Grundlagen motorisches Lernen",
+    "q": "Warum kann man nicht immer vom gezeigten Bewegungsergebnis sicher auf den Lernstand schließen?",
+    "a": "• Faktoren wie Angst oder Ermüdung können verhindern, dass eine Bewegung realisiert wird, obwohl sie bereits gelernt (im Gedächtnis angeeignet) ist.\n• Umgekehrt können kurzfristige Einflüsse (Emotionen, besonders hohe Motivation, Medikamente) eine Leistung kurzzeitig verbessern, ohne dass gelernt wurde.\n• Leistung (Performanz) und Lernen sind daher nicht identisch.",
+    "e": "Was jemand an einem Tag zeigt, ist nur eine Momentaufnahme. Beispiel: Eine Turnerin beherrscht den Flickflack im Training, traut sich aber in der Prüfung vor Angst nicht – gelernt hat sie ihn trotzdem.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-004",
+    "thema": "Q3.1",
+    "kapitel": "Grundlagen motorisches Lernen",
+    "q": "Grenze sportmotorisches Lernen von anderen Ursachen für Verhaltensänderungen ab.",
+    "a": "Nicht als Lernen gelten:\n• Reifung und Wachstum (z. B. Vergrößerung von Körperbaumerkmalen): Lernen ist umweltbedingt, nicht biologisch-reifungsbedingt.\n• Kurzfristige Verhaltensänderungen durch Emotionen, besonders hohe Motivation oder Medikamente, die nach Wegfall des Einflusses wieder verschwinden.\nLernen ist dagegen umweltbedingt und relativ überdauernd.",
+    "e": "Wenn ein Jugendlicher plötzlich weiter wirft, weil er gewachsen und stärker geworden ist, hat er nicht unbedingt gelernt. Beispiel: Ein Spieler, der nur im Finale mit Adrenalin besser trifft, hat die Technik nicht dauerhaft verbessert – nach dem Spiel ist der Effekt weg.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-005",
+    "thema": "Q3.1",
+    "kapitel": "Grundlagen motorisches Lernen",
+    "q": "Was beschreiben Phasenmodelle des motorischen Lernens allgemein?",
+    "a": "• In der Literatur gibt es viele, meist zwei- bis dreiphasige Modelle.\n• Sie beschreiben Entwicklungen im Lernverlauf hinsichtlich\n  – des Verhaltens (Bewegungsergebnis und Bewegungsausführung),\n  – der Codierung im Gedächtnis,\n  – der damit verbundenen Automatisierung der motorischen Kontrollprozesse.",
+    "e": "Phasenmodelle zeigen, dass Lernen in Stufen verläuft: vom holprigen Anfang bis zur automatischen Bewegung. Beispiel: Beim Jonglieren muss man anfangs jede Ballbewegung bewusst steuern, später läuft es automatisch, während man sich unterhält.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-006",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Nenne die drei Lernphasen nach Meinel und Schnabel (1977).",
+    "a": "1. Entwicklung der Grobkoordination\n2. Entwicklung der Feinkoordination\n3. Stabilisierung der Feinkoordination und Ausprägung der variablen Verfügbarkeit (auch Feinstkoordination)\nIn der Grobkoordination findet das Neulernen statt, in den folgenden Phasen wird die Bewegung automatisiert und stabilisiert.",
+    "e": "Eselsbrücke: Grob – Fein – Feinst. Beispiel: Beim Positionswurf im Basketball kommt der Ball erst irgendwie zum Korb (grob), dann sauber unter Trainingsbedingungen (fein) und schließlich auch im Spiel unter Gegnerdruck (variabel verfügbar).",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-007",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Auf welcher theoretischen Grundlage beruht das Lernphasenmodell von Meinel und Schnabel und welche Perspektiven bezieht es ein?",
+    "a": "• Grundlage: Informationsansatz (Informationsverarbeitung) der motorischen Kontrolle.\n• Es verbindet zwei Perspektiven:\n  – Innenperspektive: Informationsaufnahme und -verarbeitung, Speicherung motorischer Programme, Automatisierung\n  – Außenperspektive: von außen beobachtbare (morphologische) Bewegungsmerkmale\n• Aus beiden werden praktische Hinweise für den Lehr- und Lernprozess abgeleitet.",
+    "e": "Das Modell schaut sowohl darauf, wie die Bewegung aussieht, als auch darauf, was im Kopf passiert. Beispiel: Beim Anfänger im Volleyball sieht man den unsauberen Pritschbewegungsablauf (außen) und weiß, dass er die Infos über Ballflug und Körperstellung noch schlecht verarbeitet (innen).",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-008",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Welche allgemeinen Eigenschaften haben die drei Lernphasen nach Meinel und Schnabel?",
+    "a": "• Sie bauen aufeinander auf.\n• Sie sind nicht umkehrbar.\n• Sie gehen fließend ineinander über (keine scharfen Grenzen).\n• Die Gliederung orientiert sich an von außen beobachtbaren (morphologischen) Aspekten der Bewegungskoordination; jede Phase zeigt charakteristische Veränderungen.",
+    "e": "Die Phasen sind wie Treppenstufen, nur dass die Übergänge eher eine Rampe sind. Beispiel: Ein Schwimmer wechselt nicht an einem bestimmten Tag von Grob- zu Feinkoordination beim Kraulen, sondern verbessert sich allmählich.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-009",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Wie wird die Phase der Grobkoordination abgegrenzt (Beginn und Ende)?",
+    "a": "Die erste Lernphase reicht vom Erfassen der neuen Lernaufgabe bis zur Realisierung der Bewegung unter günstigen Bedingungen.\n• Nach dem Erfassen der Aufgabe und einer groben Bewegungsvorstellung folgen erste Versuche.\n• Die Bewegung gelingt nur unter günstigen Ausgangsbedingungen und bei voller Konzentration.\n• Die Ausführung entspricht der Grundstruktur der Bewegung und ist als solche erkennbar.",
+    "e": "Am Ende der Grobkoordination erkennt man die Bewegung schon, sie ist aber noch wackelig. Beispiel: Ein Anfänger schafft die Rolle vorwärts auf der weichen Matte mit Hilfe, aber noch nicht auf hartem Boden.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-010",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Beschreibe die Ausprägung der Bewegungsmerkmale in der Phase der Grobkoordination.",
+    "a": "Insgesamt schwach ausgeprägte Merkmale, schlechte Bewegungsökonomie; Bewegung wirkt verkrampft, unpräzise, wenig flüssig, fehlerhaft:\n• Bewegungskopplung: Teilbewegungen zeitlich oft fehlerhaft abgestimmt\n• Bewegungsrhythmus: verkrampft durch übermäßigen Krafteinsatz, Muskeleinsatz zum falschen Zeitpunkt, falsches Wechselspiel von An- und Entspannung\n• Bewegungsfluss: Übergänge stockend statt fließend\n• Bewegungspräzision: gering\n• Bewegungskonstanz: gering\n• Bewegungsstärke: übermäßiger, teils falscher Krafteinsatz\n• Bewegungsumfang: unzweckmäßige Ausholbewegungen, teils zu großräumig\n• Bewegungstempo: zu hastig oder zu langsam",
+    "e": "Alle acht Bewegungsmerkmale sind beim Anfänger noch schlecht – man kann sie wie eine Checkliste durchgehen. Beispiel: Beim Positionswurf wird die Armstreckung nicht vollständig ausgeführt und das Handgelenk zu früh nachgedrückt, der Wurf ist dadurch zu flach (Rhythmus, Kopplung, Präzision mangelhaft).",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-011",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Wie ist die motorische Kontrolle (Informationsverarbeitung) in der Phase der Grobkoordination gekennzeichnet?",
+    "a": "• Mangelhafte Informationsaufnahme und unzureichende Informationsverarbeitung.\n• Vor allem das propriozeptive System (Gleichgewicht, Bewegungsempfinden/kinästhetischer Analysator) nimmt Informationen nur sehr unvollständig auf und verarbeitet sie unvollständig.\n• Die Speicherung generalisierter motorischer Programme erfolgt unvollkommen.\n• Steuerung vor allem über den optischen Analysator und bewusst (Zusatzwissen).",
+    "e": "Der Anfänger spürt noch nicht, was sein Körper genau macht. Beispiel: Beim ersten Handstand weiß man oft nicht, ob man gerade steht oder schon im Hohlkreuz hängt – das Körpergefühl fehlt noch.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-012",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Welche methodischen Konsequenzen ergeben sich für die Phase der Grobkoordination?",
+    "a": "• Lernaufgabe verbal und optisch präzise stellen (konkrete Bewegungsvorstellung schaffen)\n• Günstige und konstante Übungsbedingungen (z. B. erleichterte Gerätebedingungen, Hilfestellungen)\n• Koordinative Vorübungen erleichtern den Einstieg\n• Fehlerkorrekturen sparsam und effektiv einsetzen (nur Hauptfehler)\n• „Informationsflut“ unbedingt vermeiden",
+    "e": "Anfänger können nur wenig auf einmal verarbeiten, deshalb lieber ein klares Bild und ein Tipp statt zehn Korrekturen. Beispiel: Beim Positionswurf helfen ein Video eines Profis und der Hinweis „Mittel- und Zeigefinger zeigen dem Ball hinterher“.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-013",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Wie wird die Phase der Feinkoordination abgegrenzt und wodurch ist sie gekennzeichnet?",
+    "a": "Abgrenzung: vom Stadium der Grobkoordination bis zur annähernd fehlerfreien Ausführung der Bewegung.\nKennzeichen:\n• kontinuierliche Verbesserung; räumlich-zeitliche und dynamische Parameter stabilisieren sich\n• hohe Präzision und Konstanz, flüssigere Bewegungen\n• verbesserte intermuskuläre Koordination, exaktere Kraftdosierung\n• unter gewohnten Bedingungen annähernd fehlerfrei, unter ungewohnten/erschwerten Bedingungen noch Bewegungsmängel",
+    "e": "In der Feinkoordination klappt die Bewegung im Training gut, aber Störungen werfen den Lernenden noch aus der Bahn. Beispiel: Ein Basketballer trifft den Positionswurf aus mittlerer Distanz ohne Gegner zuverlässig, verfehlt aber sobald ein Verteidiger die Hand hebt.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-014",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Wie verändert sich die Informationsverarbeitung in der Phase der Feinkoordination und welche methodischen Konsequenzen folgen daraus?",
+    "a": "Informationsverarbeitung:\n• Informationsaufnahme und -verarbeitung werden erweitert\n• Propriozeptive (kinästhetische) Analysatoren werden wirksamer\n• Speicherung generalisierter motorischer Programme wird optimiert\nMethodik:\n• viele Wiederholungen mit hoher Konzentration\n• fehlerfreies Üben unter konstanten Bedingungen\n• innere und äußere Rückmeldungen werden bewegungsoptimierend verarbeitet → besseres Bewegungsgefühl\n• Hinweise zum Bewegungsempfinden und verbalisierende Informationen unterstützen",
+    "e": "Jetzt kann der Lernende auf Gefühlshinweise reagieren, weil er seinen Körper besser spürt. Beispiel: Der Hinweis „Der Abwurf muss sich leicht anfühlen!“ hilft beim Basketballwurf erst in der Feinkoordination, ein Anfänger könnte damit wenig anfangen.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-015",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Beschreibe die dritte Lernphase nach Meinel und Schnabel (Stabilisierung der Feinkoordination und variable Verfügbarkeit).",
+    "a": "Abgrenzung: von der Feinkoordination bis zur sicheren Bewegungsausführung auch unter ungewohnten und schwierigen Bedingungen.\n• Bewegung wird auch unter wechselnden Bedingungen (z. B. Wettkampf) sicher angewendet\n• sehr hohe Präzision und Konstanz auch bei Ermüdung, Gegnerdruck oder psychischem Druck\n• Aufmerksamkeit kann völlig von der Bewegungsausführung gelöst werden (Automatisierung)\n• selbst auf hohem Niveau ist weiteres Lernen nötig",
+    "e": "Variable Verfügbarkeit bedeutet: Die Technik funktioniert immer und überall, und der Kopf ist frei für Taktik. Beispiel: Ein Profi-Basketballer trifft den Sprungwurf aus dem Dribbling, müde in der letzten Minute und gegen einen Verteidiger, während er gleichzeitig das Spiel liest.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-016",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Wie ist die Informationsverarbeitung in der Phase der variablen Verfügbarkeit gekennzeichnet und wie sollte geübt werden?",
+    "a": "Informationsverarbeitung:\n• Informationsaufnahme, -verarbeitung und Programmierung werden immer weiter optimiert\n• Bewegungsempfinden von hoher Genauigkeit → bewusste Fehlerkorrekturen mit Zusatzinformationen möglich\nTraining:\n• unter sportartspezifisch variierenden Wettkampfbedingungen\n• mit hohem psychischen und physischen Belastungsdruck\n• Üben unter variablen und schwierigen Bedingungen; Erweiterung der variablen Programmparameter",
+    "e": "Jetzt muss das Training dem Wettkampf ähneln und gezielt Druck aufbauen. Beispiel: Beim Positionswurf werden Würfe gegen eine Verteidigerhand (Präzisionsdruck), Sprungwürfe aus dem Dribbling (Komplexitätsdruck) oder eine Mindesttrefferzahl pro Minute (Belastungsdruck) geübt.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-017",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Nenne die praktischen Hinweise für das Üben in den drei Lernphasen (Tab. 5.2).",
+    "a": "• Grobkoordination: verbale und visuelle Hinweise schaffen eine konkrete Bewegungsvorstellung; koordinative Vorübungen erleichtern den Einstieg.\n• Feinkoordination: fehlerfreies Üben unter konstanten Bedingungen; Hinweise zum Bewegungsempfinden unterstützen den Lernprozess.\n• Feinstkoordination (variable Verfügbarkeit): Üben unter variablen und schwierigen Bedingungen; Erweitern der variablen Programmparameter.",
+    "e": "Die Methodik passt sich dem Lernstand an: erst zeigen, dann konstant festigen, dann variieren. Beispiel: Beim Tennisaufschlag erst Demonstration und Vorübungen, dann viele gleiche Aufschläge aufs selbe Feld, später Aufschläge bei Wind, unter Zeitdruck und auf wechselnde Ziele.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-018",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Vergleiche die drei Lernphasen nach Meinel und Schnabel hinsichtlich Bewegungsqualität, Informationsverarbeitung und Bedingungen der Ausführung.",
+    "a": "• Grobkoordination: Grundstruktur erkennbar, verkrampft, unpräzise; mangelhafte Informationsaufnahme (v. a. propriozeptiv), unvollkommene Programmspeicherung; gelingt nur unter günstigen Bedingungen mit voller Konzentration.\n• Feinkoordination: annähernd fehlerfrei, flüssig, präzise, konstant; propriozeptive Analysatoren wirksamer, Programmspeicherung optimiert; gelingt unter gewohnten, nicht unter erschwerten Bedingungen.\n• Variable Verfügbarkeit: sehr hohe Präzision und Konstanz; Bewegungsempfinden sehr genau, Aufmerksamkeit frei (automatisiert); gelingt auch unter wechselnden, schwierigen Bedingungen (Ermüdung, Gegner, psychischer Druck).",
+    "e": "Für die Klausur lohnt sich eine Tabelle mit den drei Phasen als Spalten. Beispiel Kraulschwimmen: erst hektisches Paddeln mit Wasserschlucken, dann saubere Technik im ruhigen Becken, schließlich saubere Technik auch im Freiwasser mit Wellen und Konkurrenten.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-019",
+    "thema": "Q3.1",
+    "kapitel": "Lernphasen nach Meinel/Schnabel",
+    "q": "Woran kann man den Übergang von der Grob- zur Feinkoordination und von der Fein- zur Feinstkoordination in der Praxis erkennen?",
+    "a": "• Grob → Fein: Die Bewegung gelingt unter einfachen Bedingungen technisch korrekt; der Lernende spricht auf Hinweise zum Bewegungsempfinden an.\n• Fein → variable Verfügbarkeit: Die Bewegung wird technisch stabil auch unter kleineren Stressfaktoren ausgeführt (z. B. Serien, Zeitvorgaben).\n• Danach werden Druckbedingungen gezielt erhöht (Präzisions-, Komplexitäts-, Belastungsdruck).",
+    "e": "Man testet den Lernstand, indem man die Bedingungen schrittweise erschwert. Beispiel aus dem Buch: Wer 10 Freiwürfe in Folge oder 10 Mitteldistanzwürfe in zwei Minuten trifft, ist auf dem Weg in die Phase der variablen Verfügbarkeit.",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-020",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernphasenmodelle",
+    "q": "Beschreibe das Drei-Phasen-Modell des motorischen Lernens nach Fitts und Posner (1967).",
+    "a": "1. Kognitive Phase: Verstehen der Aufgabe, bewusste Steuerung, viele grobe Fehler, hohe Variabilität, großer Bedarf an Instruktion und Demonstration.\n2. Assoziative Phase: Verfeinerung, Fehler werden weniger und kleiner, Lernende können Fehler teilweise selbst erkennen, Leistung konstanter.\n3. Autonome Phase: Bewegung automatisiert, kaum Aufmerksamkeit nötig, hohe Konstanz, Doppeltätigkeiten möglich.",
+    "e": "Das Modell ähnelt Meinel/Schnabel: kognitiv ≈ grob, assoziativ ≈ fein, autonom ≈ variable Verfügbarkeit. Beispiel: Ein Fahranfänger denkt beim Schalten noch über jeden Schritt nach (kognitiv), später klappt es mit gelegentlichem Ruckeln (assoziativ), schließlich nebenbei beim Unterhalten (autonom).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-021",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernphasenmodelle",
+    "q": "Beschreibe das Zwei-Phasen-Modell des motorischen Lernens nach Gentile.",
+    "a": "1. Erste Phase (Erwerb der Bewegungsidee / „getting the idea of the movement“): Der Lernende erfasst die Grundstruktur und das Ziel der Bewegung und unterscheidet relevante von irrelevanten Umweltmerkmalen.\n2. Zweite Phase (Fixierung bzw. Diversifikation):\n• Fixierung bei geschlossenen Fertigkeiten (stabile Umwelt): konstante, gleichbleibende Ausführung\n• Diversifikation bei offenen Fertigkeiten (wechselnde Umwelt): Anpassung der Bewegung an variable Situationen",
+    "e": "Gentile betont, dass das Ziel der zweiten Phase von der Art der Fertigkeit abhängt. Beispiel: Ein Turner will seine Kür immer gleich turnen (Fixierung), ein Fußballer muss den Pass an jede neue Spielsituation anpassen (Diversifikation).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-022",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernphasenmodelle",
+    "q": "Ordne die Lernphasenmodelle von Meinel/Schnabel und Fitts/Posner einander zu und nenne Gemeinsamkeiten.",
+    "a": "• Grobkoordination ↔ kognitive Phase\n• Feinkoordination ↔ assoziative Phase\n• Stabilisierung/variable Verfügbarkeit ↔ autonome Phase\nGemeinsamkeiten:\n• Lernen verläuft von bewusster zu automatisierter Kontrolle\n• Fehlerzahl und Variabilität nehmen ab, Präzision und Konstanz zu\n• Aufmerksamkeitsbedarf sinkt, Belastbarkeit unter Störungen steigt",
+    "e": "Verschiedene Autoren nutzen unterschiedliche Namen, beschreiben aber denselben Grundverlauf. Beispiel: Beim Tennisaufschlag denkt der Anfänger an Ballwurf und Schlag (kognitiv/grob), der Fortgeschrittene trifft konstant (assoziativ/fein), der Profi platziert unter Matchdruck (autonom/variabel).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-023",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernphasenmodelle",
+    "q": "Was versteht man unter Automatisierung einer Bewegung und woran erkennt man sie?",
+    "a": "Automatisierung bezeichnet den Übergang von bewusster, aufmerksamkeitsintensiver zu weitgehend unbewusster Bewegungssteuerung im Lernprozess.\nKennzeichen:\n• geringer Aufmerksamkeitsbedarf, Aufmerksamkeit für anderes frei (z. B. Taktik)\n• Doppeltätigkeiten möglich ohne Leistungsverlust\n• hohe Konstanz und Stabilität gegenüber Störungen (Ermüdung, Druck)\n• schnelle, ökonomische Ausführung",
+    "e": "Eine automatisierte Bewegung läuft wie von selbst. Beispiel: Ein guter Basketballspieler dribbelt, ohne auf den Ball zu schauen, und kann dabei Mitspieler suchen – ein Anfänger muss den Ball ständig ansehen.",
+    "quelle": "L05.1",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-024",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Erläutere die Teillernmethode (analytisch-synthetische Methode).",
+    "a": "• Einzelne Teile der Gesamtbewegung werden isoliert geübt (Analyse = Zerlegung).\n• Erst wenn die Einzelteile beherrscht werden, werden sie zur Gesamtbewegung (Zielübung) zusammengesetzt (Synthese).",
+    "e": "Man baut die Bewegung wie aus Bausteinen zusammen. Beispiel: Beim Speerwurf übt man erst den Abwurf aus dem Stand, dann den Dreierrhythmus und erst später den vollen Anlauf.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-025",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Erläutere die Ganzheitsmethode.",
+    "a": "• Die Bewegung wird von Beginn an in ihrer Gesamtstruktur geübt.\n• Sie wird nicht in Teile zerlegt; Verbesserungen erfolgen im ganzheitlichen Vollzug (ggf. unter erleichterten Bedingungen).\n• Empirisch ist sie der Teillernmethode in vielen Studien überlegen.",
+    "e": "Man übt immer die ganze Bewegung, auch wenn sie anfangs unsauber ist. Beispiel: Der Hochspringer Igor Paklin trainierte nicht einzelne Elemente, sondern den Sprung als harmonische Einheit – Überflüssiges falle dann von selbst weg.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-026",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Erläutere die Ganz-Teil-Ganz-Methode.",
+    "a": "Eine „Zwischenmethode“ zwischen Ganzheits- und Teillernmethode:\n1. Darbieten und Üben der Gesamtbewegung\n2. Gezieltes Schulen der Bewegungsteile, die noch nicht richtig beherrscht werden\n3. Rückführung in die Gesamtbewegung\nVorteil: Jeder bestimmt sein Lerntempo; motorisch Begabte steigen schnell ins Anwendungstraining (mit Druckbedingungen) ein, Lernende mit Schwierigkeiten werden durch Teilübungen unterstützt (Binnendifferenzierung).",
+    "e": "Erst ganz, dann gezielt reparieren, dann wieder ganz. Beispiel: Der Korbleger wird ganzheitlich eingeführt; wer ihn sofort kann, probiert ihn von links, die anderen üben gezielt das rhythmische Dribbling oder den einbeinigen Absprung.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-027",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Nenne die vier Aspekte, die das Anwenden der Teillernmethode sinnvoll erscheinen lassen (nach Loosch/Rosinski).",
+    "a": "• hohe Komplexität und Kompliziertheit der Bewegung\n• Auffrischen von Gedächtnisinhalten durch das Üben von Bewegungsabschnitten, die beim Üben der Gesamtbewegung selten abgefordert werden\n• Ausloten biomechanischer Grenzbereiche für einzelne Bewegungsphasen\n• verbesserte Trainingsökonomie durch vereinfachte Technikumgebungen beim Teillernen (z. B. Stationsbetrieb)",
+    "e": "Teillernen lohnt sich vor allem bei sehr schwierigen Bewegungen oder wenn man gezielt an einer Stelle feilen will. Beispiel: Ein Stabhochspringer übt Einstich und Absprung isoliert, weil komplette Sprünge sehr aufwendig sind und die Phasen sonst zu selten trainiert werden.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-028",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Nenne und erläutere die Nachteile der Teillernmethode (nach Loosch/Rosinski).",
+    "a": "• Phaseneinteilung: Sie erfordert eine Klassifizierung der Phasen, die meist morphologisch erfolgt und u. U. nicht der subjektiven Bewegungsvorstellung des Sportlers entspricht.\n• Timing: Teillernen kann das Timing der Gesamtkoordination beeinträchtigen; „Bewegungspausen“ zwischen den Teilen können einprogrammiert werden, die Bewegung wird nicht mehr als harmonische Einheit erlebt.\n• Funktionelle Variabilität: Abweichungen in einem Bewegungsteil können durch andere Abschnitte ausgeglichen werden; diese Leistung ist nur im ganzheitlichen Vollzug möglich und muss geschult werden.\n• Subjektive Geschlossenheit: Techniken werden als Einheit mit emotionalen Begleitphänomenen erlebt, die frühzeitig Informationen über das Gelingen geben; ein qualifiziertes Bewegungsgefühl ist an den ganzheitlichen Vollzug gebunden.",
+    "e": "Wenn man Teile zu lange getrennt übt, passen sie später nicht mehr gut zusammen. Beispiel: Wer beim Weitsprung Anlauf und Absprung lange getrennt trainiert, stockt vor dem Brett kurz – genau diese Pause hat er sich „einprogrammiert“.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-029",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Was versteht man unter dem Prinzip der funktionellen Variabilität und warum spricht es für ganzheitliches Lernen?",
+    "a": "• Abweichungen in einzelnen Bewegungsbestandteilen oder Parametern können durch andere Bewegungsabschnitte ausgeglichen (kompensiert) werden.\n• Diese eigenständige Ausgleichsleistung des motorischen Systems ist nur im ganzheitlichen Bewegungsvollzug möglich.\n• Sie muss daher ganzheitlich geschult werden; beim isolierten Teilüben fehlt sie.",
+    "e": "Der Körper kann kleine Fehler selbst ausgleichen, wenn er die ganze Bewegung kennt. Beispiel: Setzt ein Hochspringer einen etwas zu kurzen letzten Schritt, kann er das durch einen stärkeren Armeinsatz beim Absprung ausgleichen – das lernt man nur im kompletten Sprung.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-030",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Welches Fazit zieht das Buch aus empirischen Studien zum Vergleich von Ganzheits- und Teillernmethode?",
+    "a": "• Studien belegen, dass die Ganzheitsmethode der Teillernmethode überlegen ist.\n• Bei sehr komplexen Bewegungsstrukturen ist die Teillernmethode aber z. T. die einzige Möglichkeit, eine Fertigkeit zu erlernen.\n• Dann sollte im Lernprozess immer wieder auf den ganzheitlichen Vollzug zurückgegriffen werden.",
+    "e": "Grundsätzlich ganzheitlich, aber bei zu schweren Bewegungen geht es nicht ohne Zerlegung. Beispiel: Ein Rad am Boden kann man ganzheitlich lernen, eine Kür am Stufenbarren dagegen muss man in Elementen erlernen und dann wieder zusammenfügen.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-031",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Nenne die drei Merkregeln zur Wahl zwischen Ganzheits-, Teil- und Ganz-Teil-Ganz-Methode.",
+    "a": "• Lehre so weit wie möglich ganzheitlich.\n• Komplexbewegungen sollten mithilfe der Teillernmethode geschult werden.\n• Bei Bewegungen mittlerer Komplexität eignet sich die Ganz-Teil-Ganz-Methode.",
+    "e": "Die Komplexität der Bewegung entscheidet über die Methode. Beispiel: Einen Strecksprung lehrt man ganzheitlich, den Korbleger mit Ganz-Teil-Ganz und den Stabhochsprung oder die Kugelstoß-Angleittechnik eher mit Teillernmethode.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-032",
+    "thema": "Q3.1",
+    "kapitel": "Ganzheits- und Teillernmethode",
+    "q": "Vergleiche Ganzheits- und Teillernmethode in Bezug auf Vor- und Nachteile.",
+    "a": "Ganzheitsmethode:\n+ Bewegungsrhythmus, Timing und Bewegungsfluss bleiben erhalten\n+ funktionelle Variabilität und ganzheitliches Bewegungsgefühl werden geschult\n+ empirisch überlegen, motivierend (man macht „die echte“ Bewegung)\n– bei komplexen oder gefährlichen Bewegungen Überforderung möglich\nTeillernmethode:\n+ Reduzierung der Komplexität, Überforderung wird vermieden\n+ gezieltes Üben schwieriger oder selten geübter Phasen, Trainingsökonomie\n– Gefahr von Timingproblemen und „einprogrammierten Pausen“\n– morphologische Zerlegung entspricht evtl. nicht der subjektiven Vorstellung\n– Problem beim späteren Zusammensetzen",
+    "e": "In Abiturklausuren wird oft eine begründete Methodenwahl verlangt – dann diese Vor- und Nachteile auf die konkrete Bewegung anwenden. Beispiel: Für den Flopsprung spricht der hohe Anteil des Rhythmus im Anlauf-Absprung-Übergang für ganzheitliches Lernen, die Komplexität aber für ein Ganz-Teil-Ganz-Vorgehen.",
+    "quelle": "L05.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-033",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Nenne die bereichsübergreifende Grundlogik des Neulernens komplexer Bewegungen (nach Roth, 2007).",
+    "a": "• Der überforderte Schüler wird unterstützt, indem der Schwierigkeitsgrad der Aufgabe sinnvoll und wirksam reduziert wird.\n• Er übt zunächst vereinfachte Probleme.\n• Diese werden nach angemessener Zeit zur Gesamtaufgabe aufgeschaltet bzw. erweitert.",
+    "e": "So lernt man nicht nur im Sport, sondern auch in Mathe oder Musik: erst Einfaches, dann Zusammensetzen. Beispiel: Ein Grundschüler lernt erst Addieren und Multiplizieren, bevor er komplizierte Terme mit Punkt-vor-Strich-Regel löst.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-034",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Welche zwei zentralen Fragen stellen sich beim Neulernen komplexer sportlicher Bewegungen?",
+    "a": "1. Welche Vereinfachungsstrategien gibt es?\n2. Wie ist die Reihung der Lernschritte zu gestalten, also der Weg von den Teilzielen zum Ziel (methodische Übungsreihen)?",
+    "e": "Erst überlegt man, wie man die Bewegung leichter macht, dann, in welcher Reihenfolge man die Erleichterungen wieder zurücknimmt. Beispiel: Beim Kraulen nutzt man ein Schwimmbrett als Vereinfachung und plant, wann das Brett wegfällt.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-035",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Was versteht man unter einem generalisierten motorischen Programm (GMP) und welche Merkmale sind invariant bzw. variabel?",
+    "a": "Aus Sicht der Informationsverarbeitung bedeutet das Erlernen genormter Fertigkeiten die Aneignung generalisierter motorischer Programme.\n• Invariante (feste, fertigkeitsspezifische) Merkmale: Reihenfolge der Teilbewegungen, zeitliche Relation der Teilbewegungen (relatives Timing), Relation der Muskelkräfte\n• Variable (austauschbare) Parameter: Gesamtdauer der Bewegung, eingesetzte Gesamtkraft, spezifische Muskelauswahl",
+    "e": "Ein GMP ist wie ein Bauplan, bei dem die Reihenfolge fest ist, Größe und Tempo aber angepasst werden können. Beispiel: Beim Wurf ist der Ablauf immer gleich, ob man 5 m oder 20 m weit wirft – nur Kraft und Dauer (Parameter) ändern sich.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-036",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Nenne die Überforderungsaspekte beim Neulernen und die jeweils zugeordneten Vereinfachungsstrategien (Tab. 5.3).",
+    "a": "• Programmlänge → Prinzip der Programmlängenverkürzung\n• Programmbreite → Prinzip der verringerten Programmbreite und Prinzip der Invariantenunterstützung\n• Parameteranforderung → Prinzip der Parameterveränderung\n• Angst → Sicherheitsvorkehrungen und systematische Desensibilisierung (auch empathische Ansprache, Entspannungstechniken)",
+    "e": "Eselsbrücke: Eine Bewegung kann zu lang, zu breit, zu schnell/stark oder zu beängstigend sein. Beispiel: Ein Salto ist für einen Anfänger vor allem ein Angst- und Parameterproblem, eine Schwimmtechnik eher ein Programmbreitenproblem.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-037",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Erläutere den Überforderungsaspekt Programmlänge und das Prinzip der Programmlängenverkürzung.",
+    "a": "• Problem: Die Gesamtbewegung ist zu „lang“, es sind zu viele nacheinander ablaufende Bestandteile zu bewältigen.\n• Strategie: Das motorische Programm wird in kleine, zeitlich aufeinanderfolgende Abschnitte geteilt, die einzeln geübt und dann nacheinander zur Gesamtbewegung zusammengesetzt (aufgeschaltet) werden.\n• Anwendungsfeld: (azyklische) Fertigkeiten mit vielen hintereinandergeschalteten, wechselwirkungsarmen Elementen.",
+    "e": "Man schneidet die Bewegung zeitlich in Stücke. Beispiel: Beim Speerwurf wird zunächst aus dem Stand geworfen, beim Kastensprung beginnt man mit dem Prellfedern statt mit dem ganzen Anlauf.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-038",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Nenne die Einsatzregel für Programmlängenverkürzungen (nach Roth, 2007).",
+    "a": "• Programmlängenverkürzungen sind lernwirksam, wenn die Zieltechnik durch gut isolierbare, nacheinander zu realisierende Bewegungsbestandteile gekennzeichnet ist.\n• Bei engen Wechselwirkungen und Verzahnungen von aufeinanderfolgenden Einzelabschnitten ist von einer Trennung abzuraten.",
+    "e": "Nur wenn sich die Phasen sauber trennen lassen, darf man sie zerschneiden. Beispiel: Beim Speerwurf funktioniert das gut, beim Kraulschwimmen nicht, weil Haupt- und Zwischenphasen ineinander übergehen.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-039",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Bei welchen Bewegungen ist eine Programmlängenverkürzung nicht sinnvoll? Begründe.",
+    "a": "• Zyklische Bewegungen (Laufen, Radfahren, Schwimmen): Haupt- und Zwischenphase verschmelzen (Phasenverschmelzung), es gibt keine trennbaren Abschnitte.\n• Azyklische Bewegungen, die nicht mehr gebremst werden können (z. B. Salti, Schrauben beim Wasserspringen): einmal begonnen, muss die Bewegung zu Ende geführt werden.\n• Bewegungen, bei denen der verkürzte Abschnitt strukturell zu stark von der Zielbewegung abweicht: Dann drohen aufwendige Umlernprozesse.",
+    "e": "Man kann nicht „einen halben Salto“ üben und dann aufhören. Beispiel: Beim Laufen gibt es keinen Punkt, an dem man den Schritt sinnvoll zerlegen könnte, da Schwung- und Stützphase fließend ineinander übergehen.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-040",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Welche Kritik äußern Grosser und Neumaier an scheinbar offensichtlichen Programmlängenverkürzungen und welche Alternative schlagen sie vor?",
+    "a": "• Kritik (am Beispiel Kugelstoßen): Beim verstärkten Stoßen aus dem Stand weichen die Programminvarianten zu stark von der Zielbewegung (O’Brien-Technik) ab.\n• Fehler im verkürzten Abschnitt müssen u. U. durch aufwendige Umlernprozesse beseitigt werden.\n• Alternative: Die wegzulassenden Elemente werden nicht einfach weggelassen, sondern durch einfachere Bewegungen ersetzt (z. B. Stoßen aus dem Angehen statt aus dem Angleiten).",
+    "e": "Ein verkürzter Teil darf nicht zu einer eigenen, anderen Bewegung werden. Beispiel: Wer ewig aus dem Stand stößt, gewöhnt sich eine Stoßbewegung an, die nicht zum Angleiten passt – das Angehen ist eine bessere Brücke.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-041",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Erläutere den Überforderungsaspekt Programmbreite und das Prinzip der Verringerung der Programmbreite.",
+    "a": "• Problem: Die Bewegung ist zu „breit“, d. h. zu viele Elemente müssen gleichzeitig (simultan) koordiniert werden.\n• Strategie: Die Breite des Programms wird verringert: Gleichzeitig ablaufende Teilbewegungen werden zunächst isoliert geübt und später zur Gesamtbewegung aufgeschaltet.\n• Anwendungsfeld: Fertigkeiten mit vielen gleichzeitig auszuführenden Elementen, v. a. asynchrone zyklische Bewegungen (z. B. Arm- und Beinbewegung beim Schwimmen).",
+    "e": "Hier schneidet man nicht zeitlich, sondern „nach Körperteilen“. Beispiel: Beim Kraulen üben Lernende den Beinschlag mit Schwimmbrett und den Armzug mit Pull Buoy getrennt; beim Basketballwurf betont Werfen im Sitzen auf dem Kasten die Arm-Hand-Führung.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-042",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Nenne die Einsatzregel für Reduktionen der Programmbreite (nach Roth, 2007).",
+    "a": "• Reduktionen der Programmbreite sind lernwirksam, wenn die Zieltechnik durch gut isolierbare, gleichzeitig auszuführende Bewegungsbestandteile gekennzeichnet ist.\n• Bei engen Wechselwirkungen und Verzahnungen der simultan zu koordinierenden Aktivitäten ist von einer Trennung abzuraten.\n• Ungeeignet daher bei eng verzahnten zyklischen Bewegungen ohne „horizontale Schnittstellen“ (z. B. Paddeln, Rudern, Radfahren); geeignet bei asynchron ablaufenden Teilbewegungen (z. B. Schwimmtechniken).",
+    "e": "Nur was im Körper unabhängig voneinander läuft, darf man getrennt üben. Beispiel: Beim Rudern hängen Beinstoß, Rückenzug und Armzug so eng zusammen, dass getrenntes Üben kaum hilft – beim Kraul dagegen schon.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-043",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Erläutere den Unterschied zwischen Programmlängenverkürzung und Programmbreitenverringerung.",
+    "a": "• Programmlängenverkürzung: zeitlich nacheinander ablaufende Bestandteile werden getrennt (Zerlegung im Längsschnitt); Teile (Halbkreise) werden nacheinander zum Ganzen (Kreis) zusammengesetzt.\n• Programmbreitenverringerung: gleichzeitig ablaufende Bestandteile werden getrennt (Zerlegung im Querschnitt); ein kleiner Kreis wird durch Aufschalten weiterer simultaner Bestandteile zum großen Kreis erweitert.\n• Gemeinsam: Beide setzen gut isolierbare, wechselwirkungsarme Bestandteile voraus.",
+    "e": "Länge = nacheinander, Breite = gleichzeitig. Beispiel: Kugelstoßen erst als Standstoß (A) und dann mit Angleiten (B) ist Längenverkürzung; Kraulen nur mit Armeinsatz ist Breitenverringerung.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-044",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Definiere Invariantenunterstützung und nenne ihre Formen.",
+    "a": "Invariantenunterstützung = Ausführungshilfen für die strukturellen (invarianten) Merkmale einer Bewegung.\nFormen:\n• Rhythmusvorgaben (akustisch): unterstützen den zeitlich-dynamischen Ablauf, z. B. durch Zuruf\n• Orientierungsvorgaben (visuell): unterstützen die räumlich-zeitliche Ablaufgenauigkeit, z. B. Markierungen\n• bewegungsführende Hilfen (taktil, kinästhetisch): Hilfestellung im Turnen, Bewusstmachen von Winkelstellungen und Verlagerung von Körperteilen\n• Ausführungshilfen zur Erhöhung der Fehlertoleranz: verringern den Präzisionsdruck",
+    "e": "Der Lehrer hilft beim „Wie“ der Bewegung, ohne sie zu zerlegen. Beispiel: Beim Hürdenlauf gibt ein rhythmisches „ta-ta-ta-hopp“ den Dreierrhythmus vor, Markierungen am Boden zeigen den Absprungpunkt, und niedrige Schaumstoffhürden erhöhen die Fehlertoleranz.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-045",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Welchem Überforderungsaspekt ist die Invariantenunterstützung zugeordnet und für welche Bewegungen eignet sie sich besonders?",
+    "a": "• Zugeordnet ist sie dem Überforderungsaspekt Programmbreite (neben dem Prinzip der verringerten Programmbreite).\n• Sie eignet sich besonders für Bewegungen mit hohen räumlichen, zeitlichen und dynamischen Präzisionsanforderungen (z. B. Turnbewegungen).\n• Anders als bei der Breitenverringerung bleibt die Bewegung vollständig, die Ausführung wird aber durch Hilfen gelenkt.",
+    "e": "Wenn man die Bewegung nicht zerlegen kann, kann man sie trotzdem führen. Beispiel: Bei der Kippe am Reck übt man die ganze Bewegung, aber der Lehrer gibt Hilfestellung am Rücken und ruft im richtigen Moment „jetzt!“.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-046",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Erläutere den Überforderungsaspekt Parameteranforderung und das Prinzip der Parameterveränderung.",
+    "a": "• Problem: Die invarianten Bewegungsdetails eines GMP sind gut erlernbar, die variablen Parameter stellen aber hohe Anforderungen. Typisch: zu hohe Ablaufgeschwindigkeit, zu kurze Bewegungsdauer, zu hohe Kraftanforderung.\n• Strategie: Verringerung des Zeit- und Präzisionsdrucks (z. B. Zeitlupe, erhöhter Absprungort) sowie des physischen Belastungsdrucks (z. B. leichteres Gerät, begleitendes Krafttraining).\n• Bedingung: Lernwirksam nur, wenn durch die Vereinfachung die invarianten Strukturen der Bewegung nicht zerfallen.",
+    "e": "Die Bewegung bleibt gleich, aber man macht sie langsamer, länger oder leichter. Beispiel: Die Drehung beim Diskuswurf wird zunächst in Zeitlupe geübt, und Anfänger stoßen mit einer leichteren Kugel.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-047",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Nenne die Möglichkeiten der Parameterveränderung je nach Art der Überforderung.",
+    "a": "• Zu hohe Ablaufgeschwindigkeit → langsamer üben (Slow-Motion), z. B. Gehen statt Laufen im Anlauf\n• Zu kurze Bewegungsdauer → Bewegungsumfang/-zeit bei gleicher Geschwindigkeit durch Gerätehilfen vergrößern, z. B. erhöhte Absprungstellen verlängern die Flugphase\n• Zu hohe Kraftanforderung → Intensität der Krafteinsätze verringern, z. B. leichtere Geräte, niedrigere Hindernisse, kürzere Haltedauer bei statischen Elementen, Partnerhilfe",
+    "e": "Je nachdem, welcher Parameter überfordert, dreht man an einer anderen „Stellschraube“. Beispiel: Beim Kastensprung wird ein Minitramp als Absprunghilfe genutzt, damit mehr Zeit in der Flugphase bleibt; beim Hürdenlauf werden die Hürden niedriger gestellt.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-048",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Welche Grenze hat das Üben in Zeitlupe (zeitliche Dehnung) als Parameterveränderung?",
+    "a": "• Durch die Ausführung in Zeitlupe dürfen die grundlegenden Programmstrukturen (Invarianten wie relatives Timing) nicht zerfallen.\n• Viele dynamische Bewegungen funktionieren nur mit einer Mindestgeschwindigkeit; sie lassen sich nur in sehr geringem Ausmaß zeitlich dehnen (z. B. Kippbewegungen im Turnen).\n• Zu starke Verlangsamung erzeugt eine andere Bewegung (anderes Programm).",
+    "e": "Manche Bewegungen brauchen Schwung, sonst sind es andere Bewegungen. Beispiel: Eine Kippe am Reck in Zeitlupe gelingt nicht, weil der Schwung für das Hochkommen fehlt – man übt dann etwas völlig anderes.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-049",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Nenne die Anwendungsfelder der Vereinfachungsstrategien laut Tab. 5.3.",
+    "a": "• Programmlängenverkürzung: (azyklische) Fertigkeiten mit vielen hintereinandergeschalteten, wechselwirkungsarmen Elementen (z. B. Speerwurf, Kastensprung)\n• Verringerte Programmbreite und Invariantenunterstützung: Fertigkeiten mit vielen gleichzeitig auszuführenden Elementen; asynchrone zyklische Bewegungen (Schwimmtechniken) und Bewegungen mit hohen räumlichen, zeitlichen und dynamischen Präzisionsanforderungen (Turnen)\n• Parameterveränderung: Fertigkeiten mit hoher Bewegungsgeschwindigkeit (Speerwurf), kurzer Bewegungszeit (Sprünge im Turnen), hohen dynamischen Anforderungen (Würfe, Stöße)\n• Sicherheitsvorkehrungen/systematische Desensibilisierung: Bewegungen mit ungewissem Ausgang",
+    "e": "Die Tabelle ist eine typische Abiturgrundlage – man sollte zu jeder Strategie sagen können, wann sie passt. Beispiel: Für die Rückwärtsrolle am Reck (ungewisser Ausgang) helfen eher Sicherheitsmaßnahmen, für den Speerwurf eher Längenverkürzung und Parameterveränderung.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-050",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Wie kann dem Überforderungsaspekt Angst beim Neulernen begegnet werden?",
+    "a": "Angst vor Verletzung oder Blamage kann das Lernen behindern. Maßnahmen:\n• Sicherheitsvorkehrungen (Matten, Hilfestellung, Sicherungsgeräte)\n• systematische Desensibilisierung (schrittweise Gewöhnung an die angstauslösende Situation)\n• empathische Ansprache\n• Entspannungstechniken\nAnwendungsfeld: Bewegungen mit ungewissem Ausgang.",
+    "e": "Wer Angst hat, verkrampft und lernt schlecht – deshalb muss die Angst zuerst abgebaut werden. Beispiel: Beim Kopfsprung vom 3-m-Brett springt man zuerst vom Beckenrand, dann vom 1-m-Brett und erst danach vom 3-m-Brett.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-051",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Welcher Merksatz gilt neben den Vereinfachungsstrategien beim Erlernen neuer Bewegungen?",
+    "a": "• Beim Erlernen neuer Bewegungen ist immer zu überprüfen, ob die allgemeinen koordinativen und konditionellen Voraussetzungen erfüllt sind, um die komplexen Bewegungsmuster einer Fertigkeit zu erlernen.\n• Nicht alle Schwierigkeiten lassen sich durch Vereinfachungsstrategien beseitigen (Roth, 2007).",
+    "e": "Ohne die nötige Kraft oder Beweglichkeit hilft auch die beste Methodik nichts. Beispiel: Der Handstützüberschlag am Boden scheitert, wenn Stützkraft in den Armen oder Rumpfbeweglichkeit fehlen.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-052",
+    "thema": "Q3.1",
+    "kapitel": "Vereinfachungsstrategien",
+    "q": "Begründe, bei welchen Fertigkeiten man auf eine Programmlängenverkürzung, Programmbreitenverringerung, Invariantenunterstützung oder zeitliche Dehnung verzichten sollte.",
+    "a": "• Programmlängenverkürzung: verzichten bei zyklischen Bewegungen (Phasenverschmelzung) und nicht bremsbaren Bewegungen (Salto)\n• Programmbreitenverringerung: verzichten bei eng verzahnten simultanen Teilbewegungen ohne Schnittstellen (z. B. Rudern, Radfahren)\n• Invariantenunterstützung: verzichten, wenn der Lernende von der Hilfe abhängig würde oder die Hilfe die Bewegungsstruktur verfälscht, bzw. wenn die Bewegung bereits stabil ist (Zusatzwissen)\n• Zeitliche Dehnung: verzichten bei schwungabhängigen Bewegungen (z. B. Kippen im Turnen), da die Invarianten zerfallen würden",
+    "e": "Das Buch fordert in Aufgabe 44, die Grenzen jeder Strategie zu begründen. Beispiel: Eine Riesenfelge am Reck lässt sich weder zeitlich dehnen noch sinnvoll in Abschnitte zerlegen – hier helfen eher Sicherungsgürtel und Hilfestellung.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-053",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Definiere methodische Übungsreihen (MÜR).",
+    "a": "Methodische Übungsreihen sind nach methodischen Grundsätzen geordnete Übungsfolgen, die zur Erlernung einer bestimmten Bewegungsfertigkeit (Zielübung) oder zur Aneignung eines bestimmten Ausprägungsgrades motorischer Eigenschaften führen sollen (nach Grössing, 2007).\n• In ihnen sind die Vereinfachungsprinzipien und deren schrittweise Rücknahme fertigkeitsspezifisch festgelegt.\n• Sie beruhen meist auf bewährter, verallgemeinerter Praxiserfahrung.",
+    "e": "Eine MÜR ist wie eine Treppe aus Übungen, die zur Zielbewegung führt. Beispiel: Für den Speerwurf geht es vom Schlagballwurf über Würfe mit Hilfsgeräten und aus der Wurfauslage bis zum Wurf aus dem Fünferrhythmus.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-054",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Nenne die allgemeinen methodischen Grundsätze für den Aufbau methodischer Übungsreihen.",
+    "a": "• vom Leichten zum Schweren\n• vom Einfachen zum Komplexen\n• vom Bekannten zum Unbekannten\n• vom Sicheren zum Risikoreichen\nAllgemein gilt: Im Verlauf des Lernprozesses werden die Erleichterungen schrittweise zurückgenommen.",
+    "e": "Diese vier „vom … zum …“-Regeln sollte man auswendig können. Beispiel: Beim Handstand übt man erst an der Wand mit Partnerhilfe (leicht, sicher), dann frei auf der Matte und schließlich frei mit Abrollen (schwer, risikoreicher).",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-055",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Unterscheide vorbereitende Übungen und Vorübungen im Rahmen methodischer Übungsreihen.",
+    "a": "• Vorbereitende Übungen (Formen): zielen auf das Erlernen grundlegender Fertigkeiten und den Erwerb grundlegender (koordinativer und konditioneller) Fähigkeiten, die für die Zielfertigkeit unabdingbar sind; nicht zwingend bewegungsverwandt.\n• Vorübungen: Übungsformen, die bewegungsverwandte Fertigkeiten und vielfältige Variationen davon einüben, mit dem Ziel der Annäherung an die Zielübung; strukturverwandt zur Zielübung.\n• Beide schaffen Lernvoraussetzungen für die Zielübung.",
+    "e": "Vorbereitende Übungen machen fit für die Bewegung, Vorübungen ähneln ihr schon. Beispiel Speerwurf: Ballspiele mit Würfen oder Wurfmehrkämpfe sind vorbereitend, das Werfen verschiedener Geräte aus dem Dreischrittrhythmus ist eine Vorübung.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-056",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Erläutere den methodischen Dreischritt bei methodischen Übungsreihen.",
+    "a": "Zentrales Charakteristikum von MÜR:\n1. Vorbereitende Übungen (Formen): allgemeine koordinative und konditionelle Voraussetzungen schaffen\n2. Vorübungen: bewegungsverwandte Fertigkeiten mit Annäherung an die Zielübung\n3. Zielübung: die zu erlernende Fertigkeit in ihrer Gesamtform",
+    "e": "Erst das Fundament, dann die Annäherung, dann das Ziel. Beispiel Handstützüberschlag: Stützkraft- und Beweglichkeitsübungen (vorbereitend), Handstand-Abrollen und Überschlag vom Kasten mit Hilfe (Vorübungen), freier Handstützüberschlag am Boden (Zielübung).",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-057",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Nenne die drei Haupttypen methodischer Übungsreihen.",
+    "a": "1. Serielle Übungsreihen: Aufbau „von vorne nach hinten“\n2. Funktionale Übungsreihen: Aufbau „von der Mitte nach außen“\n3. Programmierte Übungsreihen: empirisch überprüfter, kleinschrittiger Aufbau",
+    "e": "Eselsbrücke: Seriell = in Reihenfolge, funktional = vom Kern (Hauptaktion) aus, programmiert = Lernkarten in kleinen Schritten. Beispiel: Den Korbleger kann man seriell, das Kugelstoßen funktional aufbauen.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-058",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Erläutere die serielle Übungsreihe.",
+    "a": "• Aufbau „von vorne nach hinten“.\n• Nutzt das Prinzip der Programmlängenverkürzung.\n• Die Zielübung wird durch Aufschalten von Teilbewegungen nach räumlich-zeitlichen Aspekten in der Reihenfolge des Bewegungsablaufs vermittelt.",
+    "e": "Man beginnt mit dem ersten Teil der Bewegung und hängt die folgenden nacheinander an. Beispiel: Beim Korbleger wird erst das rhythmische Dribbling geschult, dann mit dem Stoppen und schließlich mit dem Werfen verbunden.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-059",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Erläutere die funktionale Übungsreihe.",
+    "a": "• Aufbau „von der Mitte nach außen“.\n• Nutzt ebenfalls das Prinzip der Programmlängenverkürzung.\n• Die geübten Elemente sind genau die Aktionen der Zielbewegung.\n• Start bei der Hauptaktion (Hauptfunktionsphase); im weiteren Verlauf werden die Hilfsaktionen (vorbereitende und ggf. überleitende Phasen) ergänzt.",
+    "e": "Man beginnt mit dem wichtigsten Teil, der über das Ergebnis entscheidet. Beispiel: Beim Kugelstoßen startet man mit dem Stoß aus der Stoßauslage (Hauptaktion) und ergänzt dann das Angleiten aus der Grundstellung.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-060",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Erläutere die programmierte Übungsreihe.",
+    "a": "• Kleinschrittige Abfolge von Übungen.\n• Orientiert sich an logischen und empirisch gestützten Kriterien (empirisch überprüft).\n• Häufig in Form von programmierten Lernkarten, mit denen Lernende selbstständig Schritt für Schritt arbeiten.",
+    "e": "Wie eine Bauanleitung mit vielen kleinen, geprüften Schritten. Beispiel: Kruber und Fuchs bieten für das Kugelstoßen Lernkarten an – vom Halten der Kugel über Ausgangsstellung, Beinstreckung und Rumpfdrehung bis zum Stoßen aus dem Angleiten.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-061",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Vergleiche serielle und funktionale Übungsreihen.",
+    "a": "Gemeinsamkeit: Beide nutzen das Prinzip der Programmlängenverkürzung und setzen die Zielbewegung schrittweise zusammen.\nUnterschiede:\n• Seriell: Reihenfolge des zeitlichen Ablaufs („von vorne nach hinten“), Start mit der ersten Phase.\n• Funktional: Reihenfolge nach Funktion („von der Mitte nach außen“), Start mit der Hauptaktion, dann Ergänzung der Hilfsaktionen; geübt werden genau die Aktionen der Zielbewegung.\nVorteil funktional: Die leistungsbestimmende Hauptphase wird am häufigsten geübt.",
+    "e": "Seriell folgt der Uhr, funktional folgt der Wichtigkeit. Beispiel Weitsprung: seriell erst Anlauf, dann Absprung, dann Flug; funktional erst Absprung aus kurzem Anlauf, dann wird der Anlauf verlängert.",
+    "quelle": "L05.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-062",
+    "thema": "Q3.1",
+    "kapitel": "Methodische Übungsreihen",
+    "q": "Welche Aspekte musst du berücksichtigen, wenn du eine methodische Übungsreihe begründet entwickeln sollst (z. B. Handballsprungwurf)?",
+    "a": "• Analyse der Zielbewegung: Phasenstruktur (Vorbereitungs-, Haupt-, Endphase), Hauptaktion, Komplexität, Überforderungsaspekte\n• Wahl der Lernmethode: ganzheitlich, Teil- oder Ganz-Teil-Ganz-Methode (Komplexität)\n• Wahl des Typs: seriell, funktional oder programmiert\n• Methodischer Dreischritt: vorbereitende Übungen → Vorübungen → Zielübung\n• passende Vereinfachungsstrategien (Längen-, Breitenreduktion, Invariantenunterstützung, Parameterveränderung, Sicherheit) und deren schrittweise Rücknahme\n• methodische Grundsätze (leicht→schwer, einfach→komplex, bekannt→unbekannt, sicher→risikoreich)\n• Voraussetzungen der Lernenden (koordinativ, konditionell) und Lernphasen",
+    "e": "Bei Abituraufgaben gibt es Punkte für die Begründung, nicht für die bloße Übungsliste. Beispiel Handballsprungwurf: Wurf aus dem Stand (Hauptaktion), dann aus dem Dreischrittrhythmus, dann mit Absprung über ein Hindernis, später gegen Abwehrspieler – jeweils mit Bezug zu Vereinfachungsprinzipien begründet.",
+    "quelle": "L05.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-063",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Welche Arten von Informationen bzw. Lernhilfen können Lehrende beim Bewegungslernen einsetzen?",
+    "a": "Nach Sinneskanal (Analysatoren):\n• verbal/akustisch: Bewegungsbeschreibung, Bewegungsanweisungen, Hinweise, Rhythmusvorgaben\n• visuell/optisch: Demonstration, Video, Bildreihen, Markierungen\n• taktil-kinästhetisch: Hilfestellung, Bewegungsführung, Berührung\nZusätzlich: Feedback/Rückmeldung über Ergebnis und Ausführung.\nIm Buch: verbale und visuelle Hinweise in der Grobkoordination, Hinweise zum Bewegungsempfinden in der Feinkoordination.",
+    "e": "Je mehr Sinneskanäle man passend nutzt, desto klarer wird die Bewegungsvorstellung. Beispiel: Beim Brustschwimmen zeigt der Lehrer den Beinschlag (visuell), sagt „anziehen – grätschen – schließen“ (verbal) und führt die Füße eines Schülers am Beckenrand (taktil).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-064",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Was versteht man unter Feedback (Rückmeldung) beim motorischen Lernen? Unterscheide intrinsisches und extrinsisches Feedback.",
+    "a": "Feedback = Information über die eigene Bewegungsausführung bzw. ihr Ergebnis, die zur Bewegungskorrektur genutzt wird.\n• Intrinsisches (inneres) Feedback: Rückmeldung aus den eigenen Sinnesorganen während/nach der Bewegung (kinästhetisch, vestibulär, visuell, akustisch, taktil), z. B. Gefühl für den Abwurf.\n• Extrinsisches (äußeres, augmentiertes) Feedback: zusätzliche Rückmeldung von außen (Lehrer, Trainer, Video, Messgeräte).\nIm Buch: innere und äußere Rückmeldungen werden in der Feinkoordination bewegungsoptimierend verarbeitet.",
+    "e": "Intrinsisch = was ich selbst spüre und sehe, extrinsisch = was mir jemand sagt oder zeigt. Beispiel: Ein Tennisspieler spürt, dass der Ball nicht sauber getroffen wurde (intrinsisch), der Trainer sagt ihm, dass der Schläger zu spät kam (extrinsisch).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-065",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Unterscheide Knowledge of Results (KR) und Knowledge of Performance (KP).",
+    "a": "• Knowledge of Results (KR, Ergebnisrückmeldung): Information über das Bewegungsergebnis bezogen auf das Ziel (z. B. Weite, Zeit, Treffer, Abweichung vom Ziel).\n• Knowledge of Performance (KP, Verlaufsrückmeldung): Information über die Bewegungsausführung bzw. den Bewegungsablauf (z. B. Gelenkwinkel, Armhaltung, Timing).\n• KR ist oft schon intrinsisch verfügbar; KP ist besonders bei komplexen Techniken hilfreich, weil sie Ursachen von Fehlern benennt.",
+    "e": "KR sagt was passiert ist, KP sagt warum. Beispiel: „Der Wurf war 30 cm zu kurz“ ist KR, „Du hast den Arm nicht ganz gestreckt“ ist KP.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-066",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Nenne Regeln für den wirksamen Einsatz von Feedback und Fehlerkorrekturen beim Bewegungslernen.",
+    "a": "• Sparsam und gezielt: nur den Hauptfehler (Ursache, nicht Folgefehler) korrigieren; Informationsflut vermeiden (besonders in der Grobkoordination)\n• Zeitnah, aber nicht während jeder Ausführung; kurze Pause zur Selbsteinschätzung lassen\n• Nicht nach jedem Versuch: reduzierte Feedbackfrequenz bzw. zusammenfassendes Feedback fördert Selbstständigkeit und Behaltensleistung (Vermeidung der Abhängigkeit, „Guidance-Hypothese“)\n• Positiv und konstruktiv formulieren, konkrete Handlungsanweisung\n• An die Lernphase anpassen: Anfänger einfache, bildhafte Hinweise; Fortgeschrittene Hinweise zum Bewegungsempfinden und detaillierte Zusatzinformationen\n• Selbstkontrolliertes Feedback (Lernender fragt nach) ist oft lernwirksam",
+    "e": "Zu viel Feedback macht abhängig und überfordert. Beispiel: Statt einem Anfänger beim Aufschlag fünf Fehler zu nennen, sagt der Trainer nur „Wirf den Ball höher“ – denn der zu niedrige Ballwurf verursacht die anderen Fehler.",
+    "quelle": "L05.1",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-067",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Welche Bedeutung hat Instruktion beim Neulernen und was unterscheidet einen internalen von einem externalen Aufmerksamkeitsfokus?",
+    "a": "Instruktion vermittelt Ziel und Ablauf der Bewegung und schafft eine Bewegungsvorstellung (verbal, visuell); sie muss in der Grobkoordination präzise und knapp sein.\n• Internaler Fokus: Aufmerksamkeit auf die eigenen Körperbewegungen (z. B. „Strecke den Ellbogen“).\n• Externaler Fokus: Aufmerksamkeit auf den Bewegungseffekt in der Umwelt (z. B. Ballflug, Gerät, Ziel).\n• Studien (Wulf) zeigen: Ein externaler Fokus führt meist zu besserem Lernen und automatisierterer Ausführung.",
+    "e": "Wer an den Effekt denkt statt an die Muskeln, bewegt sich flüssiger. Beispiel: „Lass den Ball in einem hohen Bogen in den Korb fallen“ (external) wirkt meist besser als „Klapp das Handgelenk nach vorn“ (internal).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-068",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Welche Funktion hat die Demonstration (Lernen am Modell) beim Neulernen?",
+    "a": "• Schafft eine konkrete visuelle Bewegungsvorstellung (besonders wichtig in der Grobkoordination)\n• Vermittelt die Grobstruktur, den Rhythmus und das Ziel der Bewegung\n• Möglichkeiten: Lehrer- oder Schülerdemonstration, Video, Bildreihen\n• Regeln: zentrale Merkmale hervorheben (Beobachtungsauftrag), mehrfach und aus geeigneter Perspektive zeigen, ggf. verlangsamt; Demonstration mit kurzer verbaler Information kombinieren\n• Auch „lernende Modelle“ (Mitschüler) können wirksam sein (Bandura: Beobachtungslernen)",
+    "e": "Ein Bild sagt mehr als tausend Worte – besonders für Anfänger. Beispiel: Das Buch empfiehlt beim Positionswurf eine Videosequenz eines Profispielers, damit die Schüler den Bewegungsablauf vor Augen haben.",
+    "quelle": "L05.1",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-069",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Was ist eine Bewegungsvorstellung und warum ist sie für das Bewegungslernen wichtig?",
+    "a": "Die Bewegungsvorstellung ist die innere (gedankliche) Repräsentation eines Bewegungsablaufs – visuell, kinästhetisch und verbal-begrifflich.\nBedeutung:\n• Grundlage für die Planung (Antizipation) und Programmierung der Bewegung\n• Sollwert für den Vergleich mit dem tatsächlichen Ablauf (Soll-Ist-Vergleich) und damit für Korrekturen\n• Wird im Lernprozess präziser: anfangs grob und vor allem visuell, später differenziert und kinästhetisch\n• Lehrende fördern sie durch verbale und visuelle Hinweise (Buch: Grobkoordination)",
+    "e": "Man kann nur das gut ausführen, was man sich klar vorstellen kann. Beispiel: Wer sich den Flickflack nicht vorstellen kann, weiß nicht, wann er die Arme nach hinten führen soll – erst Video und Erklärung bauen die Vorstellung auf.",
+    "quelle": "L05.1",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-070",
+    "thema": "Q3.1",
+    "kapitel": "Lernhilfen und Feedback",
+    "q": "Wie lassen sich Druckbedingungen in der Phase der variablen Verfügbarkeit gezielt erhöhen?",
+    "a": "Mithilfe der Druckbedingungen (vgl. koordinative Anforderungen):\n• Präzisionsdruck: höhere Genauigkeitsanforderungen (z. B. gegen eine Verteidigerhand werfen)\n• Zeitdruck: weniger Zeit für die Ausführung\n• Komplexitätsdruck: Kombination mit weiteren Bewegungen/Wettkampftechniken (z. B. Sprungwurf aus dem Dribbling)\n• Situationsdruck: wechselnde, unvorhersehbare Situationen\n• Belastungsdruck: physische/psychische Belastung (z. B. Mindesttrefferzahl pro Minute, unter Ermüdung)\n• Organisationsdruck: mehrere Aufgaben gleichzeitig oder nacheinander",
+    "e": "In der dritten Lernphase wird die Technik gezielt „gestresst“, damit sie im Wettkampf hält. Beispiel: Ein Handballer übt den Sprungwurf nach einem Sprint (Belastungsdruck) und gegen einen aktiven Abwehrspieler (Situations- und Präzisionsdruck).",
+    "quelle": "L05.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.1-071",
+    "thema": "Q3.1",
+    "kapitel": "Mentales Training",
+    "q": "Definiere mentales Training.",
+    "a": "Mentales Training ist das planmäßig wiederholte, bewusste Sich-Vorstellen einer sportlichen Bewegung ohne deren gleichzeitige praktische Ausführung.\n• Es dient dem Erlernen, Verbessern und Stabilisieren von Bewegungen.\n• Grundlage ist eine präzise Bewegungsvorstellung.\n• Erklärung der Wirkung u. a. durch den Carpenter-Effekt (ideomotorisches Prinzip): Die Vorstellung einer Bewegung löst minimale Innervationen der beteiligten Muskulatur aus.",
+    "e": "Beim mentalen Training übt das Gehirn, ohne dass sich der Körper bewegt. Beispiel: Ein Skirennläufer geht vor dem Start mit geschlossenen Augen jedes Tor der Strecke im Kopf durch und bewegt dabei leicht die Hände mit.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-072",
+    "thema": "Q3.1",
+    "kapitel": "Mentales Training",
+    "q": "Nenne die Formen des mentalen Trainings im weiteren Sinne.",
+    "a": "• Subvokales Training: Bewegungsablauf in einem inneren Selbstgespräch beschreiben\n• Verdecktes Wahrnehmungstraining (Außensicht): sich selbst oder einen anderen bei der Bewegung wie in einem Film beobachten\n• Ideomotorisches Training (Innensicht): Bewegung von innen heraus vorstellen und erleben, inklusive Bewegungsgefühl – mentales Training im engeren Sinne, am wirksamsten\n(Zusätzlich: observatives Training = reales Beobachten anderer)",
+    "e": "Die Formen werden von „Reden“ über „Zuschauen“ zu „Fühlen“ immer intensiver. Beispiel: Eine Turnerin sagt sich ihre Übung vor (subvokal), sieht sich selbst im Kopf turnen (verdeckt) und spürt schließlich jede Drehung (ideomotorisch).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-073",
+    "thema": "Q3.1",
+    "kapitel": "Mentales Training",
+    "q": "Wann ist mentales Training besonders sinnvoll und wo liegen seine Grenzen?",
+    "a": "Sinnvoll:\n• bei Verletzungen oder in Pausen, wenn praktisches Üben nicht möglich ist\n• zur Wettkampfvorbereitung (Ablauf einprägen, Konzentration, Selbstvertrauen)\n• bei komplexen Bewegungsfolgen und zur Verkürzung von Lernzeiten in Kombination mit praktischem Üben\n• bei Bewegungen mit hohem kognitiven Anteil\nGrenzen:\n• setzt eine bereits vorhandene, möglichst präzise Bewegungsvorstellung und Bewegungserfahrung voraus → für völlige Anfänger (Grobkoordination) wenig wirksam\n• ersetzt praktisches Üben nicht, am wirksamsten ist die Kombination\n• erfordert Konzentration und Übung",
+    "e": "Mentales Training funktioniert nur, wenn man die Bewegung schon kennt und spüren kann. Beispiel: Ein verletzter Hochspringer kann seinen Flop im Kopf weiter üben, ein Anfänger, der nie gefloppt hat, hätte dagegen kaum ein inneres Bild davon.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-074",
+    "thema": "Q3.1",
+    "kapitel": "Mentales Training",
+    "q": "Was besagt der Carpenter-Effekt (ideomotorisches Prinzip)?",
+    "a": "• Die intensive Vorstellung einer Bewegung führt zu minimalen, messbaren Nervenimpulsen (Innervationen) in der Muskulatur, die bei der realen Ausführung beteiligt wäre.\n• Die Vorstellung aktiviert also ähnliche neuronale Strukturen wie die echte Bewegung.\n• Er gilt als eine Erklärung für die Wirksamkeit des mentalen Trainings.",
+    "e": "Denken an eine Bewegung ist eine Art „Mini-Bewegung“ im Nervensystem. Beispiel: Wer sich intensiv einen Elfmeterschuss vorstellt, bei dem lassen sich im Oberschenkelmuskel winzige elektrische Aktivitäten messen.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-075",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernansätze",
+    "q": "Unterscheide offene und geschlossene Fertigkeiten und erläutere Konsequenzen für das Lernen.",
+    "a": "• Geschlossene Fertigkeiten: werden in einer stabilen, vorhersehbaren Umwelt ausgeführt; die Bewegung kann vorab geplant werden (z. B. Turnen, Kugelstoßen). Lernziel: konstante, präzise Ausführung (Fixierung).\n• Offene Fertigkeiten: werden in einer wechselnden, unvorhersehbaren Umwelt ausgeführt (Gegner, Ball, Mitspieler); die Bewegung muss ständig angepasst werden (z. B. Sportspiele, Zweikampfsport). Lernziel: variable Anpassung (Diversifikation), Wahrnehmungs- und Entscheidungsschulung.\n• Konsequenz: Offene Fertigkeiten früh unter variablen, spielnahen Bedingungen üben.",
+    "e": "Bei geschlossenen Fertigkeiten bestimmt man selbst, wann es losgeht, bei offenen bestimmt die Situation. Beispiel: Der Freiwurf im Basketball ist eher geschlossen, der Pass im Fastbreak ist offen.",
+    "quelle": "L05.3",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-076",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernansätze",
+    "q": "Was versteht man unter variablem Üben und dem Effekt der kontextuellen Interferenz?",
+    "a": "• Variables Üben: Eine Fertigkeit wird mit wechselnden Parametern (Distanz, Kraft, Tempo) geübt statt immer gleich (konstantes Üben). Nach der Schematheorie (Schmidt) wird so ein stabiles Schema zur Parameterwahl aufgebaut.\n• Kontextuelle Interferenz: Werden mehrere Aufgaben gemischt (Random-/Zufallsüben) statt nacheinander in Blöcken (geblocktes Üben) geübt, ist die Leistung während des Übens oft schlechter, das Behalten und der Transfer aber besser.\n• Grund: Ständiges Neuplanen der Bewegung erfordert tiefere Verarbeitung.",
+    "e": "Abwechslung macht das Üben schwerer, aber das Gelernte haltbarer. Beispiel: Wer Würfe von 3, 5 und 7 m durchmischt übt, trifft im Training seltener, im Spiel aus neuen Positionen aber besser als jemand, der 50-mal von derselben Stelle wirft.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-077",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernansätze",
+    "q": "Erläutere den Ansatz des differenziellen Lernens (nach Schöllhorn).",
+    "a": "• Systemdynamischer Ansatz, der sich von der Vorstellung eines idealen, zu kopierenden Technikleitbilds abwendet.\n• Statt Wiederholung einer Idealbewegung werden möglichst viele unterschiedliche Bewegungsvarianten ausgeführt (bewusstes „Schwanken“, auch Fehler sind erwünscht); keine Wiederholung, keine Korrektur.\n• Der Lernende findet so durch Selbstorganisation seine individuelle optimale Lösung.\n• Begründung: Kein Bewegungsablauf ist exakt wiederholbar; Variabilität ist Grundlage für Anpassungsfähigkeit.\n• Gegensatz zu klassischen MÜR mit einem fest vorgegebenen Leitbild.",
+    "e": "Beim differenziellen Lernen werden „Fehler“ absichtlich eingebaut, damit der Körper selbst den besten Weg findet. Beispiel: Kugelstoßer stoßen mit geschlossenen Augen, mit gebeugtem Knie, mit verschiedenen Armhaltungen – jedes Mal anders.",
+    "quelle": "L05.3",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-078",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernansätze",
+    "q": "Wie unterscheiden sich der Informationsverarbeitungsansatz und systemdynamische Ansätze in Bezug auf die Vermittlung sportlicher Fertigkeiten?",
+    "a": "Informationsverarbeitungsansatz:\n• Bewegungen werden über gespeicherte generalisierte motorische Programme gesteuert\n• Lernen = Aufbau und Verfeinerung dieser Programme durch Wiederholung, Feedback und Fehlerkorrektur\n• Methodik: Orientierung am Technikleitbild, Vereinfachungsstrategien, MÜR\nSystemdynamische Ansätze:\n• Bewegungen entstehen durch Selbstorganisation aus dem Zusammenspiel von Person, Aufgabe und Umwelt (Constraints)\n• Lernen = Finden stabiler Bewegungsmuster durch Variabilität\n• Methodik: Gestaltung von Aufgaben- und Umgebungsbedingungen, variables bzw. differenzielles Üben, wenig direkte Korrektur",
+    "e": "Der eine Ansatz sieht das Gehirn als Computer mit Programmen, der andere als System, das sich selbst organisiert. Beispiel: Nach dem Informationsansatz übt man den Korbleger nach MÜR mit Korrektur, nach dem systemdynamischen Ansatz verändert man Korbhöhe, Ballgröße und Anlaufwinkel und lässt die Schüler selbst Lösungen finden.",
+    "quelle": "L05.3",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.1-079",
+    "thema": "Q3.1",
+    "kapitel": "Weitere Lernansätze",
+    "q": "Wodurch kann ein Bewegungsablauf in der Praxis automatisiert und stabilisiert werden?",
+    "a": "• Viele Wiederholungen mit hoher Konzentration (Feinkoordination)\n• anschließend variables Üben unter wechselnden Bedingungen\n• schrittweise Steigerung von Druckbedingungen (Zeit-, Präzisions-, Komplexitäts-, Situations-, Belastungsdruck)\n• Üben unter Ermüdung und psychischem Druck (wettkampfnah)\n• Doppeltätigkeiten (Aufmerksamkeit auf andere Aufgaben lenken)\n• zunehmend weniger externes Feedback, Förderung der Eigenwahrnehmung",
+    "e": "Stabil ist eine Technik erst, wenn sie auch unter Störungen funktioniert. Beispiel: Ein Volleyballer übt den Aufschlag erst konstant, dann auf wechselnde Zielfelder, nach Sprints und schließlich mit Zuschauerlärm vom Band.",
+    "quelle": "L05.1",
+    "typ": "zusatz"
+  }
+]

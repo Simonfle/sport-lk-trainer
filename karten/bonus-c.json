@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "bonus.c-001",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Wie wird der Begriff Gesundheit in der aktuellen Forschung verstanden?",
+    "a": "• mehrperspektivisch: körperliche, seelische (psychische) und soziale Gesundheit werden einbezogen\n• dynamisch: Gesundheit ist kein fester Zustand, sondern verändert sich ständig\n• mehrdimensional: Man ist nicht „entweder gesund oder krank“, sondern bewegt sich zwischen Polen\n• Abkehr vom eindimensionalen Verständnis als bloßes Freisein von Krankheit",
+    "e": "Früher hieß gesund einfach: nicht krank. Heute schaut man auf Körper, Psyche und soziales Leben gleichzeitig und weiß, dass sich das ständig ändert. Beispiel: Eine Schülerin mit gebrochenem Arm ist körperlich eingeschränkt, kann sich aber psychisch und sozial sehr gesund und wohl fühlen.",
+    "quelle": "L20.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-002",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Nenne die Dimensionen von Gesundheit, die Alexa Franke (2012) unterscheidet.",
+    "a": "Gesundheit als …\n• Störungsfreiheit\n• Wohlbefinden\n• Leistungsfähigkeit und Rollenerfüllung\n• Gleichgewichtszustand (Homöostase)\n• Flexibilität (Heterostase)\n• Anpassung\n• höchstes Gut\n• relativer Wert\n• Geschenk, Leistung oder Pflicht",
+    "e": "Franke zeigt, dass jeder etwas anderes meint, wenn er „gesund“ sagt. Für den einen heißt es, keine Beschwerden zu haben, für den anderen, im Job voll funktionieren zu können. Beispiel: Ein Leistungssportler versteht Gesundheit oft als Leistungsfähigkeit, eine ältere Person eher als Wohlbefinden und Schmerzfreiheit.",
+    "quelle": "L20.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-003",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Erläutere die Gesundheitsdefinition der WHO und den dadurch ausgelösten Paradigmenwechsel.",
+    "a": "WHO-Definition (Gründungsakte 1946, in Kraft 1948):\n• Gesundheit ist der Zustand des völligen körperlichen, psychischen und sozialen Wohlbefindens und nicht nur das Freisein von Krankheit und Gebrechen.\nParadigmenwechsel:\n• weg vom eindimensionalen Verständnis (Gesundheit = Abwesenheit von Krankheit)\n• hin zu einem individuellen, mehrdimensionalen Zustand des Wohlbefindens\n• das subjektive Erleben der Person rückt in den Mittelpunkt",
+    "e": "Vor der WHO-Definition war man gesund, wenn der Arzt nichts fand. Danach zählt auch, wie man sich fühlt und ob man sozial eingebunden ist. Beispiel: Jemand ohne Befund, der sich einsam und dauerhaft niedergeschlagen fühlt, gilt nach der WHO nicht als vollständig gesund.",
+    "quelle": "L20.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-004",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Welche Dimension von Gesundheit betont die Ottawa-Charta der WHO (1986)?",
+    "a": "• die politische (gesellschaftliche) Dimension von Gesundheit\n• Gesundheit wird von Menschen in ihrem Alltag geschaffen und gelebt\n• sie entsteht, indem man für sich und andere sorgt, selbst Entscheidungen trifft und Kontrolle über die eigenen Lebensumstände ausübt\n• die Gesellschaft muss Bedingungen schaffen, die ihren Bürgern dies ermöglichen",
+    "e": "Die Ottawa-Charta sagt: Gesundheit ist nicht nur Privatsache, sondern auch Aufgabe von Politik und Gesellschaft. Beispiel: Eine Stadt, die sichere Radwege und Sportplätze baut, schafft Bedingungen, unter denen sich Menschen gesund verhalten können.",
+    "quelle": "L20.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-005",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Wie beschreibt der Gesundheitspsychologe Peter Becker (2006) Gesundheit?",
+    "a": "• Gesundheit als mehrdimensionaler Zustand, erfasst über körperliche und psychische Indikatoren\nIndikatoren:\n• subjektives körperliches und psychisches Wohlbefinden bzw. Missbefinden\n• körperliche und psychische Leistungsfähigkeit\n• physiologische und biochemische Parameter (z. B. Blutdruck, Blutzucker, Cortisol)\n• Merkmale des Verhaltens (z. B. Essen, Schlafen, soziales Rollenverhalten)\n• Anatomie und Aussehen (z. B. Körperbau, Körpergewicht, Hautfarbe)\n• Personen werden zwischen den Polen „zurzeit krank“ und „zurzeit gesund“ eingestuft",
+    "e": "Becker misst Gesundheit wie mit mehreren Messgeräten gleichzeitig. Wichtig ist das Wort „zurzeit“: Gesundheit ist eine Momentaufnahme. Beispiel: Ein Schüler hat gute Blutwerte, schläft aber in der Abiturphase schlecht und fühlt sich gestresst. Er ist körperlich eher gesund, psychisch zurzeit eher eingeschränkt.",
+    "quelle": "L20.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-006",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Wie definieren Hurrelmann und Richter (2013) Gesundheit?",
+    "a": "• Gesundheit ist ein Gleichgewichtszustand zwischen Anforderungen und Bewältigungskompetenzen (Ressourcen)\n• dynamischer Zustand, der in jeder Lebenslage neu hinterfragt werden muss\n• wird ständig durch Alltagsanforderungen (Arbeit, Schule, Sport, Familie) und sich ändernde Ressourcen (Fitness, Selbstkonzept, Einkommen) aus dem Gleichgewicht gebracht\n• muss daher immer wieder neu stabilisiert werden",
+    "e": "Stell dir eine Waage vor: Auf der einen Seite liegen die Anforderungen, auf der anderen deine Kräfte und Hilfsmittel. Gesund bist du, solange die Waage im Gleichgewicht bleibt. Beispiel: In der Klausurphase steigen die Anforderungen; wer dann gut organisiert ist und Freunde zum Lernen hat, hält das Gleichgewicht.",
+    "quelle": "L20.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-007",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Nenne die vier Kernaspekte der WHO-Gesundheitsdefinition von 1946 und erkläre, woraus sie sich ergeben.",
+    "a": "• Subjektive Einschätzung: „Wohlbefinden“ kann nur die Person selbst beurteilen\n• Idealstatus: „völliges“ Wohlbefinden beschreibt einen Idealzustand\n• Mehrdimensionalität: körperlich, psychisch und sozial\n• Diametrale Gegenüberstellung von Gesundheit und Krankheit: „nicht nur das Freisein von Krankheit“ – Gesundheit und Krankheit werden als Gegensätze verstanden",
+    "e": "Man liest die Kernaspekte direkt aus den Wörtern der Definition ab. „Völlig“ steht für das Ideal, „Wohlbefinden“ für das Subjektive, die drei Bereiche für die Mehrdimensionalität. Beispiel: Wer nach einer Trennung traurig ist, fühlt sich nicht „völlig“ wohl und wäre streng genommen nicht gesund.",
+    "quelle": "L20.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-008",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Beurteile die WHO-Gesundheitsdefinition von 1946 kritisch.",
+    "a": "Stärken:\n• erstmals mehrdimensionales Verständnis (körperlich, psychisch, sozial)\n• das subjektive Befinden wird ernst genommen\nSchwächen:\n• „völliges“ Wohlbefinden ist ein unerreichbares Ideal – fast niemand wäre gesund\n• statisch: Gesundheit wird als Zustand, nicht als dynamischer Prozess verstanden\n• Gesundheit und Krankheit bleiben Gegensätze (Dichotomie) statt eines Kontinuums\n• rein subjektiv kaum messbar; objektive Befunde werden vernachlässigt\n• Weiterentwicklung z. B. durch Salutogenese (HEDE-Kontinuum) und SAR-Modell",
+    "e": "Die Definition war ein großer Fortschritt, aber sie ist zu streng. Wenn nur „völliges“ Wohlbefinden zählt, ist kaum jemand gesund. Beispiel: Ein Mensch mit gut eingestelltem Diabetes, der Sport treibt und glücklich lebt, wäre nach der WHO trotzdem nicht gesund – das wirkt unrealistisch.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.c-009",
+    "thema": "BONUS",
+    "kapitel": "L20 Gesundheitsbegriffe",
+    "q": "Welche Gesundheitsmodelle sind medizinisch und welche sozialwissenschaftlich orientiert?",
+    "a": "Medizinisch orientiert:\n• Risikofaktorenmodell (pathogenetische Sicht)\nSozialwissenschaftlich orientiert:\n• Salutogenesemodell nach Antonovsky\n• Systemisches Anforderungs-Ressourcen-Modell (SAR) nach Becker\n• Konzept zur Gesundheitsförderung nach Beckers",
+    "e": "Die Medizin fragt: Was macht krank? Die Sozialwissenschaften fragen: Was hält gesund und wie bewältigt man den Alltag? Beispiel: Ein Arzt misst den Blutdruck (Risikofaktor), ein Gesundheitspsychologe fragt nach Freunden, Selbstvertrauen und Stress (Ressourcen).",
+    "quelle": "L20.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-010",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Beschreibe die Grundidee des Risikofaktorenmodells.",
+    "a": "• betrachtet Gesundheit aus der Perspektive des kranken Menschen (pathogenetische Sicht)\n• konzentriert sich auf physische und psychische Risikofaktoren, die mit Krankheiten zusammenhängen\n• sowie auf Schutzfaktoren, die das Krankwerden verhindern sollen\n• Annahme: Beschwerden lassen sich aus ungünstigen körperlichen Bedingungen und der Lebenssituation ableiten\n• Interventionen bei diesen Bedingungen führen zu einer nachhaltigen Verbesserung der Gesundheit\n• in der Medizin das am weitesten verbreitete Gesundheitsmodell",
+    "e": "Das Modell sucht nach den „Gefahrenquellen“, die Krankheiten wahrscheinlicher machen, und versucht sie zu beseitigen. Beispiel: Ein Arzt stellt Bluthochdruck, Übergewicht und Rauchen fest und rät zu Medikamenten, Gewichtsabnahme und Rauchstopp, um einen Herzinfarkt zu verhindern.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-011",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Definiere den Begriff Risikofaktor (nach Graf, 2012).",
+    "a": "• Faktoren, die statistisch mit bestimmten Erkrankungen in Zusammenhang stehen\n• sie erhöhen das Risiko, an einer Krankheit zu erkranken\n• sie stehen aber nicht unbedingt in einem Kausalzusammenhang (sind keine direkte Ursache)\n• sie begünstigen die Entstehung einer Krankheit",
+    "e": "Risikofaktor heißt: Wer ihn hat, erkrankt statistisch häufiger, aber nicht zwingend. Beispiel: Rauchen, Bluthochdruck und Bewegungsmangel sind Risikofaktoren für Arteriosklerose; sie gelten nicht als alleinige Ursache, machen die Erkrankung aber deutlich wahrscheinlicher.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-012",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "In welche drei Gruppen lassen sich Risikofaktoren einteilen (nach Graf, 2012)?",
+    "a": "• Konstitutionelle Risikofaktoren: unveränderbar – Lebensalter, Geschlecht, ethnische Herkunft, genetische bzw. familiäre Belastung\n• Externe Risikofaktoren: ergeben sich aus den Lebensbedingungen bzw. dem Verhalten – Rauchen, Bewegungsmangel, Fehlernährung\n• Interne Risikofaktoren: Zustände, die bereits eine innere Erkrankung darstellen und z. B. das Arterioskleroserisiko erhöhen – Bluthochdruck, Diabetes mellitus, Fettstoffwechselstörung",
+    "e": "Eselsbrücke: konstitutionell = angeboren, extern = selbst gemacht, intern = schon im Körper krank. Beispiel: Ein 60-jähriger Mann (konstitutionell) raucht (extern) und hat hohen Blutdruck (intern) – er vereint alle drei Gruppen.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-013",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Nenne die wichtigsten externen und internen Risikofaktoren für Herz-Kreislauf-Erkrankungen.",
+    "a": "Externe (bekannteste):\n• Bewegungsmangel – gilt als Auslöser weiterer Risikofaktoren\n• Fehlernährung\n• Rauchen\nInterne (oft in Kombination):\n• Bluthochdruck\n• Zuckerkrankheit (Diabetes)\n• Fettstoffwechselstörung\n• krankhaftes Übergewicht (Adipositas)\nWeitere zusammenwirkende Faktoren: negative Genetik, Umweltbedingungen, Stress",
+    "e": "Die Faktoren verstärken sich gegenseitig. Bewegungsmangel ist besonders tückisch, weil er weitere Risikofaktoren nach sich zieht. Beispiel: Wer sich kaum bewegt, nimmt leichter zu, bekommt dadurch eher hohen Blutdruck und erhöhte Blutfette.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-014",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Was versteht man im Risikofaktorenmodell unter Schutzfaktoren?",
+    "a": "• Faktoren, die den Risikofaktoren gegenüberstehen\n• sie vermindern die Gefahr einer Erkrankung\n• wichtiger Schutzfaktor z. B. für Arteriosklerose: körperliche und insbesondere sportliche Aktivität\n• entspricht inhaltlich den Widerstandsressourcen im Salutogenesemodell",
+    "e": "Schutzfaktoren sind das Gegengewicht zu den Risikofaktoren. Beispiel: Regelmäßiges Joggen senkt Blutdruck und Blutfette und schützt so vor Arteriosklerose – auch wenn jemand familiär vorbelastet ist.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-015",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Beschreibe die zwei Phasen in der Entwicklung des Risikofaktorenmodells (nach Franke, 2012).",
+    "a": "1. Phase (ab den 1960er-Jahren): Identifizieren der Risikofaktoren – neben konstitutionellen Faktoren wurden Zusammenhänge von Bluthochdruck, Übergewicht, Rauchen und Bewegungsarmut mit Erkrankungen festgestellt.\n2. Phase: Erkenntnis, dass das Wissen über Risikofaktoren nicht reicht – nun wird erforscht, unter welchen Bedingungen Menschen Verhaltensweisen zeigen, die zu Risikofaktoren führen (Warum isst jemand zu viel, trinkt zu viel, raucht, treibt zu wenig Sport?).",
+    "e": "Erst fragte man: Was macht krank? Dann merkte man: Die Leute wissen das, ändern ihr Verhalten aber trotzdem nicht. Beispiel: Fast jeder Raucher weiß, dass Rauchen schadet – die zweite Phase fragt, warum er trotzdem weiterraucht.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-016",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Erläutere den zentralen Kritikpunkt am Risikofaktorenmodell in Bezug auf das Gesundheitsverständnis.",
+    "a": "• große Bedeutung für Krankheitsbehandlung und Prävention\n• aber begrenzter Beitrag zu einem vertieften Verständnis von Gesundheit (z. B. im Sinne der WHO)\n• Gesundheit wird ausschließlich als Abwesenheit von Krankheit betrachtet\n• Gesundheitsressourcen werden weitgehend außer Acht gelassen",
+    "e": "Das Modell weiß sehr genau, was krank macht, aber kaum, was gesund hält. Beispiel: Es erklärt, warum Rauchen schadet, sagt aber nichts darüber, wie Freundschaften, Selbstvertrauen oder Freude an Bewegung die Gesundheit stärken.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-017",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Nenne weitere Kritikpunkte am Risikofaktorenmodell.",
+    "a": "• Eindimensionalität: nur biomedizinische Betrachtung des Einzelnen; Einfluss des sozialen Umfelds bleibt weitgehend unberücksichtigt\n• Kluft zwischen Erkenntnis und Umsetzung: Wissen über Risiken führt nicht automatisch zu Verhaltensänderung; Vorsätze werden schnell gebrochen\n• Statistik sagt wenig über den Einzelfall – Menschen rechtfertigen so ihr Risikoverhalten\n• fragliche Grundannahme der Prävention: „Eine Wegnahme negativer Faktoren muss nicht automatisch in Positivem resultieren“ (Franke)",
+    "e": "Wer nur Risiken abbaut, hat noch nicht automatisch Gesundheit aufgebaut. Und Statistik überzeugt Einzelne oft nicht. Beispiel: „Helmut Schmidt war Kettenraucher und wurde über 90“ – mit solchen Einzelfällen reden sich Raucher ihr Risiko klein.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-018",
+    "thema": "BONUS",
+    "kapitel": "L20 Risikofaktorenmodell",
+    "q": "Erläutere am Beispiel des Herzinfarkts die Grundidee des Risikofaktorenmodells.",
+    "a": "• Risikofaktoren des Herzinfarkts: Rauchen, Bluthochdruck, Fettstoffwechselstörung, Diabetes, Übergewicht, Bewegungsmangel, Stress, Alter, Geschlecht, familiäre Vorbelastung\n• sie verursachen den Infarkt nicht direkt, erhöhen aber statistisch die Wahrscheinlichkeit (über Arteriosklerose der Herzkranzgefäße)\n• mehrere Risikofaktoren verstärken sich gegenseitig\n• Prävention: Risikofaktoren gezielt abbauen (Rauchstopp, Blutdrucksenkung, Bewegung, Ernährung) und Schutzfaktoren stärken (z. B. Ausdauersport)",
+    "e": "Je mehr Risikofaktoren zusammenkommen, desto höher das Risiko – oft nicht nur addiert, sondern vervielfacht. Beispiel aus dem Buch: Rauchen und die Pille erhöhen bei Frauen das Herzinfarktrisiko jeweils um das Zwei- bis Vierfache, zusammen um das Vierzigfache.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-019",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Was bedeutet Salutogenese und welcher Perspektivwechsel ist damit verbunden?",
+    "a": "• Begriff von Aaron Antonovsky als Gegenbegriff zur Pathogenese eingeführt\n• Genese = Entstehung; Salus = Gesundheit; Pathos = Krankheit\n• Pathogenese = Entstehung von Krankheit; Salutogenese = Entstehung von Gesundheit\n• Perspektivwechsel von der Krankheits- zur Gesundheitsdynamik\n• das Modell untersucht Faktoren und Prozesse, die Gesundheit erhalten und fördern (statt Faktoren, die krank machen)",
+    "e": "Die Leitfrage ändert sich von „Warum werden Menschen krank?“ zu „Warum bleiben Menschen trotz Belastungen gesund?“. Beispiel: Statt zu erforschen, warum Schüler im Abitur Burn-out bekommen, fragt man, was die Schüler stark macht, die den Stress gut wegstecken.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-020",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Nenne die wesentlichen Bestandteile des Salutogenesemodells nach Antonovsky.",
+    "a": "• Heterostase\n• Gesundheits-Krankheits-Kontinuum (HEDE-Kontinuum)\n• Stressoren und Widerstandsressourcen\n• Kohärenzgefühl (zentraler Bestandteil)",
+    "e": "Diese vier Bausteine solltest du sicher aufzählen können. Eselsbrücke: „Hilf Hede Stress kohärent bewältigen“ (Heterostase, HEDE, Stressoren/Ressourcen, Kohärenz). Beispiel: Ein Schüler erlebt Prüfungsstress (Stressor), hat Freunde und Wissen (Ressourcen), sieht einen Sinn im Abi (Kohärenz) und bleibt so näher am gesunden Pol (HEDE).",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-021",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Erläutere den Begriff Heterostase im Salutogenesemodell.",
+    "a": "• ursprünglich: Ungleichgewicht innerhalb eines Systems; Gegenbegriff zur Homöostase (Gleichgewicht)\n• bei Antonovsky: Krankheit ist eine normale Erscheinung des Lebens und keine Abweichung von der Normalität\n• Ziel: das Ungleichgewicht akzeptieren und überwinden\n• Unterschied zur Pathogenese: Dort ist Gesundheit der Normalzustand und Krankheit die Abweichung",
+    "e": "Antonovsky sagt: Ungleichgewicht, Belastung und Krankheit gehören einfach zum Leben dazu. Entscheidend ist, wie man damit umgeht. Beispiel: Eine Erkältung im Winter ist kein Unfall, sondern normal – gesund ist, wer sich davon gut erholt und weitermacht.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-022",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Erläutere die Flussmetapher zum Salutogenesemodell.",
+    "a": "• Das Leben ist ein Fluss mit Biegungen, Stromschnellen, Strudeln und Turbulenzen.\n• Alle Menschen schwimmen von der Empfängnis bis zum Tod (Wasserfall) in diesem Fluss.\n• Pathogenese: geht davon aus, dass man meist an Land ist und nur bei Krankheit ins Wasser muss; Risikoforschung rettet Ertrinkende.\n• Salutogenese: Heterostase, Krankheit, Leiden und Tod sind Bestandteile des Lebens; sie untersucht, mit welchen Fähigkeiten Menschen gut schwimmen und den Fluss meistern.",
+    "e": "Die Pathogenese ist wie ein Rettungsschwimmer, der Ertrinkende herauszieht. Die Salutogenese ist wie ein Schwimmlehrer, der allen beibringt, gut zu schwimmen. Beispiel: Ein Stressbewältigungskurs für alle Schüler entspricht dem Schwimmlehrer, eine Therapie nach einem Zusammenbruch dem Rettungsschwimmer.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-023",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Was versteht man unter dem HEDE-Kontinuum?",
+    "a": "• Gesundheits-Krankheits-Kontinuum mit den Polen „health-ease“ (Gesundheit) und „dis-ease“ (Ent-Gesundheit)\n• hebt die Gegensätzlichkeit (Dichotomie) von Gesundheit und Krankheit auf\n• Gesundheit wird als dynamischer Zustand auf einer Skala zwischen „völlig gesund“ und „völlig krank“ verstanden\n• Mensch kann sich in verschiedenen Dimensionen an unterschiedlichen Stellen befinden\n• Bewegung auf dem Kontinuum hängt vor allem von Stressoren und dem Umgang mit ihnen ab",
+    "e": "Statt eines Lichtschalters (an = gesund, aus = krank) gibt es einen Dimmer. Jeder steht irgendwo dazwischen und kann sich in beide Richtungen bewegen. Beispiel: Ein Sportler mit Kreuzbandriss ist körperlich nahe am kranken Pol, kann psychisch und sozial aber weit am gesunden Pol stehen.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-024",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Nach welchen Kriterien wird die Position auf dem HEDE-Kontinuum bestimmt?",
+    "a": "• subjektive und objektive Parameter eines umfassenden, ganzheitlichen Befunds\n• objektiv: medizinische, psychologische und logopädische Befunde\n• subjektiv: Befinden, Schmerzerleben, subjektiv erlebte Funktionstüchtigkeit\n• für jede Dimension kann die Position verschieden sein",
+    "e": "Man schaut also nicht nur auf Laborwerte, sondern auch darauf, wie es sich für die Person anfühlt. Beispiel: Zwei Menschen mit gleichem Röntgenbefund am Knie können ganz unterschiedlich stark Schmerzen haben und im Alltag eingeschränkt sein – sie stehen damit an verschiedenen Stellen.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-025",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Wie wird Krankheit aus salutogenetischer Sicht verstanden?",
+    "a": "• nicht als Ausfall eines Systems oder isoliertes, abgrenzbares Ereignis\n• sondern als Prozess der „Ent-Gesundung“ (dis-ease), eingebunden in die Lebensbiografie\n• der Betroffene ist kein „Krankheitsträger“; sein Krankwerden ist nur über seine gesamte innere und äußere Situation verständlich\n• Schutzfaktoren sind seine gesunden Anteile\n• der Mensch ist immer in gewissem Maß gesund – auch wer in einem Bereich nahe am kranken Pol ist, kann in anderen gesund sein",
+    "e": "Die Salutogenese schaut auf den ganzen Menschen mit seiner Geschichte, nicht nur auf die Diagnose. Beispiel: Bei einer Läuferin mit Ermüdungsbruch fragt man auch nach Trainingsdruck, Ernährung und Lebensumständen, und man stärkt ihre gesunden Anteile wie Motivation und Unterstützung durch die Familie.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-026",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Welche Rolle spielen Stressoren im Salutogenesemodell?",
+    "a": "• Stressoren sind Anforderungen, auf die der Organismus keine direkt verfügbaren automatischen oder adaptiven Antworten hat (Antonovsky)\n• sie sind im Alltag allgegenwärtig\n• sie sind nicht grundsätzlich schädlich\n• ob Stress positiv oder negativ wirkt, hängt von der Art des Stressors und seiner Bewältigung ab\n• erfolgreicher Umgang mit Stressoren zusammen mit Widerstandsressourcen bewegt den Menschen auf dem HEDE-Kontinuum Richtung gesunden Pol",
+    "e": "Stress ist hier nicht der Feind, sondern eine Chance zu wachsen – wenn man ihn bewältigt. Beispiel: Wer eine schwere Prüfung erfolgreich meistert, geht gestärkt daraus hervor und traut sich beim nächsten Mal mehr zu.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-027",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Was sind Widerstandsressourcen und wie werden sie eingeteilt (nach Franke, 2012)?",
+    "a": "Widerstandsressourcen = Faktoren, die die Bewegung in Richtung des gesunden Pols ermöglichen (entsprechen den Schutzfaktoren des Risikofaktorenmodells)\nGesellschaftliche Widerstandsressourcen:\n• politische und ökonomische Stabilität, Frieden, intakte Sozialstrukturen, funktionierende Gesellschaft\nIndividuelle Widerstandsressourcen:\n• kognitiv: Wissen, Intelligenz, Problemlösefähigkeit\n• psychisch: Selbstvertrauen, Ich-Identität, Selbstsicherheit, Optimismus\n• physiologisch: anlagebedingte oder erworbene körperliche Stärken, Fähigkeiten, Fertigkeiten\n• ökonomisch und materiell: Geld, finanzielle Sicherheit, Zugang zu Dienstleistungen, sicherer Arbeitsplatz",
+    "e": "Ressourcen sind wie ein Werkzeugkasten gegen Stress. Beispiel aus dem Buch: Eine alleinerziehende Mutter, die sich einen Babysitter leisten kann (ökonomische Ressource), gerät gar nicht erst in bestimmte Stresssituationen.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-028",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Was ist das Kohärenzgefühl und aus welchen drei Komponenten besteht es?",
+    "a": "• zentraler Bestandteil des Salutogenesemodells: grundlegendes Vertrauen in sich und in die Welt\n• Verstehbarkeit: die Zusammenhänge des Erlebten verstehen, Ereignisse erscheinen geordnet und erklärbar\n• Handhabbarkeit: Vertrauen, mit den Anforderungen umgehen zu können (Ressourcen sind verfügbar)\n• Bedeutsamkeit (Sinnhaftigkeit): einen Sinn darin sehen, in der Welt zu sein; Anforderungen sind es wert, sich zu engagieren\n• das Ausmaß dieser Überzeugung bestimmt die Position auf dem HEDE-Kontinuum",
+    "e": "Eselsbrücke: „Verstehen – Können – Wollen“. Beispiel: Ein Sportler nach einer Verletzung versteht, was passiert ist (Verstehbarkeit), weiß, dass er mit Physiotherapie wieder fit wird (Handhabbarkeit), und will unbedingt zurück ins Team (Bedeutsamkeit) – er hat ein starkes Kohärenzgefühl.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-029",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Unter welchen Bedingungen entwickelt sich ein hohes Kohärenzgefühl?",
+    "a": "• es braucht Lebensbereiche, die einem subjektiv wichtig sind; fehlen sie, ist das Kohärenzgefühl eher gering\n• dafür muss man Grenzen ziehen und unwichtige Bereiche ausklammern\n• die Grenzen dürfen aber nicht so eng sein, dass vier Bereiche ausgeschlossen werden:\n  – die eigenen Gefühle\n  – die unmittelbaren Beziehungen zu anderen Menschen\n  – die wichtigste eigene Tätigkeit\n  – existenzielle Fragen",
+    "e": "Man muss sich nicht für alles interessieren, aber ein paar Dinge müssen einem wirklich wichtig sein. Beispiel: Eine Schülerin, der Politik egal ist, die aber ihre Freunde, ihren Handballverein und ihre Gefühle ernst nimmt, kann ein hohes Kohärenzgefühl haben.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-030",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Ist das Kohärenzgefühl veränderbar und welche Folgen hat ein hohes bzw. niedriges Kohärenzgefühl?",
+    "a": "• nach Antonovsky nach dem jungen Erwachsenenalter kaum noch veränderbar\nHohes Kohärenzgefühl:\n• Stressoren werden durch Aktivierung von Widerstandsressourcen abgewehrt\n• Gesundheit bleibt erhalten\nNiedriges Kohärenzgefühl:\n• Gefahr, zunehmend schwächer zu werden\n• weder Ausweichen vor Stressoren mithilfe der Schutzfaktoren noch Erfolgserlebnisse im Umgang mit ihnen\n• was für den einen eine Herausforderung („Klacks“) ist, wird für den anderen zur unüberwindbaren Überforderung",
+    "e": "Deshalb ist die Jugend so wichtig: Hier wird das Kohärenzgefühl geprägt – auch durch Sport und Schule. Beispiel: Ein Referat vor der Klasse ist für den einen ein „Klacks“, für den anderen mit niedrigem Kohärenzgefühl eine schlaflose Nacht.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-031",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Fasse das Salutogenesemodell nach Antonovsky zusammen.",
+    "a": "• Krankheit ist eine normale Erscheinung des Lebens, keine Abweichung (Heterostase)\n• Stressoren erzeugen einen Spannungszustand\n• ein ausgeprägtes Kohärenzgefühl führt zusammen mit den Widerstandsressourcen (Schutzfaktoren) zu einer positiven Verarbeitung der Stressoren und damit zur Reduzierung des Spannungszustands\n• Gesundheit und Krankheit sind keine Gegensätze, sondern Pole eines Kontinuums (HEDE-Kontinuum)\n• gelungene Bewältigung bewegt den Menschen in Richtung gesunden Pol",
+    "e": "Kurz gesagt: Stress trifft jeden, aber Kohärenzgefühl und Ressourcen entscheiden, ob man ihn gut verarbeitet. Beispiel: Zwei Spieler verlieren ein Finale; der eine mit starkem Kohärenzgefühl und gutem Team verarbeitet es, der andere zerbricht daran.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-032",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Nenne Kritikpunkte am Salutogenesemodell.",
+    "a": "• vernachlässigt Faktoren, die als positive Ressourcen direkt auf die Gesundheit wirken (z. B. Genussfähigkeit, Humor, Optimismus, Fähigkeit zu verzeihen) – diese erleichtern nicht nur die Stressanpassung, sondern steigern aktiv die Gesundheit\n• fragt eher, wie man nicht krank wird, als was gute Gesundheit ausmacht\n• keine fundierten Aussagen über das gesamte Spektrum von sehr schlechter bis sehr guter Gesundheit\n• der Zusammenhang von psychischer und physischer Gesundheit wird weitgehend ausgeklammert (Becker)",
+    "e": "Das Modell konzentriert sich stark auf Stressbewältigung und vergisst, dass manche Dinge einfach direkt guttun. Beispiel: Mit Freunden lachen oder ein gutes Essen genießen macht gesünder, auch wenn gerade gar kein Stress zu bewältigen ist.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-033",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Welche Stärken des Salutogenesemodells hebt Franke (2012) hervor?",
+    "a": "• betont den Wert sozialer Beziehungen: sich auf andere wirklich verlassen zu können ist in einer ichbezogenen Gesellschaft nicht nur ein sozialer Wert, sondern eine Stress reduzierende Variable\n• schließt den Tod nicht aus: Sterben ist Bestandteil des Lebens, und bis zum Tod ist etwas in uns gesund\n• große praktische Bedeutung für den Umgang mit chronisch und unheilbar Kranken und in der Sterbebegleitung",
+    "e": "Das Modell gibt auch Menschen eine Perspektive, die nicht mehr „ganz gesund“ werden. Beispiel: Ein unheilbar kranker Mensch kann durch Familie, Sinn und gute Begleitung trotzdem gesunde Anteile stärken und Lebensqualität gewinnen.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-034",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Vergleiche Pathogenese- und Salutogenesemodell hinsichtlich Selbstregulierung, Gesundheitsbegriff, Reichweite des Krankheitsbegriffs und Ursachen (nach Bengel et al., 2001).",
+    "a": "• Selbstregulierung des Systems: Pathogenese – Homöostase | Salutogenese – Überwindung der Heterostase\n• Gesundheits-/Krankheitsbegriff: Pathogenese – Dichotomie (gesund oder krank) | Salutogenese – Kontinuum\n• Reichweite des Krankheitsbegriffs: Pathogenese – Pathologie der Krankheit | Salutogenese – Krankheitsgeschichte (Biografie)\n• Gesundheits-/Krankheitsursachen: Pathogenese – Risikofaktoren, Stressoren | Salutogenese – Ressourcen, Kohärenzgefühl",
+    "e": "Die Pathogenese schaut auf die Krankheit, die Salutogenese auf den Menschen und seine Geschichte. Beispiel: Bei Rückenschmerzen fragt die Pathogenese nach dem Bandscheibenbefund, die Salutogenese auch nach Arbeit, Stress und Bewegungsgewohnheiten des Patienten.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-035",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Vergleiche Pathogenese- und Salutogenesemodell hinsichtlich Wirkung von Stressoren, Intervention und Funktion von Gesundheitssport.",
+    "a": "• Wirkung von Stressoren: Pathogenese – potenziell krankheitsfördernd | Salutogenese – krankheits- und gesundheitsfördernd\n• Intervention: Pathogenese – Einsatz wirksamer Heilmittel („Wunderwaffen“) | Salutogenese – aktive Anpassung, Risikoreduktion, Ressourcenentwicklung\n• Funktion von Gesundheitssport: Pathogenese – Krankheitsprävention | Salutogenese – Gesundheitsförderung",
+    "e": "Für die Pathogenese ist Sport eine Art Medizin gegen Krankheit, für die Salutogenese ein Weg, Stärken aufzubauen. Beispiel: Ein Lauftreff kann als Blutdrucksenker (Prävention) oder als Quelle von Selbstvertrauen und Gemeinschaft (Förderung) verstanden werden.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-036",
+    "thema": "BONUS",
+    "kapitel": "L20 Salutogenese",
+    "q": "Wie kam Aaron Antonovsky zur Idee der Salutogenese?",
+    "a": "• Medizinsoziologe, emigrierte 1960 nach Israel, forschte zu Stress\n• untersuchte Frauen in den Wechseljahren, darunter Überlebende nationalsozialistischer Konzentrationslager\n• ein Teil dieser Frauen war trotz extremer Belastungen psychisch und physisch gesund\n• dieses „Wunder des Gesundbleibens“ wollte er erforschen – daraus entstand die Frage, was Menschen gesund hält",
+    "e": "Antonovsky wunderte sich nicht darüber, dass Menschen krank werden, sondern darüber, dass manche trotz schrecklicher Erlebnisse gesund bleiben. Beispiel: Genau diese Frage stellt man heute auch bei Sportlern, die nach schweren Verletzungen stärker zurückkommen.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-037",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Wie definiert das Systemische Anforderungs-Ressourcen-Modell (SAR-Modell) nach Becker Gesundheit?",
+    "a": "• Gesundheit ist ein dynamischer Gleichgewichtszustand zwischen alltäglichen Anforderungen und Ressourcen\n• Anforderungen: z. B. Schule, Beruf, individuelle Bedürfnisse, Risikofaktoren, Ziele\n• Ressourcen: z. B. Selbstkonzept, Fitness, gesunde Ernährung, soziales Umfeld\n• dieser Zustand pendelt in körperlicher, seelischer und sozialer Hinsicht auf einem Kontinuum zwischen „zurzeit völlig krank“ und „zurzeit völlig gesund“\n• Weiterentwicklung des Salutogenesemodells",
+    "e": "Das SAR-Modell ist wie eine Waage zwischen dem, was das Leben von dir verlangt, und dem, was du zur Verfügung hast. Beispiel: Ein Schüler mit Abi, Nebenjob und Training (Anforderungen) bleibt gesund, wenn er fit ist, gut schläft und Unterstützung von Familie und Freunden hat (Ressourcen).",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-038",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Welche Grundannahme liegt dem SAR-Modell zugrunde?",
+    "a": "• Der Gesundheitszustand hängt davon ab, wie gut es einem Menschen gelingt, externe und interne Anforderungen mithilfe externer und interner Ressourcen zu bewältigen (Becker, 2006)\n• entscheidend ist also, ob das Bewältigungsverhalten erfolgreich ist\n• Modell verbindet Umwelt, Verhalten/Erleben und psychophysische Merkmale des Individuums (Bewältigungsverhalten, Gesundheitsverhalten, Bedürfnisbefriedigung, Lebenszufriedenheit)",
+    "e": "Nicht die Menge an Stress entscheidet, sondern ob man ihn mit seinen Mitteln bewältigt. Beispiel: Zwei Spielerinnen haben denselben Trainingsplan; die mit guter Erholung und Unterstützung bewältigt ihn, die andere ohne diese Ressourcen wird krank.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-039",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Unterscheide externe und interne Anforderungen im SAR-Modell und erkläre, wann sie zu Stressoren werden.",
+    "a": "• Anforderungen = Bedingungen, mit denen sich ein Individuum auseinandersetzen muss\n• externe Anforderungen: aus der Umwelt (berufliche und soziale Anforderungen)\n• interne Anforderungen: aus Bedürfnissen (z. B. Anerkennung, Selbstverwirklichung, Geborgenheit, Schlaf, Bewegung, Nahrung), Zielen (Schule, Beruf, Sport), Werten und Normen\n• Stressoren entstehen, wenn Anforderungen im Vergleich zu den verfügbaren Schutzfaktoren als zu hoch eingeschätzt werden\n• sie lösen negative Emotionen (z. B. Angst) mit Körperreaktionen (z. B. Schweißausbruch) aus und veranlassen zum Handeln",
+    "e": "Externe Anforderungen kommen von außen, interne aus dir selbst. Beispiel: Der Trainer verlangt mehr Einheiten (extern), du selbst willst unbedingt in die Landesauswahl (intern). Wenn dir beides über den Kopf wächst, wird es zum Stressor.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-040",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Welche internen und externen Ressourcen unterscheidet das SAR-Modell?",
+    "a": "Interne Ressourcen:\n• physisch: z. B. Konstitution, Fitness\n• psychisch: z. B. Wissen, Stimmung, Selbstkonzept, Kohärenzgefühl\nExterne Ressourcen:\n• sozial: z. B. Beziehungen, Unterstützung\n• materiell: z. B. Einkommen\n• ökologisch: z. B. gesunde Nahrung",
+    "e": "Interne Ressourcen trägst du in dir, externe findest du in deiner Umwelt. Beispiel: Gute Ausdauer (intern, physisch) und Selbstvertrauen (intern, psychisch) helfen ebenso wie eine Trainingsgruppe (extern, sozial) und genug Geld für gutes Essen (extern, materiell).",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-041",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Welche Folgen hat ein dauerhaftes Ungleichgewicht zwischen Anforderungen und Ressourcen im SAR-Modell – und was fördert Gesundheit?",
+    "a": "Anforderungen dauerhaft viel höher als Ressourcen:\n• negative Gefühle, Lebensunzufriedenheit\n• verändertes Konsumverhalten (z. B. Alkohol) und Freizeitverhalten (z. B. sozialer Rückzug)\n• starke Beeinträchtigung der psychischen und physischen Gesundheit\nGesundheitsfördernd:\n• wohldosierte Anforderungen\n• Bewahrung und Vergrößerung der Ressourcen\n• erfolgreiche Bewältigung externer und interner Anforderungen\n→ Wohlbefinden, Lebensfreude, körperliche und seelische Gesundheit",
+    "e": "Zu viel auf Dauer macht krank, gut dosierte Herausforderungen machen stark. Beispiel: Ein Schüler, der monatelang überfordert ist, zieht sich zurück und schläft schlecht; ein Schüler mit fordernden, aber machbaren Aufgaben wächst daran.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-042",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Welche drei Aspekte umfasst Gesundheit im Konzept zur Gesundheitsförderung nach Beckers (2007)?",
+    "a": "• biologische Funktionsfähigkeit\n• soziokulturelle Leistungsfähigkeit\n• individuelle Gestaltungsfähigkeit\n• Konzept steht in der Tradition der Salutogenese, legt den Fokus auf aktive Gesundheitsförderung in und durch Sport, besonders im Schulsport",
+    "e": "Beckers fragt konkret, was Sport für die Gesundheit leisten kann. Eselsbrücke: Körper funktioniert – Alltag klappt – Leben selbst gestalten. Beispiel: Schulsport trainiert das Herz (biologisch), die Belastbarkeit für den Alltag (soziokulturell) und die Fähigkeit, eigene Bewegungsziele zu setzen (Gestaltung).",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-043",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Erläutere die biologische Funktionsfähigkeit und die soziokulturelle Leistungsfähigkeit nach Beckers.",
+    "a": "Biologische Funktionsfähigkeit:\n• möglichst einwandfreies Funktionieren der Organsysteme\n• Voraussetzung für die anderen Funktions- und Leistungsebenen\n• Einschränkungen beeinträchtigen oft auch die beiden anderen Aspekte stark\nSoziokulturelle Leistungsfähigkeit:\n• Voraussetzungen zur Bewältigung privater, beruflicher und sozialer Anforderungen\n• umfasst die Optimierung der körperlichen Belastbarkeit sowie Fähigkeit und Bereitschaft zu zielgerichtetem Handeln",
+    "e": "Die biologische Funktionsfähigkeit ist das Fundament, auf dem alles andere aufbaut. Beispiel: Wer wegen Asthma kaum Treppen steigen kann (biologisch), hat auch Mühe, den Schulweg oder einen Ferienjob zu bewältigen (soziokulturell).",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-044",
+    "thema": "BONUS",
+    "kapitel": "L20 SAR und Beckers",
+    "q": "Was versteht Beckers unter individueller Gestaltungsfähigkeit und wann liegt subjektive Gesundheit vor?",
+    "a": "• persönliche Kompetenz, die eigenen subjektiven Wünsche („Wollen“) und vorhandenen Ressourcen („Können“) mit den äußeren Anforderungen der Lebenswelt („Sollen“) angemessen in Einklang zu bringen\n• Merksatz: Subjektive Gesundheit liegt vor, wenn „Sollen“, „Können“ und „Wollen“ im Gleichgewicht stehen\n• gefördert durch Sensibilisierung der Wahrnehmung und sinnvollen Umgang mit Verhaltensmustern und Regeln\n• Sport, besonders Schulsport, bietet dafür geeignete, risikoarme Übungsfelder",
+    "e": "Sollen – Können – Wollen müssen zusammenpassen. Beispiel: Im Sportunterricht soll eine Turnkür gezeigt werden (Sollen); eine Schülerin wählt Elemente, die sie sicher beherrscht (Können) und die ihr Spaß machen (Wollen) – so gestaltet sie ihre Aufgabe gesund und selbstbestimmt.",
+    "quelle": "L20.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-045",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Ist Sport grundsätzlich gesund? Begründe.",
+    "a": "• Die pauschale Aussage „Sport stärkt die Gesundheit“ ist nicht haltbar; viele Studien fanden keinen Zusammenhang zwischen Sporttreiben und besserem Gesundheitszustand.\n• Nicht jeder Sport wird aus Gesundheitsmotiven betrieben (Freude, Natur, Wagnis, Wettkampf).\n• Sport kann selbst zum Risikofaktor werden (Verletzungen, Überlastung, chronische Schmerzen).\n• Aber: Richtig strukturierte, angemessen dosierte und reflektierte sportliche Aktivität wirkt positiv auf physische und psychische Gesundheit (Bös & Brehm, 2006).",
+    "e": "Es kommt auf das Wie an. Sport ist wie ein Medikament: In der richtigen Dosis hilft er, falsch dosiert schadet er. Beispiel: Moderates Joggen dreimal pro Woche stärkt das Herz, ein Marathon ohne Vorbereitung kann Knie und Herz überlasten.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-046",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche physischen Gesundheitsressourcen gibt es und welche sind am wichtigsten?",
+    "a": "• physische Gesundheitsressourcen = konditionelle und koordinative Fähigkeiten: Ausdauer, Kraft, Schnelligkeit, Beweglichkeit, Koordination\n• Ausdauer und Kraft sind die beiden entscheidenden Ressourcen für Erhalt und Wiederherstellung der Gesundheit\n• ein gesundheitsorientiertes Programm sollte aber immer auch koordinative und beweglichkeitsorientierte Elemente enthalten",
+    "e": "Ausdauer und Kraft sind die „Hauptdarsteller“, Beweglichkeit und Koordination die wichtigen „Nebenrollen“. Beispiel: Ein gutes Fitnessprogramm für Erwachsene kombiniert Radfahren und Krafttraining mit Dehn- und Gleichgewichtsübungen.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-047",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche gesundheitlichen Wirkungen hat regelmäßiges Ausdauertraining?",
+    "a": "• Muskulatur: verbesserter Fett- und Kohlenhydratstoffwechsel, gesteigerter Fettabbau\n• Immunsystem: gestärkt durch bessere Regulation von Entzündungsprozessen\n• Herz-Kreislauf: ökonomischere Herzarbeit, geringerer Sauerstoffbedarf, Senkung von arteriellem Blutdruck und Ruhepuls\n• Gehirn: positive Wirkung auf die Stimmungslage\n• bei Älteren: bessere Bewältigung des Alltags, Beitrag zum körperlichen und psychosozialen Wohlbefinden\n• senkt von allen motorischen Beanspruchungsformen Sterblichkeit und Krankheitshäufigkeit am stärksten",
+    "e": "Ausdauertraining ist der „Allrounder“ unter den Gesundheitsmaßnahmen. Beispiel: Wer ein halbes Jahr regelmäßig joggt, hat oft einen deutlich niedrigeren Ruhepuls, weil das Herz pro Schlag mehr Blut pumpt und daher seltener schlagen muss.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-048",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche Mindestbelastung empfehlen Hollmann und Strüder (2009) für ein gesundheitsorientiertes Ausdauertraining?",
+    "a": "• leichte bis mittlere Intensität reicht aus, um Bewegungsmangelkrankheiten entgegenzuwirken und durch Anpassungen gesundheitlichen Schutz zu erlangen\n• Energieverbrauch durch sportliche Aktivität: etwa 1.500–2.000 kcal pro Woche",
+    "e": "Man muss sich nicht quälen – lockeres Training genügt, wenn genug zusammenkommt. Beispiel: Etwa drei- bis viermal pro Woche 45 Minuten zügiges Radfahren oder lockeres Joggen erreicht ungefähr diesen Wochenverbrauch.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-049",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche gesundheitlichen Wirkungen hat Krafttraining?",
+    "a": "• Kraftausdauertraining: ähnliche Anpassungen wie beim Ausdauertraining, da Kraft ebenfalls weitgehend energetisch bestimmt ist\n• bei höheren Kraftanteilen: ausgeprägtes Wachstum der Skelettmuskulatur\n• aktiver Bewegungsapparat: Halte-, Stütz- und Bewegungsarbeit fällt leichter\n• muskuläre Stabilität entlastet den passiven Bewegungsapparat (Knochen, Bindegewebe, Sehnen, Knorpel)\n• schnellkräftige Krafteinsätze verdichten die Knochenstruktur → höhere Bruchfestigkeit",
+    "e": "Starke Muskeln sind wie ein Stützkorsett für Gelenke und Wirbelsäule. Beispiel: Eine kräftige Rumpfmuskulatur entlastet die Bandscheiben und beugt Rückenschmerzen vor; Sprungübungen machen die Knochen fester und schützen vor Osteoporose.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-050",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche Empfehlungen geben Hollmann und Strüder (2009) für ein gesundheitsorientiertes Krafttraining?",
+    "a": "• vorher die internistische Unbedenklichkeit abklären (Krafttraining führt zu starkem kurzfristigem Blutdruckanstieg)\n• im Rahmen eines umfassenden Fitnesstrainings reicht nach einer Anpassungsphase dreimal pro Woche je 20 Minuten Krafttraining (hoher Nutzen, geringes Risiko)\n• körperstabilisierende Übungen sollten eingebettet sein",
+    "e": "Wenig, aber regelmäßig ist hier die Devise. Beispiel: Ein 50-jähriger Einsteiger lässt zuerst beim Arzt den Blutdruck prüfen und trainiert dann dreimal pro Woche 20 Minuten an Geräten plus Rumpfstabilisation.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-051",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Warum sollte ein gesundheitsorientiertes Training auch Beweglichkeit, Schnelligkeit und Koordination enthalten?",
+    "a": "• bessere und stabilere Beweglichkeit in Verbindung mit guter Koordination bedeutet mehr Bewegungsfreiheit im Alltag\n• bei Älteren: wichtige Sturzprophylaxe\n• komplexe Alltagsbewegungen werden mit ausgebildeter Beweglichkeit, Schnelligkeit, Kraft und Koordination insgesamt besser bewältigt",
+    "e": "Im Alltag braucht man selten maximale Kraft, aber oft schnelle, sichere Reaktionen. Beispiel: Ein älterer Mensch mit gutem Gleichgewicht fängt sich beim Stolpern auf dem Bürgersteig noch ab, statt zu stürzen und sich die Hüfte zu brechen.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-052",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche psychosozialen Gesundheitsressourcen werden in der Gesundheitspsychologie genannt?",
+    "a": "• Selbstkonzept\n• Körperkonzept\n• Selbstwirksamkeit\n• sozialer Rückhalt\n• Stimmung\n• Motivation\n(Brehm & Wagner, 2006)\n• sie tragen zu guter psychosozialer Gesundheit bei und können durch sportliche Aktivität positiv beeinflusst werden",
+    "e": "Sport trainiert nicht nur Muskeln, sondern auch den Kopf und das Miteinander. Beispiel: Wer im Verein regelmäßig mit anderen trainiert, erlebt Erfolge (Selbstwirksamkeit), fühlt sich wohl in seinem Körper (Körperkonzept) und hat Freunde, auf die er zählen kann (sozialer Rückhalt).",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-053",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Erläutere die Stimmung als Gesundheitsressource und die beiden Strategien des Stimmungsmanagements nach Brehm (2006).",
+    "a": "• Stimmungen sind aktuelle oder dauerhafte emotionale Zustände: positiv (gute Laune, Ruhe, Gelassenheit) oder negativ (depressive Verstimmung, Ärger)\n• Stimmung ist Gesundheitsressource und zugleich Ausdruck psychischen Wohlbefindens\n• Sport kann als Instrument des Stimmungsmanagements dienen:\nWiederherstellungsstrategie:\n• v. a. gezielte Fitnessaktivitäten\n• Abschwächung negativer und Stärkung positiver Stimmungsaspekte (ausgleichend)\nAblenkungsstrategie:\n• v. a. Wettkampfsport\n• zunächst starke Steigerung positiver und negativer Spannungsaspekte, die sich im Verlauf oder nach dem Wettkampf wieder auflösen",
+    "e": "Wiederherstellung = runterkommen, Ablenkung = Kopf frei durch Aufregung. Beispiel: Nach einem stressigen Schultag beruhigt ein lockerer Lauf (Wiederherstellung); ein spannendes Fußballspiel lässt dagegen den Ärger über die Mathearbeit völlig vergessen (Ablenkung).",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-054",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Was ist das Selbstkonzept und wie ist es nach dem hierarchischen Modell aufgebaut?",
+    "a": "• Selbstkonzept = das Bild, das ein Mensch von sich selbst hat\n• Unterscheidung (Alfermann & Wagner, 2006):\n  – kognitives Selbstkonzept\n  – emotionales Selbstkonzept\n  – soziales Selbstkonzept\n  – physisches Selbstkonzept (Körperkonzept): Bild von der eigenen körperlichen Erscheinung und Fitness, untergliedert u. a. in physische Attraktivität und Sportlichkeit",
+    "e": "Das Selbstkonzept ist wie ein inneres Foto von dir, nur aus mehreren Blickwinkeln. Beispiel: Ein Schüler hält sich für schlau (kognitiv), beliebt (sozial) und sportlich, findet sich aber nicht attraktiv (Körperkonzept).",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-055",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche Funktion hat das Selbstkonzept für die Gesundheit und wie entwickelt sich das Körperkonzept?",
+    "a": "Funktionen:\n• Verarbeitung selbstbezogener Informationen und Steuerung des eigenen Verhaltens\n• wichtige Ressource zur Bewältigung von Anforderungen: Wer ein positives Selbstbild hat, geht Anforderungen eher aktiv an und überwindet Widerstände\n• positives Körperkonzept fördert dauerhafte sportliche Aktivität; Zufriedenheit mit dem Körper ist Quelle psychischen Wohlbefindens\nEntwicklung des Körperkonzepts:\n• in ständiger Auseinandersetzung mit der Umwelt\n• durch sportliche Erfahrungen (Erfolg, Misserfolg, motorisches Können, Leistung)\n• durch Rückmeldungen von Trainern, Lehrern, Übungsleitern\n• durch soziale Vergleiche mit anderen",
+    "e": "Ein gutes Selbstbild ist eine Art Motor: Wer sich etwas zutraut, packt es an. Beispiel: Eine Schülerin, die vom Trainer für ihren Fortschritt gelobt wird und ihre Laufzeit verbessert, entwickelt ein positives Körperkonzept und bleibt eher langfristig beim Sport.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-056",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Nenne zentrale Bestandteile des kognitiven, emotionalen und sozialen Selbstkonzepts.",
+    "a": "• kognitives Selbstkonzept: Einschätzung der eigenen intellektuellen Fähigkeiten, z. B. schulische Leistungen, Wissen, Problemlösefähigkeit\n• emotionales Selbstkonzept: Bild von den eigenen Gefühlen, z. B. emotionale Stabilität, Gelassenheit, Umgang mit Angst und Ärger, Selbstwertgefühl\n• soziales Selbstkonzept: Bild von sich in Beziehungen, z. B. Beliebtheit, Kontaktfähigkeit, Anerkennung durch Gleichaltrige, Familie",
+    "e": "Jeder Teil beantwortet eine andere Frage: Wie klug bin ich? Wie fühle ich mich? Wie komme ich bei anderen an? Beispiel: Ein Spieler mit gutem sozialen Selbstkonzept übernimmt gerne die Rolle des Mannschaftskapitäns.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.c-057",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Wie wirkt sportliche Aktivität auf Risikofaktoren?",
+    "a": "• allgemeines aerobes Ausdauertraining (und Kraftausdauertraining) wirkt präventiv auf die vier „klassischen“ Herz-Kreislauf-Risikofaktoren: Bluthochdruck, Fettstoffwechselstörung, Übergewicht, gestörte Glukosetoleranz\n• angemessenes Kraft- und Beweglichkeitstraining beugt Risiken des Bewegungsapparats vor (z. B. muskuläre Dysbalancen) und damit Osteoporose, Bandscheibenvorfall und Rückenschmerzen\n• starker Zusammenhang von sportlicher Aktivität mit Lebensdauer und geringerem Herz-Kreislauf-Risiko\n• umgekehrt: Übergewicht, Bewegungsmangel, Fehlernährung und Stress erhöhen das Krankheitsrisiko und verringern die Lebenserwartung",
+    "e": "Sport sorgt im besten Fall dafür, dass Risikofaktoren gar nicht erst entstehen. Beispiel: Ein Jugendlicher, der regelmäßig schwimmt und Rad fährt, entwickelt deutlich seltener Übergewicht und Bluthochdruck als ein Gleichaltriger, der nur vor dem Bildschirm sitzt.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-058",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Welche Wirkungen hat Gesundheitssport bei bereits vorliegenden Risikofaktoren?",
+    "a": "• Blutdruck wird gesenkt\n• „schlechtes“ LDL-Cholesterin sinkt, „gutes“ HDL-Cholesterin steigt\n• Übergewicht wird reduziert\n• ökonomischeres Arbeiten des autonomen Nervensystems: Sympathikus (anregend) arbeitet weniger, Parasympathikus (beruhigend) stärker\n• Kombination aus sportlicher Aktivität und ausgewogener Ernährung wirkt besser als jede Maßnahme allein",
+    "e": "Sport ist also nicht nur Vorbeugung, sondern auch Behandlung. Beispiel: Ein Mann mit leicht erhöhtem Blutdruck kann durch regelmäßiges Walking und gesündere Ernährung seine Werte oft so verbessern, dass er weniger Medikamente braucht.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-059",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Was versteht man unter Wohlbefinden und wie gliedert es sich nach Brehm & Wagner (2006)?",
+    "a": "• Wohlbefinden ist der subjektive Ausdruck physischer, psychischer und sozialer Gesundheit\n• es gilt als subjektives Regulativ der objektiv messbaren Gesundheit\n• nur die Person selbst (nicht Ärzte oder Experten) entscheidet über ihr Wohlbefinden\n• physisches Befinden: sich fit fühlen, sich im Körper sicher und gut fühlen, sich beschwerdefrei fühlen\n• psychisches Befinden: sich wohl/positiv gestimmt, ausgeglichen und kompetent fühlen\n• soziales Befinden: sich gemocht, eingebunden und gebraucht fühlen",
+    "e": "Wohlbefinden ist das Gefühl zur Gesundheit. Es zeigt, ob die objektiven Werte auch im Leben ankommen. Beispiel: Nach dem Volleyballtraining fühlt sich eine Schülerin fit (physisch), gut gelaunt (psychisch) und als Teil des Teams gebraucht (sozial).",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-060",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Erläutere die Funktion des Begriffs Wohlbefinden im Wirkungsgefüge von Sport und Gesundheit.",
+    "a": "• Wohlbefinden ist das subjektive Regulativ: Es zeigt dem Menschen, ob sein Verhalten ihm guttut\n• Sport wirkt über das Erleben von Fitness, Kompetenz, Stimmung und sozialer Einbindung direkt auf das Wohlbefinden\n• positives Wohlbefinden motiviert, sportlich aktiv zu bleiben (Bindung an Sport)\n• Wohlbefinden ist damit zugleich Ergebnis und Antrieb gesundheitssportlicher Aktivität",
+    "e": "Wenn Sport sich gut anfühlt, macht man weiter – das ist der eigentliche Gesundheitseffekt auf lange Sicht. Beispiel: Wer nach dem Lauftreff jedes Mal gut gelaunt nach Hause kommt, wird eher dabeibleiben als jemand, der sich nur aus Pflicht quält.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-061",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Beschreibe das Modell der Wirkungsannahmen von sportlicher Aktivität und Gesundheit (Brehm et al., 2008).",
+    "a": "• Rahmenbedingungen: Sozialstatus, Wohnsituation, Freunde, Beruf, Schule, Sportverein\n• sportliche Aktivität wird gesteuert über\n  – motorische Belastungsparameter: Intensität, Dauer, Dichte, Umfang, Häufigkeit, Komplexität\n  – psychosoziale Parameter: Inhalt, Trainingsklima (Übungsleiter, Gruppe), Emotionalisierung\n• sie stärkt physische Gesundheitsressourcen (Ausdauer, Kraft, Beweglichkeit, Koordination) und psychosoziale Ressourcen (Selbstkonzept, Stimmung, Selbstwirksamkeit, sozialer Rückhalt)\n• sie vermindert physische Belastungssymptome (Schmerzen am Bewegungsapparat, körperliche Risikofaktoren) und psychosoziale Belastungssymptome (Beschwerden, Stress, Angst, Depression)\n• Fazit: Nur angemessene, systematische Belastungsgestaltung unter Beachtung der Zielgruppe führt zu positiven Gesundheitswirkungen",
+    "e": "Das Modell zeigt: Sport wirkt nicht automatisch, sondern über richtig eingestellte „Stellschrauben“. Beispiel: Ein Rückenkurs mit passender Intensität und guter Gruppenatmosphäre stärkt die Rumpfmuskulatur und die Stimmung – und senkt so Rückenschmerzen und Stress.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-062",
+    "thema": "BONUS",
+    "kapitel": "L21 Sport und Gesundheit",
+    "q": "Erläutere die Ambivalenz von Verletzungsrisiko und Gesundheitsförderung im Sport.",
+    "a": "• Sport kann Gesundheit fördern (z. B. Ausdauertraining gegen Übergewicht und Arteriosklerose)\n• zugleich kann Sport selbst zum Risikofaktor werden: Unfall- und Sturzrisiko, Überlastung, Verletzungen, chronische Schmerzen\n• besonders bei falscher Dosierung oder fehlendem Ausgleichstraining\n• bewusster, verantwortungsvoller Umgang mit dem Risiko kann zum Kohärenzgefühl beitragen und einen wichtigen Beitrag zur persönlichen Gesundheit leisten",
+    "e": "Fast jeder Sport hat zwei Seiten. Beispiel aus dem Buch: Inlineskating trainiert die aerobe Ausdauer sehr gut, birgt aber ein hohes Sturzrisiko und kann die Knie überlasten. Mit Schutzausrüstung und Ausgleichstraining überwiegt der Nutzen.",
+    "quelle": "L21.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-063",
+    "thema": "BONUS",
+    "kapitel": "L21 Gesundheitssport",
+    "q": "Was kennzeichnet Gesundheitssport und wie grenzt er sich von anderen Sportbereichen ab?",
+    "a": "• Gesundheitssport zielt auf Gesundheitswirkungen, Verhaltenswirkungen und Verhältniswirkungen\n• diese Wirkungen werden systematisch geplant und gesteuert\n• Wettkampf-, Fun- und Fitnesssport können zwar auch gesund sein, sind damit aber noch kein Gesundheitssport (Brehm, 2003)",
+    "e": "Der Unterschied liegt in der Absicht und Planung. Beispiel: Ein Fußballspiel kann gesund sein, ist aber auf Sieg ausgerichtet. Ein Rückenkurs bei der Krankenkasse plant dagegen gezielt Übungen, Belastung und Verhaltensänderung für die Gesundheit.",
+    "quelle": "L21.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-064",
+    "thema": "BONUS",
+    "kapitel": "L21 Gesundheitssport",
+    "q": "Nenne die sechs Kernziele des Gesundheitssports nach Bös und Brehm (2006).",
+    "a": "1. Stärkung physischer Gesundheitsressourcen\n2. Stärkung psychosozialer Gesundheitsressourcen\n3. Verminderung von Risikofaktoren\n4. Bewältigung von Beschwerden und Missbefinden\n5. Bindung an gesundheitssportliches Verhalten\n6. Schaffung und Optimierung unterstützender Settings\n• die Ziele stehen in gegenseitiger Wechselwirkung",
+    "e": "Merkhilfe in Paaren: Ressourcen stärken (1, 2), Risiken und Beschwerden senken (3, 4), dranbleiben und Umfeld schaffen (5, 6). Beispiel: Ein Lauftreff stärkt Ausdauer und Selbstvertrauen, senkt Blutdruck und Stress, bindet durch die Gruppe und schafft feste Termine und Strecken.",
+    "quelle": "L21.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-065",
+    "thema": "BONUS",
+    "kapitel": "L21 Gesundheitssport",
+    "q": "Erläutere die Wechselbeziehung der sechs Kernziele des Gesundheitssports.",
+    "a": "• Stärkung physischer Ressourcen (1) trägt direkt zur Verminderung von Risikofaktoren (3) bei\n• Stärkung psychosozialer Ressourcen (2) hilft bei der Bewältigung von Beschwerden und Missbefinden (4)\n• alle Gesundheitswirkungen sind nur nachhaltig, wenn eine Bindung an gesundheitssportliches Verhalten (5) gelingt\n• Bindung wird durch unterstützende Settings (6) erleichtert (z. B. Gruppe, Angebote, Erreichbarkeit)\n• umgekehrt fördern erlebte Fortschritte und Wohlbefinden (1–4) die Bindung (5)",
+    "e": "Die Ziele greifen wie Zahnräder ineinander. Beispiel: Wer im Firmen-Sportkurs (Setting) merkt, dass der Rücken weniger schmerzt (Beschwerden) und er fitter wird (Ressource), bleibt dabei (Bindung) – und senkt so langfristig sein Risiko.",
+    "quelle": "L21.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-066",
+    "thema": "BONUS",
+    "kapitel": "L21 Gesundheitssport",
+    "q": "Unterscheide Krankheitsprävention und Gesundheitsförderung.",
+    "a": "Krankheitsprävention:\n• Grundlage: Risikofaktorenmodell\n• Risikofaktoren und Krankheitssymptome abbauen\n• individueller Ansatz, krankheitsorientiert\nGesundheitsförderung:\n• Grundlage: Salutogenesemodell\n• Schutzfaktoren aufbauen, stärken und fördern\n• ökologischer Ansatz (Lebensumfeld), gesundheitsorientiert\n• beide wollen einen Gesundheitsgewinn – sie sind zwei Seiten einer Medaille und ergänzen sich",
+    "e": "Prävention fragt: Was muss weg? Förderung fragt: Was muss dazu? Beispiel: Ausdauertraining senkt Blutdruck und Blutfette (Prävention gegen Herzinfarkt) und baut gleichzeitig Ausdauerleistungsfähigkeit als Schutzfaktor auf (Förderung).",
+    "quelle": "L21.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-067",
+    "thema": "BONUS",
+    "kapitel": "L21 Gesundheitssport",
+    "q": "Nach welchen Kriterien beurteilt man die Eignung einer Sportart für den Gesundheitssport?",
+    "a": "Kriterien:\n• Auswirkungen auf den passiven Bewegungsapparat (Gelenkbelastung, Stoßbelastungen)\n• Verletzungsgefährdung\n• Wirkung auf den Blutdruck (Pressatmung, Spitzenbelastungen vermeiden)\n• Anpassung des Herz-Kreislauf-Systems (aerobe, gleichmäßige Belastung)\nTendenz:\n• sehr gut geeignet: zyklische Ausdauersportarten wie Walking, Radfahren, Schwimmen, Skilanglauf, Jogging, Wassergymnastik\n• eher ungeeignet: Sportarten mit hoher Verletzungsgefahr, Stop-and-go-Belastungen oder Pressatmung (z. B. Squash, Ski alpin, Bodybuilding mit maximalen Lasten)",
+    "e": "Gesundheitssport sollte das Herz gleichmäßig fordern und Gelenke schonen. Beispiel: Bei Bluthochdruck sind Radfahren und Walking gut geeignet, weil sie den Kreislauf gleichmäßig belasten; Squash ist eher ungeeignet wegen der plötzlichen, sehr hohen Belastungsspitzen.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.c-068",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Woher stammt der Begriff Stress und was haben seine historischen Verwendungen gemeinsam?",
+    "a": "• lateinisch „stringere“: engziehen, anspannen, zusammenziehen\n• bis Mitte des 20. Jahrhunderts im Ingenieurwesen für Beanspruchung von Maschinen\n• im 17./18. Jahrhundert für Hungersnöte oder soziale Not\n• Gemeinsamkeit: Verweis auf Druck und Anforderung und die Idee, dass Stress ein System schwächt\n• alltagssprachlich meist negative Erlebnisse (Angst, Anspannung, Überforderung, Belastung)",
+    "e": "Stress war ursprünglich ein Begriff aus der Technik: Material unter Spannung. Beispiel: So wie eine Brücke unter zu viel Last nachgibt, kann auch ein Mensch unter zu viel Druck „nachgeben“.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-069",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Definiere Stress aus psychologischer Sicht und unterscheide Eustress und Disstress.",
+    "a": "• Stress ist ein Prozess, durch den wir bestimmte Ereignisse (Stressoren) wahrnehmen und darauf reagieren (Myers, 2005)\n• Disstress (negativer Stress): Stressor wird als Bedrohung bewertet; ruft Angst, Verunsicherung, Flucht und Blockierung hervor\n• Eustress (positiver Stress): Stressor wird als Herausforderung bewertet; motiviert, regt an und führt zu Handlungen",
+    "e": "Ob Stress gut oder schlecht ist, entscheidet vor allem deine Bewertung. Beispiel: Ein Elfmeter im Finale ist für die eine Spielerin eine tolle Chance (Eustress), für die andere eine bedrohliche Situation, die sie lähmt (Disstress).",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-070",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Beschreibe die drei Phasen der Stressreaktion nach Selye.",
+    "a": "Allgemeines Adaptationssyndrom (Selye, 1936):\n1. Alarmreaktion: Der Stressor löst eine akute Aktivierung des Körpers aus.\n2. Widerstandsreaktion: Der Körper versucht, dem Stressor zu widerstehen, indem er Körperfunktionen anpasst.\n3. Erschöpfung: Hält der Stress zu lange an, kommt es zur Erschöpfung, im Extremfall sogar zum Tod.",
+    "e": "Selye verstand Stress als körperliche Anpassungsreaktion. Beispiel: In der ersten Klausurwoche ist man hellwach (Alarm), in der zweiten hält man durch (Widerstand); dauert der Druck wochenlang ohne Pause an, wird man krank und ausgelaugt (Erschöpfung).",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-071",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Beschreibe die physiologischen Vorgänge der Stressreaktion.",
+    "a": "• komplexe Reaktion vieler Systeme (Atmung, Herz-Kreislauf, Stoffwechsel, Muskulatur)\n• innerhalb von Millisekunden Freisetzung von Neurotransmittern; Nervensystem stellt sich auf „Kampf oder Flucht“ ein\n• Sympathikus wird aktiviert; Blut wird vermehrt in die Muskeln umgelenkt\n• Ausschüttung von Stresshormonen aus der Nebenniere: Adrenalin und Noradrenalin (Kurzzeitstress), Cortisol (Langzeitstress) → schnelle Energiebereitstellung\n• Folgen: Blutdruck steigt, Herz schlägt schneller, Pupillen weiten sich, Atmung wird schneller und flacher, Muskeln spannen an, Verdauung wird gedrosselt\n• danach fährt der Parasympathikus die Aktivität herunter; Reaktion klingt langsam ab, da Stresshormone im Blut bleiben",
+    "e": "Der Körper macht sich bereit für Kampf oder Flucht – ein Programm aus der Steinzeit. Beispiel: Kurz vor dem 100-m-Start rast das Herz, die Hände schwitzen und die Muskeln sind gespannt; nach dem Lauf dauert es noch eine Weile, bis man sich wieder beruhigt.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-072",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Vergleiche die Wirkungen von Sympathikus und Parasympathikus (vegetatives Nervensystem).",
+    "a": "Sympathikus (erregend) | Parasympathikus (hemmend):\n• Augen: Pupillen weiten sich | verengen sich\n• Speichelfluss: verringert sich | vermehrt sich\n• Haut: schweißnass | trocken\n• Atmung: beschleunigt | verlangsamt\n• Herzschlag: beschleunigt | verlangsamt\n• Verdauung: gehemmt | aktiviert\n• Muskulatur: angespannt | entspannt\n• Nebenniere: schüttet Stresshormone aus | verringert die Ausschüttung",
+    "e": "Sympathikus = Gaspedal, Parasympathikus = Bremse. Beispiel: Bei einer Prüfung hat man einen trockenen Mund und schwitzige Hände (Sympathikus); nach dem Essen auf dem Sofa ist man ruhig und verdaut (Parasympathikus, „rest and digest“).",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-073",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Warum ist Sport ein gutes Ausgleichsmittel bei psychosozialem Stress und warum ist Stress im modernen Alltag oft schädlich?",
+    "a": "• Die Stressreaktion mit Ausschüttung von Adrenalin, Noradrenalin und Kortikoiden ist natürlich und lebensnotwendig; sie bereitet auf körperliche Aktivität vor\n• Sport (v. a. aerober Ausdauersport) führt die Stresshormone ihrer „naturgegebenen Verwendung“ zu → hervorragendes Ausgleichsmittel; evtl. spielt auch die Ausschüttung von Endorphinen eine Rolle\n• moderne Stresssituationen lösen dieselbe Reaktion aus, aber ohne anschließende körperliche Belastung oder Bewältigungsmaßnahmen\n• dadurch entsteht Disstress, der Herz-Kreislauf-Erkrankungen (z. B. Herzinfarkt) begünstigt",
+    "e": "Unser Körper macht sich bei Stress bereit zu rennen – im Büro rennt aber keiner. Beispiel: Wer sich über den Chef ärgert und abends joggen geht, „verbraucht“ die bereitgestellte Energie und baut die Stresshormone ab.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-074",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Unter welcher Voraussetzung wirkt Stress gesundheitsfördernd (Eustress)?",
+    "a": "• punktuelle Stressreaktionen können den Körper kurzfristig bis an die Grenzen belasten, die Gesundheit langfristig aber fördern\n• Effekte: besserer Schlaf, mehr Ausgeglichenheit, mehr Vitalität im Alter\n• Voraussetzung: Die Belastung ist nur vorübergehend; danach muss das Hormonsystem wieder herunterfahren und zur Ruhe kommen können\n• auf den Energieaufbau muss eine Entladung folgen („Gefahr vorbei, alles klar“)",
+    "e": "Es kommt auf den Wechsel von Anspannung und Entspannung an – wie beim Training von Belastung und Erholung. Beispiel: Ein spannendes Turnier am Wochenende mit anschließender Erholung tut gut; Dauerstress ohne Pause dagegen nicht.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-075",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Erläutere das transaktionale Stressmodell nach Lazarus.",
+    "a": "• Stress ist weder nur Reiz noch nur Reaktion, sondern der gesamte Prozess der Bewertung und Bewältigung von Herausforderungen und Bedrohungen\n• die Stressreaktion hängt nicht direkt vom Stressor ab, sondern von einer zwischengeschalteten kognitiven Bewertung (Appraisal)\n• primäre Bewertung: Ist das Ereignis bedrohlich bzw. potenziell stresshaft oder nicht?\n• sekundäre Bewertung (Ressourcenbewertung): Reichen meine Ressourcen zur Bewältigung aus?\n• beide Bewertungen können nacheinander oder parallel ablaufen\n• Ressourcen reichen → Bewältigung (Coping) → Eustress bzw. kein Stress\n• Ressourcen reichen nicht → Disstress",
+    "e": "Zwischen Ereignis und Reaktion sitzt dein Kopf als Filter. Beispiel: Ein Turner sieht ein schweres Gerät (primär: „Das ist anspruchsvoll“), denkt dann „Das habe ich oft geübt“ (sekundär: Ressourcen reichen) und erlebt Eustress. Ein ungeübter Mitschüler bewertet es als Bedrohung und erlebt Disstress.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-076",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Welche Rolle spielt das Kohärenzgefühl bei der Stressbewältigung?",
+    "a": "• das Kohärenzgefühl ist selbst weder ein Coping-Mechanismus noch prägt es bestimmte Bewältigungsstile\n• es schafft die Voraussetzung, dass Menschen flexibel mit verschiedenen Anforderungen umgehen können\n• und über viele potenzielle Coping-Fertigkeiten verfügen (Franke, 2012)",
+    "e": "Das Kohärenzgefühl ist kein bestimmtes Werkzeug, sondern eher das Vertrauen, im Werkzeugkasten das passende zu finden. Beispiel: Eine Spielerin mit hohem Kohärenzgefühl reagiert je nach Situation mal mit Atemübung, mal mit Gespräch, mal mit mehr Training.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-077",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Welche Bedeutung hat das Stressniveau für die sportliche Leistung?",
+    "a": "• ein individuelles und situationsangemessenes Stress- bzw. Erregungsniveau ist für Bestleistungen notwendig (vgl. IZOF-Modell: individuell optimale Funktionszone nach Hanin)\n• zu hoher Stress (übermäßige Anspannung, Nervosität) wirkt negativ:\n  – höhere Muskelanspannung → unkoordinierte Bewegungen\n  – geringerer Bewegungsumfang, gestörter Bewegungsfluss und -rhythmus („unrunde“ Bewegungen)\n  – Konzentrationsstörungen, verringerte Aufmerksamkeit und Wahrnehmung\n• daher Einsatz von Entspannungsverfahren im Sport",
+    "e": "Ein bisschen Nervosität macht schnell, zu viel macht steif. Beispiel: Ein Basketballer, der beim entscheidenden Freiwurf zu angespannt ist, wirft mit verkrampftem Arm und trifft schlechter als im Training.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-078",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Beschreibe die progressive Muskelentspannung (PME) nach Jacobson.",
+    "a": "• entwickelt in den 1930er-Jahren vom amerikanischen Arzt Edmund Jacobson\n• Grundidee: Stress, innere Unruhe und Angst treten zusammen mit erhöhter Muskelspannung auf; diese kann durch gezieltes An- und Entspannen abgebaut werden\n• Ablauf: Muskelgruppe anspannen, bis die Spannung deutlich spürbar ist (maximal etwa 5 Sekunden)\n• dann Spannung lösen und Entspannung bewusst wahrnehmen (mindestens 15 Sekunden)\n• nacheinander verschiedene Muskelgruppen\n• unterstützt durch langsames Sprechen und Vorstellungskraft",
+    "e": "Der Trick: Durch bewusstes Anspannen spürt man danach die Entspannung umso deutlicher. Beispiel: Eine Schwimmerin ballt vor dem Start nacheinander Fäuste, zieht Schultern hoch und spannt die Beine an, lässt jeweils los und wird spürbar ruhiger.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-079",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Beschreibe das autogene Training nach Schultz.",
+    "a": "• 1932 vom Berliner Psychiater Johannes Heinrich Schultz veröffentlicht\n• Haltung: Rückenlage oder Sitzen in der Kutscherhaltung\n• Selbstberuhigung durch formelhafte Selbstsuggestion (z. B. „Ich bin ganz ruhig.“)\n• systematische Stufen: Schwere-, Wärme-, Atmungs- und Herz-Kreislauf-Übung\n• Einsatz: Rehabilitation, Gesundheitsförderung, im Sport zur Regenerationsförderung\n• nur anwenden, wenn unmittelbar danach keine Phase hoher Aktivität folgt",
+    "e": "Beim autogenen Training „redet“ man sich mit festen Formeln in die Entspannung. Beispiel: Ein Leichtathlet liegt nach dem Wettkampf in der Halle und sagt sich innerlich „Mein rechter Arm ist ganz schwer … ganz warm“, um schneller zu regenerieren.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-080",
+    "thema": "BONUS",
+    "kapitel": "L21 Stress",
+    "q": "Welche Nachteile haben PME und autogenes Training im Sport und was sind naive Bewältigungsstrategien?",
+    "a": "Nachteile von PME und autogenem Training:\n• hoher Trainingsaufwand, nur langsam erlernbar\n• senken nur das Erregungsniveau; die Ursache (Einstellung zum Stressor) bleibt unbearbeitet\n• nur vor und nach einem Wettkampf anwendbar, nicht währenddessen\nNaive Bewältigungsstrategien:\n• keine wissenschaftlich erprobten Programme, sondern „Alltagstechniken“\n• während des Wettkampfs einsetzbar\n• z. B. Selbstgespräche, Ablenkung, Bewegung zum Spannungsabbau",
+    "e": "Naive Strategien sind die schnellen Hausmittel der Sportler. Beispiel: Ein Tennisspieler tänzelt beim Return auf der Stelle und sagt sich „Ich bin ganz konzentriert und ruhig“ – das geht mitten im Match, PME dagegen nicht.",
+    "quelle": "L21.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-081",
+    "thema": "BONUS",
+    "kapitel": "L22 Doping Definition",
+    "q": "Woher stammt der Begriff Doping?",
+    "a": "• vom englischen „dope“: als Verb „verabreichen“, als Substantiv „Rauschgift“\n• 1889 erstmals in einem englischen Wörterbuch: Mischung aus Schmerzmitteln und Opium bei Pferderennen\n• weitere Herleitung: „dop“ bezeichnet in einem südafrikanischen Bantudialekt einen starken Schnaps; Adjektiv „dopy“ = benebelt, dämlich\n• in Dopingkreisen spöttisch auch Synonym für die Unachtsamkeit dessen, der sich erwischen lässt",
+    "e": "Doping kommt ursprünglich aus dem Pferdesport. Beispiel: Rennpferden wurden Ende des 19. Jahrhunderts Opiummischungen verabreicht, um sie schneller oder ruhiger zu machen.",
+    "quelle": "L22.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-082",
+    "thema": "BONUS",
+    "kapitel": "L22 Doping Definition",
+    "q": "Erläutere die Aussage von Sir Arthur Porritt zur Definition von Doping.",
+    "a": "• Aussage: Doping zu definieren ist sehr schwierig, wenn nicht unmöglich, doch jeder Leistungssportler oder Verabreicher weiß genau, was es bedeutet; die Definition liegt nicht in Worten, sondern in der charakterlichen Integrität.\n• Bedeutung: Eine exakte begriffliche Abgrenzung ist kaum möglich (Grenzfälle, ständig neue Mittel).\n• Trotzdem wissen Athleten intuitiv, wann sie unerlaubt manipulieren.\n• Doping ist somit vor allem eine Frage der Moral und Ehrlichkeit, nicht nur der Regeln.",
+    "e": "Porritt sagt sinngemäß: Wer dopt, weiß, dass er betrügt. Beispiel: Ein Radfahrer, der heimlich Eigenblut zurückführt und das versteckt, weiß ganz genau, dass das nicht in Ordnung ist – auch wenn er Lücken in den Regeln sucht.",
+    "quelle": "L22.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-083",
+    "thema": "BONUS",
+    "kapitel": "L22 Doping Definition",
+    "q": "Wie definieren Hollmann und Strüder (2009) Doping und warum wählen sie eine praxisorientierte Definition?",
+    "a": "Definition:\n• Doping ist der Versuch der körperlichen Leistungssteigerung mit chemischen, pharmakologischen oder physikalischen Methoden, die laut Liste des betreffenden Sportfachverbandes oder des IOC verboten sind.\nBegründung:\n• eine wissenschaftlich allen Ansprüchen genügende Definition kann aus „somatisch-psychisch-juristischen Gründen“ nicht existieren:\n  – somatisch: viele Substanzen sind auch körpereigen oder Medikamente; Grenze zwischen Therapie und Leistungssteigerung unscharf\n  – psychisch: Wirkungen auf die Psyche sind schwer messbar und individuell\n  – juristisch: Verbote müssen eindeutig, nachweisbar und rechtssicher sein",
+    "e": "Weil man Doping nicht perfekt definieren kann, macht man es pragmatisch: Doping ist, was auf der Liste steht. Beispiel: Ein Asthmaspray kann Therapie oder Doping sein – entscheidend ist, was die Liste und eine Ausnahmegenehmigung sagen.",
+    "quelle": "L22.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-084",
+    "thema": "BONUS",
+    "kapitel": "L22 Doping Definition",
+    "q": "Welche Gemeinsamkeit haben alle Dopingdefinitionen (nach Daumann, 2003)?",
+    "a": "• Doping ist der Einsatz von Präparaten und Methoden,\n• die gegen sportethische Normen verstoßen\n• und auf eine Leistungssteigerung abzielen,\n• wobei mögliche Gesundheitsschäden in Kauf genommen (gebilligt) werden",
+    "e": "Drei Bausteine: Regelverstoß, Leistungssteigerung, Gesundheitsrisiko in Kauf nehmen. Beispiel: Ein Sprinter nimmt Anabolika, obwohl er von Leberschäden weiß – alle drei Merkmale sind erfüllt.",
+    "quelle": "L22.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-085",
+    "thema": "BONUS",
+    "kapitel": "L22 Doping Definition",
+    "q": "Welche Verstöße gelten nach dem Nationalen Anti-Doping-Code (NADC) als Doping?",
+    "a": "• Vorhandensein einer verbotenen Substanz, ihrer Metaboliten oder Marker in der Probe\n• Gebrauch oder versuchter Gebrauch einer verbotenen Substanz oder Methode\n• Umgehung, Verweigerung oder Unterlassen einer Probenahme\n• Meldepflichtverstöße\n• unzulässige Einflussnahme auf das Dopingkontrollverfahren\n• Besitz verbotener Substanzen oder Methoden\n• Inverkehrbringen (Handel) oder versuchtes Inverkehrbringen\n• Verabreichung oder versuchte Verabreichung an Athleten\n• Tatbeteiligung\n• verbotener Umgang (z. B. mit wegen Dopings gesperrten Trainern)",
+    "e": "Doping ist also viel mehr als nur ein positiver Test. Beispiel: Eine Athletin, die eine Dopingkontrolle verweigert oder mehrfach ihren Aufenthaltsort nicht meldet, begeht ebenfalls einen Dopingverstoß – auch ohne nachgewiesene Substanz.",
+    "quelle": "L22.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-086",
+    "thema": "BONUS",
+    "kapitel": "L22 Doping Definition",
+    "q": "Nach welchen Kriterien wird ein Wirkstoff oder eine Methode auf die Verbotsliste der WADA aufgenommen?",
+    "a": "• WADA (Welt-Anti-Doping-Agentur) 1999 gegründet; seit 2004 Verbotsliste nach dem Welt-Anti-Doping-Code (WADC), jährlich aktualisiert\n• mindestens zwei der drei Kriterien müssen erfüllt sein:\n  – K1: Die sportliche Leistung kann gesteigert werden.\n  – K2: Es besteht ein gesundheitliches Risiko für den Sportler.\n  – K3: Es liegt ein Verstoß gegen den Geist des Sports vor.",
+    "e": "Zwei von drei reicht. Beispiel: Cannabis steigert die Leistung kaum, ist aber gesundheitlich riskant (K2) und widerspricht dem Geist des Sports (K3) – deshalb ist es im Wettkampf verboten.",
+    "quelle": "L22.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-087",
+    "thema": "BONUS",
+    "kapitel": "L22 Doping Definition",
+    "q": "Welche Probleme ergeben sich aus den offiziellen Dopingdefinitionen und wie nennt man Doping im Breitensport?",
+    "a": "• gewisse Willkür: Was zu einem Zeitpunkt als verboten gilt, ist festgelegt, nicht naturgegeben\n• die Definition muss wegen technischer und pharmazeutischer Innovationen ständig angepasst werden (jährliche Liste)\n• Einsatz verbotener Substanzen zur Leistungssteigerung im Freizeit- und Breitensport heißt Medikamentenmissbrauch",
+    "e": "Die Liste läuft den neuen Mitteln immer ein Stück hinterher. Beispiel: Ein Hobby-Bodybuilder im Fitnessstudio, der Anabolika nimmt, „dopt“ formal nicht, weil er keinem Verband untersteht – man spricht von Medikamentenmissbrauch.",
+    "quelle": "L22.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-088",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Welche drei Bereiche umfasst die Verbotsliste der WADA?",
+    "a": "• verbotene Substanzen (S0–S9)\n• in bestimmten Sportarten verbotene Substanzen (P1 Betablocker)\n• verbotene Methoden:\n  – M1 Manipulation von Blut und Blutbestandteilen\n  – M2 chemische und physikalische Manipulation\n  – M3 Gendoping (seit 2019 Gen- und Zelldoping)",
+    "e": "Die Liste unterscheidet „Stoffe“ und „Verfahren“. Beispiel: EPO ist eine verbotene Substanz, das Zurückführen von Eigenblut eine verbotene Methode.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-089",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Welche Substanzklassen sind grundsätzlich und welche nur im Wettkampf verboten?",
+    "a": "Grundsätzlich (immer, auch im Training) verboten – S0 bis S5:\n• S0 nicht zugelassene Substanzen\n• S1 anabole Substanzen\n• S2 Peptidhormone, Wachstumsfaktoren, verwandte Substanzen und Mimetika (z. B. EPO)\n• S3 Beta-2-Agonisten\n• S4 Hormon- und Stoffwechselmodulatoren\n• S5 Diuretika und Maskierungsmittel\nNur im Wettkampf verboten – S6 bis S9:\n• S6 Stimulanzien\n• S7 Narkotika\n• S8 Cannabinoide\n• S9 Glukokortikoide",
+    "e": "Faustregel: Was im Training Vorteile bringt (Muskelaufbau, Blutbildung), ist immer verboten; was nur im Moment des Wettkampfs wirkt (Aufputschen, Schmerz dämpfen), nur im Wettkampf. Beispiel: Anabolika wirken über Wochen Training – deshalb gibt es Trainingskontrollen.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-090",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Beschreibe Definition bzw. Wirkung der Substanzklassen S0 bis S5.",
+    "a": "• S0 nicht zugelassene Substanzen: Arzneimittel in Entwicklung, vom Markt genommen oder nur im Tierversuch wirksam (z. B. Designerdrogen)\n• S1 anabole Substanzen: eiweißaufbauend (anabol) und regenerativ, teils androgen wirkend (z. B. Testosteron, Clenbuterol)\n• S2 Peptidhormone/Wachstumsfaktoren: Botenstoffe, die Signale zwischen Zellen übertragen (z. B. EPO)\n• S3 Beta-2-Agonisten: bronchienerweiternd, teils anabol, sympathikusaktivierend (z. B. Fenoterol)\n• S4 Hormon- und Stoffwechselmodulatoren: beeinflussen Hormon- und Enzymwirkungen; sollen Nebenwirkungen anaboler Substanzen mindern (z. B. Insulin, Antiöstrogene)\n• S5 Diuretika/Maskierungsmittel: harntreibend; zur schnellen Gewichtsreduktion (Gewichtsklassen) oder schnelleren Ausscheidung von Dopingsubstanzen",
+    "e": "Hier lohnt es sich, jeder Klasse eine Kernfunktion zuzuordnen. Beispiel: Ein Gewichtheber nimmt kurz vor dem Wiegen ein Diuretikum, um Wasser auszuscheiden und in eine leichtere Gewichtsklasse zu kommen.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-091",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Beschreibe Definition bzw. Wirkung der im Wettkampf verbotenen Substanzklassen S6 bis S9.",
+    "a": "• S6 Stimulanzien: Aufputschmittel, meist kurz vor dem Wettkampf eingesetzt, im Urin gut nachweisbar (z. B. Amphetamin, Ephedrin, Kokain)\n• S7 Narkotika: schmerzstillend und psychogen (beseitigen Angst und Unlust, euphorisierend, dämpfend) (z. B. Morphin, Heroin)\n• S8 Cannabinoide: hanfähnliche Substanzen, meist beruhigend, entspannend, appetitanregend (z. B. Haschisch, Marihuana)\n• S9 Glukokortikoide: entzündungshemmende und immunsuppressive Steroidhormone der Nebenniere; beeinflussen Stoffwechsel, Wasser- und Elektrolythaushalt, Herz-Kreislauf- und Nervensystem (z. B. Cortison)",
+    "e": "Diese Mittel wirken akut – deshalb sind sie nur im Wettkampf verboten. Beispiel: Ein Radfahrer, der vor einer Bergetappe Amphetamine nimmt, unterdrückt Müdigkeit und Erschöpfungsgefühl, riskiert aber Überhitzung und Herzversagen.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-092",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Erläutere die Wirkung anabol-androgener Steroide (Anabolika).",
+    "a": "• anabole Wirkung (erwünscht): vermehrter Eiweißaufbau in der Muskulatur → in Verbindung mit Krafttraining Muskelwachstum; verbesserte Regenerationsfähigkeit\n• androgene Wirkung (unerwünschter Nebeneffekt): Einfluss auf innere und äußere Geschlechtsmerkmale sowie die Psyche; man versucht, den androgenen Anteil gering zu halten\n• deutliche Leistungssteigerungen, z. B. laut DDR-Testbefunden im Diskuswurf bei Frauen um 10–20 m, im 100-m-Sprint bei Frauen um 0,4–0,8 s\n• Frauen profitieren besonders stark",
+    "e": "Anabol heißt aufbauend, androgen heißt vermännlichend. Beispiel: Viele Frauen-Weltrekorde aus den 1980er-Jahren im 400-m- und 800-m-Lauf sind bis heute unerreicht – ein Hinweis auf den damals verbreiteten Anabolikamissbrauch.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-093",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Nenne Nebenwirkungen eines übermäßigen Konsums anabol-androgener Steroide.",
+    "a": "Herz-Kreislauf/Stoffwechsel:\n• Wachstum von Herzmuskelzellen, verringerte Kapillarisierung des Herzmuskels\n• HDL sinkt, LDL steigt; Förderung der Arteriosklerose mit Herzinfarkt in jungem Alter\n• Leberzellveränderungen\nMuskulatur/Haut/Wachstum:\n• Auflösung quergestreifter Muskulatur, Steroidakne\n• vorzeitiger Verschluss der Wachstumsfugen bei Jugendlichen\nBei Männern:\n• Abnahme des Hodenvolumens, reduzierte Spermienbildung, Gynäkomastie, Libidoverlust\nBei Frauen:\n• Virilisierung (tiefe Stimme, Haarausfall, Akne), Zyklusstörungen bis Unfruchtbarkeit\nPsyche:\n• gesteigerte Aggressivität bis Gewalttätigkeit, Depressionen nach dem Absetzen",
+    "e": "Ordne die Nebenwirkungen nach Organen – so behältst du sie besser. Beispiel: Ein junger Bodybuilder mit Anabolikamissbrauch kann mit Ende 20 einen Herzinfarkt erleiden, weil sich seine Blutfettwerte massiv verschlechtert haben.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-094",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Erläutere die Wirkung von EPO, die Gesundheitsrisiken und die Problematik des Nachweises.",
+    "a": "Wirkung:\n• Erythropoetin ist ein körpereigenes Hormon (gebildet v. a. in der Niere)\n• fördert die Bildung roter Blutkörperchen und steigert das Blutvolumen\n• erhöht die Sauerstofftransportfähigkeit und damit die Ausdauerleistungsfähigkeit\n• seit etwa 1990 synthetisch als Dopingmittel im Ausdauersport\nRisiken:\n• Bluteindickung (erhöhte Viskosität) trotz Blutverdünnern wie ASS\n• Bluthochdruck, Blutgerinnsel (Thrombosen) z. B. in Gehirn oder Herz, Embolie, Herzstillstand im Schlaf\nNachweisproblematik:\n• EPO ist körpereigen, synthetisches schwer vom natürlichen zu unterscheiden\n• Verschleierung z. B. durch Infusionen mit Plasmaexpandern (daher ebenfalls verboten)",
+    "e": "EPO macht das Blut zum „Sauerstoff-Lkw mit mehr Ladefläche“, aber auch dickflüssiger. Beispiel: Radprofis sollen nachts auf den Hotelfluren auf und ab gegangen sein, damit ihr eingedicktes Blut im Schlaf nicht verklumpt.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-095",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Wie wirken Betablocker und warum sind sie in bestimmten Sportarten verboten?",
+    "a": "• blockieren die Betarezeptoren und hemmen so die Wirkung von Adrenalin und Noradrenalin\n• senken Ruheherzfrequenz und Blutdruck, mindern Zittern (Tremor)\n• wirken dadurch beruhigend und konzentrationssteigernd\n• medizinisch u. a. bei Bluthochdruck, koronarer Herzkrankheit, Tremor\n• im Wettkampf verboten z. B. in Automobilsport, Billard, Darts, Golf, Skisport (Teildisziplinen), Unterwassersport\n• im Bogenschießen und Schießsport auch außerhalb des Wettkampfs verboten\n• bis 2017 stand auch Alkohol in bestimmten Sportarten auf der Liste",
+    "e": "Betablocker helfen überall dort, wo eine ruhige Hand zählt. Beispiel: Ein Sportschütze, dessen Herzschlag langsamer und dessen Hand ruhiger ist, kann zwischen zwei Herzschlägen präziser abdrücken.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-096",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Was versteht man unter Blutdoping und wie wird es durchgeführt?",
+    "a": "• Blutdoping = Infusion von Fremdblut, Eigenblut (zuvor entnommen) oder Erythrozytenkonzentraten\n• bekannt seit den 1960er-Jahren\nVorgehen bei Eigenblutdoping:\n• etwa 1,2 l Blut entnehmen, Erythrozytenkonzentrat mit Konservierungsstoffen kühl lagern\n• Athlet trainiert weiter; nach etwa drei Wochen normaler Hämoglobinwert\n• einige Tage vor dem Wettkampf Rückinfusion\n• Folge: mehr Erythrozyten → höhere Sauerstoffbindungsfähigkeit → höhere Ausdauerleistungsfähigkeit",
+    "e": "Man „spart“ Blut, lässt den Körper nachproduzieren und hat dann mehr rote Blutkörperchen als normal. Beispiel: Ein Skilangläufer lässt sich Wochen vor Olympia Blut abnehmen und kurz vor dem Rennen zurückgeben.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-097",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Welche Gefahren und Risiken hat Blutdoping und welche legale Alternative gibt es?",
+    "a": "Gefahren:\n• Bluteindickung wie bei EPO: Thrombosen, Embolien, plötzlicher Herztod, Erblindung\n• Verunreinigung der Transfusion durch Bakterien\n• bei Fremdblut: allergische Reaktionen, Nierenschäden, Übertragung von Infektionskrankheiten (z. B. Hepatitis, HIV)\n• bei der Blutentnahme: Schwindel, Schwäche, geschwächtes Immunsystem\nLegale Alternative:\n• Höhentraining steigert auf natürliche Weise den Erythrozytengehalt",
+    "e": "Der Vorteil (mehr rote Blutkörperchen) ist zugleich die Gefahr (dickes Blut). Beispiel: Ein Ausdauersportler, der stattdessen drei Wochen in 2.000 m Höhe trainiert, erhöht seine Blutwerte legal und ohne Transfusionsrisiko.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-098",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Was versteht man unter chemischer und physikalischer Manipulation?",
+    "a": "• Methoden, die die Integrität und Validität von Dopingkontrollproben verändern (sollen)\n• chemische Manipulation: Zugabe von Chemikalien oder Enzymen zur Urinprobe, um Dopingsubstanzen durch Oxidation und Abbau zu zerstören\n• physikalische Manipulation: Abgabe von Fremdurin durch Täuschung des Kontrolleurs oder per Katheter; Austausch des Blaseninhalts gegen negative Urinprobe kurz vor der Kontrolle",
+    "e": "Hier wird nicht die Leistung manipuliert, sondern die Kontrolle. Beispiel: Ein Athlet versucht, mit einem versteckten Beutel sauberen Fremdurin abzugeben – das gilt selbst als schwerer Dopingverstoß.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-099",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingmittel",
+    "q": "Was ist Gendoping?",
+    "a": "• Methoden mit Eingriff in die Erbsubstanz oder Veränderung genetischer Informationen mit dem Ziel der Leistungssteigerung\n• nicht therapeutische Anwendung von Genen, Genelementen und/oder Zellen\n• z. B. Einschleusen von Genen, die die Aktivität von Proteinenzymen und damit die Kraftentwicklung erhöhen\n• bislang kein dokumentierter Fall\n• seit 2019 zu „Gen- und Zelldoping“ erweitert",
+    "e": "Gendoping wäre Doping, das im eigenen Erbgut steckt – und damit besonders schwer nachweisbar. Beispiel: Theoretisch könnte man ein Gen einschleusen, das die Muskeln dauerhaft mehr eigenes EPO oder Wachstumsfaktoren produzieren lässt.",
+    "quelle": "L22.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-100",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Welche drei Hauptargumente begründen das Dopingverbot und wie lassen sie sich aus den WADA-Kriterien ableiten?",
+    "a": "• Gesundheitsargument: Doping schadet der Gesundheit des Sportlers (aus K2: gesundheitliches Risiko)\n• Fairness- und Chancengleichheitsargument: Doping gefährdet gleiche Startvoraussetzungen (aus K1: Leistungssteigerung verschafft unfairen Vorteil, und K3)\n• Natürlichkeitsargument: Doping verletzt die Authentizität der sportlichen Leistung (aus K3: Verstoß gegen den Geist des Sports)",
+    "e": "Gesundheit, Fairness, Natürlichkeit – das sind die drei Säulen. Beispiel: Anabolika schaden der Leber (Gesundheit), verschaffen einen Vorsprung gegenüber sauberen Konkurrenten (Fairness) und die Leistung beruht nicht mehr nur auf Talent und Training (Natürlichkeit).",
+    "quelle": "L22.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-101",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Wo liegen die Grenzen des Gesundheitsarguments (nach Emrich et al., 2013)?",
+    "a": "• Widerspruch zu legitimen, aber gesundheitsschädlichen Sportarten: Körperverletzungen beim Gegner sind sozial legitimiert (Boxen, Kampfsport); hohe Eigengefährdung (Automobilsport, Ski alpin)\n• sportarttypische schädliche Verhaltensweisen sind erlaubt, z. B. „Gewichtmachen“ in der Sauna, Essstörungen in rhythmischer Sportgymnastik oder Skispringen\n• manche verbotene Substanzen könnten präventiv wirken: kürzere Regeneration, Vermeidung von Übertraining, schnellere Wiederherstellung nach Verletzungen und geringeres Risiko erneuter Verletzungen",
+    "e": "Wenn es wirklich nur um Gesundheit ginge, müsste man auch Boxen verbieten. Beispiel: Ein Judoka darf sich vor dem Wiegen in der Sauna Kilos „abschwitzen“, was sehr ungesund ist – ein Diuretikum mit ähnlicher Wirkung ist dagegen verboten.",
+    "quelle": "L22.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-102",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Was versteht man unter Chancengleichheit und wo liegen die Grenzen des Fairness- und Chancengleichheitsarguments?",
+    "a": "• Chancengleichheit: gleiche Startvoraussetzungen zu Wettkampfbeginn; der Ausgang soll nur von Talent und Anstrengung abhängen\nGrenzen:\n• Argument trägt nur, wenn Kontrollen international überall wirksam sind und Dopingsünder mit hoher Wahrscheinlichkeit bestraft werden\n• unterschiedlich strenge Kontrollen in verschiedenen Ländern → Sportler aus strengen Ländern fühlen sich benachteiligt und legitimieren Doping subjektiv zur Nachteilsvermeidung (spieltheoretische Analysen)\n• außerhalb des Wettkampfs gibt es ohnehin ungleiche Chancen: Einkommen, Infrastruktur, nationale Förderung",
+    "e": "Völlige Chancengleichheit gibt es im Sport nie. Beispiel: Ein Athlet aus einem reichen Land hat Höhenkammern und Sportmediziner, einer aus einem armen Land nicht – trotzdem ist nur Doping verboten.",
+    "quelle": "L22.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-103",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Warum würde auch eine Freigabe (Legalisierung) von Doping dem Chancengleichheitsargument widersprechen?",
+    "a": "• dann könnte zwar jeder dopen, aber die Wirksamkeit hinge von den ökonomischen Möglichkeiten ab (wer mehr Geld hat, dopt effizienter und sicherer)\n• Sportler, die aus gesundheitlichen oder moralischen Gründen nicht dopen wollen, wären faktisch vom Sieg ausgeschlossen",
+    "e": "Legalisierung würde die Ungleichheit nur verschieben – vom Kontrollsystem zum Geldbeutel. Beispiel: Ein Team mit eigenem Labor und Ärzten hätte bessere Mittel als ein Athlet, der sich Präparate im Internet besorgt.",
+    "quelle": "L22.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-104",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Was meint Authentizität der sportlichen Leistung und wo liegen die Grenzen des Natürlichkeitsarguments?",
+    "a": "• Authentizität: Spitzenleistungen dürfen nur auf natürliche, dem Menschen gegebene Möglichkeiten zurückgehen (Talent, Anlagen, Training, Motivation)\nGrenzen:\n• viele „künstliche“ Manipulationen sind erlaubt: operative Eingriffe nach Verletzungen (z. B. Achillessehne), Training in Unterdruckkammern, hochdosiertes Kreatin\n• Ungereimtheit: Unterdruckkammer zum Ausgleich des Höhenvorteils erlaubt, EPO mit ähnlichem Effekt verboten\n• natürliche Vorteile Hochbegabter werden teils begrenzt (Hämatokrit-Grenzwerte), in anderen Sportarten (Körpergröße im Basketball, Gewicht im Diskuswurf) nicht",
+    "e": "Was „natürlich“ ist, ist schwer abzugrenzen. Beispiel: Ein Läufer aus dem Flachland darf im Höhenzelt schlafen, um wie ein Kenianer aus dem Hochland mehr rote Blutkörperchen zu haben, EPO mit gleichem Ziel ist aber verboten.",
+    "quelle": "L22.3",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-105",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Welche zwei soziologischen Erklärungsansätze für Doping werden unterschieden?",
+    "a": "Methodologischer Kollektivismus (Homo sociologicus):\n• Doping als systemimmanentes Problem des Spitzensports\n• der Athlet ordnet sich den sozialen Zwängen des Systems teils unreflektiert unter\n• er ist in seiner Entscheidungsfreiheit eingeschränkt\nMethodologischer Individualismus (Homo oeconomicus):\n• Doping als absichtsgeleitetes Handeln des einzelnen Athleten im System von Interaktionen mit anderen\n• der Athlet stellt Kosten-Nutzen-Abwägungen an\n• Nutzen: soziale und materielle Absicherung, Siegesgefühl; Kosten: Strafrisiko, Gesundheitsgefährdung\n• Soziologie betrachtet Doping zunächst amoralisch und fragt nach Bedingungen, die Doping unwahrscheinlich machen",
+    "e": "Homo sociologicus = „Das System zwingt mich“, Homo oeconomicus = „Ich rechne, ob es sich lohnt“. Beispiel: Ein junger Radfahrer dopt, weil im ganzen Team gedopt wird (sociologicus); ein anderer, weil er ausrechnet, dass der Sponsorvertrag das Risiko einer Sperre überwiegt (oeconomicus).",
+    "quelle": "L22.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-106",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Welche intervenierenden Bedingungen machen Doping unwahrscheinlicher (Moraläquivalente nach Bette & Schimank, 2006)?",
+    "a": "• Angst vor Krankheit, Sucht und bleibenden Schäden\n• Angst vor Entdeckung und sozialer Diffamierung\n• Abschreckung durch ein funktionierendes Kontrollsystem\n• Einbettung in ein sozial-moralisches Milieu\n• außergewöhnliches Körper- und Talentkapital\n• relative Verletzungsfreiheit (z. B. gute physiotherapeutische Betreuung)\n• Positionsalternativen durch Herkunft und/oder Ausbildung\n• Zutrittsschwierigkeiten zu Gruppen mit unerwünschtem Verhalten\n• Geldknappheit",
+    "e": "Moraläquivalente wirken wie Moral, obwohl sie aus ganz anderen Gründen vor Doping schützen. Beispiel: Eine Athletin mit abgeschlossenem Studium (Positionsalternative) und stabilem Freundeskreis ist weniger darauf angewiesen, um jeden Preis zu gewinnen.",
+    "quelle": "L22.4",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-107",
+    "thema": "BONUS",
+    "kapitel": "L22 Dopingverbot und Soziologie",
+    "q": "Beurteile, ob moralische Appelle an jugendliche Leistungssportler Doping wirkungsvoll verhindern können.",
+    "a": "• Appelle allein sind wenig wirksam: Sie setzen nur beim Einzelnen an, während Doping auch systembedingt ist (Homo sociologicus)\n• bei Kosten-Nutzen-Abwägungen (Homo oeconomicus) wiegen hohe Erfolgsprämien und geringes Entdeckungsrisiko oft schwerer als Moral\n• wirksamer sind veränderte Bedingungen: funktionierende Kontrollen, Ausbildung und berufliche Alternativen, stabile soziale Milieus, gute medizinische Betreuung (Moraläquivalente)\n• Erziehung kann ergänzend wirken, wenn sie Werte vorlebt und Athleten stärkt, Druck zu widerstehen",
+    "e": "Moral predigen reicht nicht, wenn das Umfeld Doping belohnt. Beispiel: Ein Nachwuchsathlet hört im Präventionsseminar, Doping sei falsch, sieht aber, dass gedopte Konkurrenten Sponsoren bekommen – ohne Kontrollen und Alternativen verpufft der Appell.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.c-108",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Beschreibe das Ernährungsverhalten in Deutschland und nenne ernährungsbedingte Krankheiten.",
+    "a": "• Mehrheit der Erwachsenen übergewichtig, fast jeder Vierte adipös\n• etwa 15 % der Kinder und Jugendlichen übergewichtig oder adipös (etwa doppelt so viele wie 1975)\n• rund jeder fünfte Jugendliche zeigt Merkmale einer Essstörung, Mädchen fast doppelt so häufig wie Jungen\n• ernährungsbedingte Krankheiten: Herz-Kreislauf-Erkrankungen, Karies, Stoffwechselstörungen (Diabetes, Adipositas), verschiedene Krebserkrankungen\n• gesellschaftliche Folgekosten (Adipositas ca. 30 Mrd. Euro pro Jahr); Einkommensschwächere sind häufiger betroffen\n• im Leistungssport: krankhaftes Essverhalten zur Gewichtsreduktion",
+    "e": "Das Problem ist zweiseitig: zu viel Gewicht bei vielen, gestörtes Essverhalten und Untergewicht bei anderen. Beispiel: Während viele Jugendliche durch Fast Food und Bewegungsmangel zunehmen, hungern sich manche Turnerinnen oder Läuferinnen in ein gefährliches Untergewicht.",
+    "quelle": "L23",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-109",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Woraus setzt sich die Nahrung zusammen?",
+    "a": "• energieliefernde Bestandteile (Makronährstoffe): Kohlenhydrate, Fette, Eiweiße (Proteine); außerdem liefern Alkohol und Ballaststoffe Energie\n• nicht energieliefernde Bestandteile (Mikronährstoffe): Vitamine und Mineralstoffe\n• Mineralstoffe gliedern sich in Mengen-, Spuren- und Ultraspurenelemente\n• Wasser",
+    "e": "Makronährstoffe sind der Treibstoff, Mikronährstoffe die Schmiermittel und Werkzeuge im Motor. Beispiel: Nudeln liefern vor allem Energie (Kohlenhydrate), ein Apfel zusätzlich Vitamin C, das selbst keine Energie liefert, aber viele Stoffwechselvorgänge ermöglicht.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-110",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Wie viel Energie liefern die energieliefernden Nahrungsbestandteile pro Gramm?",
+    "a": "• Kohlenhydrate: 4 kcal/g (Einfach-, Zweifach-, Mehrfachzucker)\n• Fett: 9 kcal/g (Neutralfette aus Fettsäuren und Glycerin, Cholesterin)\n• Protein: 4 kcal/g (z. B. Motor-, Stütz-, Gerüst- und Blutproteine aus Aminosäuren)\n• Alkohol: 7 kcal/g (Ethanol)\n• Ballaststoffe: 2 kcal/g (unverdauliche Mehrfachzucker wie Zellulose, Pektin; Holzstoffe)",
+    "e": "Merke: Fett hat mehr als doppelt so viele Kalorien wie Kohlenhydrate oder Eiweiß, und Alkohol liegt fast gleichauf mit Fett. Beispiel: 10 g Butter liefern etwa 90 kcal, 10 g Zucker nur etwa 40 kcal.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-111",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Wie werden Vitamine und Mineralstoffe eingeteilt?",
+    "a": "Vitamine:\n• fettlöslich: A, D, E, K\n• wasserlöslich: C und B-Komplex\nMineralstoffe:\n• Mengenelemente: Natrium, Kalium, Chlorid, Kalzium, Phosphor, Magnesium, Schwefel\n• Spurenelemente: z. B. Eisen, Jod, Fluorid, Zink, Selen, Kupfer, Mangan, Chrom, Molybdän, Kobalt\n• Ultraspurenelemente: z. B. Nickel, Silicium, Vanadium",
+    "e": "Eselsbrücke für die fettlöslichen Vitamine: „EDEKA“ (E, D, K, A). Beispiel: Vitamin D aus Fisch wird besser aufgenommen, wenn etwas Fett dabei ist; für Ausdauersportler ist das Spurenelement Eisen wichtig für die Blutbildung.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-112",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Welche Nährstoffe sind essenziell und warum?",
+    "a": "• essenziell (unentbehrlich): Wasser, einige Amino- und Fettsäuren, die meisten Vitamine, alle Mengen- und Spurenelemente\n• der Körper kann sie nicht selbst herstellen (synthetisieren)\n• sie müssen daher mit der Nahrung aufgenommen werden",
+    "e": "Essenziell heißt: ohne Zufuhr von außen geht es nicht. Beispiel: Omega-3-Fettsäuren kann der Körper nicht selbst bilden – man muss sie z. B. über Fisch, Walnüsse oder Rapsöl aufnehmen.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-113",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Unterscheide Nährstoffbedarf und Nährstoffzufuhrempfehlung.",
+    "a": "Nährstoffbedarf:\n• die Menge eines Nährstoffs, die zugeführt werden muss, damit seine Konzentration im Körper alle Funktionen sicherstellt\n• individuelle Größe, abhängig von Alter, Geschlecht, Gesundheitszustand, besonderer Leistung (Sport), Klima\n• bei Leistungssportlern ist der Bedarf an Kohlenhydraten und Proteinen höher als bei Gesundheitssportlern\nNährstoffzufuhrempfehlung:\n• Nährstoffmengen, die ausreichen sollen, um die Bevölkerung vor Gesundheitsstörungen durch Unterversorgung zu schützen\n• Angabe als tägliche Verzehrmenge oder als Nährstoffdichte",
+    "e": "Bedarf gilt für dich persönlich, die Empfehlung für die Bevölkerung im Durchschnitt. Beispiel: Ein Triathlet mit 20 Trainingsstunden pro Woche hat einen viel höheren Kohlenhydratbedarf, als die allgemeine Empfehlung für Erwachsene angibt.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-114",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Was ist die Nährstoffdichte und wie wird sie berechnet?",
+    "a": "• Quotient aus Nährstoffzufuhr und Energiezufuhr\n• Mikronährstoffe: Einheit mg pro 1.000 kcal\n• Makronährstoffe: Anteil am Brennwert in Energieprozent (En%)\n• Berechnung Makronährstoff: (Gramm × kcal pro Gramm) ÷ Gesamtenergie × 100\n• hoch, wenn Lebensmittel nährstoffreich und/oder energiearm sind; niedrig bei nährstoffarmen und/oder energiereichen Lebensmitteln\n• dient auch zur Bewertung einzelner Lebensmittel",
+    "e": "Die Nährstoffdichte zeigt, wie viel „Gutes“ pro Kalorie drin ist. Beispiel aus dem Buch: 100 g Hüttenkäse liefern 12,6 g Eiweiß bei 102 kcal; 12,6 × 4 = 50,4 kcal, also rund 50 En% Eiweiß. Joghurt kommt nur auf etwa 15 En%.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-115",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Welche Verteilung der Makronährstoffe empfiehlt die DGE und warum sind Prozentangaben für Sportler oft ungeeignet?",
+    "a": "DGE-Empfehlung (Anteil an der Energiezufuhr):\n• Kohlenhydrate ca. 55 %\n• Fette ca. 30 %\n• Eiweiße 12–15 %\nProblem bei Sportlern:\n• Prozentwerte sind ungeeignet bei sehr niedriger oder sehr hoher Energiezufuhr\n• bei sehr hoher Energiezufuhr ergeben 12–15 % viel mehr Eiweiß als nötig, bei sehr niedriger zu wenig\n• daher werden Empfehlungen für Sportler für Kohlenhydrate und Eiweiß in g pro kg Körpergewicht pro Tag (g/kg/d) angegeben",
+    "e": "Prozent ist relativ – bei riesigen Kalorienmengen wird daraus eine riesige Grammzahl. Beispiel: Ein 75-kg-Radprofi mit über 5.000 kcal am Tag käme mit 12–15 % auf 150–188 g Eiweiß, also 2–2,5 g/kg – deutlich mehr als für Ausdauersportler empfohlen.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-116",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Welche Tageszufuhr an Makronährstoffen wird für Freizeit-, Ausdauer- und Kraftsportler empfohlen (nach Schek, 2018)?",
+    "a": "Kohlenhydrate:\n• Freizeitsportler 3–5 g/kg/d\n• Ausdauersportler: 1–3 h Sport/Tag 6–10 g/kg/d; 4–5 h Sport/Tag 8–12 g/kg/d\n• Kraftsportler 5–7 g/kg/d\nProteine:\n• Freizeitsportler 0,8–1 g/kg/d\n• Ausdauersportler 1,2–1,4 g/kg/d\n• Kraftsportler 1,2–1,7 g/kg/d\nFette:\n• Freizeit- und Kraftsportler 30 En%, Ausdauersportler 20–35 En%",
+    "e": "Ausdauersportler brauchen vor allem viele Kohlenhydrate, Kraftsportler etwas mehr Eiweiß – aber weniger, als viele denken. Beispiel: Eine 60 kg schwere Läuferin mit 2 Stunden Training pro Tag braucht etwa 360–600 g Kohlenhydrate täglich.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-117",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Welche Basiskost eignet sich für Sportler?",
+    "a": "• eine ausgewogene, vollwertige Mischkost nach mediterranem Vorbild (Oliven-/Rapsöl, Nüsse und Samen)\n• dieselbe Ernährung wird auch Nichtsportlern empfohlen\n• Merkmale: Ausgewogenheit in der Nährstoffzusammensetzung und Abwechslungsreichtum in der Lebensmittelauswahl\n• Wegweiser: die 10 Regeln der DGE",
+    "e": "Sportler brauchen keine Spezialdiät, sondern eine gute normale Ernährung – nur eventuell mehr davon. Beispiel: Vollkornnudeln mit Gemüse, Olivenöl und etwas Fisch passen genauso für eine Handballerin wie für ihre Eltern.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-118",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Nenne die Regeln 1 bis 5 der DGE für eine vollwertige Ernährung.",
+    "a": "1. Lebensmittelvielfalt genießen: abwechslungsreich essen, überwiegend pflanzliche Lebensmittel\n2. Gemüse und Obst – „5 am Tag“: mindestens 3 Portionen Gemüse und 2 Portionen Obst, auch Hülsenfrüchte und ungesalzene Nüsse\n3. Vollkorn wählen: bei Brot, Nudeln, Reis und Mehl die Vollkornvariante\n4. Mit tierischen Lebensmitteln die Auswahl ergänzen: Milchprodukte täglich, Fisch 1–2-mal pro Woche, höchstens 300–600 g Fleisch pro Woche\n5. Gesundheitsfördernde Fette nutzen: pflanzliche Öle wie Rapsöl bevorzugen, versteckte Fette (Wurst, Gebäck, Fast Food, Fertigprodukte) meiden",
+    "e": "Die ersten fünf Regeln sagen, was auf den Teller soll: viel Pflanzliches, Vollkorn, wenig Fleisch, gute Fette. Beispiel: Müsli mit Haferflocken, Joghurt und Beeren erfüllt gleich mehrere Regeln auf einmal.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-119",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Nenne die Regeln 6 bis 10 der DGE für eine vollwertige Ernährung.",
+    "a": "6. Zucker und Salz einsparen: zuckergesüßte Lebensmittel und Getränke meiden, mit Kräutern und Gewürzen würzen\n7. Am besten Wasser trinken: rund 1,5 Liter täglich, Wasser oder ungesüßter Tee; keine zuckergesüßten oder alkoholischen Getränke\n8. Schonend zubereiten: so lange wie nötig, so kurz wie möglich garen, mit wenig Wasser und Fett; Verbrennen vermeiden\n9. Achtsam essen und genießen: Pausen für Mahlzeiten, Zeit lassen\n10. Auf das Gewicht achten und in Bewegung bleiben: vollwertige Ernährung und körperliche Aktivität gehören zusammen, auch ein aktiver Alltag",
+    "e": "Die zweiten fünf Regeln betreffen Trinken, Zubereitung und Lebensstil. Beispiel: Wer Gemüse dämpft statt frittiert, Wasser statt Cola trinkt und mit dem Rad zur Schule fährt, setzt die Regeln 6, 7, 8 und 10 um.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-120",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Was kennzeichnet die mediterrane Ernährung und welche gesundheitlichen Vorteile hat sie?",
+    "a": "Merkmale:\n• reichlich pflanzliche Nahrung (Obst, Gemüse, Hülsenfrüchte, Nüsse, Vollkorngetreide)\n• Olivenöl als wichtigste Fettquelle\n• moderater Verzehr tierischer Lebensmittel (Fisch, Geflügel, Eier, Milchprodukte)\n• wenig Süßigkeiten, täglich bis zu einem Glas Wein zum Essen\nVorteile:\n• schützt vor Fettstoffwechselstörungen\n• begrenzte glykämische Last beugt Glukosetoleranzstörungen (Vorstufe von Typ-2-Diabetes) vor\nMediterraner Ernährungskreis (Schek):\n• Außenkreis (Obst, Gemüse, Vollkorn, Hülsenfrüchte, fettarme Milchprodukte usw.) = zwei Drittel der Nahrung\n• Innenkreis (z. B. Süßwaren, raffinierte Getreideprodukte, Alkohol) = ein Drittel, eher Nebenbestandteile",
+    "e": "Die Mittelmeerküche gilt als eine der gesündesten der Welt. Beispiel: Ein Teller Linsensalat mit Tomaten, Olivenöl und Vollkornbrot, dazu etwas Fisch, ist typisch mediterran.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-121",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Welche täglichen Portionen einer mediterranen Ernährung empfiehlt Schek (2018) für Leistungssportler?",
+    "a": "(Portion = mindestens eine Handvoll, abhängig vom Energiebedarf)\n• 9 Portionen Obst und Gemüse (2 davon als Saft, je 1 durch Nüsse bzw. Hülsenfrüchte ersetzbar)\n• 6 Portionen Vollkornerzeugnisse\n• 3 Portionen stark blutzuckerwirksame Produkte (z. B. Bananen, Reis, Kartoffeln, Nudeln)\n• 3 Portionen fettarme Milchprodukte\n• 2 Portionen sonstige tierische Produkte (Fisch, Geflügel, Eier, mageres Fleisch)\n• gelegentlich eine Portion Alkohol\n• Zubereitung mit Raps-, Oliven- oder Walnussöl",
+    "e": "Merkhilfe: 9 – 6 – 3 – 3 – 2. Beispiel: Ein Ruderer isst morgens Müsli mit Obst, mittags Vollkornnudeln mit Gemüse und Hähnchen, nachmittags eine Banane und Quark – und hat damit schon einen großen Teil seiner Portionen.",
+    "quelle": "L23.1",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-122",
+    "thema": "BONUS",
+    "kapitel": "L23 Ernährung",
+    "q": "Erläutere die Bedeutung der energieliefernden Nährstoffe für ein gesundheitsorientiertes Fitnesstraining.",
+    "a": "• Kohlenhydrate: schnell verfügbarer Hauptenergielieferant für intensivere Belastungen; gefüllte Glykogenspeicher erhalten Leistungsfähigkeit und Konzentration; Wiederauffüllen nach dem Training\n• Fette: Hauptenergiequelle bei lang andauernder, niedriger bis mittlerer Belastung (aerobes Ausdauertraining); liefern essenzielle Fettsäuren und fettlösliche Vitamine\n• Proteine: Baustoff für Muskulatur, Enzyme, Hormone; wichtig für Anpassung und Regeneration nach Krafttraining; als Energielieferant nur untergeordnet\n• alle drei in ausgewogener Mischung nach DGE-Empfehlungen",
+    "e": "Kohlenhydrate sind das Benzin für schnelle Fahrt, Fette der große Tank für lange Strecken, Eiweiß das Baumaterial. Beispiel: Nach einem sanften Krafttraining hilft ein Vollkornbrot mit Quark sowohl beim Auffüllen der Speicher als auch beim Muskelaufbau.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "bonus.c-123",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Inwiefern kann das in der Werbung präsentierte Körperideal krank machen?",
+    "a": "• Werbung zeigt sehr schlanke, fast magere Frauen und athletische, austrainierte Männer\n• das Männerideal kann gesundheitlich wünschenswert sein, das Frauenideal ist aus gesundheitlicher Sicht abzulehnen\n• es kann zu gestörtem Essverhalten und Essstörungen führen\n• KiGGS-Studie: 21,9 % der 11- bis 17-Jährigen zeigen Merkmale einer Essstörung, Mädchen fast doppelt so häufig\n• GOAL-Studie: 35,5 % der befragten 14- bis 18-jährigen Kaderathleten zeigen krankhaftes Essverhalten\n• Männer bevorzugen meist gar nicht die dünnste Figur, sondern eine mittlere (Miller, 2001)",
+    "e": "Das Schönheitsideal der Werbung ist oft unerreichbar und ungesund. Beispiel: Im Marathon heißt es spöttisch „Vorne laufen die Bleistifte, hinten tappen die Radiergummis“ – manche Läuferinnen hungern sich in die Magersucht, um Sekunden zu gewinnen.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-124",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Woraus setzt sich der Gesamtenergieumsatz eines Menschen zusammen?",
+    "a": "• Grundumsatz (GU): Energie für lebensnotwendige Funktionen in Ruhe\n• Leistungsumsatz: Energie für körperliche Aktivität\n• thermogene Wirkung der Nahrung: Wärmebildung bzw. Energieaufwand für die Verarbeitung der Nahrung\n• ein niedriger Wert in einem Bereich begünstigt eine Gewichtszunahme, hohe Werte schützen vor Übergewicht",
+    "e": "Gesamtumsatz = Grundumsatz + Leistungsumsatz + Thermogenese. Beispiel: Ein Schüler verbraucht im Schlaf (Grundumsatz), beim Fußballtraining (Leistungsumsatz) und sogar beim Verdauen seines Mittagessens (Thermogenese) Energie.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-125",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Welchen Einfluss hat die Muskelmasse auf den Grundumsatz und welche Folgen hat langes Fasten?",
+    "a": "• Muskelgewebe ist stoffwechselaktiver als Fettgewebe → mehr Muskelmasse erhöht den Grundumsatz\n• langes Fasten führt zu Muskelabbau: Bei 10 % Gewichtsreduktion sinkt der GU um etwa 16 %\n• Maßnahmen zur Gewichtsreduktion sollten daher immer Krafttraining enthalten\n• Übergewichtige können trotz geringerer Aktivität einen gleich hohen oder höheren Gesamtumsatz haben, da sie mehr Muskelmasse zum Tragen des Körpergewichts besitzen\n• körperliche Aktivität erzeugt eine negative Energiebilanz, die durch Ernährungsumstellung verstärkt wird",
+    "e": "Muskeln sind „Kalorienfresser“, auch in Ruhe. Beispiel: Wer durch eine Crash-Diät Muskeln verliert, verbraucht danach im Alltag weniger Energie und nimmt bei normalem Essen schnell wieder zu.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-126",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Was ist der PAL-Wert und wie schätzt man damit den Gesamtumsatz?",
+    "a": "• PAL = physical activity level: international anerkanntes Maß für die körperliche Aktivität\n• Gesamtumsatz ≈ Grundumsatz × durchschnittlicher PAL-Wert\n• übliche Werte: 1,2 bei ausschließlich sitzender/liegender Lebensweise bis 2,4 bei Schwerstarbeitern",
+    "e": "Der PAL-Wert ist ein Multiplikator für deinen Alltag. Beispiel: Eine Schülerin mit 1.400 kcal Grundumsatz und überwiegend sitzender Tätigkeit plus etwas Sport (PAL etwa 1,6) verbraucht rund 2.240 kcal pro Tag.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-127",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Welche einfachen Verfahren zur Ermittlung von Übergewicht gibt es?",
+    "a": "• Broca-Formel\n• Body-Mass-Index (BMI)\n• Taillen-Hüft-Verhältnis (Waist-to-Hip-Ratio, WHR) und Taillenumfang",
+    "e": "Alle drei kommen ohne teure Geräte aus – nur Waage und Maßband. Beispiel: Beim Sportarzt werden oft BMI und Taillenumfang zusammen bestimmt, weil sich die Verfahren gegenseitig ergänzen.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-128",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Erläutere die Broca-Formel und ihre Grenzen.",
+    "a": "• Normalgewicht (kg) = Körpergröße (cm) – 100\n• Sollgewicht Frauen = 0,85 × Normalgewicht\n• Sollgewicht Männer = 0,90 × Normalgewicht\n• Übergewicht ab 1,10 × Normalgewicht\nBewertung:\n• Vorteil: sehr einfache Handhabung\n• ungeeignet für Kinder und Jugendliche\n• kleine Menschen werden zu oft, große zu selten als übergewichtig eingestuft",
+    "e": "Die Formel ist schnell im Kopf gerechnet, aber grob. Beispiel: Ein 180 cm großer Mann hat ein Normalgewicht von 80 kg, ein Sollgewicht von 72 kg und gilt ab 88 kg als übergewichtig.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-129",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Wie berechnet man den BMI und wie klassifiziert die WHO das Körpergewicht danach?",
+    "a": "• BMI = Körpergewicht (kg) ÷ [Körpergröße (m)]²\nWHO-Klassifikation (Erwachsene, kg/m²):\n• starkes Untergewicht: unter 16\n• mäßiges Untergewicht: 16–17\n• leichtes Untergewicht: 17–18,5\n• Normalgewicht: 18,5–25\n• Präadipositas (Übergewicht): 25–30\n• Adipositas Grad I: 30–35\n• Adipositas Grad II: 35–40\n• Adipositas Grad III: ab 40",
+    "e": "Wichtig sind vor allem die Grenzen 18,5, 25 und 30. Beispiel aus dem Buch: Ein 1,83 m großer Mann mit 85 kg hat einen BMI von 85 ÷ 1,83² ≈ 25,4 und gilt laut WHO als übergewichtig (präadipös).",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-130",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Bewerte den BMI kritisch.",
+    "a": "• Vorteil: einfach, schnell, international vergleichbar\n• aber: unterscheidet nicht zwischen Fett- und Muskelmasse\n• hohes Gewicht kann auch durch viel Muskelmasse, hohe Knochendichte, starke Knochen- und Gelenkdurchmesser oder breite Schultern entstehen\n• Männer haben mehr Muskelmasse als Frauen\n• besonders bei Sportlern ungeeignet: austrainierte Kraftsportler haben ohne viel Körperfett einen hohen BMI\n• die Fettverteilung (Bauchfett) wird nicht erfasst\n• die Diagnose von Unter- oder Übergewicht anhand fester Grenzwerte ist daher sehr umstritten",
+    "e": "Der BMI sieht nur das Gewicht, nicht, woraus es besteht. Beispiel: Ein Rugbyspieler mit 1,85 m und 100 kg hat einen BMI von etwa 29 und wäre „übergewichtig“, obwohl er kaum Körperfett hat. Eine Körperanalysewaage würde das zeigen.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-131",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Wie wird das Taillen-Hüft-Verhältnis (THV) berechnet und interpretiert?",
+    "a": "• THV = Taillenumfang ÷ Hüftumfang\n• Taille: in der Mitte zwischen unterer Rippe und oberem Beckenkamm; Hüfte: an der breitesten Stelle\n• hoher Wert weist auf erhöhtes Risiko für Herz-Kreislauf-Erkrankungen und metabolisches Syndrom hin\nInterpretation (Frauen | Männer):\n• geringes Risiko: unter 0,80 | unter 0,90\n• leicht erhöhtes Risiko: 0,80–0,85 | 0,90–1,0\n• hohes Risiko: über 0,85 | über 1,0\nTaillenumfang:\n• deutlich erhöhtes Risiko ab über 88 cm (Frauen) bzw. über 102 cm (Männer)\n• Zielwerte: unter 80 cm (Frauen) bzw. unter 94 cm (Männer)",
+    "e": "Das THV erfasst, wo das Fett sitzt – und Bauchfett ist besonders gefährlich. Beispiel: Ein Mann mit 100 cm Taille und 95 cm Hüfte hat ein THV von etwa 1,05 und damit ein hohes Gesundheitsrisiko, auch wenn sein BMI unauffällig sein mag.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-132",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Warum ist Krafttraining ein unverzichtbarer Bestandteil eines Programms zur Gewichtsreduktion?",
+    "a": "• erhält bzw. erhöht die Muskelmasse → höherer Grundumsatz → Körperfettreduktion\n• ohne Krafttraining und ausreichende Eiweißzufuhr können bei kalorienreduzierter Ernährung bis zu 50 % des Gewichtsverlusts aus Muskelgewebe bestehen\n• Muskelverlust senkt den Grundumsatz → nach der Diät weniger Kalorienbedarf → erneute Gewichtszunahme wahrscheinlicher, Fettabbau wird verhindert\n• Muskeln verbrauchen 24 Stunden lang Energie, auch im Schlaf (0,5–1 kg Muskelmasse verbrennen etwa 50 kcal pro Tag mehr als Fett)",
+    "e": "Krafttraining sorgt dafür, dass beim Abnehmen das Fett geht und die Muskeln bleiben. Beispiel: Zwei Personen machen dieselbe Diät; die mit Krafttraining hat am Ende einen höheren Grundumsatz und hält ihr Gewicht leichter.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-133",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Warum ist beim Abnehmen der Körperfettanteil wichtiger als das Körpergewicht?",
+    "a": "• entscheidend ist die Verringerung des Körperfettanteils, nicht der kurzfristige Gewichtsverlust\n• Muskelgewebe ist schwerer als Fettgewebe\n• bleibt die Muskelmasse erhalten und wird vor allem Fett abgebaut, sinkt das Gewicht zunächst langsamer als bei gleichzeitigem Muskelverlust\n• langfristiger Vorteil: höherer Grundumsatz",
+    "e": "Die Waage kann täuschen. Beispiel: Eine Frau, die mit Krafttraining beginnt, verliert in einem Monat nur 1 kg, ihre Hose sitzt aber deutlich lockerer – sie hat Fett ab- und Muskeln aufgebaut.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-134",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Welche Bedeutung hat Ausdauertraining für die Gewichtsreduktion?",
+    "a": "• steigert über den Leistungsumsatz den täglichen Gesamtumsatz\n• unterstützt Stoffwechselvorgänge, die die Fetteinlagerung erschweren\n• stärkt das Herz-Kreislauf-System und verbessert das Wohlbefinden\n• intensives Ausdauertraining ist ebenso empfehlenswert wie moderates, lang andauerndes Training, sofern keine Gelenkschäden drohen\n• entscheidend für den Erfolg ist eine negative Energiebilanz, nicht die Art der Energiebereitstellung im Training",
+    "e": "Ausdauertraining erhöht den Verbrauch, aber abnehmen tut man nur, wenn insgesamt mehr verbraucht als gegessen wird. Beispiel: Wer nach dem Joggen zur Belohnung ein großes Stück Kuchen isst, hat den Kalorienverbrauch schnell wieder ausgeglichen.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-135",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Erläutere das Missverständnis vom „Fettverbrennungstraining“ mit niedriger Intensität (Vergleich zweier Läufer).",
+    "a": "• „Fettverbrennung“ bezeichnet nur die Art der Energiebereitstellung; für das Abnehmen zählt die negative Energiebilanz\n• Läufer 1 (langsam, niedrige Herzfrequenz, extensive Dauermethode): 300 kcal, davon 70 % aus Fett → 210 kcal Fett\n• Läufer 2 (höhere Intensität, gleiche Dauer, intensive Dauermethode): 500 kcal, davon 50 % aus Fett → 250 kcal Fett\n• bei gleicher Dauer verbraucht das intensivere Training mehr Gesamt- und sogar mehr Fettkalorien\n• niedrige Intensität ist trotzdem gesundheitlich sinnvoll (schonend, gut für Einsteiger)",
+    "e": "Der prozentuale Fettanteil ist beim langsamen Laufen höher, die absolute Menge aber geringer. Beispiel: 70 % von 300 kcal sind weniger als 50 % von 500 kcal – wer gleich lange schneller läuft, verbrennt also insgesamt mehr Fett.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-136",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Was bedeutet der Begriff Diät und welche Grundsätze gelten für Diäten zur Gewichtsreduktion?",
+    "a": "• griechisch „diaita“ = Lebensführung; Diät = auf die Bedürfnisse eines Kranken oder Übergewichtigen abgestimmte Ernährungsweise; umgangssprachlich = Reduktionsdiät\n• Diäten zielen auf gesunde Ernährung und Reduktion des Körpergewichts\n• neben mediterraner und vollwertiger Basiskost werden kohlenhydratreduzierte (Low Carb) und fettreduzierte (Low Fat) Formen unterschieden\n• von einseitigen Reduktionsdiäten mit stark reduzierter Kalorienzufuhr und rigidem Essverhalten ist dringend abzuraten\n• Diäten nur unter ärztlicher Aufsicht und mit Ernährungsberatung im Rahmen eines ganzheitlichen Programms",
+    "e": "Eigentlich meint Diät eine dauerhafte Lebensweise, nicht eine kurze Hungerkur. Beispiel: Eine dauerhafte Umstellung auf mediterrane Kost ist eine sinnvolle „Diät“, eine zweiwöchige Saftkur nicht.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-137",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Welche Ernährungsmuster eignen sich zur Gewichtsreduktion und was ist bei ihnen zu beachten (nach Schek, 2018)?",
+    "a": "• alle setzen eine negative Energiebilanz voraus\n• mediterran, vollwertig (DGE), vegetarisch: gut mit hohen sportlichen Leistungen vereinbar, mit hoher Lebenserwartung verbunden\n• paläolithisch: naturbelassene pflanzliche Lebensmittel, Eier, mageres Fleisch, kein Getreide und keine Milchprodukte; Nachteil: wenig Kohlenhydrate und Ballaststoffe\n• Low Glycemic: Lebensmittel mit niedriger glykämischer Last (weniger Stärke und Zucker); Nachteil: zu wenig schnell verfügbare Kohlenhydrate rund um die Belastung\n• Low Carb: Kohlenhydratreduktion; für Sportler nur nach der Karriere oder in Sportpausen\n• Low Fat: Reduktion des Fettanteils\n• Auswahl abhängig von Gesundheitszustand, Genetik, Umsetzbarkeit und Vorlieben; Einstieg mit Ernährungsfachkraft oder Arzt",
+    "e": "Es gibt nicht die eine richtige Diät – entscheidend ist, dass man weniger Energie aufnimmt als verbraucht und es durchhält. Beispiel: Eine Ausdauersportlerin sollte im Training nicht Low Carb essen, weil ihr dann die schnelle Energie für intensive Einheiten fehlt.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-138",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Welche Nachteile haben einseitige Reduktionsdiäten?",
+    "a": "• Abbau von Muskelmasse statt Fettgewebe\n• Aufbau von Fettdepots durch Vortäuschen einer Hungersnot: Körper schaltet auf Sparbetrieb (Grundumsatz sinkt), nach der Diät Überkompensation mit vermehrter Fetteinlagerung\n• zu geringe Nährstoffzufuhr durch einseitige Lebensmittelauswahl, Mangelerscheinungen\n• verminderte Leistungsfähigkeit: Kreislaufstörungen, Heißhunger, Kraftlosigkeit, Müdigkeit, Verstopfung, Konzentrationsstörungen\n• Essstörungen durch Heißhungerattacken (z. B. Bulimie)\n• Störung des psychischen Gleichgewichts: erneute Gewichtszunahme wird als Versagen erlebt → nächste Diät → Teufelskreis\n• schnelle Anfangserfolge (oft nur Wasser und Muskeln), aber keine langfristige Verhaltensänderung",
+    "e": "Crash-Diäten bringen schnell sichtbare Ergebnisse, aber fast nur Nachteile. Beispiel: Bei einer Hollywood-Diät mit etwa 450 kcal am Tag verliert man in einer Woche einige Kilo, vor allem Wasser und Muskeln – und ist danach müde, schlapp und schnell wieder schwerer.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-139",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Erkläre den Jo-Jo-Effekt.",
+    "a": "• bei sehr niedriger Energiezufuhr signalisiert der Körper eine Notzeit (Hungersnot)\n• er reagiert mit Überlebenssicherung: Sparbetrieb, Senkung des Grundumsatzes, Muskelabbau\n• nach Ende der Diät folgt eine Gegenreaktion (Überkompensation): Der Körper legt zum Schutz vermehrt Fettdepots an\n• das Gewicht steigt rasch wieder an, oft über das Ausgangsgewicht\n• wiederholtes Durchlaufen dieses Kreislaufs = Jo-Jo-Effekt",
+    "e": "Wie ein Jo-Jo geht das Gewicht runter und wieder hoch, oft höher als vorher. Beispiel: Jemand nimmt mit einer Crash-Diät 6 kg ab, isst danach normal und wiegt nach drei Monaten 2 kg mehr als vor der Diät.",
+    "quelle": "L23.2",
+    "typ": "kern"
+  },
+  {
+    "id": "bonus.c-140",
+    "thema": "BONUS",
+    "kapitel": "L23 Gewichtsreduktion",
+    "q": "Entwirf die Grundzüge eines ganzheitlichen Programms zur Gewichtsreduktion.",
+    "a": "Ernährung:\n• moderate negative Energiebilanz (kein Crash), ausgewogene mediterrane/vollwertige Kost nach DGE-Regeln\n• ausreichend Eiweiß zum Muskelerhalt, viel Gemüse, Vollkorn, Wasser statt zuckerhaltiger Getränke\nBewegung:\n• Krafttraining (2–3-mal pro Woche) zum Erhalt bzw. Aufbau von Muskelmasse und Grundumsatz\n• Ausdauertraining zur Erhöhung des Leistungsumsatzes und Stärkung des Herz-Kreislauf-Systems\n• aktiver Alltag (Rad, Treppe)\nGesundheitsförderung:\n• realistische Ziele, Körperfettanteil statt Waage als Maßstab\n• Stärkung psychosozialer Ressourcen (Selbstkonzept, soziale Unterstützung, Gruppe), Bindung an Sport\n• Stressbewältigung, ausreichend Schlaf, achtsames Essen\n• ärztliche und ernährungsfachliche Begleitung",
+    "e": "Nachhaltiges Abnehmen ruht auf drei Säulen: essen, bewegen, Kopf und Umfeld. Beispiel: Ein übergewichtiger Jugendlicher, der in einer Sportgruppe zweimal pro Woche Kraft und Ausdauer trainiert, Softdrinks durch Wasser ersetzt und von Freunden unterstützt wird, hält sein Gewicht langfristig besser als mit einer Hungerkur.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  }
+]

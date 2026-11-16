@@ -1,0 +1,922 @@
+[
+  {
+    "id": "q2.2-001",
+    "thema": "Q2.2",
+    "kapitel": "Kraftbegriff und Arbeitsweisen",
+    "q": "Definiere Kraft im Sport (biologische Definition).",
+    "a": "Kraft im Sport ist die Fähigkeit des neuromuskulären Systems,\n• durch Innervations- und Stoffwechselprozesse\n• mit Muskelkontraktionen von mehr als 30 % des individuellen Kraftmaximums\n• Widerstände zu überwinden (konzentrische Arbeit),\n• ihnen entgegenzuwirken (exzentrische Arbeit) bzw.\n• sie zu halten (isometrische Arbeit).\n(nach Grosser & Zintl; Steinhöfer; Harre)",
+    "e": "Kraft ist im Sport nicht nur Physik, sondern das Zusammenspiel von Nerven (Innervation) und Muskeln (Stoffwechsel). Erst ab etwa 30 % des Maximums spricht man von Kraft, darunter eher von Ausdauer. Beispiel: Beim Klimmzug überwindest du dein Körpergewicht (hochziehen), hältst es (oben verharren) und bremst es (herablassen) – alles sind Kraftleistungen.",
+    "quelle": "L13.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-002",
+    "thema": "Q2.2",
+    "kapitel": "Kraftbegriff und Arbeitsweisen",
+    "q": "Grenze den physikalischen vom biologischen Kraftbegriff ab.",
+    "a": "• Physikalisch (2. Newtonsches Axiom): Kraft = Masse · Beschleunigung (F = m · a). Bedeutsam für biomechanische Untersuchungen.\n• Biologisch (Trainingslehre): Kraft ist die Fähigkeit des neuromuskulären Systems, durch Innervations- und Stoffwechselprozesse Widerstände zu überwinden, ihnen entgegenzuwirken oder sie zu halten (> 30 % des Kraftmaximums).\n• Die Trainingslehre interessiert sich vor allem für den biologischen Kraftbegriff, weil er die trainierbaren Voraussetzungen (Nerven, Muskeln) beschreibt.",
+    "e": "Die Physik fragt: Wie groß ist die Kraft, die wirkt? Die Trainingslehre fragt: Was kann der Körper leisten und wie kann man das verbessern? Beispiel: Ein Biomechaniker misst beim Sprint die Bodenreaktionskraft in Newton, ein Trainer überlegt, wie er die Beinstrecker des Sprinters kräftiger macht.",
+    "quelle": "L13.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-003",
+    "thema": "Q2.2",
+    "kapitel": "Kraftbegriff und Arbeitsweisen",
+    "q": "Nenne und beschreibe die drei Arbeitsweisen eines Skelettmuskels.",
+    "a": "• Isometrisch (statisch-haltend): Spannungszunahme ohne Längenänderung des Muskels; Widerstand wird gehalten.\n• Konzentrisch (positiv-dynamisch, überwindend): Spannungszunahme mit Verkürzung; Muskel wird kürzer, dicker, härter; Widerstand wird überwunden.\n• Exzentrisch (negativ-dynamisch, nachgebend, bremsend): Spannung trotz Kontraktion bei gleichzeitiger Dehnung/Verlängerung des Muskels; Bewegung wird abgebremst.\n• Konzentrische und exzentrische Arbeit zusammen = dynamische Arbeit.",
+    "e": "Merke: konzentrisch = zusammenziehen (zum Zentrum hin), exzentrisch = vom Zentrum weg (Muskel wird lang, bremst aber). Beispiel Klimmzug: Hochziehen = Bizeps konzentrisch, oben halten = isometrisch, langsam herablassen = Bizeps exzentrisch.",
+    "quelle": "L13.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-004",
+    "thema": "Q2.2",
+    "kapitel": "Kraftbegriff und Arbeitsweisen",
+    "q": "Beschreibe anhand des Muskelmodells (Tab. 13.1), was bei isometrischer, konzentrischer und exzentrischer Arbeitsweise mit kontraktilen Elementen, elastischen Elementen, Muskellänge und Muskelspannung passiert.",
+    "a": "Isometrisch:\n• Kontraktile Elemente: Kontraktion; elastische Elemente: Dehnung\n• Muskellänge bleibt gleich; Muskelspannung nimmt zu\nKonzentrisch:\n• Kontraktile Elemente: Kontraktion; elastische Elemente: Dehnung\n• Muskel verkürzt sich; Spannung nimmt zu\nExzentrisch:\n• Kontraktile Elemente: Dehnung; elastische Elemente: Dehnung\n• Muskel wird gedehnt (verlängert); Spannung nimmt zu\n→ In allen drei Fällen nimmt die Muskelspannung zu.",
+    "e": "Stell dir den Muskel als Motor (kontraktile Elemente) mit Gummiband (elastische Elemente, z. B. Sehne) vor. Bei der isometrischen Arbeit zieht der Motor, das Gummiband dehnt sich, aber nach außen bewegt sich nichts. Beispiel: Zwei Sportler drücken beim Armdrücken gleich stark – beide Bizepse arbeiten isometrisch. Drückt der rechte stärker, arbeitet sein Bizeps konzentrisch und der des linken exzentrisch.",
+    "quelle": "L13.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-005",
+    "thema": "Q2.2",
+    "kapitel": "Kraftbegriff und Arbeitsweisen",
+    "q": "Erkläre, warum isometrische Haltearbeit zeitlich begrenzt ist.",
+    "a": "• Bei isometrischer Arbeit steigt die Muskelspannung, ohne dass sich der Muskel verkürzt; der Muskel wird härter und leicht dicker.\n• Dadurch werden die Blutkapillaren ständig zusammengepresst.\n• Die lokale Muskeldurchblutung ist stark eingeschränkt → wenig Sauerstoff- und Nährstoffzufuhr, schlechter Abtransport von Stoffwechselprodukten.\n• Folge: schnelle Ermüdung, Haltearbeit nur begrenzt möglich.",
+    "e": "Bei dynamischer Arbeit wirkt der Muskel wie eine Pumpe (Muskelpumpe), bei statischer Arbeit drückt er die Gefäße dauerhaft ab – wie ein geknickter Gartenschlauch. Beispiel: Wer beim Klimmzug oben hängen bleibt, spürt nach wenigen Sekunden ein starkes Brennen in den Armen.",
+    "quelle": "L13.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-006",
+    "thema": "Q2.2",
+    "kapitel": "Kraftbegriff und Arbeitsweisen",
+    "q": "Wann spricht man von dynamischer Muskelarbeit?",
+    "a": "• Ein Muskel arbeitet dynamisch, wenn er konzentrisch (positiv-dynamisch, überwindend) und/oder exzentrisch (negativ-dynamisch, nachgebend) arbeitet, sich also seine Länge verändert.\n• Gegensatz: statische (isometrische) Arbeit ohne Längenänderung.",
+    "e": "Dynamisch heißt: Es bewegt sich etwas. Beispiel: Eine Kniebeuge ist dynamisch – beim Runtergehen arbeiten die Oberschenkelstrecker exzentrisch, beim Hochdrücken konzentrisch. Eine Wandsitz-Übung (Stuhl ohne Stuhl) ist dagegen statisch.",
+    "quelle": "L13.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-007",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere Maximalkraft.",
+    "a": "Maximalkraft ist die höchstmögliche Kraft, die das neuromuskuläre System bei maximaler willkürlicher Kontraktion gegen einen Widerstand entfalten kann.\n• Sie kann statisch (isometrisch), konzentrisch oder exzentrisch erzeugt werden.\n• Sie ist die Basisfähigkeit für alle anderen Kraftarten (Schnellkraft, Reaktivkraft, Kraftausdauer).\n• Abhängig v. a. von Muskelquerschnitt, Faserzusammensetzung und intramuskulärer Koordination (willkürliche Aktivierungsfähigkeit).",
+    "e": "Die Maximalkraft ist das Größte, was du gerade willentlich herausholen kannst – egal wie lange es dauert. Beispiel: Das schwerste Gewicht, das ein Gewichtheber genau einmal zur Hochstrecke bringt, zeigt seine Maximalkraft. Auch Hochspringer, Basketballer (Rebound) und Fußballer (Kopfball) brauchen viel Maximalkraft in der Beinstreckerkette.",
+    "quelle": "L13.2",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-008",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Was versteht man unter der willkürlichen neuromuskulären Aktivierungsfähigkeit?",
+    "a": "• Gleichbedeutend mit intramuskulärer Koordination.\n• Vermögen, gleichzeitig einen möglichst großen Teil des Muskels (möglichst viele motorische Einheiten) hochfrequent zu innervieren (nach Boeckh-Behrens & Buskies).\n• Wichtige Komponente der Maximalkraft; Maß dafür ist das Kraftdefizit.",
+    "e": "Ein Muskel besteht aus vielen motorischen Einheiten. Untrainierte können nur einen Teil davon gleichzeitig „anschalten“. Wer seine Aktivierungsfähigkeit verbessert, holt mehr aus dem gleichen Muskel heraus. Beispiel: Ein schlanker Kletterer kann erstaunlich viel Kraft entwickeln, weil er seine Muskeln fast vollständig aktivieren kann.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-009",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Vergleiche statische, konzentrische und exzentrische Maximalkraft und begründe die Unterschiede.",
+    "a": "• Konzentrische Maximalkraft: geringfügig niedriger als die statische, da neben der Gegenkraft zur Last noch ein Betrag für die Beschleunigungsarbeit nötig ist.\n• Statische Maximalkraft: höchste willkürliche Haltekraft.\n• Exzentrische Maximalkraft (Dehnung eines maximal kontrahierten Muskels): deutlich höher als die statische, weil zusätzlich eine reflektorische Kraftentfaltung durch den Dehnungsreflex (Muskelspindelreflex) hinzukommt.\n• Reihenfolge: konzentrisch < statisch < exzentrisch.",
+    "e": "Bremsen kann man mehr als heben. Beispiel: Eine Hantel, die du beim Bankdrücken nicht mehr hochdrücken kannst, kannst du oft noch kontrolliert herablassen – der Dehnungsreflex hilft dem Muskel exzentrisch.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-010",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere das Kraftdefizit und erläutere seine Bedeutung.",
+    "a": "• Kraftdefizit = Unterschiedsbetrag zwischen exzentrischer und statischer Maximalkraft (nach Grosser & Zintl).\n• Untrainierte: je nach Muskelgruppe 10–40 %.\n• Trainierte: bis auf 5 % oder weniger.\n• Es gilt als Maß für die intramuskuläre Koordination (willkürliche Aktivierungsfähigkeit): Je kleiner das Kraftdefizit, desto mehr vom vorhandenen Kraftpotenzial kann willkürlich genutzt werden.\n• IK-Training verringert das Kraftdefizit.",
+    "e": "Die exzentrische Maximalkraft zeigt ungefähr, was im Muskel steckt; die statische, was man willentlich abrufen kann. Die Lücke dazwischen ist ungenutztes Potenzial. Beispiel: Ein Anfänger mit 30 % Kraftdefizit kann durch IK-Training stark an Kraft gewinnen, ohne dass sein Muskel dicker wird.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-011",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere Absolutkraft und erläutere, woraus sie sich zusammensetzt und wie sie gemessen wird.",
+    "a": "• Absolutkraft = höchstmögliches Kraftpotenzial, das ein Muskel aufgrund seines Querschnitts und seiner Qualität zur Verfügung hat.\n• Zusammensetzung: willkürlich entwickelbare Maximalkraft + willkürlich nicht erfassbare Kraftreserve (autonom geschützte Reserve).\n• Die Reserve kann z. B. in lebensbedrohlichen Situationen ausgeschöpft werden.\n• Messung: über die exzentrische Maximalkraft (geringe Abweichungen vernachlässigbar) oder durch Elektrostimulation.",
+    "e": "Der Körper schützt sich, indem er nicht alles freigibt, was der Muskel könnte – sonst würden Sehnen reißen. Beispiel: Berichte über Menschen, die in Panik ein Auto anheben, um ein Kind zu retten, zeigen, dass die autonom geschützte Reserve in Notsituationen angezapft werden kann.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-012",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere relative Kraft und nenne ihre Bedeutung.",
+    "a": "• Relative Kraft = maximale Kraft, die ein Sportler im Verhältnis zu seinem Körpergewicht entwickeln kann (Maximalkraft : Körpergewicht).\n• Bedeutung: entscheidend, wenn die Kraft gegenüber dem eigenen Körpergewicht entfaltet werden muss (z. B. Turnen, Sprünge, Klettern).\n• Dient auch dem interindividuellen Kräftevergleich (Sportler unterschiedlichen Gewichts).",
+    "e": "Es zählt nicht nur, wie stark du bist, sondern wie stark im Verhältnis zu dem, was du tragen musst. Beispiel: Ein 60-kg-Turner mit 90 kg Maximalkraft hat eine relative Kraft von 1,5 – er hält sich mühelos im Stütz, ein schwerer Kugelstoßer mit gleicher Maximalkraft nicht.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-013",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere Kraftausdauer.",
+    "a": "Kraftausdauer ist die Ermüdungswiderstandsfähigkeit bei lang andauernden oder sich wiederholenden dynamischen und statischen Kraftleistungen (nach Grosser & Zintl; Steinhöfer; Harre).\n• Mischung aus Kraft- und Ausdauerleistungsfähigkeit.\n• Je nach Belastungsform eher kraft- oder ausdauerbetont.\n• Es müssen stets mehr als 30 % des Kraftmaximums aufgebracht werden.",
+    "e": "Kraftausdauer heißt: Kraft immer wieder einsetzen, ohne schnell schlapp zu machen. Beispiel: Ein Ruderer muss über 2000 m ca. 230 kraftvolle Ruderschläge möglichst ermüdungsfrei durchziehen – typische Kraftausdauersportarten sind Rudern und Wildwasserkanu.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-014",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Was versteht man unter Ermüdungswiderstandsfähigkeit?",
+    "a": "• Entscheidende Komponente der Kraftausdauer.\n• Vermögen, eine gegebene Kraftbelastung möglichst lange aufrechtzuerhalten.\n• Gemessen z. B. über die Anzahl der Wiederholungen oder die Haltedauer (nach Boeckh-Behrens & Buskies).",
+    "e": "Die Ermüdungswiderstandsfähigkeit ist dein „Durchhaltevermögen“ unter Last. Beispiel: Wer 40 statt 25 Liegestütze schafft oder den Unterarmstütz 2 statt 1 Minute hält, hat bei dieser Übung die bessere Ermüdungswiderstandsfähigkeit.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-015",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere Schnellkraft.",
+    "a": "Schnellkraft ist die Fähigkeit, optimal schnell Kraft zu bilden und das Kraftmaximum zu erreichen, d. h.\n• den eigenen Körper oder ein Gerät mit höchster Geschwindigkeit zu bewegen bzw.\n• Widerstände mit höchstmöglicher Kontraktionsgeschwindigkeit zu überwinden\n(nach Grosser & Zintl; Steinhöfer; Harre).\n• Anders formuliert: einem Körper/Gegenstand einen möglichst großen Impuls in möglichst kurzer Zeit erteilen.\n• Kennzeichen: Für die Kraftentwicklung steht nur begrenzte Zeit zur Verfügung.",
+    "e": "Bei der Schnellkraft zählt nicht nur wie viel, sondern wie schnell die Kraft kommt. Beispiel: Ein Speerwerfer muss in Sekundenbruchteilen einen großen Kraftstoß auf den Speer bringen; ein Boxer muss seinen Schlag ins Ziel bringen, bevor der Gegner ausweicht.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-016",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Erläutere, wovon die Schnellkraftleistung abhängt, und vergleiche dabei Speerwerfer und Fechter.",
+    "a": "• Speerwerfer (hoher Widerstand, maximaler Kraftimpuls nötig): Schnellkraftleistung hängt in hohem Maße von der Maximalkraft ab.\n• Fechter (geringer Widerstand, Bewegung in kürzester Zeit): Maximalkraft tritt in den Hintergrund; leistungsbestimmend ist die schnelle Kontraktionsfähigkeit der Muskelfasern.\n• Schnelle Kontraktionsfähigkeit = Vermögen, Kraft unabhängig vom Maximalkraftniveau möglichst schnell zu entwickeln (nach Boeckh-Behrens & Buskies).\n• Diese hängt von der Muskelfaserzusammensetzung ab: v. a. schnell zuckende FT-Fasern, besonders die starken FTG-Fasern mit großem Querschnitt.\n→ Je höher der Widerstand, desto wichtiger die Maximalkraft; je geringer, desto wichtiger die Kontraktionsgeschwindigkeit.",
+    "e": "Ein schwerer Widerstand braucht viel Kraft, ein leichter vor allem Tempo. Beispiel: Für den Fechtstoß ist die Klinge so leicht, dass Muskelmasse kaum hilft – es kommt auf schnelle Fasern an. Beim Kugelstoßen (7,26 kg) dagegen hilft jede Extraportion Maximalkraft.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-017",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere Reaktivkraft.",
+    "a": "Reaktivkraft (= exzentrisch-konzentrische Schnellkraft) ist die Fähigkeit, bei Dehnungs-Verkürzungs-Zyklen der Muskulatur einen hohen Kraftstoß zu erzeugen.\n• Kombination aus exzentrischer (bremsender) und konzentrischer (überwindender) Arbeitsweise.\n• Die Zeitspanne zwischen exzentrischer und konzentrischer Phase muss unter 200 ms liegen (kürzestmögliche Kopplung).\n• Sonderform der Schnellkraft; Zwischenstellung zwischen Maximal- und Schnellkraft.",
+    "e": "Bei der Reaktivkraft wird der Muskel erst blitzschnell gedehnt und schnellt dann zurück. Beispiel: Ein Basketballer stoppt nach einer Dribbelfinte ab und springt sofort zum Sprungwurf ab – je kürzer die Phase zwischen Abstoppen und Absprung, desto weniger Zeit hat der Gegner zum Blocken.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-018",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Wovon hängt die Reaktivkraft ab? Erkläre dabei den Begriff reaktive Spannungsfähigkeit.",
+    "a": "Die Reaktivkraft hängt ab von:\n• der Maximalkraft,\n• der schnellen Kontraktionsfähigkeit,\n• der reaktiven Spannungsfähigkeit.\nReaktive Spannungsfähigkeit = Vermögen, die Muskelspannung bei Dehnungsbelastungen in der exzentrischen Phase des Dehnungs-Verkürzungs-Zyklus aufrechtzuerhalten und in der unmittelbar folgenden konzentrischen Phase einen hohen Kraftstoß zu erzeugen (nach Boeckh-Behrens & Buskies).\n• Sie beruht auf dem Elastizitäts- und Innervationsverhalten von Muskeln, Sehnen und Bändern und ist Grundvoraussetzung der Reaktivkraft.",
+    "e": "Wer beim Landen „weich wie Pudding“ einknickt, verliert die gespeicherte Energie. Wer die Spannung hält, federt kraftvoll ab. Beispiel: Ein Weitspringer muss beim Absprung den Aufprall mit hoher Spannung abfangen, um sofort explosiv abzuspringen.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-019",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Erkläre den Dehnungs-Verkürzungs-Zyklus (DVZ) mit dem Gummiband-Modell.",
+    "a": "• Zuerst kurze exzentrische Dehnung der Muskulatur (Bremsphase) mit eigenem Innervations- und Elastizitätsverhalten.\n• Dabei wird elastische Energie in Sehnen und Muskeln gespeichert – wie ein gespanntes Gummiband.\n• Zusätzlich wird über den Dehnungsreflex (Muskelspindel) eine reflektorische Innervation ausgelöst.\n• In der unmittelbar folgenden konzentrischen Phase werden gespeicherte elastische Energie und Reflexinnervation freigesetzt → höherer Kraftstoß als bei rein konzentrischer Arbeit.\n• Voraussetzung: sehr kurze Umkehr (< 200 ms), sonst verpufft die Energie als Wärme.",
+    "e": "Spannst du ein Gummiband und lässt sofort los, fliegt es weit; hältst du es lange gespannt, wird der Effekt schwächer. Beispiel: Beim Drop-Jump springt man nach dem Aufkommen sofort wieder hoch und kommt dadurch höher als bei einem Sprung aus der ruhigen Hocke.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-020",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere Startkraft und nenne ihre Grundlage.",
+    "a": "• Startkraft = Leistung, die 30 ms nach Kontraktionsbeginn erreicht wird, d. h. die Fähigkeit, einen hohen Kraftwert schon zu Beginn der Kontraktion zu erreichen.\n• Grundlage: Fähigkeit, zu Kontraktionsbeginn möglichst viele motorische Einheiten der schnell zuckenden FTG-Fasern zu innervieren → hohe Anfangskraft.\n• Zwischenform zwischen Schnellkraft und Reaktivkraft.",
+    "e": "Die Startkraft ist der allererste Ruck einer Bewegung. Beispiel: Beim Boxen, bei Schlägen im Badminton oder beim Antritt nach einer Täuschung im Basketball entscheidet der Kraftwert in den ersten Millisekunden, ob die Aktion gelingt.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-021",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Definiere Explosivkraft und grenze sie von der Startkraft ab.",
+    "a": "• Explosivkraft = maximaler Kraftanstieg im Kraft-Zeit-Verlauf, wenn eine Kontraktion maximal schnell gegen einen Widerstand erzeugt wird (z. B. Maximalsprung, maximaler Stoß oder Wurf).\n• Zwischenform zwischen Reaktivkraft und Maximalkraft.\n• Abgrenzung: Die Startkraft beschreibt den Kraftwert ganz am Anfang (30 ms) und hängt v. a. von der Aktivierung der FTG-Fasern ab; die Explosivkraft beschreibt die Steilheit des Kraftanstiegs und ist in höchstem Maße von der Maximalkraft abhängig.",
+    "e": "Im Kraft-Zeit-Diagramm ist die Startkraft der Wert am Anfang, die Explosivkraft die steilste Stelle der Kurve. Beispiel: Kugelstoßer, Gewichtheber und Hochspringer brauchen viel Explosivkraft (oft „Sprungkraft“ genannt), weil sie einen schweren Widerstand möglichst schnell beschleunigen müssen.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-022",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Welche Kraftart dominiert in Abhängigkeit von der Höhe des Widerstands? (Merksatz)",
+    "a": "• Bei niedrigen Widerständen dominiert die Startkraft.\n• Bei zunehmender Last und damit verlängertem Krafteinsatz dominiert die Explosivkraft.\n• Bei hohen Lasten dominiert schließlich die Maximalkraft.\n• Die Schnellkraft (als Quotient aus Kraft und Zeit) hängt daher von Start-, Explosiv- und Maximalkraft ab.",
+    "e": "Je leichter das Gerät, desto mehr zählt der schnelle Start; je schwerer, desto mehr die rohe Maximalkraft. Beispiel: Tischtennisschlag → Startkraft, Kugelstoß → Explosivkraft, Reißen im Gewichtheben mit Höchstlast → Maximalkraft.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-023",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Beschreibe die Wechselbeziehung der Haupterscheinungsformen der Kraft (Abb. 13.2).",
+    "a": "• Grundachse von Maximalkraft über Explosivkraft, Reaktivkraft und Startkraft hin zur Schnellkraft.\n• Maximalkraft ist die Basis aller Kraftarten.\n• Zwischenformen: Explosivkraft zwischen Maximal- und Reaktivkraft, Startkraft zwischen Reaktiv- und Schnellkraft.\n• Darüber liegt die Kraftausdauer, die sich in Maximalkraftausdauer (kraftbetont) und Schnellkraftausdauer unterteilen lässt.\n(modifiziert nach Steinhöfer)",
+    "e": "Die Kraftarten sind keine getrennten Schubladen, sondern ein Kontinuum mit fließenden Übergängen. Beispiel: Ein Sprinter braucht Startkraft im Block, Reaktivkraft bei jedem Schritt und Schnellkraftausdauer, um bis 100 m nicht langsamer zu werden.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-024",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Was versteht man unter einem Kraftanforderungsprofil?",
+    "a": "• Jede Sportart/Disziplin stellt bestimmte Anforderungen an die Kraftkomponente; diese werden in einem Kraftanforderungsprofil zusammengefasst.\n• Es enthält die besonders beanspruchten Muskeln/Muskelgruppen und die dominierenden Kraftarten (Maximal-, Explosiv-, Reaktiv-, Start-, Schnellkraft, Kraftausdauer).\n• Es bestimmt die Inhalte eines speziellen Krafttrainings.",
+    "e": "Das Kraftanforderungsprofil ist der „Steckbrief“ einer Sportart in Sachen Kraft. Beispiel: Fußball – Schusskraft (Schnellkraft) und Sprungkraft für den Kopfball (Explosivkraft) der Beinstreckerkette; daraus folgt ein gezieltes Training der unteren Extremitäten.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-025",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Nenne die dominierenden Kraftanforderungen für Basketball, Biathlon, Diskuswurf, Klettern, Rudern und Tennis und begründe sie kurz.",
+    "a": "• Basketball: Explosiv-, Reaktiv-, Start-, Schnellkraft, (Kraftausdauer) – Sprünge, Antritte, Stopps über die Spielzeit.\n• Biathlon: Schnellkraft, Kraftausdauer – lang andauernde Lauf-/Stockarbeit, schnelle Abstöße.\n• Diskuswurf: Maximal-, Explosiv-, Schnellkraft – schweres Gerät maximal beschleunigen, kein Ausdaueranteil.\n• Klettern: Maximalkraft, Kraftausdauer – eigenes Körpergewicht an kleinen Griffen halten, über längere Routen.\n• Rudern: Maximalkraft, Kraftausdauer – hoher Wasserwiderstand bei vielen Schlägen.\n• Tennis: Start-, Schnellkraft, (Kraftausdauer) – schnelle Schläge mit leichtem Schläger, viele Ballwechsel.",
+    "e": "Frage dich bei jeder Sportart: Wie schwer ist der Widerstand, wie schnell muss es gehen und wie lange dauert die Belastung? Beispiel: Ein Diskuswerfer wirft wenige Male mit maximalem Einsatz – daher Maximal- und Explosivkraft statt Kraftausdauer.",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-026",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Ordne Sportarten den Polen Ausdauer- und Kraftkomponente der Kraftausdauer zu (Tab. 13.9) und nenne jeweils die Energiebereitstellung.",
+    "a": "• Ausdauerkomponente (geringer Kraftaufwand, überwiegend aerob): Schwimmen (Langstrecke), Skilanglauf.\n• Mittlere Krafteinsätze (gemischt anaerob-aerob): Radrennsport, Kajak, Rudern, Sprintschwimmen.\n• Kraftkomponente (Maximalkraftausdauer, anaerob-laktazid): Kunstturnen (z. B. Kreuzhang), Ringen, Klettern.",
+    "e": "Kraftausdauer ist ein Spektrum: Je höher der Krafteinsatz pro Wiederholung, desto anaerober. Beispiel: Ein Turner im Kreuzhang hält extreme Last nur Sekunden (laktazid), ein Langstreckenschwimmer macht tausende leichte Züge (aerob).",
+    "quelle": "L13.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-027",
+    "thema": "Q2.2",
+    "kapitel": "Kraftarten",
+    "q": "Erkläre, warum ein Hochspringer und ein Gewichtheber unterschiedliche Kraftschwerpunkte haben, obwohl beide Maximalkraft brauchen.",
+    "a": "• Gewichtheber: Leistung = möglichst hohe Last bewältigen → Maximalkraft (absolut) dominiert; in schweren Gewichtsklassen ist Muskelmasse erwünscht.\n• Hochspringer: muss das eigene Körpergewicht in sehr kurzer Bodenkontaktzeit nach oben beschleunigen → Reaktiv-, Explosiv- und Schnellkraft sowie hohe relative Kraft entscheidend.\n• Zusätzliche Muskelmasse würde beim Hochspringer das Körpergewicht erhöhen und die Sprunghöhe verringern → Maximalkraft eher über IK-Training steigern.",
+    "e": "Beide brauchen starke Beine, aber der Hochspringer muss sich selbst tragen. Beispiel: 3 kg mehr Muskeln helfen einem Superschwergewichtler, kosten einen Hochspringer aber womöglich Zentimeter.",
+    "quelle": "L13.2",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-028",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Was ist eine motorische Einheit und welche Bedeutung hat sie für die Kraftentfaltung?",
+    "a": "• Motorische Einheit = ein Motoneuron (im Rückenmark) mit seinem Axon und allen von ihm innervierten Muskelfasern.\n• Alle Fasern einer motorischen Einheit kontrahieren gemeinsam (Alles-oder-nichts-Prinzip).\n• Die Muskelkraft wird abgestuft durch\n  – die Anzahl aktivierter motorischer Einheiten (Rekrutierung),\n  – die Frequenz der Nervenimpulse (Frequenzierung),\n  – die zeitliche Abstimmung der Einheiten (Synchronisation).\n• Große motorische Einheiten (viele Fasern) → viel Kraft, wenig Feinabstimmung.",
+    "e": "Stell dir jede motorische Einheit als Lichtschalter für eine Gruppe von Lampen vor: Mehr Schalter an = mehr Licht (Kraft). Beispiel: Augenmuskeln haben ca. 10 Fasern pro Einheit (sehr fein), der Bizeps ca. 1000 (sehr kräftig, weniger fein).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-029",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Vergleiche ST-Fasern und FT-Fasern (einschließlich FTO und FTG) hinsichtlich ihrer Eigenschaften.",
+    "a": "ST-Fasern (slow twitch, Typ I, rot):\n• langsame Kontraktion, geringe Kraft, sehr ermüdungsresistent\n• viele Mitochondrien, Myoglobin, Kapillaren → aerober Stoffwechsel\n• kleiner Querschnitt, kleine motorische Einheiten\nFT-Fasern (fast twitch, Typ II, weiß):\n• schnelle Kontraktion, hohe Kraft, schnell ermüdend\n• großer Querschnitt, große motorische Einheiten, anaerober Stoffwechsel\n• FTO (Typ IIa): schnell, aber auch oxidativ → Mischtyp, mittel ermüdbar\n• FTG (Typ IIx): schnellste, stärkste, glykolytische Fasern mit größtem Querschnitt, rasch ermüdend\n• Faserverteilung ist weitgehend genetisch festgelegt.",
+    "e": "ST-Fasern sind die Marathonläufer, FTG-Fasern die Sprinter unter den Muskelfasern, FTO-Fasern die 400-m-Läufer dazwischen. Beispiel: Weltklasse-Sprinter haben oft über 70 % FT-Fasern in der Wadenmuskulatur, Marathonläufer über 70 % ST-Fasern.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-030",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Erläutere, wie Belastungsintensität und Bewegungsausführung die Beanspruchung der Muskelfasertypen beeinflussen.",
+    "a": "• Langsame Bewegungsausführung bei niedriger Intensität (bis ca. 50 % der Maximalbelastung) → vorwiegend ST-Fasern.\n• Sollen bei langsamer Ausführung auch FT-Fasern beansprucht werden, muss die Intensität deutlich über 60 % der Maximalkraft liegen.\n• Möglichst schnelle (explosive) Ausführung aktiviert ebenfalls verstärkt FT-Fasern; die Intensität kann dann je nach Ziel auf 30–35 % der maximalen Last reduziert werden.\n• Merke: Langsam + leicht → ST; schwer oder schnell → FT.",
+    "e": "Der Körper rekrutiert sparsam: erst die kleinen ST-Einheiten, erst bei hoher Kraft- oder Tempoanforderung die großen FT-Einheiten (Größenordnungsprinzip). Beispiel: Wer seine schnellen Fasern trainieren will, kann sehr schwer heben oder leichte Gewichte explosiv bewegen – langsames Training mit leichten Gewichten erreicht sie kaum.",
+    "quelle": "L13.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-031",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Erkläre das Rekrutierungsprinzip (Größenordnungsprinzip nach Henneman).",
+    "a": "• Motorische Einheiten werden in einer festen Reihenfolge nach ihrer Größe aktiviert.\n• Bei geringer Kraftanforderung zuerst kleine motorische Einheiten (ST-Fasern).\n• Mit steigender Kraftanforderung zusätzlich größere Einheiten (FTO-, zuletzt FTG-Fasern).\n• Folge für das Training: Die stärksten FT-Fasern werden nur bei hohen Lasten bzw. maximal schneller Ausführung angesprochen – nur dann können sie sich auch anpassen.",
+    "e": "Wie bei einer Feuerwehr: Für ein kleines Feuer rückt ein Wagen aus, erst bei einem Großbrand alle. Beispiel: Beim lockeren Gehen arbeiten fast nur ST-Fasern der Beine, erst beim maximalen Sprung kommen die FTG-Fasern dazu.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-032",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Definiere intramuskuläre Koordination und nenne ihre Komponenten.",
+    "a": "• Intramuskuläre Koordination = Zusammenspiel der motorischen Einheiten innerhalb eines Muskels; Fähigkeit zur synchronen Aktivierung der höchstmöglichen Zahl von Muskelfasern.\n• Komponenten:\n  – Rekrutierung: Anzahl gleichzeitig aktivierter motorischer Einheiten\n  – Frequenzierung: Höhe der Impulsfrequenz an die motorischen Einheiten\n  – Synchronisation: gleichzeitiges Feuern der motorischen Einheiten\n• Sie entspricht der willkürlichen neuromuskulären Aktivierungsfähigkeit; Maß ist das Kraftdefizit.\n• Voraussetzung für optimale Steigerung: großer Querschnitt der kontraktilen Fasern, v. a. der schnellen.",
+    "e": "Intra heißt „innerhalb“: Es geht um die Abstimmung in einem einzelnen Muskel. Beispiel: Ein Untrainierter zieht wie ein ungeübtes Tauziehteam, bei dem jeder zu einer anderen Zeit zieht; ein Gewichtheber zieht mit allen Fasern gleichzeitig wie ein eingespieltes Team.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-033",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Definiere intermuskuläre Koordination und grenze sie von der intramuskulären Koordination ab.",
+    "a": "• Intermuskuläre Koordination = Zusammenspiel verschiedener Muskeln (Agonisten, Synergisten, Antagonisten) bei einer gezielten Bewegung.\n• Verbesserung: Agonisten und Synergisten werden zeitlich optimal eingesetzt, Antagonisten rechtzeitig entspannt (geringere Gegenspannung) → mehr Nettokraft, ökonomischere Bewegung.\n• Abgrenzung: intramuskulär = innerhalb eines Muskels (motorische Einheiten); intermuskulär = zwischen mehreren Muskeln.\n• Wird v. a. durch technikorientiertes Training und zu Beginn jedes Krafttrainings (Anfänger) verbessert.",
+    "e": "Inter heißt „zwischen“: Es geht um das Orchester aller Muskeln. Beispiel: Ein Anfänger an der Langhantel-Kniebeuge wackelt, weil Bein-, Rumpf- und Hüftmuskeln noch nicht aufeinander abgestimmt sind – nach wenigen Wochen hebt er mehr, ohne dass seine Muskeln größer geworden sind.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-034",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Definiere Hypertrophie und erläutere, wodurch sie entsteht.",
+    "a": "• Hypertrophie = Dickenzunahme (Querschnittsvergrößerung) der einzelnen Muskelfasern durch Vermehrung der kontraktilen Proteine (Aktin, Myosin; mehr Myofibrillen).\n• Die Faserzahl bleibt dabei gleich.\n• Auslöser: intensive, mittel bis hoch dosierte Muskelspannung über ausreichende Dauer (z. B. 8–12 Wiederholungen bis zur starken Ermüdung), mechanischer und metabolischer Stress, Mikroverletzungen.\n• Gesteigerte Proteinsynthese in der Erholungsphase (Superkompensation), unterstützt durch Hormone (v. a. Testosteron) und ausreichende Eiweißzufuhr.\n• Folge: höhere Maximalkraft, da Kraft proportional zum Muskelquerschnitt ist.",
+    "e": "Hypertrophie heißt nicht mehr Fasern, sondern dickere Fasern. Beispiel: Ein Bodybuilder, der mehrere Monate nach der Hypertrophiemethode trainiert, bekommt sichtbar größere Muskeln, weil jede Faser mehr Myofibrillen eingebaut hat.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-035",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Erläutere, was man unter Muskelhyperplasie versteht und wie sie erreicht werden kann.",
+    "a": "• Hyperplasie = Vermehrung der Anzahl der Muskelfasern (z. B. durch Längsspaltung von Fasern oder Neubildung aus Satellitenzellen).\n• Beim Menschen umstritten bzw. allenfalls in geringem Umfang nachgewiesen; Hauptmechanismus des Muskelwachstums bleibt die Hypertrophie.\n• Diskutierte Auslöser: extrem hohe, lang andauernde Krafttrainingsbelastungen, starke exzentrische Belastungen, Dehnungsreize; im Tierversuch nachgewiesen, beim Menschen v. a. bei Spitzen-Bodybuildern vermutet (teils in Verbindung mit Anabolika).",
+    "e": "Hypertrophie = dickere Fasern, Hyperplasie = mehr Fasern. Eselsbrücke: „plasie“ wie Plus an Fasern. Beispiel: Bei Vögeln, deren Flügel lange mit Gewichten gedehnt wurden, entstanden neue Fasern – beim Menschen ist das kaum belegt.",
+    "quelle": "L13.5",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-036",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Beschreibe die Mechanismen zur Verbesserung der Maximalkraft.",
+    "a": "Die Maximalkraft kann auf zwei Wegen gesteigert werden:\n1. Muskelquerschnitt (Muskelquantität): Hypertrophie der Muskelfasern durch Muskelaufbautraining (MA).\n2. Nervale Ansteuerung (Muskelqualität):\n  • intramuskuläre Koordination: mehr Rekrutierung, höhere Frequenzierung, bessere Synchronisation (IK-Training)\n  • intermuskuläre Koordination: besseres Zusammenspiel von Agonisten, Synergisten und Antagonisten\n• Kombination MA + IK = eigentliches Maximalkrafttraining (Pyramidentraining).\n• Zeitlich: Anfangs dominieren nervale Anpassungen (erste Wochen), später zunehmend Hypertrophie.",
+    "e": "Mehr Kraft gibt es entweder durch einen größeren Motor (Hypertrophie) oder durch eine bessere Steuerung des vorhandenen Motors (Koordination). Beispiel: Ein Anfänger steigert sein Bankdrücken in den ersten 4 Wochen um 15 %, obwohl sein Brustumfang gleich bleibt – das ist fast nur Nervensystem.",
+    "quelle": "L13.5",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-037",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Erläutere, auf welche Faktoren der Kraftgewinn beim IK-Training zurückzuführen ist, wenn kaum Muskelzuwachs entsteht.",
+    "a": "• IK-Training arbeitet mit submaximalen bis maximalen Lasten → nur sehr wenige Wiederholungen und kurze Belastungsdauer.\n• Dadurch kaum oder nur geringer Muskelzuwachs.\n• Der Kraftgewinn beruht daher auf nervenbezogenen (neuronalen) und biochemischen Faktoren:\n  – Untrainierte können nur einen Teil ihrer motorischen Einheiten synchron aktivieren.\n  – IK-Training verbessert Rekrutierung, Frequenzierung und Synchronisation → hoher und schneller Kraftzuwachs.\n  – Biochemisch v. a. verbesserter anaerob-alaktazider Stoffwechsel (Phosphatspeicher).",
+    "e": "Beim IK-Training lernt das Nervensystem, mehr „Personal“ gleichzeitig einzusetzen, statt neues einzustellen. Beispiel: Ein Skispringer wird durch IK-Training stärker, ohne schwerer zu werden – genau das will er.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-038",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Erkläre physiologisch, warum sich in der Pubertät die Kraft- und Schnellkraftleistungen von Jungen und Mädchen (z. B. im Sprint und Weitsprung) auseinanderentwickeln.",
+    "a": "• In der Pubertät steigt bei Jungen die Testosteronproduktion stark an (ca. 10-fach höhere Spiegel als bei Mädchen).\n• Testosteron wirkt anabol: fördert die Proteinsynthese → stärkere Hypertrophie, größerer Muskelanteil an der Körpermasse.\n• Größerer Muskelquerschnitt, v. a. der FT-Fasern → höhere Maximal-, Schnell- und Reaktivkraft.\n• Mädchen: höherer Östrogenspiegel → relativ höherer Körperfettanteil → geringere relative Kraft.\n• Folge: bei gleichem Training wachsende Leistungsunterschiede in kraftabhängigen Disziplinen wie Sprint und Weitsprung.",
+    "e": "Das Training ist gleich, aber das Hormon-„Baumaterial“ nicht. Beispiel: Louis und Lena trainieren gleich viel, doch ab etwa 13 Jahren baut Louis durch Testosteron deutlich mehr Beinmuskulatur auf und springt dadurch weiter.",
+    "quelle": "L13.5",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-039",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Nenne für die vier Trainingswirkungen von Krafttraining (intermuskuläre Koordination, intramuskuläre Koordination, Hypertrophie, Energieversorgung des Muskels) je eine Trainingsform und einen Sportbereich, in dem sie besonders angestrebt wird.",
+    "a": "• Intermuskuläre Koordination: technikorientiertes Krafttraining, sportartspezifische Bewegungen mit Zusatzlast → z. B. rhythmische Sportgymnastik, Turnen, Wurfdisziplinen.\n• Intramuskuläre Koordination: IK-Training (90–100 % Kmax, 1–5 Wdh.) → z. B. Gewichtheben (Gewichtsklassen), Hochsprung, Skispringen.\n• Hypertrophie: Muskelaufbautraining (8–12 Wdh., 70–90 % Kmax) → z. B. Bodybuilding, Sportklettern (Basis), Kugelstoßen, Rugby.\n• Energieversorgung des Muskels: Kraftausdauertraining (35–60 % Kmax, viele Wdh.) → z. B. Rudern, Kanu, Schwimmen.",
+    "e": "Jede Sportart braucht eine andere Hauptwirkung. Beispiel: Ein Ruderer braucht vor allem Muskeln, die tausende Schläge mit Energie versorgen, eine Gymnastin dagegen das perfekte Zusammenspiel vieler Muskeln.",
+    "quelle": "L13.5",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-040",
+    "thema": "Q2.2",
+    "kapitel": "Muskelfasern und Anpassungen",
+    "q": "Begründe, warum folgende Zielsetzungen sinnvoll sind: Rudern – Energieversorgung; rhythmische Sportgymnastik – intermuskuläre Koordination; Gewichtheben – intramuskuläre Koordination; Sportklettern – Hypertrophie.",
+    "a": "• Rudern: viele kraftvolle Schläge über mehrere Minuten → Kraftausdauer; die Muskeln müssen aerob und anaerob gut mit Energie versorgt werden (Kapillarisierung, Enzyme, Glykogen).\n• Rhythmische Sportgymnastik: komplexe, präzise Bewegungen mit Handgerät → feines Zusammenspiel vieler Muskeln wichtiger als hohe Kraftwerte.\n• Gewichtheben: maximale Last in Gewichtsklassen → Kraftsteigerung ohne Gewichtszunahme durch bessere Aktivierung der motorischen Einheiten.\n• Sportklettern: hohe Halte- und Zugkräfte der Unterarm-/Fingerbeuger; ein gezielter Querschnittszuwachs in diesen relativ kleinen Muskeln erhöht die Kraft, ohne das Körpergewicht stark zu steigern.",
+    "e": "Die Begründung leitet sich immer aus dem Anforderungsprofil ab: Was limitiert die Leistung? Beispiel: Beim Klettern scheitert man oft, weil die Finger nicht mehr halten – dickere Fingerbeuger helfen direkt.",
+    "quelle": "L13.5",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-041",
+    "thema": "Q2.2",
+    "kapitel": "Grundsätze des Krafttrainings",
+    "q": "Nenne die allgemeinen Grundsätze des Krafttrainings.",
+    "a": "• Zentrale Bedeutung der Maximalkraft: primäres Ziel ist die Steigerung der Maximalkraft.\n• Kräftegleichgewicht zwischen Agonist und Antagonist: muskuläre Dysbalancen vermeiden.\n• Allgemeines und spezielles Krafttraining: allgemein = alle Kraftfähigkeiten und Muskelgruppen; speziell = orientiert an der Sportart/Disziplin.\n• Belastungsintensität und Bewegungsausführung: langsam/niedrig → ST-Fasern; hoch/schnell → FT-Fasern.\n• Bodybuilding und Körpergewicht: Krafttraining kann ausschließlich zum Muskelwachstum oder zur Regulierung des Körpergewichts eingesetzt werden.",
+    "e": "Diese fünf Grundsätze sind die Leitplanken jeder Trainingsplanung. Beispiel: Ein Handballer trainiert zuerst allgemein und ausgewogen (Bauch und Rücken), steigert seine Maximalkraft und baut darauf schnelles, sportartspezifisches Wurftraining auf.",
+    "quelle": "L13.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-042",
+    "thema": "Q2.2",
+    "kapitel": "Grundsätze des Krafttrainings",
+    "q": "Begründe, warum die Maximalkraft eine zentrale Bedeutung im Krafttraining hat.",
+    "a": "• Muskelkraft ist Grundlage jeglicher Aktivität, sportlich wie gesundheitlich.\n• Die Maximalkraft ist Basisfähigkeit für alle anderen Kraftarten: Schnell-, Explosiv-, Reaktivkraft und Kraftausdauer hängen von ihr ab.\n• Daher ist das primäre Ziel von Krafttraining die Steigerung der Maximalkraft; soll Kraft allgemein verbessert werden, muss zuerst sie als Basis gesteigert werden.",
+    "e": "Die Maximalkraft ist das Fundament, auf das alle anderen Kraftarten gebaut werden. Beispiel: Wer bei der Kniebeuge mehr Maximalkraft hat, kann auch eine leichtere Last (sein Körpergewicht) schneller bewegen und springt höher.",
+    "quelle": "L13.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-043",
+    "thema": "Q2.2",
+    "kapitel": "Grundsätze des Krafttrainings",
+    "q": "Was sind muskuläre Dysbalancen und warum müssen sie im Krafttraining vermieden werden?",
+    "a": "• Muskuläre Dysbalance = Störung des Kräftegleichgewichts zwischen Agonist und Antagonist (Muskel und Gegenspieler).\n• Entstehung durch einseitiges Training:\n  – Muskelverkürzung: Ein Muskel passt sich einem Reiz mit höherer Spannung an, der Gegenspieler bleibt gleich.\n  – Muskelverlängerung/Abschwächung: Ein Muskel passt sich mit niedrigerer Spannung an, der Gegenspieler bleibt gleich.\n  → Das Verkürzungsverhältnis um das Gelenk verändert sich, die Gelenkstellung wird verschoben.\n• Folgen: Leistungsminderung und erhöhte Verletzungsanfälligkeit, Haltungsschäden.\n• Konsequenz: Agonist und Antagonist stets gemeinsam trainieren; verkürzte Muskeln dehnen, abgeschwächte kräftigen.",
+    "e": "Ein Gelenk ist wie ein Zelt, das von zwei Seilen gehalten wird: Zieht ein Seil stärker, steht das Zelt schief. Beispiel: Einseitiges Training des Rückenstreckers verkürzt die Rückenmuskulatur, es entsteht ein Hohlkreuz mit langfristigen Wirbelsäulenschäden – daher auch die Bauchmuskeln kräftigen und den Rückenstrecker dehnen.",
+    "quelle": "L13.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-044",
+    "thema": "Q2.2",
+    "kapitel": "Grundsätze des Krafttrainings",
+    "q": "Unterscheide allgemeines und spezielles Krafttraining und nenne jeweils Anwendungsbereiche.",
+    "a": "Allgemeines Krafttraining:\n• umfasst alle Kraftfähigkeiten und alle Muskelgruppen\n• Anwendung: Kinder- und Jugendsport, Gesundheits- und Fitnesstraining, Rehabilitation nach Verletzungen\n• im Leistungssport Basis für spezielle Kraftfähigkeiten (vergleichbar der Grundlagenausdauer)\nSpezielles Krafttraining:\n• zielt auf sportartspezifische Kraftkomponenten, Kraftgewinn für einen bestimmten Bewegungsablauf\n• bestimmt durch das Kraftanforderungsprofil (beanspruchte Muskeln und Kraftkomponenten) der Sportart/Disziplin",
+    "e": "Allgemein = breites Fundament, speziell = maßgeschneidert. Beispiel: Ein Fußballer macht in der Vorbereitung ein Ganzkörper-Zirkeltraining (allgemein) und später gezieltes Maximal-, Explosiv- und Schnellkrafttraining der Beinstrecker für Schuss und Kopfball (speziell).",
+    "quelle": "L13.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-045",
+    "thema": "Q2.2",
+    "kapitel": "Grundsätze des Krafttrainings",
+    "q": "Welche Ziele kann Krafttraining im Bodybuilding und zur Regulierung des Körpergewichts verfolgen?",
+    "a": "• Hier spielt die Verbesserung spezieller Kraftfähigkeiten nur eine untergeordnete Rolle.\n• Bodybuilding: gezielte Querschnittszunahme der einzelnen Muskeln (Hypertrophie); die funktionale Bedeutung der Muskulatur für Bewegungen ist unwichtig.\n• Körpergewichtsregulierung: Reduktion des Körpergewichts (mehr Muskelmasse → höherer Grundumsatz, Energieverbrauch) oder Steigerung des Körpergewichts bei Untergewicht (Muskelaufbau).",
+    "e": "Hier geht es nicht um Leistung, sondern um Aussehen oder Körperzusammensetzung. Beispiel: Ein Bodybuilder trainiert seinen Bizeps isoliert für den Umfang, obwohl er im Alltag nie eine Kurzhantel beugen muss.",
+    "quelle": "L13.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-046",
+    "thema": "Q2.2",
+    "kapitel": "Belastungsnormative und Organisation",
+    "q": "Wie werden die Belastungskomponenten Intensität, Dauer, Umfang und Dichte im Krafttraining angegeben?",
+    "a": "• Intensität: Anteil der maximal möglichen Last (% der Kmax), Bewegungstempo (z. B. langsam, zügig, explosiv), Krafteinsatz (subjektiver Anstrengungsgrad: gering, mittel, hoch, maximal) und Arbeitsweise (exzentrisch, konzentrisch, statisch, dynamisch).\n• Dauer: Dauer einer Übung (Zeitangabe oder Wiederholungszahl).\n• Umfang: Anzahl der Serien (z. B. vier Serien zu drei Übungen).\n• Dichte: Länge der Pausen zwischen Belastungsreizen: WP = Wiederholungspause, ÜP = Übungspause, SP = Serienpause.\n(nach Grosser & Zintl; Steinhöfer)",
+    "e": "Im Krafttraining werden die allgemeinen Belastungsnormative an die Praxis angepasst. Beispiel: „80 % Kmax, zügig, hoher Krafteinsatz, dynamisch – 10 Wdh. – 5 Serien zu 3 Übungen – WP keine, ÜP 2 min, SP 4 min“ beschreibt eine Hypertrophieeinheit vollständig.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-047",
+    "thema": "Q2.2",
+    "kapitel": "Belastungsnormative und Organisation",
+    "q": "Unterscheide Stationstraining, Serientraining und Zirkeltraining als Organisationsformen des Krafttrainings.",
+    "a": "• Stationstraining: Sämtliche Serien einer Übung werden nacheinander durchgeführt, bevor zur nächsten Übung gewechselt wird.\n• Serientraining: Eine Serie besteht aus 2–4 Übungen, die nacheinander absolviert werden, bevor die nächste Serie folgt.\n• Zirkeltraining (Kreistraining): Ein Zirkel aus mehr als fünf Übungsstationen wird nacheinander absolviert und meist mehrfach wiederholt.\n• Hinweis: Statt „Serie“ wird auch der Begriff „Satz“ verwendet.",
+    "e": "Station = eine Übung komplett abarbeiten, Serie = kleine Übungsgruppe im Wechsel, Zirkel = großer Kreis vieler Stationen. Beispiel: Stationstraining: 5 × 12 Bankdrücken, dann 5 × 12 Beinpresse. Serientraining: 12 Bankdrücken, 12 Beinpresse – und das fünfmal. Zirkel: Kastensprünge, enge Liegestütze, Rückenstrecker, weite Liegestütze, Prellfedern, Seilspringen je 30–60 s, dreimal.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-048",
+    "thema": "Q2.2",
+    "kapitel": "Belastungsnormative und Organisation",
+    "q": "Nenne die zentralen Krafttrainingsmethoden und ihr jeweiliges Haupttrainingsziel (Tab. 13.4).",
+    "a": "• Muskelaufbautraining: Maximalkraft durch Hypertrophie (Muskelquantität).\n• Intramuskuläres Koordinationstraining: Maximalkraft durch höhere intramuskuläre Koordination (willkürliche neuromuskuläre Aktivierungsfähigkeit).\n• Schnellkraft- und Muskelleistungsmethode: Schnellkraft durch höhere Kontraktionsgeschwindigkeit der ST- und FT-Fasern (schnelle Kontraktionsfähigkeit).\n• Reaktivkraftmethode: Reaktivkraft durch höhere Kraftentfaltung im Dehnungs-Verkürzungs-Zyklus (reaktive Spannungsfähigkeit).\n• Kraftausdauermethode: Kraftausdauer durch höhere Ermüdungswiderstandsfähigkeit bei Kraftleistungen.",
+    "e": "Jede Kraftart hat ihre eigene Methode – und jede Methode zielt auf eine bestimmte „Stellschraube“ im Körper. Beispiel: Ein Volleyballer, der höher springen will, nutzt die Reaktivkraftmethode, um die reaktive Spannungsfähigkeit beim Blocksprung zu verbessern.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-049",
+    "thema": "Q2.2",
+    "kapitel": "Belastungsnormative und Organisation",
+    "q": "Warum wird in der Praxis die Last im dynamischen Krafttraining oft über die Wiederholungszahl statt über Prozentangaben bestimmt? Beschreibe das Vorgehen für Einsteiger.",
+    "a": "• Prozentangaben setzen einen Maximalkrafttest voraus (aufwendig, Verletzungsgefahr, besonders für Anfänger); daher ist es sinnvoller, durch Ausprobieren ein Gewicht zu wählen, das je nach Ziel eine bestimmte Wiederholungszahl zulässt (nach Boeckh-Behrens & Buskies).\n• Einstieg: 3–5 Serien zu 10–15 Wiederholungen mit einem Gewicht, das ab der 12. Wiederholung als „etwas anstrengend“ bis „anstrengend“ (Borg-Skala 13–15) empfunden wird.\n• Schafft der Sportler ohne Probleme 3–5 Sätze mit 15 Wiederholungen, wird das Gewicht leicht gesteigert (progressive Belastungssteigerung).",
+    "e": "Das subjektive Empfinden passt sich automatisch an Tagesform und Leistungsstand an. Beispiel: Ein Schüler beginnt an der Beinpresse mit 50 kg, ab Wiederholung 12 wird es anstrengend. Nach drei Wochen schafft er 3 × 15 locker und erhöht auf 55 kg.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-050",
+    "thema": "Q2.2",
+    "kapitel": "Belastungsnormative und Organisation",
+    "q": "Ordne den Krafttrainingsmethoden ihre typische Intensität (% Kmax) und Wiederholungszahl zu (Gesamtüberblick).",
+    "a": "• Kraftausdauermethode: 35–60 %, viele Wdh. bis zur Ermüdung (ca. 20–30)\n• Schnellkraftmethode: 35–50 %, 6–12 Wdh. explosiv\n• Muskelleistungsmethode: 50–60 %, 6–8 Wdh. explosiv\n• MA-Anfängermethode: 40–65 %, 8–20 Wdh.\n• MA-Fitnessmethode: 70–85 %, 8–15 Wdh.\n• Hypertrophiemethode: 80–90 %, 5–10 Wdh.\n• IK-Training: 90–100 %, 1–5 Wdh.\n• Reaktivkraftmethode: maximal (100 % der reaktiven Sprung-/Wurfleistung, Körpergewicht oder geringe Zusatzlast), 6–10 Wdh.",
+    "e": "Faustregel: Je höher die Last, desto weniger Wiederholungen; explosive Methoden nutzen leichte Lasten, aber maximale Geschwindigkeit. Beispiel: Mit 90 % schaffst du etwa 3 Wiederholungen (IK), mit 50 % viele (Kraftausdauer) – oder du bewegst die 50 % explosiv (Schnellkraft).",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-051",
+    "thema": "Q2.2",
+    "kapitel": "Belastungsnormative und Organisation",
+    "q": "Welche Krafttrainingsmethoden nutzen die Wiederholungsmethode, welche die Intervallmethode? Begründe.",
+    "a": "• Wiederholungsmethode (vollständige Pausen): IK-Training, Schnellkraft- und Muskelleistungsmethode, Reaktivkraftmethode; Hypertrophie- und Fitnessmethode teilweise.\n  → Begründung: Jede Wiederholung soll mit maximaler Qualität (Kraft/Geschwindigkeit) erfolgen; in den Pausen werden die Phosphatspeicher wieder aufgefüllt und das Nervensystem erholt sich.\n• Intervallmethode (lohnende Pausen): Kraftausdauermethode, Anfängermethode (extensiv), Fitness-/Hypertrophiemethode (intensiv).\n  → Begründung: Ermüdung soll sich bewusst aufsummieren, um Hypertrophie bzw. Ermüdungswiderstandsfähigkeit zu erzeugen.",
+    "e": "Wer Schnelligkeit und Maximalleistung trainieren will, darf nicht müde trainieren; wer Muskelwachstum oder Kraftausdauer will, braucht die Ermüdung. Beispiel: Zwischen zwei IK-Serien wartet der Athlet 4 Minuten, im Kraftausdauerzirkel nur 30–60 Sekunden.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-052",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Aus welchen Trainingsformen setzt sich das Maximalkrafttraining zusammen?",
+    "a": "• Maximalkrafttraining (MK) = Muskelaufbautraining (MA) + Training der intramuskulären Koordination (IK).\n• MA-Training: Steigerung der Maximalkraft über Hypertrophie (Muskelquerschnitt).\n• IK-Training: Steigerung der Maximalkraft über die synchrone Aktivierung möglichst vieler Muskelfasern.\n• Reihenfolge: Erst Querschnitt aufbauen (MA), dann besser ansteuern (IK), da ein großer Querschnitt v. a. der schnellen Fasern Voraussetzung für eine optimale IK-Steigerung ist.",
+    "e": "Erst baut man einen größeren Motor (MA), dann lernt man, ihn voll auszufahren (IK). Beispiel: Ein Kugelstoßer trainiert in der frühen Vorbereitungsphase Hypertrophie und kurz vor der Wettkampfphase IK mit sehr schweren Lasten.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-053",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Charakterisiere das Muskelaufbautraining (Hypertrophietraining) allgemein.",
+    "a": "• Methode mittlerer bis hoher Intensitäten und mittlerer Wiederholungszahlen.\n• Erster Schritt zur Maximalkraftsteigerung: Vergrößerung des Muskelfaserquerschnitts.\n• Typisch 8–12 Wiederholungen pro Übung, wobei die letzten Wiederholungen subjektiv als „anstrengend“ empfunden werden sollen.\n• Ausführung langsam bis zügig, dynamisch; keine Wiederholungspausen.\n• Trainingsmethode: Intervallmethode (extensiv/intensiv) bzw. Wiederholungsmethode.",
+    "e": "Der Muskel wächst, wenn er lange genug unter hoher Spannung steht – also nicht zu leicht (zu wenig Reiz) und nicht zu schwer (zu kurz). Beispiel: 4 Sätze à 10 Wiederholungen Kniebeugen mit einem Gewicht, bei dem die letzten 2 Wiederholungen richtig schwer fallen.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-054",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Nenne die Regel für die Ausführung einer Wiederholung im Muskelaufbautraining und begründe sie.",
+    "a": "• Regel: eine Zeiteinheit für die konzentrische Phase, zwei Zeiteinheiten für die exzentrische Phase (z. B. 1 s heben, 2 s absenken).\n• Begründung: In der bremsenden (exzentrischen) Phase kann eine größere Kraft entwickelt werden.\n• Durch die zeitliche Verlängerung der Bremsphase wird die Muskulatur maximal ausgereizt → verbesserte Hypertrophiewirkung und verbesserte intramuskuläre Koordination.",
+    "e": "Viele lassen das Gewicht einfach fallen und verschenken damit den wertvollsten Teil der Wiederholung. Beispiel: Beim Bizepscurl in 1 Sekunde hochbeugen und in 2 Sekunden kontrolliert ablassen.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-055",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Nenne die Belastungsnormative der Anfängermethode im Muskelaufbautraining (Tab. 13.5).",
+    "a": "• Trainingsmethode: extensive Intervallmethode\n• Intensität: 40–65 % Kmax, mittlerer Krafteinsatz, langsam bis zügig, dynamisch\n• Dauer: 8–20 Wiederholungen\n• Umfang: 6–8 Serien zu 3–4 Übungen\n• Dichte: WP keine, ÜP lohnende Pause, SP 1–2 min\n• Anwendung: Gesundheits- und Einsteigertraining\n• Wirkung: bessere intermuskuläre Koordination, gesteigerte Rekrutierung von ST-Fasern; Hypertrophie gering bis mittel; verbesserter aerob-anaerober Stoffwechsel; Maximalkraft (mittel)",
+    "e": "Anfänger brauchen zunächst Technik und eine Gewöhnung von Sehnen und Bändern – deshalb moderate Lasten und viele Wiederholungen. Beispiel: Ein Neuling im Fitnessstudio absolviert einen Ganzkörperplan mit je 15 Wiederholungen bei mittlerer Anstrengung.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-056",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Nenne die Belastungsnormative der Fitnessmethode im Muskelaufbautraining (Tab. 13.5).",
+    "a": "• Trainingsmethode: intensive Intervallmethode und Wiederholungsmethode\n• Intensität: 70–85 % Kmax, mittlerer bis hoher Krafteinsatz, langsam bis zügig, dynamisch\n• Dauer: 8–15 Wiederholungen\n• Umfang: 6–8 Serien zu 3 Übungen\n• Dichte: WP keine, ÜP 30–60 s, SP 2–3 min\n• Anwendung: Leistungssport, Fitnesstraining\n• Wirkung: bessere intermuskuläre Koordination, stärkere Rekrutierung und Frequenzierung beider Fasertypen; Hypertrophie mittel bis stark; verbesserter aerob-anaerober Stoffwechsel; Maximalkraft (stark)",
+    "e": "Die Fitnessmethode ist der „Mittelweg“ zwischen Einsteiger- und Bodybuildingtraining. Beispiel: Ein Handballer trainiert in der Vorbereitung Bankdrücken mit 75 % Kmax, 12 Wiederholungen und 2–3 Minuten Serienpause.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-057",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Nenne die Belastungsnormative der Hypertrophiemethode (Tab. 13.5).",
+    "a": "• Trainingsmethode: intensive Intervallmethode und Wiederholungsmethode\n• Intensität: 80–90 % Kmax, hoher Krafteinsatz, langsam bis zügig, dynamisch\n• Dauer: 5–10 Wiederholungen\n• Umfang: 5–10 Serien zu 3 Übungen\n• Dichte: WP keine, ÜP 2–3 min, SP 3–5 min\n• Anwendung: Leistungssport, Bodybuilding\n• Wirkung: bessere intermuskuläre Koordination, stärkere Rekrutierung und Frequenzierung beider Fasertypen; Hypertrophie stark bis sehr stark; verbesserter anaerober Stoffwechsel; Maximalkraft (sehr stark)",
+    "e": "Je höher die Intensität, desto weniger Wiederholungen und desto längere Pausen. Beispiel: Ein Bodybuilder trainiert Beinpresse mit 85 % Kmax, 8 Wiederholungen, 4 Minuten Serienpause.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-058",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Vergleiche Anfänger-, Fitness- und Hypertrophiemethode: Wie verändern sich Intensität, Wiederholungszahl, Pausen und Hypertrophiewirkung?",
+    "a": "• Intensität steigt: 40–65 % → 70–85 % → 80–90 % Kmax.\n• Krafteinsatz steigt: mittel → mittel bis hoch → hoch.\n• Wiederholungen sinken: 8–20 → 8–15 → 5–10.\n• Pausen werden länger: SP 1–2 min → 2–3 min → 3–5 min; ÜP lohnend → 30–60 s → 2–3 min.\n• Hypertrophie nimmt zu: gering bis mittel → mittel bis stark → stark bis sehr stark.\n• Stoffwechsel: aerob-anaerob → aerob-anaerob → anaerob.\n• Maximalkraftwirkung: mittel → stark → sehr stark.\n• Gemeinsam: dynamisch, langsam bis zügig, keine Wiederholungspausen.",
+    "e": "Die drei Methoden bilden eine Treppe vom Einstieg bis zum Profi. Merkhilfe: Je schwerer, desto kürzer der Satz und desto länger die Pause. Beispiel: Ein Schüler beginnt mit der Anfängermethode und wechselt nach einigen Monaten zur Fitnessmethode.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-059",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Charakterisiere das IK-Training und begründe, warum es nur für Fortgeschrittene geeignet ist.",
+    "a": "• Methode hoher und höchster Intensitäten mit geringen Wiederholungszahlen.\n• Voraussetzung für erhöhte Aktivierung motorischer Einheiten: Belastungen über 80 % der aktuellen Maximalkraft, z. B. 90 % in 3–5 Serien zu 3–4 Übungen mit 2–3 Wiederholungen.\n• Trainiert nach der Wiederholungsmethode, damit sich in den Pausen die Phosphatspeicher weitgehend auffüllen.\n• Nur für Fortgeschrittene: sehr hohe Belastungen für passiven Bewegungsapparat (Sehnen, Bänder, Gelenke, Wirbelsäule); setzt saubere Technik und eine durch MA-Training aufgebaute Muskelbasis voraus.",
+    "e": "Mit fast maximalen Gewichten ist ein Technikfehler schnell eine Verletzung. Beispiel: Ein Anfänger, der gleich 95 % seiner Maximalkraft beim Kreuzheben versucht, riskiert einen Bandscheibenschaden.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-060",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Nenne die Belastungsnormative des IK-Trainings (Tab. 13.6).",
+    "a": "• Trainingsmethode: Wiederholungsmethode\n• Intensität: 90–100 % Kmax, maximaler Krafteinsatz, zügig und explosiv, dynamisch\n• Dauer: 1–5 Wiederholungen\n• Umfang: 3–5 Serien zu 3–4 Übungen (30–60 Einzelbelastungen pro Muskelgruppe)\n• Dichte: WP 5 s; ÜP = SP 3–5 min (vollständige Pause)\n• Anwendung: am Ende der Vorbereitungsphase und in der Wettkampfphase; Schnellkraftdisziplinen; nicht im Gesundheits- und im Kinder- und Jugendtraining\n• Wirkung: verbesserte intermuskuläre Koordination, gesteigerte Rekrutierung und Frequenzierung aller Muskelfasern; Hypertrophie gering; verbesserter anaerob-alaktazider Stoffwechsel; Maximal-, Schnell- und Relativkraft steigen, Kraftdefizit sinkt",
+    "e": "Maximale Last, wenige Wiederholungen, lange Pausen – das ist IK. Beispiel: Ein Gewichtheber macht 4 Serien à 2 Wiederholungen mit 95 % und pausiert jeweils 4 Minuten, damit jede Wiederholung mit voller Energie erfolgt.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-061",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "In welchen Sportarten wird zur Steigerung der Maximalkraft verstärkt auf IK-Training zurückgegriffen? Begründe.",
+    "a": "• In kraftbetonten Sportarten und Disziplinen, in denen ein niedrigeres Körpergewicht die Leistung begünstigt (z. B. Hochsprung, Skispringen, Turnen, Gewichtheben/Kampfsport in Gewichtsklassen).\n• Begründung: IK-Training steigert die Maximalkraft ohne bzw. mit nur geringem Muskelzuwachs → die relative Kraft steigt.\n• Mehr Muskelmasse würde bei gleicher Maximalkraft das Körpergewicht erhöhen und die Leistung verschlechtern.",
+    "e": "Wer sein eigenes Gewicht bewegen muss, will stärker, aber nicht schwerer werden. Beispiel: Ein Hochspringer muss seinen Körper senkrecht nach oben beschleunigen; mehr Muskelmasse bei gleicher Maximalkraft würde die Sprunghöhe verringern.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-062",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Erläutere das Pyramidentraining.",
+    "a": "• Kombiniertes Maximalkrafttraining aus MA- und IK-Training.\n• Prinzip: Mit zunehmendem Gewicht nimmt die Zahl der Wiederholungen ab (z. B. 70 % × 10, 80 % × 6, 90 % × 3, 95 % × 1).\n• Nutzt beide biologischen Möglichkeiten der Maximalkraftsteigerung:\n  – Hypertrophie durch geringe bis mittlere Widerstände bei mittleren bis hohen Wiederholungszahlen\n  – Verbesserung der intramuskulären Koordination durch hohe Widerstände bei geringen Wiederholungszahlen",
+    "e": "Die Pyramide hat eine breite Basis (viele Wiederholungen, leichtere Last) und eine schmale Spitze (wenige Wiederholungen, maximale Last). Beispiel: Beim Bankdrücken steigert sich ein Athlet von 60 kg × 10 über 70 kg × 6 bis 80 kg × 2.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-063",
+    "thema": "Q2.2",
+    "kapitel": "Maximalkrafttraining",
+    "q": "Erläutere die Bedeutung der Maximalkraft für einen Gewichtheber, einen Basketballer und einen Skispringer und begründe, welche Art von Maximalkrafttraining im Vordergrund stehen sollte.",
+    "a": "• Gewichtheber: Maximalkraft ist direkt leistungsbestimmend. Leichte Gewichtsklassen → v. a. IK-Training (Kraft ohne Gewichtszunahme); Superschwergewicht → v. a. MA-Training (Hypertrophie) kombiniert mit IK (Pyramide).\n• Basketballer: Maximalkraft als Basis für Sprung-, Antritts- und Reaktivkraft. Center (Körperkontakt, Rebound) → auch MA für mehr Masse und Durchsetzungsvermögen; Aufbauspieler (Schnelligkeit) → eher IK, um leicht zu bleiben.\n• Skispringer: Maximalkraft der Beinstrecker als Basis für explosiven Absprung; geringes Körpergewicht ist entscheidend (Flugphase) → IK-Training, Hypertrophie vermeiden.",
+    "e": "Entscheidend ist immer: Hilft mehr Masse oder schadet sie? Beispiel: Ein Skispringer mit zwei Kilo mehr Muskeln fliegt schlechter – er setzt daher auf IK-Training.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-064",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Wodurch ist Schnellkrafttraining allgemein gekennzeichnet?",
+    "a": "• Methoden mittlerer Belastungsintensitäten und Wiederholungszahlen\n• konzentrische Arbeitsweise\n• maximale Ausführungsgeschwindigkeit (explosiv)\n• Effizienz hängt v. a. von relativ geringen äußeren Widerständen und vollständigen Pausen ab.\n• Abbruch, sobald die Geschwindigkeit abfällt.",
+    "e": "Beim Schnellkrafttraining zählt jede Wiederholung nur, wenn sie wirklich maximal schnell ist – müde Wiederholungen trainieren eher Langsamkeit. Beispiel: Medizinballstöße mit 3 kg so explosiv wie möglich, nach 8 Stößen Pause, sobald die Weite nachlässt.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-065",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Unterscheide Schnellkraftmethode und Muskelleistungsmethode hinsichtlich ihres Einsatzbereichs (Zeit für die Impulserzeugung).",
+    "a": "• Bewegungen unter 250 ms (wenig Zeit für die Impulserzeugung, z. B. Fechten, Boxen, Sprint, reaktionsabhängige Sportarten): Schnellkraft ist v. a. die Fähigkeit, große Kraftwerte in kürzester Zeit zu erzielen; Startkraft und Kraftanstieg sind entscheidend → Schnellkraftmethode.\n• Bewegungen über 250 ms (Zeit für die Impulserzeugung, z. B. Hammer-, Diskus-, Speerwurf, Kugelstoßen, Sprünge mit langen Bodenkontaktzeiten wie im Volleyball): Schnellkraft wird durch die muskuläre Leistungsfähigkeit bestimmt; die Muskulatur muss in der konzentrischen Phase große Kräfte aufbringen → Muskelleistungsmethode.",
+    "e": "Die 250-ms-Grenze trennt „blitzschnell“ von „schnell, aber mit etwas Anlauf“. Beispiel: Ein Boxer braucht die Schnellkraftmethode, ein Kugelstoßer, der den Stoß über eine längere Strecke beschleunigt, die Muskelleistungsmethode.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-066",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Nenne die Belastungsnormative der Schnellkraftmethode und der Muskelleistungsmethode (Tab. 13.7).",
+    "a": "Gemeinsam:\n• Wiederholungsmethode; maximaler Krafteinsatz; explosiv schnell; konzentrisch\n• Umfang: 4–5 Serien zu 3–4 Übungen\n• Dichte: WP 5–10 s (bei alternierenden Bewegungen auch ohne Pause); ÜP = SP 3–5 min\n• Abbruch bei Geschwindigkeitsabfall\nUnterschiede:\n• Schnellkraftmethode: 35–50 % Kmax, 6–12 Wiederholungen\n• Muskelleistungsmethode: 50–60 % Kmax, 6–8 Wiederholungen\nAnwendung: Ende der Vorbereitungsperiode, besonders Wettkampfphase; alle Schnellkraftdisziplinen; nicht im Gesundheitstraining; Kinder/Jugendliche mit reduzierten Intensitäten.",
+    "e": "Beide Methoden sind „leicht und explosiv“, die Muskelleistungsmethode nur etwas schwerer. Beispiel: Sprungkniebeugen mit 40 % Kmax (Schnellkraftmethode) für einen Sprinter oder mit 55 % (Muskelleistungsmethode) für einen Kugelstoßer, jeweils mit 4 Minuten Pause.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-067",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Welche Wirkungen haben Schnellkraft- und Muskelleistungsmethode (Tab. 13.7)?",
+    "a": "• ZNS: Verbesserung der schnellen Kontraktionsfähigkeit der Muskelfasern sowie der inter- und intramuskulären Koordination (willkürliche neuronale Aktivierungsfähigkeit).\n• Hypertrophie: keine (Schnellkraftmethode) bzw. gering (Muskelleistungsmethode).\n• Energiestoffwechsel: Verbesserung der anaerob-alaktaziden Kapazität.\n• Kraftarten: Schnellkraft (beide), zusätzlich Maximal- und Explosivkraft (Muskelleistungsmethode).",
+    "e": "Schnellkrafttraining macht die Muskeln vor allem schneller, nicht dicker. Beispiel: Ein Tischtennisspieler verbessert seine Schlaggeschwindigkeit, ohne an Gewicht zuzulegen.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-068",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Wie wird Schnellkrafttraining in den Sportspielen durchgeführt und warum?",
+    "a": "• In den Sportspielen wird Schnellkrafttraining technikorientiert durchgeführt.\n• Schnellkraft- und Muskelleistungsmethode haben dort kaum Bedeutung, u. a. wegen des großen Zeitaufwands.\n• Stattdessen direktes Schnellkrafttraining mit Sprung-, Wurf-, Stoß-, Schuss- und Antrittsübungen,\n• isoliert oder im Rahmen eines komplexen Übungs- und Spielphasentrainings.\n• Vorteil: Übertragung auf die sportartspezifische Technik (intermuskuläre Koordination).",
+    "e": "Spieler trainieren Schnellkraft lieber mit dem Ball als an der Hantel. Beispiel für Basketball: Antritt nach Ballannahme mit Korbleger, Sprungwürfe nach Stopp, Rebound-Serien am Brett mit sofortigem Wiederabsprung.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-069",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Wodurch ist das Reaktivkrafttraining gekennzeichnet?",
+    "a": "• Methoden mit schnellem Dehnungs-Verkürzungs-Zyklus der Muskulatur\n• sehr hohe (maximale) Intensität\n• Typische Inhalte: Mehrfachsprünge über Geräte, Niedersprünge, Absprünge mit Anlauf, schnelle Laufschritte, reaktive Liegestütze.\n• Leistungsbestimmend: Muskelfaserquerschnitt und -zusammensetzung sowie Elastizitäts- und Innervationsverhalten von Muskeln, Sehnen und Bändern (reaktive Spannungsfähigkeit).",
+    "e": "Reaktivkrafttraining heißt: landen und sofort wieder abspringen, so kurz wie möglich am Boden. Beispiel: Hürdensprünge in Serie über 5 niedrige Hürden mit minimaler Bodenkontaktzeit.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-070",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Beschreibe den Drop-Jump als Standardübung des Reaktivkrafttrainings sowie eine Übung für die obere Extremität.",
+    "a": "Drop-Jump (Knie- und Fußstrecker):\n• Sportler lässt sich aus 15–60 cm Höhe von einem Kasten fallen,\n• springt mit kurzer Bodenkontaktzeit, ohne große Ausholbewegung der Beine,\n• möglichst hoch senkrecht nach oben auf einen gleich hohen zweiten Kasten.\nReaktive Liegestütze (Ellbogenstrecker):\n• einfachste Form: aus dem Kniestand in den Liegestütz hineinfallen,\n• ohne große Ausholbewegung der Arme sofort reaktiv abdrücken.",
+    "e": "Beim Drop-Jump soll der Boden „heiß“ sein – sofort wieder weg! Ein tiefes Einknicken würde den Dehnungs-Verkürzungs-Zyklus verlängern und die Reaktivkraftwirkung zerstören. Beispiel: Ein Volleyballer springt von einem 40-cm-Kasten und sofort auf den nächsten Kasten.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-071",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Wie sollte die Belastung beim Reaktivkrafttraining (plyometrisches Training) aufgebaut werden und welche Voraussetzung ist nötig?",
+    "a": "• Langsame Belastungssteigerung:\n  1. ein- und beidbeinige Hüpfübungen\n  2. Sprungübungen (z. B. Vertikalsprünge über niedrige Hürden)\n  3. zuletzt Tief-Hoch-Sprünge (plyometrisches Training, Drop-Jumps)\n• Voraussetzung: gute Maximalkraftbasis.\n• Daher im Nachwuchsbereich nicht oder nur in vereinfachten Formen einsetzen.",
+    "e": "Bei Tief-Hoch-Sprüngen wirken ein Vielfaches des Körpergewichts auf Sehnen und Gelenke. Ohne Kraftbasis knickt man ein oder verletzt sich. Beispiel: Ein 12-Jähriger macht Seilspringen und Hüpfspiele statt Drop-Jumps aus 60 cm.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-072",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Nenne die Belastungsnormative der Reaktivkraftmethode (Tab. 13.8).",
+    "a": "• Trainingsmethode: Wiederholungsmethode\n• Intensität: 100 % (maximal bezogen auf die maximale Sprung-, Wurf-, Stoßleistung; Körpergewicht oder geringe Zusatzlast), maximaler Krafteinsatz, explosiv, exzentrisch-konzentrisch ohne Umkehrpause\n• Dauer: 6–10 Wiederholungen\n• Umfang: Anfänger 2–3, Fortgeschrittene 3–5, Hochleistungssportler 6–10 Serien zu je 2–3 Übungen\n• Dichte: WP 5–10 s (nur im frischen Zustand!), ÜP = SP 5–10 min\n• Anwendung: ganzjährig, besonders Ende Vorbereitungs- und Wettkampfphase; reaktive Sprungdisziplinen; nicht im gesundheitsorientierten Fitnesstraining; vorsichtig bei Kindern/Jugendlichen\n• Wirkung: bessere Kraftentfaltung im DVZ (reaktive Spannungsfähigkeit), gesteigerte Rekrutierung aller Fasern; Hypertrophie sehr gering; anaerob-alaktazider Stoffwechsel; Reaktiv- und Schnellkraft",
+    "e": "Reaktivkrafttraining braucht die längsten Pausen aller Kraftmethoden, weil das Nervensystem für jede Wiederholung frisch sein muss. Beispiel: Ein Hochspringer macht 4 Serien à 8 Hürdensprünge und pausiert jeweils 6–8 Minuten.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-073",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Warum ist extremes Reaktivkrafttraining für Spielsportler nicht zu empfehlen?",
+    "a": "• Bei extrem hohen Belastungen (z. B. Tief-Hoch-Sprünge aus großer Fallhöhe und/oder extrem verkürzte Bremsphase) treten hohe, verletzungsträchtige Belastungsspitzen auf.\n• Die Belastung entspricht nicht den spielspezifischen Anforderungen der Spielsportarten.\n• Wichtiger ist für Spielsportler das propriozeptive Training.",
+    "e": "Ein Fußballer springt im Spiel nie von 80 cm herab und sofort maximal ab – solches Training bringt ihm wenig, kostet aber Gelenke. Beispiel: Statt Drop-Jumps aus großer Höhe trainiert er lieber Sprünge und Landungen auf dem Kippbrett.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-074",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Was ist propriozeptives Training und warum ist es für Spielsportler besonders wichtig?",
+    "a": "• Training an instabilen Geräten (Kippbrett, Therapiekreisel, Minitrampolin usw.).\n• Schult Gleichgewicht, Antizipation und Reaktion auf häufig unerwartete Reize.\n• Verbessert reflexinduziert die Schnellkraft und Bewegungsschnelligkeit zu Bewegungsbeginn (v. a. in den ersten 100 ms nach Reizsetzung).\n• Beugt Verletzungen vor (z. B. Umknicken).\n• Wichtig, weil Spieler häufig auf unvorhersehbare Reize mit schnellen bzw. schnellkräftigen Aktionen reagieren müssen.\n• Fließender Übergang zum Koordinationstraining.",
+    "e": "Propriozeption ist die „Eigenwahrnehmung“ des Körpers über Rezeptoren in Muskeln, Sehnen und Gelenken. Beispiel: Ein Handballer, der regelmäßig auf dem Therapiekreisel steht, fängt ein Umknicken bei der Landung schneller reflektorisch ab.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-075",
+    "thema": "Q2.2",
+    "kapitel": "Schnellkraft- und Reaktivkrafttraining",
+    "q": "Erläutere die Bedeutung der Reaktivkraft für eine Hochspringerin, eine Volleyballerin und eine Handballerin und nenne geeignete Trainingsformen.",
+    "a": "• Hochspringerin: Absprung nach Anlauf ist ein schneller DVZ (Bodenkontakt ca. 150–200 ms) → Reaktivkraft leistungsbestimmend; Training: Reaktivkraftmethode mit Hürdensprüngen, einbeinigen Sprungserien, Drop-Jumps (bei guter Maximalkraftbasis).\n• Volleyballerin: Block- und Angriffssprünge, oft wiederholt, teils mit längeren Bodenkontakten → Reaktiv- und Explosivkraft; Training: Sprungserien, Drop-Jumps mit moderater Höhe, technikorientierte Blocksprünge.\n• Handballerin: Sprungwurf nach Anlauf, Stopps und Richtungswechsel → Reaktivkraft und Startkraft; Training: technikorientiertes Sprung- und Antrittstraining, moderate Plyometrie, propriozeptives Training statt extremer Tief-Hoch-Sprünge.",
+    "e": "Je spezifischer und kürzer der Bodenkontakt in der Sportart, desto wichtiger die Reaktivkraft. Beispiel: Die Hochspringerin profitiert am stärksten von klassischer Plyometrie, die Handballerin eher von spielnahen Sprung- und Gleichgewichtsübungen.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-076",
+    "thema": "Q2.2",
+    "kapitel": "Kraftausdauertraining",
+    "q": "Wodurch ist das Kraftausdauertraining gekennzeichnet?",
+    "a": "• Belastung der Muskulatur mit geringen bis mittleren Belastungsreizen,\n• vielen Wiederholungen bis hin zur Erschöpfung.\n• Trainingsmethode: Intervallmethode; je nach Intensität eher aerobe (extensive) oder eher anaerobe (intensive) Wirkung.\n• Wichtig ist die völlige Erschöpfung nach einem Satz.\n• Je nach Sportart eher ausdauer- oder kraftorientiert.",
+    "e": "Kraftausdauertraining fühlt sich an wie „brennende Muskeln“ am Ende eines langen Satzes. Beispiel: 25 Kniebeugen mit leichter Langhantel bis nichts mehr geht, danach eine Minute Pause.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-077",
+    "thema": "Q2.2",
+    "kapitel": "Kraftausdauertraining",
+    "q": "Nenne die Belastungsnormative der Kraftausdauermethode (Tab. 13.10).",
+    "a": "• Trainingsmethode: Intervallmethode\n• Intensität: 35–60 % Kmax, geringer bis mittlerer Krafteinsatz, langsam bis zügig, dynamisch\n• Dauer: viele Wiederholungen bis zur völligen Ermüdung\n• Umfang: 6 Serien zu je 3–4 Übungen oder 3 Zirkeldurchgänge mit 6–8 Stationen\n• Dichte: WP keine; ÜP 30–60 s; SP 1–3 min (höhere Last) bzw. 0,5–2 min (geringere Last)\n• Anwendung: Kraftausdauerdisziplinen, sanftes Krafttraining (Körperformung, Gewichtsreduktion), Rehabilitation, Verletzungsprophylaxe, kompensatorisches Training\n• Wirkung: ZNS keine; Hypertrophie gering bis mittel; Verbesserung der aeroben und anaeroben Glykolyse; Kraftausdauer",
+    "e": "Leichte Last, viele Wiederholungen, kurze (lohnende) Pausen – typisch Intervallmethode. Beispiel: Ein Zirkel mit 6 Stationen (Liegestütze, Sit-ups, Kniebeugen …), jeweils bis zur Ermüdung, dreimal durchlaufen.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-078",
+    "thema": "Q2.2",
+    "kapitel": "Kraftausdauertraining",
+    "q": "Wie wird die Last im Kraftausdauertraining in der Praxis gewählt und wann wird abgebrochen?",
+    "a": "• Durch Ausprobieren wird je nach Trainingsziel für jede Übung eine Last gewählt, die 20–30 Wiederholungen zulässt.\n• Abbruch beim subjektiven Anstrengungsgrad „sehr anstrengend“ auf der Borg-Skala.\n• In nachfolgenden Serien wird bereits abgebrochen, wenn die zu Beginn erreichten Wiederholungszahlen nicht mehr geschafft werden.",
+    "e": "Die Wiederholungszahl ist hier der Gradmesser für die passende Last. Beispiel: Schafft jemand beim Latziehen mit 30 kg 28 Wiederholungen, passt die Last; schafft er in Serie 3 nur noch 20, wird die Übung beendet.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-079",
+    "thema": "Q2.2",
+    "kapitel": "Kraftausdauertraining",
+    "q": "Begründe, warum Kraftausdauertraining für Spielsportler nicht die Methode der ersten Wahl ist.",
+    "a": "• Spieler müssen vor allem schnellkräftige und reaktive, zyklische und azyklische Bewegungen häufig und über die gesamte Spielzeit bei unterschiedlichen Pausen erbringen.\n• Die Energiebereitstellung dafür ist meist anaerob-alaktazid, teilweise anaerob-laktazid (wenn die Pausen zur Phosphatresynthese nicht reichen).\n• Die Kraftausdauermethode (viele Wiederholungen, geringe Last, langsam bis zügig) trainiert diese Anforderungen kaum.\n• Sie eignet sich bei Spielern nur zur Verbesserung einer Kraftausdauerbasis.",
+    "e": "Fußball besteht aus vielen kurzen Sprints, Sprüngen und Zweikämpfen, nicht aus 30 langsamen Wiederholungen. Beispiel: Wiederholte Antritte mit kurzen Pausen sind spielnäher als ein klassischer Kraftausdauerzirkel.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-080",
+    "thema": "Q2.2",
+    "kapitel": "Kraftausdauertraining",
+    "q": "Was ist HIIT und wie ist das Tabata-Training aufgebaut?",
+    "a": "• HIIT (Hoch-Intensitäts-Intervall-Training) = spezielles Kraftausdauertraining mit kurzen, sehr intensiven Belastungen, kurzen Pausen und geringem Umfang.\n• Tabata-Training (nach dem japanischen Professor Izumi Tabata) als Fitnessvariante:\n  – Zirkel aus 4–8 Übungen nach dem Prinzip der intensiven Intervallmethode\n  – Belastungsdauer 20 s mit sehr hoher bis maximaler Intensität\n  – Pause zwischen den Übungen 10 s\n  – lohnende Serienpause von 60–120 s zwischen zwei Durchgängen",
+    "e": "20 Sekunden Vollgas, 10 Sekunden Pause – kurz, aber extrem anstrengend. Beispiel: Ein Tabata-Zirkel mit Crunches, Push-ups und Squats dauert pro Durchgang nur wenige Minuten, bringt aber Puls und Muskeln an die Grenze.",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-081",
+    "thema": "Q2.2",
+    "kapitel": "Kraftausdauertraining",
+    "q": "Unterscheide Maximalkraftausdauer, dynamische Kraftausdauer mit mittleren Krafteinsätzen und dynamische Kraftausdauer mit geringem Kraftaufwand hinsichtlich der Energiebereitstellung.",
+    "a": "• Maximalkraftausdauer (extreme, meist statische Belastung): anaerob-laktazide Energiebereitstellung.\n• Dynamische Kraftausdauer mit mittleren Krafteinsätzen: gemischt anaerob-aerob.\n• Dynamische Kraftausdauer mit geringem Kraftaufwand: überwiegend aerob.",
+    "e": "Je höher der Krafteinsatz pro Bewegung, desto stärker werden die Kapillaren abgedrückt und desto anaerober wird es. Beispiel: Turner im Kreuzhang (laktazid), Ruderer oder Sprintschwimmer (gemischt), Langstreckenschwimmer (aerob).",
+    "quelle": "L13.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-082",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Welche Kraftfähigkeiten werden mit Krafttests überprüft? Nenne jeweils passende Tests.",
+    "a": "• Maximalkraft: Handkrafttest (Handdynamometer), Einer-Wiederholung (1RM) bzw. Mehrfachwiederholungen mit Umrechnung\n• Schnell- und Reaktivkraft der unteren Extremitäten: Squat-Jump, Counter-Movement-Jump, Drop-Jump, Jump-and-Reach-Test, Standweitsprung\n• Schnellkraft der oberen Extremitäten: beidarmiger Medizinball-Stoß-Test\n• Kraftausdauer: kraftbetonte Tests (z. B. 30 CMJs in 60 s) und ausdauerbetonte Tests (z. B. max. Liegestütze in 40 s)",
+    "e": "Für jede Kraftart gibt es passende Testaufgaben. Beispiel: Ein Leichtathletiktrainer nutzt CMJ und Drop-Jump, um zu sehen, ob ein Springer eher Schnellkraft- oder Reaktivkraftdefizite hat.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-083",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Beschreibe den Handkrafttest und begründe, warum er sich für den Kinder- und Jugendbereich eignet.",
+    "a": "• Messung der Greifkraft mit einem Handdynamometer (dominante und nicht dominante Hand; absolut in kg oder relativ in kg pro kg Körpergewicht).\n• Eignung: Im Kinder- und Jugendbereich sollte wegen des hohen Verletzungsrisikos auf Maximalkrafttests verzichtet werden – einzige Ausnahme ist die Handkraft.\n• Die Ergebnisse korrelieren hoch mit der maximalen Armkraft sowie der Kraft der Rücken- und Bauchmuskulatur.\n• Einfache und schnelle Bestimmung des allgemeinen Maximalkraftniveaus.\n• Relative Werte über 1,0 erreichen nur Kletterer und Turner.",
+    "e": "Einmal kräftig zudrücken ist ungefährlich, liefert aber eine gute Schätzung der allgemeinen Kraft. Beispiel: Ein Schüler der 10. Klasse drückt mit der dominanten Hand ca. 50 kg, bei 70 kg Körpergewicht ergibt das eine relative Handkraft von etwa 0,7.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-084",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Was überprüft die Einer-Wiederholung und warum wird sie in der Praxis meist über Mehrfachwiederholungen ermittelt?",
+    "a": "• Die Einer-Wiederholung (1RM, one repetition maximum) überprüft die dynamische Maximalkraft: das Gewicht, das genau einmal korrekt bewegt werden kann.\n• In der Praxis aus Gründen der Praktikabilität (u. a. Verletzungsgefahr) über eine höhere Wiederholungszahl mit niedrigerem Gewicht bestimmt.\n• Zusammenhang (nach Ferrauti): linear, y = 1,0278 – 0,0278 · x (x = maximal mögliche Wiederholungszahl, y = Anteil der Maximalkraft).\n• Umgestellt: MK = W / (1,0278 – 0,0278 · x) (W = bewegtes Gewicht).\n• Richtwerte: 1 Wdh. = 100 %, 5 Wdh. ≈ 88 %, 10 Wdh. ≈ 75 %, 15 Wdh. ≈ 61 %.",
+    "e": "Statt das gefährliche Maximum zu testen, rechnet man es aus. Beispiel: Wer 60 kg genau 10-mal drücken kann, hat eine geschätzte Maximalkraft von 60 / (1,0278 – 0,278) ≈ 80 kg.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-085",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Begründe, warum die Wiederholungszahl bei der indirekten Maximalkraftbestimmung im Bereich von etwa 10 ± 5 Wiederholungen liegen sollte.",
+    "a": "• Bei sehr wenigen Wiederholungen ist das Gewicht nahe am Maximum → Verletzungsrisiko, der Vorteil der indirekten Messung ginge verloren.\n• Bei sehr vielen Wiederholungen wird die Leistung zunehmend durch die Kraftausdauer (Ermüdungswiderstandsfähigkeit, Stoffwechsel) bestimmt statt durch die Maximalkraft → die lineare Formel wird ungenau, kleine Zählfehler wirken sich stark aus.\n• Zudem nähert sich der Nenner der Formel (1,0278 – 0,0278 · x) bei großen x der Null → die Schätzung wird extrem empfindlich.\n• Im Bereich 5–15 Wiederholungen ist die Schätzung praktikabel und ausreichend genau.",
+    "e": "Zu wenige Wiederholungen sind gefährlich, zu viele messen Ausdauer statt Kraft. Beispiel: Ob jemand mit 30 kg 35 oder 37 Wiederholungen schafft, hängt stark von Motivation und Ermüdung ab – die errechnete Maximalkraft würde stark schwanken.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-086",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Unterscheide Squat-Jump, Counter-Movement-Jump und Drop-Jump hinsichtlich Durchführung und überprüfter Kraftfähigkeit.",
+    "a": "• Squat-Jump (SJ): senkrechter Maximalsprung aus der tiefen Hocke, ohne Auftaktbewegung der Beine und ohne Armeinsatz → Schnellkraft bei rein konzentrischer Arbeitsweise.\n• Counter-Movement-Jump (CMJ): senkrechter Maximalsprung mit Auftaktbewegung (Ausholbewegung) der Beine, ohne Armeinsatz → dynamische (exzentrisch-konzentrische) Schnellkraft.\n• Drop-Jump (DJ): Herabspringen von erhöhter Ebene (15–60 cm), dann mit möglichst kurzer Bodenkontaktzeit, ohne Armeinsatz, möglichst hoch springen → Reaktivkraft und elementare azyklische Schnelligkeit.\n• Messung von Sprunghöhe und Bodenkontaktzeit jeweils mit einer Kraftmessplatte.",
+    "e": "Die drei Sprünge unterscheiden sich darin, wie viel Dehnungs-Verkürzungs-Zyklus genutzt wird: SJ keiner, CMJ ein langsamer, DJ ein schneller. Beispiel: Springt ein Athlet beim CMJ deutlich höher als beim SJ, nutzt er die exzentrische Vordehnung gut.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-087",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Beschreibe den Jump-and-Reach-Test und den Standweitsprung als Tests der Sprungkraft.",
+    "a": "Jump-and-Reach-Test (Differenzsprung):\n• Alternative, wenn keine Kraftmessplatte vorhanden ist.\n• Sportler springt seitlich an einer Wand hoch und tippt am höchsten Punkt mit kreidebedeckten Fingern an.\n• Sprunghöhe = Differenz aus maximaler Reichhöhe im Sprung und Reichhöhe im Stand.\n• Misst die vertikale Sprungkraft (dynamische Schnellkraft der unteren Extremitäten).\nStandweitsprung:\n• Beidbeiniger Sprung mit Armeinsatz aus dem Stand in die Weite.\n• Misst die horizontale Sprungkraft.\n• Beide Sprungkräfte sollten separat erfasst werden, da teilweise unterschiedliche Muskelgruppen beteiligt sind (nach Weineck).",
+    "e": "Der eine Test geht nach oben, der andere nach vorn. Beispiel: Ein Volleyballer schneidet beim Jump-and-Reach-Test sehr gut ab, ein Weitspringer eher beim Standweitsprung – beide Fähigkeiten müssen unterschiedlich trainiert werden.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-088",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Welche Muskelgruppen sind beim Jump-and-Reach-Test, beim Standweitsprung und beim beidarmigen Medizinball-Stoß-Test besonders beteiligt?",
+    "a": "• Jump-and-Reach-Test (vertikal): v. a. Kniestrecker (M. quadriceps femoris), Hüftstrecker (M. gluteus maximus) und Fußstrecker/Wadenmuskulatur (M. triceps surae); dazu Rückenstrecker und Armschwung.\n• Standweitsprung (horizontal): ebenfalls Knie-, Hüft- und Fußstrecker, wobei Hüftstrecker (Gesäß, ischiocrurale Muskulatur) und Rumpfmuskulatur stärker beteiligt sind; Armschwung unterstützt.\n• Medizinball-Stoß: Ellbogenstrecker (M. triceps brachii), Brustmuskulatur (M. pectoralis major), vorderer Deltamuskel; Rumpfstabilisierung.",
+    "e": "Wenn du dir die Bewegung vorstellst, siehst du, welche Gelenke gestreckt werden – deren Strecker arbeiten. Beispiel: Beim Medizinballstoß werden Ellbogen gestreckt und die Arme nach vorn gebracht → Trizeps und Brustmuskel.",
+    "quelle": "L16.3",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-089",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Beschreibe den beidarmigen Medizinball-Stoß-Test.",
+    "a": "• Ein Medizinball wird mit angewinkelten Armen vor der Brust gehalten.\n• Aus dem Stand wird der Ball möglichst weit gestoßen.\n• Der Testleiter erfasst die Stoßweite.\n• Überprüft die Wurf- bzw. Stoßkraft, also die Schnellkraftfähigkeit der oberen Extremitäten.",
+    "e": "Der Medizinballstoß ist das Gegenstück zum Sprungtest für die Arme. Beispiel: Ein Handballer oder Basketballer kann so überprüfen, ob sein Schnellkrafttraining für Arme und Brust wirkt.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-090",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Unterscheide kraftbetonte und ausdauerbetonte Kraftausdauertests.",
+    "a": "• Beide erfassen die Kraftausdauer in einem Zeitraum von jeweils 30–60 s.\n• Kraftbetont: Eine maximale Kraftleistung wird in regelmäßigen Abständen wiederholt; gemessen wird die Veränderung der Kraftimpulshöhe im zeitlichen Verlauf (akzentuiert die Kraftkomponente). Testform: 60 s lang alle 2 s ein maximaler CMJ (30 Sprünge); je langsamer die Sprunghöhe abnimmt, desto besser die Ermüdungswiderstandsfähigkeit.\n• Ausdauerbetont: Kraftimpulse mittlerer Stärke werden in einem Zeitraum möglichst oft ausgeführt; gemessen wird die Wiederholungszahl (akzentuiert die Ausdauerkomponente). Testform: möglichst viele Liegestütze in 40 s.",
+    "e": "Kraftbetont: Wie gut bleibt die Leistung hoch? Ausdauerbetont: Wie oft schaffe ich es? Beispiel: Sinkt die CMJ-Höhe eines Volleyballers in 60 s nur von 50 auf 45 cm, hat er eine sehr gute Sprungkraftausdauer.",
+    "quelle": "L16.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q2.2-091",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Beurteile den Standweitsprung als sportmotorischen Test (z. B. im Rahmen einer Bewertungstabelle) kritisch.",
+    "a": "Positiv:\n• hohe Objektivität (Weitenmessung), gute Reliabilität, einfach, ohne teure Geräte durchführbar\n• erfasst die horizontale Sprungkraft/Schnellkraft der unteren Extremitäten\nKritisch:\n• Validität eingeschränkt: Ergebnis hängt auch von Koordination (Armschwung, Landung), Technik, Körpergröße/Beinlänge und Körpergewicht ab\n• misst nur horizontale, nicht vertikale Sprungkraft\n• Bewertungstabellen: Gleiche Normwerte für alle Altersstufen der Mädchen (15–17 Jahre), bei Jungen dagegen altersgestaffelt – Entwicklungsunterschiede werden nicht einheitlich berücksichtigt; Trainingszustand, Körperbau und biologisches Alter bleiben unberücksichtigt.",
+    "e": "Ein guter Test sollte objektiv, zuverlässig und gültig sein – und die Bewertung sollte fair sein. Beispiel: Ein großer, schwerer Schüler kann trotz guter Beinkraft im Standweitsprung schlechter abschneiden als ein kleiner, leichter.",
+    "quelle": "L16.3",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q2.2-092",
+    "thema": "Q2.2",
+    "kapitel": "Krafttests",
+    "q": "Erkläre, warum die relative Handkraft (kg pro kg Körpergewicht) aussagekräftiger sein kann als die absolute Handkraft.",
+    "a": "• Absolute Kraft (kg) steigt mit Körpergröße und -masse; schwerere Personen sind meist absolut stärker.\n• Relative Kraft berücksichtigt das Körpergewicht und ermöglicht einen fairen interindividuellen Vergleich.\n• In Sportarten, in denen der eigene Körper bewegt werden muss (Klettern, Turnen), ist die relative Kraft leistungslimitierend – nur dort werden Werte über 1,0 erreicht.\n• Bei Jugendlichen steigt die absolute Handkraft mit der Pubertät sprunghaft (z. B. von ca. 32 kg in Klasse 9 auf ca. 53 kg in Klasse 10), die relative Kraft dagegen moderater.",
+    "e": "Absolut sagt: Wie stark bist du? Relativ sagt: Wie stark bist du für dein Gewicht? Beispiel: Ein 50-kg-Kletterer mit 55 kg Handkraft (1,1) hält sich an kleinen Leisten besser als ein 90-kg-Ruderer mit 70 kg Handkraft (0,78).",
+    "quelle": "L16.3",
+    "typ": "kern"
+  }
+]

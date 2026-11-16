@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "q3.2-001",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Womit beschäftigt sich die Sportmotorik und wie unterscheidet sie sich von der Bewegungsbeobachtung von außen?",
+    "a": "• Die Sportmotorik betrachtet sportliche Bewegungen aus der Innensicht des Sportlers.\n• Sie untersucht die Teilsysteme und Teilprozesse (z. B. Nervensystem, Sinnesorgane, Muskeln), die sportliche Bewegungen auslösen und kontrollieren.\n• Die Biomechanik/Bewegungslehre beschreibt und analysiert Bewegungen dagegen von außen (Außensicht: Phasen, Zweckmäßigkeit, Kräfte).",
+    "e": "Die Außensicht fragt: Wie sieht die Bewegung aus? Die Innensicht der Sportmotorik fragt: Was passiert im Körper, damit die Bewegung überhaupt entsteht? Beispiel: Beim Hochsprung beschreibt die Außensicht Anlauf, Absprung und Lattenüberquerung, die Sportmotorik fragt, wie Gehirn, Sinne und Muskeln den Absprung steuern.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-002",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Was versteht man unter motorischer Kontrolle?",
+    "a": "• Motorische Kontrolle bezeichnet die Aufgabe von Teilsystemen und Teilprozessen (v. a. des Nervensystems), die Freiheitsgrade unseres Körpers zu kontrollieren.\n• Ziel ist, dass aus der Vielzahl beteiligter Muskeln und Gelenke eine geordnete, koordinierte Bewegung entsteht.\n• Das dabei auftretende Freiheitsgradeproblem ist bis heute eine große Herausforderung der Motorikforschung.",
+    "e": "Unser Körper hat unglaublich viele Gelenke und Muskeln, die sich theoretisch unabhängig bewegen könnten. Motorische Kontrolle sorgt dafür, dass sie sinnvoll zusammenspielen. Beispiel: Bei Autos ist nur ein Teil der Räder lenkbar. Wären alle vier Räder einzeln lenkbar, wäre schon Geradeausfahren schwierig, weil zu viele Freiheitsgrade kontrolliert werden müssten.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-003",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Erläutere das Freiheitsgradeproblem nach Bernstein.",
+    "a": "• Der russische Physiologe Nikolai Bernstein fragte, wie die vielen an einer Bewegung beteiligten Muskeln so exakt kontrolliert werden, dass eine koordinierte Bewegung entsteht.\n• Für jeden Muskel müssen drei Größen gesteuert werden:\n  – Kontraktionsbeginn (t0)\n  – Kontraktionsdauer (Δt)\n  – Kontraktionsstärke/Intensität (I)\n• Bei rund 792 Muskeln, die im Prinzip unabhängig voneinander agieren könnten, ergibt sich eine riesige Zahl von Freiheitsgraden.\n• Wie das ZNS diese Freiheitsgrade reduziert und beherrscht, ist das Freiheitsgradeproblem.",
+    "e": "Stell dir ein Orchester mit fast 800 Musikern vor, die alle zur richtigen Zeit, gleich lang und in der passenden Lautstärke spielen müssen. Ohne Dirigent und feste Noten entstünde Chaos. Beispiel: Ein Anfänger beim Tennisaufschlag hält viele Gelenke steif (friert Freiheitsgrade ein), erst mit Übung werden sie nach und nach freigegeben.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-004",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Erkläre das EVA-Prinzip der Informationsverarbeitung im ZNS.",
+    "a": "Alle Vorgänge im ZNS lassen sich nach dem EVA-Prinzip beschreiben:\n• Eingabe: Sinneszellen nehmen Reize aus Umwelt und Körper auf und leiten die Informationen als Aktionspotenziale über sensorische (afferente) Nerven ins ZNS.\n• Verarbeitung: Im ZNS werden Informationen erkannt, bewertet, gespeichert und mit gespeicherten Informationen verglichen.\n• Ausgabe: Motorische (efferente) Nerven werden aktiviert, die Muskeln setzen die Aktionspotenziale in Kontraktion um, es entsteht eine sichtbare Reaktion bzw. Bewegung.",
+    "e": "Das EVA-Prinzip stammt aus der Computerwelt: Tastatur (Eingabe), Prozessor (Verarbeitung), Bildschirm (Ausgabe). Beispiel: Der Torwart sieht den Ball kommen (Eingabe), das Gehirn berechnet Flugbahn und wählt eine Abwehraktion (Verarbeitung), dann springt er in die Ecke (Ausgabe).",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-005",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Wie wird der Sportler im kognitiven Ansatz der motorischen Kontrolle charakterisiert?",
+    "a": "• Der Sportler gilt als informationsumsetzendes (informationsverarbeitendes) System.\n• Er nimmt laufend Meldungen aus der Umwelt und vom eigenen Körper auf.\n• Er führt wie ein Computer Zusammenfassungen und Verrechnungen durch.\n• Er wählt angemessene motorische Handlungen aus und greift dabei auf gespeicherte Bewegungsentwürfe (Bewegungsprogramme) im Gehirn zurück.\n• Die menschliche Informationsverarbeitung hat – wie ein Computer – nur eine begrenzte Verarbeitungskapazität.",
+    "e": "Der kognitive Ansatz nutzt die Computermetapher: Der Mensch nimmt Daten auf, rechnet und gibt Befehle an die Muskeln. Beispiel: Ein Basketballer sieht die Entfernung zum Korb, ruft seinen gespeicherten Wurf ab und passt ihn an die Distanz an.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-006",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Erläutere die Schallplatten-Metapher (Roth/Schmidt) zur Bewegungssteuerung.",
+    "a": "• Im ZNS sind – wie in einer Musikbox – „Bewegungsplatten“ (Bewegungsprogramme) gespeichert.\n• Sie können bei Bedarf jederzeit „aufgelegt und abgespielt“ werden.\n• Das Abspielen erzeugt absteigende Informationen, also motorische Kommandos.\n• Über diese Kommandos steuert die „Schallplatte“ die Skelettmuskulatur, sodass eine räumlich-zeitlich geordnete Bewegung entsteht.\n• Muskeln und Gliedmaßen sind die ausführenden Organe (die „Lautsprecherboxen“).\n• Der Sportler ist dabei wie ein Discjockey, der seine Programme auswählt.",
+    "e": "Die Metapher macht anschaulich, dass Bewegungen nicht jedes Mal neu „erfunden“, sondern als fertige Programme abgerufen werden. Beispiel: Ein geübter Schwimmer muss nicht über jeden Kraularmzug nachdenken – er „legt die Kraul-Platte auf“ und der Ablauf läuft.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-007",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Was besagen das Hick'sche und das Fitts'sche Gesetz?",
+    "a": "Beide Motorikgesetze beschreiben die begrenzte Verarbeitungskapazität (die „Ladezeiten“) des Menschen:\n• Hick'sches Gesetz: Die Wahlreaktionszeit verlängert sich, wenn die Anzahl der Auswahlmöglichkeiten (Reaktionsalternativen) steigt.\n• Fitts'sches Gesetz: Die Bewegungszeit nimmt zu, je höher die verlangte Zielgenauigkeit bei der Ausführung einer Aufgabe ist (Geschwindigkeits-Genauigkeits-Austausch).",
+    "e": "Je mehr Optionen, desto länger dauert die Entscheidung; je genauer, desto langsamer die Bewegung. Beispiel Hick: Ein Verteidiger, der nur einen Pass erwarten muss, reagiert schneller als einer, der Pass, Wurf und Dribbling bedenken muss. Beispiel Fitts: Ein Dartwurf aufs Bullseye wird langsamer und kontrollierter ausgeführt als ein Wurf auf die ganze Scheibe.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-008",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Warum gilt beim 100-m-Sprint eine Reaktion unter 100 ms als Fehlstart?",
+    "a": "• Die menschliche Informationsverarbeitung hat Kapazitätsgrenzen bezüglich der Verarbeitungsgeschwindigkeit.\n• Reiz aufnehmen, ins ZNS leiten, verarbeiten und den Befehl an die Muskeln senden braucht eine Mindestzeit.\n• Startzeiten unter 100 ms können daher nicht auf einer echten Verarbeitung des Startschusses beruhen, sondern nur auf Raten/Vorwegnahme.\n• Deshalb wertet das Regelwerk z. B. einen Druck auf den Startblock schon 95 ms nach dem Schuss als Fehlstart.",
+    "e": "Das Regelwerk nutzt hier direkt ein Ergebnis der Motorikforschung. Beispiel: Reagiert ein Sprinter nach 0,09 s, hat er nicht auf den Schuss reagiert, sondern losgelaufen, bevor er ihn verarbeiten konnte – er hat also gepokert.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-009",
+    "thema": "Q3.2",
+    "kapitel": "Grundbegriffe Sportmotorik",
+    "q": "Was versteht man unter Emergenz (Selbstorganisation) von Bewegungen?",
+    "a": "• Nicht alle Bewegungen lassen sich mit Informationsverarbeitung (Programmen) erklären.\n• Es gibt koordinierte Bewegungen, die sich selbst organisieren.\n• Vorgänge der Selbstorganisation koordinierter Bewegungen nennt man Emergenz.\n• Die Forschung dazu bezieht sich vor allem auf zyklische Bewegungsaufgaben (Hossner et al., 2013).",
+    "e": "Emergent heißt: Die Ordnung „taucht von selbst auf“, ohne dass ein zentraler Befehl sie plant. Beispiel: Erhöht man beim Gehen ständig das Tempo, geht man ab einer bestimmten Geschwindigkeit automatisch ins Laufen über – und die Übergangsgeschwindigkeit ist beim Wechsel vom Laufen zum Gehen eine andere.",
+    "quelle": "L03.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-010",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Welche Funktionen haben sensorische und motorische Systeme?",
+    "a": "• Sensorische Systeme: Informationen über körperäußere und körperinnere Prozesse sowie Relationen zur Umwelt aufnehmen und in verschiedenen Instanzen verarbeiten (über Nervenzellen).\n• Motorische Systeme: Bewegungen des Körpers starten, ausführen, die Ausführung überwachen, das Ergebnis bewerten und die Ausführungsvorschriften speichern (Olivier et al., 2013). Sie verbinden ZNS und Muskel über efferente Nervenbahnen.\n• Beide Systeme sind für die sportliche Bewegung untrennbar verbunden (sensomotorisch): Überwachung und Ergebnisbewertung benötigen Wahrnehmungsanalysatoren.",
+    "e": "Ohne Sinne wüsste der Körper nicht, was er tun soll und ob es geklappt hat, ohne Motorik könnte er nichts tun. Beispiel: Beim Basketballfreiwurf fühlt der Spieler den Abwurf (kinästhetisch, taktil), hört das „Swish“ (auditiv), sieht den Ball fallen (visuell) und merkt, ob er stabil steht (vestibulär).",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-011",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Erkläre die Begriffe afferent und efferent.",
+    "a": "• Afferent: zum Zentralnervensystem hinführend (sensorische Bahnen; Informationen von Rezeptoren ins ZNS).\n• Efferent: vom ZNS wegführend, zum Muskel (Effektor) hin (motorische Bahnen; Befehle an die Muskeln).",
+    "e": "Eselsbrücke: Afferent = Ankommend im Gehirn, Efferent = Exit aus dem Gehirn. Beispiel: Die Meldung „Knie ist stark gebeugt“ läuft afferent ins Rückenmark, der Befehl „Oberschenkelmuskel anspannen“ läuft efferent zum Muskel.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-012",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Was sind Wahrnehmungsanalysatoren und aus welchen Bestandteilen bestehen sie?",
+    "a": "• Wahrnehmungsanalysatoren ermöglichen es dem Sportler, beim Ausführen von Bewegungen Informationen zum Gleichgewicht, zum Bewegungsempfinden sowie auditive, visuelle und taktile Informationen aufzunehmen und zu verarbeiten.\n• Bestandteile eines Analysators:\n  – spezifische Rezeptoren (Sinnesorgane, die Informationen aufnehmen)\n  – afferente (zum ZNS hinführende) Nervenbahnen\n  – sensorische Zentren in verschiedenen Hirngebieten\n• Je effektiver ein Sportler Bewegung und Umwelt analysierend erfasst, desto besser kann er sich auf veränderte Bedingungen einstellen.",
+    "e": "Ein Analysator ist mehr als nur das Sinnesorgan: Er umfasst den ganzen Weg vom Fühler bis zur Auswertung im Gehirn. Beispiel: Beim Sehen gehören Netzhaut, Sehnerv und Sehrinde im Hinterhauptslappen zum optischen Analysator.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-013",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Nenne die fünf Wahrnehmungsanalysatoren und ordne sie Propriozeptoren bzw. Exterozeptoren zu.",
+    "a": "Propriozeptoren (lat. proprius = eigen; Informationen aus dem eigenen Körper):\n• vestibulärer Analysator (Gleichgewicht)\n• kinästhetischer Analysator (Bewegungsempfinden)\nExterozeptoren (lat. exter = außen; Signale von außen):\n• optischer/visueller Analysator (Sehen)\n• akustischer/auditiver Analysator (Hören)\n• taktiler Analysator (Tasten, Fühlen)\nWichtige Propriozeptoren sind Muskelspindeln (Längenkontrolle), Sehnenspindeln/Golgi-Organe (Spannungskontrolle) und das Gleichgewichtsorgan im Innenohr.",
+    "e": "Proprio-Rezeptoren melden, was im eigenen Körper los ist, Extero-Rezeptoren, was draußen passiert. Beispiel: Beim Salto meldet das Innenohr die Drehung (proprio), die Augen sehen den Boden (extero).",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-014",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Welche Wahrnehmungsaspekte erfasst jeder der fünf Analysatoren (nach Schnabel)?",
+    "a": "• Vestibulär: Gleichgewicht, Lageveränderung, Orientierung, Beschleunigung, Haltungsstabilität\n• Kinästhetisch: Bewegungsempfinden, Muskelspannung, Gelenkstellung, Körperraumlage\n• Optisch: Sehen, Helligkeit, Farbe, Form\n• Akustisch: Hören, Lautstärke, Tonhöhe, Geräusche\n• Taktil: Fühlen, Temperatur, Objektgröße, Objektform, Objektoberfläche",
+    "e": "Jeder Analysator liefert eine eigene Art von Information. Beispiele aus dem Buch: vestibulär beim Abstoppen und Richtungswechsel, kinästhetisch beim Basketballwurf aus verschiedenen Entfernungen oder beim Salto, optisch beim peripheren Sehen im Sportspiel, akustisch beim Tanzen, taktil beim Werfen mit Leder- vs. Gummiball.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-015",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Nenne für jeden Wahrnehmungsanalysator die „Hauptzentrale“ (Rezeptorort) und die motorische Hauptfunktion.",
+    "a": "• Vestibulär: Bogengänge (Rotation) und Maculaorgane (Translation) im Innenohr – Sicherung der Haltungskontrolle\n• Kinästhetisch: Muskelspindeln (und weitere Rezeptoren in Sehnen/Gelenken) – Kontrolle über Stellungs-, Kraft-, Muskel- und Körpersinn (Bewegungsempfinden)\n• Optisch: Netzhaut im Auge – Aufnahme räumlich-zeitlicher Informationen\n• Auditiv: Schallleitungsapparat/Hörorgan im Innenohr – Unterstützung des Bewegungsvollzugs\n• Taktil: Rezeptoren der Haut – Sicherung des Bewegungsgefühls",
+    "e": "Diese Tabelle ist ein Klassiker für Abiturfragen zu Analysatoren. Beispiel: Beim Turnen auf dem Schwebebalken sichert das Innenohr die Haltung, die Fußsohlen liefern taktile Rückmeldung und die Muskelspindeln melden die Gelenkstellung.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-016",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Warum hat der kinästhetische Analysator eine herausragende Bedeutung?",
+    "a": "• Der kinästhetische Analysator hängt mit allen anderen sensorischen Systemen enger zusammen als diese untereinander.\n• Grund: Jeder motorische Vorgang löst kinästhetische Signale aus.\n• Deren Aufnahme und richtige Verarbeitung ist zentral für die Beherrschung hochkomplexer Bewegungen.\n• Besonders eng ist die Verbindung zum optischen Analysator: Visuelle Informationen aktivieren gespeicherte kinästhetische (sowie taktile und vestibuläre) Informationen – der optische Analysator hat gleichsam deren Bewegungserfahrung „mit übernommen“ (Schnabel, 2014).",
+    "e": "Das Bewegungsgefühl ist bei jeder Bewegung dabei, egal welcher Sinn sonst noch beteiligt ist. Beispiel: Ein erfahrener Turner sieht einen Salto eines anderen und „spürt“ ihn beinahe im eigenen Körper – das Sehen ruft das gespeicherte Bewegungsgefühl ab.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-017",
+    "thema": "Q3.2",
+    "kapitel": "Wahrnehmungsanalysatoren",
+    "q": "Welche Bedeutung hat das Zusammenwirken der Wahrnehmungsanalysatoren für die sportliche Leistung?",
+    "a": "• Die fünf Analysatoren beeinflussen wesentlich die Güte eines Bewegungsablaufs.\n• Sie wirken meist eng zusammen und ergänzen sich.\n• Die Bedeutung der einzelnen Analysatoren unterscheidet sich stark von Sportart zu Sportart.\n• Die Leistungsfähigkeit der Analysatoren bestimmt die Qualität der koordinativen Fähigkeiten entscheidend mit.\n• Der kinästhetische Analysator nimmt dabei die dominante, verbindende Rolle ein.",
+    "e": "Koordination beginnt bei der Wahrnehmung: Wer schlecht wahrnimmt, kann auch schlecht steuern. Beispiel: Im Turnen dominieren vestibulärer und kinästhetischer Analysator, im Volleyball der optische (Ball, Gegner) – aber immer arbeiten mehrere zusammen.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-018",
+    "thema": "Q3.2",
+    "kapitel": "Muskel und motorische Einheit",
+    "q": "Beschreibe den Aufbau eines Skelettmuskels vom Muskel bis zum Sarkomer.",
+    "a": "• Muskel → mehrere parallel angeordnete Muskelfaserbündel\n• Muskelfaserbündel → viele Muskelfasern (Muskelzellen; vielkernig, 20–100 µm dick, bis 20 cm lang)\n• Muskelfaser → einige hundert Myofibrillen (ca. 80 % der Faser), umgeben von Sarkoplasma, sarkoplasmatischem Retikulum (Kalziumspeicher) und Mitochondrien\n• Myofibrille → seriell hintereinandergeschaltete Sarkomere\n• Sarkomer (ca. 2–2,5 µm, begrenzt durch Z-Scheiben) = kleinste kontraktile Einheit mit dünnen Aktin- und dicken Myosinfilamenten (jedes Myosin hexagonal von sechs Aktinfilamenten umgeben)",
+    "e": "Der Muskel ist wie ein dickes Kabel aus immer feineren Strängen aufgebaut. Beispiel: Im Bizeps stecken Hunderttausende Muskelfasern, jede voller Myofibrillen, und jede Myofibrille ist eine lange Kette winziger Sarkomere, die sich bei der Kontraktion alle ein kleines Stück verkürzen.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-019",
+    "thema": "Q3.2",
+    "kapitel": "Muskel und motorische Einheit",
+    "q": "Wie entsteht die Querstreifung der Skelettmuskulatur?",
+    "a": "• I-Band (hell, um die Z-Scheibe): nur Aktinfilamente\n• A-Band (dunkel): Aktin- und Myosinfilamente überlappen\n• H-Zone (Mitte des A-Bands): nur Myosinfilamente\n• Da die Sarkomere in allen Myofibrillen parallel auf gleicher Höhe liegen, ergibt der Wechsel von hellen und dunklen Streifen unter dem Mikroskop die Querstreifung.",
+    "e": "Die Streifen kommen von den unterschiedlich dichten Filamentbereichen. Beispiel: Bei einer Kontraktion werden I-Band und H-Zone schmaler, das A-Band bleibt gleich lang – ein wichtiger Beleg für die Gleitfilamenttheorie.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-020",
+    "thema": "Q3.2",
+    "kapitel": "Muskel und motorische Einheit",
+    "q": "Welche Rolle spielt das Titin im Muskel?",
+    "a": "• Titinfilamente sind elastische Proteinfäden, die die kontraktilen Elemente verbinden.\n• Sie befestigen die Aktinfilamente (bzw. das Myosin) an der Z-Scheibe.\n• Als Federmechanismus sorgen sie für die Feinabstimmung der Muskelmechanik, also für den optimalen Verlauf von Anspannen und Entspannen.\n• Sie bewirken, dass sich ein Muskel nach einer Dehnung wieder in seine Ausgangslänge zusammenzieht.\n• Mit dieser Erkenntnis wurden viele angeblich positive Wirkungen des statischen Dehnens widerlegt.",
+    "e": "Titin wirkt wie ein Gummiband im Sarkomer. Beispiel: Dehnst du deinen Oberschenkel, wird Titin gespannt, nach dem Loslassen zieht es den Muskel wieder auf seine Ruhelänge zurück – eine dauerhafte „Verlängerung“ durch Stretching gibt es so nicht.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-021",
+    "thema": "Q3.2",
+    "kapitel": "Muskel und motorische Einheit",
+    "q": "Erkläre die Filamentgleittheorie der Muskelkontraktion.",
+    "a": "• Körperbewegungen entstehen durch Muskelverkürzungen (Kontraktionen).\n• Bei Innervation gleiten die dünnen Aktinfilamente in die Zwischenräume der dicken Myosinfilamente hinein.\n• Die Filamente selbst verkürzen sich nicht, sie verschieben sich gegeneinander.\n• Dadurch verkürzt sich jedes Sarkomer (nur minimal), aber da sehr viele Sarkomere hintereinandergeschaltet sind, summiert sich die Verkürzung zu einer sichtbaren Muskelkontraktion.",
+    "e": "Stell dir zwei ineinandergeschobene Kämme vor: Sie werden nicht kürzer, sondern greifen tiefer ineinander. Beispiel: Beim Bizepscurl gleiten in Millionen Sarkomeren gleichzeitig die Aktinfäden ins Myosin – zusammen ergibt das die Beugung des Arms.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-022",
+    "thema": "Q3.2",
+    "kapitel": "Muskel und motorische Einheit",
+    "q": "Beschreibe den Querbrückenzyklus.",
+    "a": "1. Ausgangszustand: Myosinköpfe sind fest an Aktin gebunden.\n2. Anlagerung von ATP (unter Mitwirkung von Kalzium) löst den Myosinkopf vom Aktinfaden.\n3. ATP-Spaltung (in ADP + Phosphat) spannt den Myosinkopf vor – wie eine gespannte Feder (ca. 90°-Stellung).\n4. Kalzium ermöglicht die feste Querbrückenbildung: Der Myosinkopf heftet sich an das benachbarte Aktinmolekül.\n5. Freisetzung von Phosphat und ADP setzt die Spannung in mechanische Energie um: Der Kopf kippt von ca. 90° auf ca. 45° („Ruderschlag“) und zieht das Aktin ein Stück mit.\n6. Anfangszustand ist wieder erreicht, der Zyklus beginnt erneut.",
+    "e": "Die Myosinköpfe arbeiten wie Ruderer, die immer wieder eintauchen, ziehen und loslassen. ATP ist der Treibstoff fürs Lösen und Spannen, Kalzium das Startsignal. Beispiel: Fehlt nach dem Tod ATP, können sich die Köpfe nicht mehr lösen – deshalb entsteht die Totenstarre.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-023",
+    "thema": "Q3.2",
+    "kapitel": "Muskel und motorische Einheit",
+    "q": "Definiere die motorische Einheit.",
+    "a": "• Die motorische Einheit ist das Funktionsgefüge aus\n  – einer motorischen Nervenzelle (Motoneuron, im Rückenmark),\n  – ihren efferenten Nervenfasern (Motoaxone) und\n  – allen von ihr innervierten Muskelfasern.\n• Die von einer Nervenzelle versorgten Muskelfasern treten immer gemeinsam in Aktion (Alles-oder-nichts).\n• Die motorischen Einheiten eines Muskels arbeiten nie alle gleichzeitig, sondern phasenverschoben – so entsteht eine gleichmäßige Kontraktion des ganzen Muskels.",
+    "e": "Eine motorische Einheit ist wie ein Trupp Arbeiter mit einem einzigen Vorarbeiter: Ruft er, arbeiten alle. Beispiel: Wenn du eine leichte Tasse hebst, werden nur wenige motorische Einheiten aktiviert, beim schweren Kasten Wasser viele – abwechselnd, damit die Bewegung gleichmäßig bleibt.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-024",
+    "thema": "Q3.2",
+    "kapitel": "Muskel und motorische Einheit",
+    "q": "Welcher Zusammenhang besteht zwischen der Größe der motorischen Einheiten und der Feinmotorik eines Muskels?",
+    "a": "• Je feinmotorischer ein Muskel arbeiten muss, desto weniger Muskelfasern werden von einer Nervenzelle versorgt.\n• Fein abgestufte Muskeln: ca. 5–10 Fasern pro motorischer Einheit → sehr genaue Abstufung, aber geringe Kraft pro Einheit.\n• Grob abgestufte Muskeln: über 1.000 Fasern pro motorischer Einheit → große Spannungsentwicklung, aber geringe Feinsteuerung.\n• Vergleich (Tab. 3.2): äußerer Augenmuskel ca. 2.000 motorische Einheiten, ca. 20.000 Fasern, ca. 10 Fasern/Einheit (fein abgestuft) – Oberarmbeuger ca. 1.000 Einheiten, ca. 1.000.000 Fasern, ca. 1.000 Fasern/Einheit (grob abgestuft).",
+    "e": "Kleine Einheiten sind wie ein feiner Pinsel, große wie eine Malerrolle. Beispiel: Der Augenmuskel muss den Blick millimetergenau ausrichten, der Bizeps soll vor allem Kraft bringen – deshalb ist er grob abgestuft.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-025",
+    "thema": "Q3.2",
+    "kapitel": "Reflexe, Stütz- und Zielmotorik",
+    "q": "Definiere den Reflex und nenne die fünf Komponenten des Reflexbogens.",
+    "a": "• Ein Reflex ist die einfachste Form eines koordinierten motorischen Prozesses: eine festgeschriebene (unwillkürliche, stereotype) motorische Reaktion auf äußere Einflüsse.\n• Reflexbogen:\n  1. Rezeptor (nimmt den Reiz auf)\n  2. afferente Nervenfasern (zum Reflexzentrum)\n  3. Reflexzentrum (z. B. Rückenmark)\n  4. efferente Nervenfasern (vom Reflexzentrum weg)\n  5. Effektor (reagierender Muskel)\n• Motorische Hauptfunktion: schnelle Routineaufgaben, die kein langes Nachdenken erfordern dürfen.",
+    "e": "Reflexe laufen ohne Umweg über das Bewusstsein und sind deshalb extrem schnell. Beispiele: Lidschlussreflex bei einem heranfliegenden Ball, Patellarsehnenreflex beim Schlag unter die Kniescheibe, Beugereflex beim Berühren einer heißen Herdplatte.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-026",
+    "thema": "Q3.2",
+    "kapitel": "Reflexe, Stütz- und Zielmotorik",
+    "q": "Erkläre Funktion und Ablauf des Dehnungsreflexes.",
+    "a": "• Funktion: Längenstabilisierung des betreffenden Muskels.\n• Ablauf:\n  – Der Muskel wird gedehnt (Länge nimmt zu).\n  – Rezeptoren sind die Muskelspindeln, die die Längenänderung registrieren.\n  – Über afferente Bahnen werden die zuständigen Motoneurone im Rückenmark (Reflexzentrum) aktiviert.\n  – Über efferente Bahnen kontrahiert derselbe Muskel, dessen Länge zugenommen hatte.\n• Er ist in der Sportmotorik besonders bedeutsam (z. B. für Haltung und Dehnungs-Verkürzungs-Zyklus).",
+    "e": "Der Dehnungsreflex ist ein „Eigenreflex“: Reiz und Reaktion liegen im selben Muskel. Beispiel: Beim Patellarsehnenreflex wird der Oberschenkelstrecker durch den Schlag kurz gedehnt und zieht sich sofort zusammen – der Unterschenkel schnellt nach vorne.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-027",
+    "thema": "Q3.2",
+    "kapitel": "Reflexe, Stütz- und Zielmotorik",
+    "q": "Erläutere den kombinierten Beuge- und gekreuzten Streckreflex.",
+    "a": "• Beugereflex (gleiche Seite): Kontraktion der gleichseitigen Beugemuskeln und Hemmung der gleichseitigen Streckmuskeln → das Bein wird vom Schmerzreiz weggezogen.\n• Gekreuzter Streckreflex (Gegenseite): Aktivierung der gegenseitigen Streckmuskulatur und Hemmung der gegenseitigen Beuger → das andere Bein streckt sich.\n• Zweck: Der Schutzreflex verschlechtert die Standsicherheit, deshalb stabilisiert die Streckung des anderen Beins sofort den Stand.",
+    "e": "Hier arbeiten zwei Reflexe als Team: Einer schützt, der andere hält dich aufrecht. Beispiel: Tritt man am Strand auf eine Scherbe, zuckt der Fuß hoch und das andere Bein streckt sich, damit man nicht umfällt.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-028",
+    "thema": "Q3.2",
+    "kapitel": "Reflexe, Stütz- und Zielmotorik",
+    "q": "Was versteht man unter Stützmotorik?",
+    "a": "• Die aufrechte Haltung des Menschen erfordert die ständige Regulation der Kontraktionskraft von Bein- und Rumpfmuskulatur.\n• Der dafür verantwortliche Teil der Motorik heißt Stützmotorik.\n• Bei Haltebewegungen wirken verschiedene Muskelgruppen zusammen, um das Gleichgewicht zu sichern.\n• Motorische Hauptfunktion: Gleichgewichtssicherung; sie bereitet Zielbewegungen oft vor (vorbereitende Haltungsanpassung).",
+    "e": "Die Stützmotorik arbeitet meist unbemerkt im Hintergrund. Beispiel: Will man in den Zehenstand gehen, reicht es nicht, die Wade anzuspannen – sonst kippt man nach hinten. Vorher verlagert die Schienbeinmuskulatur den Körper leicht nach vorne über die Fußballen.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-029",
+    "thema": "Q3.2",
+    "kapitel": "Reflexe, Stütz- und Zielmotorik",
+    "q": "Was versteht man unter Zielmotorik und wie unterscheidet sie sich von der Stützmotorik?",
+    "a": "• Zielmotorik: diejenigen motorischen Teilsysteme und Teilprozesse, die für die Steuerung geplanter (willkürlicher, zielgerichteter) Bewegungen zuständig sind.\n• Planung, Ausführung und Kontrolle dieser Bewegungen ist komplex und beansprucht zahlreiche Hirnareale.\n• Unterschied: Die Stützmotorik sichert Haltung und Gleichgewicht, die Zielmotorik steuert die eigentliche geplante Bewegungshandlung.",
+    "e": "Stützmotorik ist das Fundament, Zielmotorik das, was man darauf baut. Beispiel: Beim Torschuss hält die Stützmotorik das Standbein und den Rumpf stabil, die Zielmotorik steuert den Schussbein-Schwung zum Ball.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-030",
+    "thema": "Q3.2",
+    "kapitel": "Reflexe, Stütz- und Zielmotorik",
+    "q": "Fasse die Teilsysteme der motorischen Systeme mit ihrer jeweiligen Hauptfunktion zusammen.",
+    "a": "Motorische Systeme sorgen für Starten und Ausführen einer Bewegung sowie für Überwachung, Bewertung und Speicherung des Bewegungsergebnisses:\n• Muskelkontraktion (Verkürzung von Muskelfasern) → Erzeugung von Körperbewegungen\n• Reflexe (Reflexbogen) → Ausführen schneller Routineaufgaben ohne langes Nachdenken\n• Stützmotorik → Gleichgewichtssicherung\n• Zielmotorik → Steuerung geplanter Bewegungen",
+    "e": "Diese Übersicht (Tab. 3.4) ordnet die einzelnen Bausteine. Beispiel: Beim Volleyballaufschlag erzeugen Muskelkontraktionen die Bewegung, die Stützmotorik hält den Körper im Gleichgewicht, die Zielmotorik steuert den Schlag, und ein Reflex lässt dich blinzeln, wenn dir Staub ins Auge fliegt.",
+    "quelle": "L03.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-031",
+    "thema": "Q3.2",
+    "kapitel": "Reflexe, Stütz- und Zielmotorik",
+    "q": "Welche Muskulatur und welche Analysatoren sichern das Gleichgewicht beim einbeinigen Stand bzw. bei der Standwaage?",
+    "a": "• Stützmotorik des Standbeins: Fußmuskulatur und Unterschenkelmuskulatur (Wadenmuskulatur, Schienbeinmuskulatur, Peroneusmuskeln) regulieren ständig die Lage über dem Fuß.\n• Knie- und Hüftstabilisatoren: Oberschenkelmuskulatur, Gesäßmuskulatur (v. a. Gluteus medius gegen seitliches Abkippen des Beckens).\n• Rumpfmuskulatur (Rücken- und Bauchmuskeln) hält Rumpf und Spielbein bei der Standwaage in der Waagerechten.\n• Beteiligte Analysatoren: vestibulär (Lage, Beschleunigung), kinästhetisch (Gelenkstellung, Muskelspannung), taktil (Druckverteilung an der Fußsohle), optisch (Fixpunkt).\n• Der kinästhetische Analysator verbindet die Informationen und steuert die feinen Ausgleichsbewegungen.",
+    "e": "Gleichgewicht halten ist ein ständiges Nachregeln vieler kleiner Muskeln. Beispiel: Schließt man bei der Standwaage die Augen, fällt der optische Analysator weg und man wackelt sofort stärker – ein Beleg für das Zusammenwirken der Analysatoren.",
+    "quelle": "L03.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-032",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Erkläre den Unterschied zwischen Steuerung (open loop) und Regelung (closed loop) von Bewegungen.",
+    "a": "• Steuerung (offener Regelkreis, open loop): Die Bewegung läuft nach einem vorher festgelegten Programm ab, ohne dass während der Ausführung Rückmeldungen genutzt werden. Typisch für sehr schnelle (ballistische) Bewegungen unter ca. 150–200 ms, bei denen für Korrekturen keine Zeit bleibt.\n• Regelung (geschlossener Regelkreis, closed loop): Während der Ausführung werden laufend Rückmeldungen (Istwerte) mit dem Sollwert verglichen und Abweichungen korrigiert. Typisch für langsamere, genaue und länger dauernde Bewegungen.\n• Im Sport wirken meist beide zusammen: Grobe Abläufe werden programmgesteuert, Feinanpassungen geregelt.",
+    "e": "Steuerung ist wie ein abgeschossener Pfeil: Nach dem Loslassen kann man nichts mehr ändern. Regelung ist wie Autofahren: Man korrigiert ständig das Lenkrad. Beispiel: Ein Boxjab wird gesteuert, das Balancieren auf einem Schwebebalken wird geregelt.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-033",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Nenne die Elemente eines Regelkreises und übertrage sie auf die menschliche Bewegungsregulation.",
+    "a": "• Regler: ZNS (Gehirn, Rückenmark) – vergleicht und gibt Befehle\n• Sollwert (Führungsgröße): angestrebtes Bewegungsziel bzw. Bewegungsprogramm\n• Stellglied: Muskulatur (Effektoren)\n• Stellgröße: efferente Nervenimpulse an die Muskeln\n• Regelgröße: die tatsächlich ablaufende Bewegung\n• Messfühler: Rezeptoren/Analysatoren (kinästhetisch, optisch, vestibulär …)\n• Istwert: über afferente Bahnen zurückgemeldete Information über die Bewegung\n• Störgrößen: äußere oder innere Einflüsse (Gegner, Wind, Untergrund, Ermüdung)\n• Soll-Ist-Vergleich → bei Abweichung Korrektur",
+    "e": "Das Regelkreismodell stammt aus der Technik (z. B. Heizungsthermostat) und wird auf den Körper übertragen. Beispiel: Ein Radfahrer will geradeaus fahren (Sollwert), eine Windböe (Störgröße) drückt ihn zur Seite, Gleichgewichtsorgan und Augen melden die Abweichung (Istwert), das Gehirn korrigiert über Lenk- und Rumpfbewegungen.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-034",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Beschreibe das Modell der Bewegungskoordination (Regelkreismodell) nach Meinel/Schnabel.",
+    "a": "Das Modell erklärt Bewegungskoordination als Informationsverarbeitung im Regelkreis:\n1. Afferenzsynthese: Informationen aus der Umwelt und vom Körper werden über die Analysatoren aufgenommen und mit Gedächtnisinhalten (Bewegungserfahrung) und der Motivation/Zielsetzung zusammengeführt.\n2. Programmierung: Bildung des Bewegungsprogramms und gleichzeitig Antizipation (Vorausnahme) des Bewegungsablaufs und -ergebnisses → Sollwert.\n3. Efferenzsynthese: Umsetzung des Programms in efferente Impulse an die Muskulatur; eine Efferenzkopie des Programms wird im ZNS gespeichert.\n4. Bewegungsausführung durch die Muskulatur (unter Einfluss von Störgrößen).\n5. Rückmeldung (Reafferenz) über innere (kinästhetisch, vestibulär, taktil) und äußere (optisch, akustisch) Informationskanäle.\n6. Soll-Ist-Vergleich zwischen Efferenzkopie/antizipiertem Ergebnis und Reafferenzen → bei Abweichung Korrektur des laufenden Programms oder Speicherung für die nächste Ausführung.",
+    "e": "Das Modell ist im Grunde das EVA-Prinzip mit eingebautem Rückkanal und Vergleichsstelle. Beispiel: Beim Basketballwurf plant der Spieler den Wurf und erwartet einen Treffer (Sollwert). Fühlt er beim Abwurf, dass die Hand zu kräftig war, und sieht den Ball auf den Ring prallen, wird das Programm für den nächsten Wurf korrigiert.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-035",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Was versteht man unter der Afferenzsynthese?",
+    "a": "• Erste Phase der Bewegungsregulation (nach Anochin bzw. Meinel/Schnabel).\n• Zusammenführung und Verarbeitung aller verfügbaren Informationen vor Beginn der Bewegung:\n  – aktuelle Informationen über Umwelt und eigenen Körper (über die Analysatoren)\n  – im Gedächtnis gespeicherte Bewegungserfahrungen\n  – Ziel/Motivation und Handlungsabsicht\n• Ergebnis ist die Entscheidung, welche Bewegung wie ausgeführt wird; sie ist Grundlage für Programmierung und Antizipation.",
+    "e": "Bevor man handelt, verschafft sich das Gehirn ein Gesamtbild. Beispiel: Ein Handballer vor dem Wurf erfasst Torhüterposition, Abwehr, eigene Körperlage und erinnert sich, was gegen diesen Torwart schon funktioniert hat – erst dann wird der Wurf geplant.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-036",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Was ist eine Efferenzkopie und welche Funktion hat sie?",
+    "a": "• Wenn das ZNS motorische Befehle (Efferenzen) an die Muskulatur sendet, wird gleichzeitig eine Kopie dieses Befehls im ZNS abgelegt: die Efferenzkopie.\n• Sie dient als Sollwert bzw. Erwartung, wie sich die Bewegung anfühlen und welches Ergebnis sie haben soll.\n• Die zurücklaufenden Rückmeldungen (Reafferenzen) werden mit der Efferenzkopie verglichen.\n• Stimmen beide überein, ist die Bewegung korrekt; bei Abweichung erfolgt eine Korrektur.\n• Zudem kann das ZNS so selbst erzeugte Reize von fremd verursachten unterscheiden.",
+    "e": "Die Efferenzkopie ist wie die Kopie einer Bestellung, die man behält, um die Lieferung zu kontrollieren. Beispiel: Ein Turner, der einen Salto startet, hat eine „Erwartung“, wie sich die Drehung anfühlen muss. Fühlt sie sich zu langsam an, öffnet er nicht zu früh, sondern bleibt länger gehockt.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-037",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Erläutere das Reafferenzprinzip (von Holst/Mittelstaedt).",
+    "a": "• Formuliert von Erich von Holst und Horst Mittelstaedt (1950).\n• Bei einer Bewegung schickt das ZNS Efferenzen an die Muskeln und hinterlegt eine Efferenzkopie.\n• Die durch die eigene Bewegung ausgelösten Rückmeldungen der Rezeptoren heißen Reafferenzen.\n• Reafferenzen und Efferenzkopie werden verglichen (Soll-Ist-Vergleich):\n  – Übereinstimmung → Bewegung verläuft wie geplant, Wahrnehmung bleibt stabil.\n  – Differenz (Exafferenz-Anteil durch äußere Einflüsse) → Meldung an höhere Zentren und Korrektur.\n• Exafferenzen = Rückmeldungen, die durch äußere Einwirkungen (nicht durch die eigene Bewegung) entstehen.\n• Bedeutung: Grundlage der Bewegungsregulation und des Bewegungslernens.",
+    "e": "Das Gehirn weiß, was es selbst angeordnet hat, und rechnet die Folgen heraus. Beispiel: Bewegst du deine Augen, scheint die Welt nicht zu wackeln, weil das Gehirn die selbst erzeugte Bildverschiebung erwartet. Wirst du dagegen beim Laufen von einem Gegenspieler geschubst (Exafferenz), merkt das Gehirn sofort die Abweichung und korrigiert.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-038",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Unterscheide Reafferenzen und Exafferenzen.",
+    "a": "• Reafferenzen: Rückmeldungen (afferente Informationen), die durch die eigene, aktive Bewegung entstehen; sie geben Auskunft über den Verlauf und das Ergebnis der eigenen Bewegung.\n• Exafferenzen: afferente Informationen, die durch Ereignisse außerhalb der eigenen Bewegung entstehen (Umwelteinflüsse, Störungen).\n• Über den Vergleich mit der Efferenzkopie kann das ZNS beide Anteile trennen.",
+    "e": "Re- heißt „zurück“: Was meine Bewegung zurückmeldet. Ex- heißt „von außen“. Beispiel: Spürt ein Schwimmer den Wasserdruck an der Hand bei seinem Zug, ist das Reafferenz. Trifft ihn eine Welle, ist das Exafferenz.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-039",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Welche Formen der Rückmeldung (Feedback) unterscheidet man in der Bewegungsregulation?",
+    "a": "• Innere (intrinsische) Rückmeldung: aus dem eigenen Körper über kinästhetischen, vestibulären und taktilen Analysator, aber auch eigene optische/akustische Wahrnehmung der Bewegung.\n• Äußere (extrinsische, ergänzende) Rückmeldung: zusätzliche Informationen von außen, z. B. Trainerkorrektur, Video, Messwerte.\n  – Knowledge of Result (KR): Information über das Bewegungsergebnis (z. B. Weite, Zeit, Treffer).\n  – Knowledge of Performance (KP): Information über den Bewegungsverlauf (z. B. „Ellenbogen höher“).\n• Zeitpunkt: begleitend (während der Bewegung) oder nachträglich (nach der Bewegung).\n• Rückmeldungen schließen den Regelkreis und ermöglichen Korrektur und Lernen.",
+    "e": "Ohne Rückmeldung kein Lernen: Man muss erfahren, ob und warum etwas geklappt hat. Beispiel: Ein Speerwerfer spürt selbst, dass der Abwurf „hakte“ (innere Rückmeldung), sieht die Weite von 45 m (KR) und hört vom Trainer, dass sein Wurfarm zu früh kam (KP).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-040",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungssteuerung und Regelkreis",
+    "q": "Warum können sehr schnelle Bewegungen nicht während ihrer Ausführung korrigiert werden?",
+    "a": "• Eine Rückmeldung muss von den Rezeptoren ins ZNS laufen, dort verarbeitet und als Korrekturbefehl zurück an die Muskeln geschickt werden.\n• Diese Rückkopplungsschleife (über bewusste Verarbeitung) dauert mindestens etwa 150–200 ms (bei visuellen Rückmeldungen eher länger).\n• Ballistische Bewegungen, die kürzer sind, laufen daher programmgesteuert (open loop) ab.\n• Fehler können nur für die nächste Ausführung korrigiert werden; deshalb ist eine präzise Vorprogrammierung (Antizipation) wichtig.\n• Unbewusste Reflexkorrekturen auf Rückenmarksebene sind schneller (ca. 30–50 ms), aber nur begrenzt anpassbar.",
+    "e": "Bei schnellen Bewegungen ist die Bewegung schneller vorbei als die Rückmeldung ankommt. Beispiel: Ein Tischtennis-Topspin dauert nur Sekundenbruchteile – merkt man den Fehler, ist der Ball schon unterwegs. Korrigieren kann man erst beim nächsten Schlag.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-041",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Vergleiche kognitive und systemdynamische Ansätze der motorischen Kontrolle.",
+    "a": "Kognitiver Ansatz (Informationsverarbeitung):\n• Ablauf sportlicher Bewegungen wird über Informationsverarbeitung nach dem Vorbild eines Computers erklärt (Computermetapher).\n• Bewegungskontrolle durch generalisierte motorische Programme (GMP).\n• Ein GMP besteht aus je drei Invarianten und drei variablen Parametern.\nSystemdynamischer Ansatz (dynamische Systeme):\n• Bewegungskontrolle wird als Selbstorganisation (Emergenz) verstanden.\n• Bewegungslernen erfolgt selbstorganisiert durch Veränderung von aufgabenbezogenen Randbedingungen (Constraints).\n• Es braucht keine zentral gespeicherten Programme für jede Bewegung.",
+    "e": "Der kognitive Ansatz sagt: Im Kopf liegt ein Plan. Der dynamische sagt: Die Ordnung entsteht aus dem Zusammenspiel von Körper, Aufgabe und Umwelt. Beispiel: Der Wurf aus verschiedenen Distanzen lässt sich gut mit einem GMP erklären, der automatische Wechsel von Gehen zu Laufen eher durch Selbstorganisation.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-042",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Definiere das generalisierte motorische Programm (GMP) nach Schmidt.",
+    "a": "• Nach Richard Schmidt (1975) steuert ein generalisiertes motorisches Programm eine ganze Klasse von Bewegungen (nicht nur eine einzelne Bewegung).\n• Es ist gekennzeichnet durch:\n  – bewegungsübergreifende, konstante Merkmale (Invarianten) und\n  – bewegungsspezifische, variable Komponenten (Parameter), die je nach Situation aufgeschaltet werden.\n• Vorteil: Das Gedächtnis muss nicht für jede Bewegungsvariante ein eigenes Programm speichern (Speicherproblem) und neue Varianten können ausgeführt werden (Neuigkeitsproblem).",
+    "e": "Ein GMP ist wie eine Grundmelodie, die man schneller, langsamer, lauter oder leiser spielen kann. Beispiel: Alle Oberarmwürfe – ob leichter Pass oder harter Schlagwurf – können von einem GMP gesteuert werden; die Grundstruktur bleibt gleich.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-043",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Nenne und erläutere die drei Invarianten eines GMP.",
+    "a": "Invarianten bleiben bei allen Bewegungen der Klasse konstant:\n• Reihenfolge der Teilbewegungen („order of events“): Die Teilbewegungen laufen immer in derselben Abfolge ab.\n• Zeitliche Relation der Teilbewegungen bzw. Muskelkontraktionen („phasing“, relatives Timing): Die prozentualen Zeitanteile der Phasen bleiben gleich, auch wenn die Gesamtdauer sich ändert.\n• Relation der Muskelkräfte („relative force“): Das Verhältnis der Kräfte der einzelnen Teilbewegungen zueinander bleibt gleich.",
+    "e": "Die Invarianten sind die „Melodie“ einer Bewegung. Beispiel Positionswurf: Erst Stoßphase, dann Handgelenkswurf (order of events); das Zeitverhältnis von Stoß- und Wurfphase bleibt gleich (phasing); das Verhältnis von Stoß- zu Wurfkraft bleibt gleich (relative force) – egal ob aus 3 oder 6 Metern.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-044",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Nenne und erläutere die drei variablen Parameter eines GMP.",
+    "a": "Parameter werden abhängig von der Situation aufgeschaltet:\n• Gesamtdauer der Bewegung („overall duration“): Die Bewegung kann insgesamt schneller oder langsamer ausgeführt werden.\n• Eingesetzte Gesamtkraft („overall force“): Die Bewegung kann insgesamt kräftiger oder schwächer ausgeführt werden.\n• Spezifische Muskelauswahl („muscle selection“): Dieselbe Bewegung kann mit unterschiedlichen Muskeln/Gliedmaßen ausgeführt werden.",
+    "e": "Parameter sind die Regler, mit denen man das Programm an die Situation anpasst. Beispiel Basketball: Für einen weiteren Wurf wird die overall force erhöht, eventuell unterstützt durch stärkeres Nach-vorne-Drücken der Schulter (muscle selection). Auch dass man seinen Namen mit der Hand oder mit dem Fuß in den Sand schreiben kann, zeigt die Muskelauswahl.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-045",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Erläutere das GMP mithilfe der Schallplatten-Analogie nach Schmidt.",
+    "a": "• Schallplatte mit Musikstück = generalisiertes motorisches Programm\n• Lautsprecherboxen = Muskeln, die das Programm in wahrnehmbare Bewegung umsetzen\n• Melodie des Stücks = Invarianten (bleiben immer erhalten)\n• Veränderbar beim Abspielen (variable Parameter):\n  – Lautstärke = eingesetzte Gesamtkraft (overall force)\n  – Tempo = Gesamtdauer der Bewegung (overall duration)\n  – Ansteuern einer bestimmten Box = spezifische Muskelauswahl (muscle selection)",
+    "e": "Die Analogie hilft, Invarianten und Parameter auseinanderzuhalten: Die Melodie bleibt, die Einstellung am Verstärker ändert sich. Beispiel: Ein Lied klingt auch leise oder schneller abgespielt immer noch wie dasselbe Lied – so bleibt ein Sprungwurf ein Sprungwurf, egal wie kraftvoll.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-046",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Erkläre am Beispiel des Basketball-Positionswurfs, wie ein GMP Würfe aus verschiedenen Entfernungen steuert.",
+    "a": "• Alle Druckwürfe (z. B. Positions- und Sprungwurf) können durch ein GMP kontrolliert werden.\n• Anpassung an die Entfernung über Parameter:\n  – overall force wird für größere Distanzen erhöht\n  – muscle selection: z. B. verstärkter Einsatz der Schulter\n• Invarianten bleiben über alle Distanzen konstant:\n  – order of events: Stoßphase (Impulsübertragung von unten nach oben) vor Wurfphase (Nachdrücken des Handgelenks)\n  – phasing: zeitliche Relation von Stoß- und Wurfphase bleibt gleich\n  – relative force: Verhältnis von Stoß- zu Wurfkraft bleibt gleich\n• Beim Sprungwurf entfällt der Kraftstoß der Beine in Abwurfrichtung weitgehend; das gleiche Arm-Hand-GMP erzeugt dann einen stärkeren Impuls.",
+    "e": "So erklärt die GMP-Theorie, warum man aus Entfernungen treffen kann, aus denen man nie geübt hat. Beispiel: Wer Freiwürfe und Dreier trainiert hat, trifft auch aus 5,5 m, weil nur der Kraftparameter neu eingestellt werden muss.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-047",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Wie kann mit dem GMP die Ausführung neuer Bewegungen erklärt werden?",
+    "a": "• Eine neue Bewegung muss nicht komplett neu programmiert werden, wenn sie zur Klasse eines vorhandenen GMP gehört.\n• Das vorhandene GMP liefert die Invarianten (Reihenfolge, relatives Timing, relative Kräfte).\n• Für die neue Situation werden nur die Parameter (Gesamtdauer, Gesamtkraft, Muskelauswahl) neu gewählt.\n• Für das methodische Lernen bedeutet das: Erst die Invarianten (Grundstruktur) erlernen, dann durch Variation der Parameter das Programm generalisieren (variables Üben).",
+    "e": "Das GMP erklärt, warum man Ähnliches schnell lernt. Beispiel: Wer den Schlagwurf im Handball beherrscht, kann schnell den Speerwurf oder den Schlagball-Weitwurf ausführen, weil die Grundstruktur des Oberarmwurfs gleich ist und nur Kraft, Tempo und Muskelauswahl angepasst werden.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-048",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Welche Befunde sprechen für selbstorganisierte (emergente) Bewegungen, die nicht durch motorische Programme erklärbar sind?",
+    "a": "• Pendelbewegung des fallengelassenen Arms: lässt sich besser mit physikalischen Pendelgesetzen als mit Programmen beschreiben.\n• Patellarsehnenreflex: Das Hochschnellen des Beins wirkt nicht wie eine kontrollierte, programmierte Bewegung.\n• Tierexperimente: Katzen mit durchtrenntem Hirnstamm (keine Verbindung Großhirn–Rückenmark) koordinieren trotzdem Schrittbewegungen.\n• Spontaner Übergang Gehen–Laufen (und umgekehrt) bei Geschwindigkeitsänderung, mit unterschiedlichen Übergangsgeschwindigkeiten.",
+    "e": "Diese Befunde zeigen, dass nicht jede koordinierte Bewegung einen „Plan“ im Großhirn braucht. Beispiel: Die Katze läuft auch ohne Verbindung zum Großhirn – die Bewegungsmuster entstehen im Rückenmark und aus dem Zusammenspiel von Körper und Umwelt.",
+    "quelle": "L03.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-049",
+    "thema": "Q3.2",
+    "kapitel": "Kognitive und dynamische Systeme",
+    "q": "Analysiere den Korbleger aus dem Dribbling nach Invarianten und Parametern eines GMP (Teilablauf nach dem letzten Dribbling).",
+    "a": "Grundelemente: Ballaufnahme mit großem ersten Schritt, kurzer zweiter Schritt (Stemmschritt), einbeiniger Absprung, Hochführen von Ball und Wurfarm, Ablegen des Balls am Brett/in den Korb.\nInvarianten:\n• order of events: Ballaufnahme → Schritt 1 → Schritt 2 → Absprung (Schwungbein hoch) → Ballführung nach oben → Ablage mit Handgelenk\n• phasing: zeitliches Verhältnis langer – kurzer Schritt – Absprung bleibt gleich (Rhythmus „lang–kurz–hoch“)\n• relative force: Verhältnis von Absprungkraft zu Armstreck- und Ablagekraft bleibt gleich\nParameter:\n• overall duration: schneller oder langsamer (je nach Dribbeltempo, Gegnerdruck)\n• overall force: stärkerer/schwächerer Absprung und Ablage je nach Abstand und Höhe\n• muscle selection: Korbleger rechts oder links (andere Hand/anderes Sprungbein), Unterhand- oder Überhandablage",
+    "e": "Diese Prüfungsaufgabe trainiert, das GMP-Modell auf eine konkrete Technik anzuwenden. Beispiel: Ob ein Spieler im Fastbreak mit Vollgas oder im Halbfeld langsam zum Korb zieht – die Schrittfolge „lang-kurz-hoch“ bleibt gleich, nur Tempo und Kraft ändern sich.",
+    "quelle": "L03.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-050",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Definiere den Begriff Antizipation im Sport.",
+    "a": "• Antizipation (lat. anticipare = vorwegnehmen) ist die gedankliche (kognitive) Vorwegnahme zukünftiger Ereignisse, Handlungen und Bewegungsabläufe bzw. ihrer Ergebnisse.\n• Sie beruht auf aktuellen Wahrnehmungen (Hinweisreizen) und gespeicherten Erfahrungen.\n• Ziel: rechtzeitig und angemessen handeln, Zeit gewinnen und die eigene Bewegung optimal vorbereiten.\n• Man unterscheidet Selbstantizipation (eigene Bewegung) und Fremdantizipation (Verhalten anderer, Flugbahnen von Objekten).",
+    "e": "Antizipation heißt: Man handelt schon, bevor etwas passiert ist, weil man es kommen sieht. Beispiel: Ein Volleyballblocker springt nicht erst, wenn der Angreifer schlägt, sondern sobald er an Anlauf und Zuspiel erkennt, wohin der Angriff geht.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-051",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Erläutere den Begriff Selbstantizipation.",
+    "a": "• Selbstantizipation (Eigenantizipation) ist die Vorwegnahme des eigenen Bewegungsablaufs und seines Ergebnisses.\n• Sie ist Bestandteil der Bewegungsprogrammierung: Vor und während der Bewegung wird ein Bild davon gebildet, wie die Bewegung verlaufen und welches Ergebnis sie haben soll (Sollwert).\n• Sie bezieht sich auf:\n  – den Gesamtablauf und das Endergebnis (z. B. Ziel treffen)\n  – nachfolgende Bewegungsphasen (die Vorbereitungsphase ist auf die Hauptphase ausgerichtet; Bewegungskopplung)\n  – die Bewegungsempfindungen, die zu erwarten sind\n• Ohne Selbstantizipation kein Soll-Ist-Vergleich und keine zielgerichtete Korrektur.",
+    "e": "Bei der Selbstantizipation „sieht und fühlt“ man die eigene Bewegung schon vor ihrer Ausführung. Beispiel: Ein Weitspringer stellt seine letzten Anlaufschritte (kurzer vorletzter Schritt, Senken des KSP) bereits auf den kommenden Absprung ein – die Vorbereitung nimmt die Hauptphase vorweg.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-052",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Erläutere den Begriff Fremdantizipation.",
+    "a": "• Fremdantizipation ist die Vorwegnahme von Handlungen und Bewegungen anderer Personen (Gegner, Mitspieler) sowie von Bewegungen von Objekten (z. B. Ballflugbahn) und Umweltveränderungen.\n• Sie beruht auf dem Erkennen von Hinweisreizen (Körperhaltung, Ausholbewegung, Blickrichtung, Ballflug) und auf Erfahrungen über typisches Verhalten.\n• Sie ist vor allem in Sportspielen, Rückschlagspielen und Zweikampfsportarten entscheidend.\n• Die eigene Handlung wird dann auf das vorweggenommene Fremdgeschehen abgestimmt.",
+    "e": "Fremdantizipation ist „Gedankenlesen“ anhand von Körpersprache. Beispiel: Ein Elfmeter-Torwart achtet auf Anlaufwinkel, Standbein und Hüftstellung des Schützen, um die Ecke vorherzusagen und früh genug abzuspringen.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-053",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Unterscheide Ereignisantizipation und Zeitantizipation.",
+    "a": "• Ereignisantizipation (räumlich/inhaltlich): Vorwegnahme, WAS geschehen wird bzw. WO es geschieht (z. B. welche Aktion, welche Richtung, welcher Ort).\n• Zeitantizipation (zeitlich): Vorwegnahme, WANN ein Ereignis eintritt (Timing).\n• Für eine erfolgreiche Handlung müssen meist beide zusammenkommen: das richtige Ereignis zum richtigen Zeitpunkt.\n• Zeitantizipation ist z. B. beim Sprintstart (Zeitwahrnehmung zwischen Kommando und Schuss) oder beim Abfangen eines Balls zentral.",
+    "e": "Man muss wissen, was kommt, und wann es kommt. Beispiel: Ein Tennisspieler erkennt am Ballwurf des Gegners, dass ein Kick-Aufschlag nach außen kommt (Ereignis), und muss zusätzlich den Treffpunkt zeitlich passend erwarten, um rechtzeitig den Split-Step zu machen (Zeit).",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-054",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Welche Rolle spielt die Antizipation in der Bewegungssteuerung (Regelkreismodell)?",
+    "a": "• Im Regelkreismodell (Meinel/Schnabel) wird bei der Programmierung gleichzeitig der Bewegungsverlauf und das Ergebnis antizipiert.\n• Diese Antizipation bildet den Sollwert (zusammen mit der Efferenzkopie).\n• Nur durch diesen vorweggenommenen Sollwert ist ein Soll-Ist-Vergleich mit den Reafferenzen und damit eine Korrektur möglich.\n• Antizipation ermöglicht die rechtzeitige Vorbereitung der Bewegung (z. B. Haltungsanpassung durch die Stützmotorik vor der Zielbewegung).\n• Bei sehr schnellen Bewegungen ersetzt die präzise Antizipation die fehlende Möglichkeit zur Korrektur während der Ausführung.",
+    "e": "Antizipation ist das „Soll“ im Soll-Ist-Vergleich. Beispiel: Wer im Zehenstand die Vorwärtsverlagerung des Körpers schon vor dem Hochdrücken durchführt, antizipiert die Folgen der Bewegung für das Gleichgewicht – sonst würde er nach hinten kippen.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-055",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Warum ist Antizipation in Sportspielen so wichtig?",
+    "a": "• Viele Situationen im Sportspiel laufen schneller ab als die menschliche Reaktionszeit es erlaubt (Zeitdruck).\n• Reine Reaktion auf einen Reiz käme oft zu spät; Antizipation verschafft Zeitgewinn.\n• Nach dem Hick'schen Gesetz verlängern viele Handlungsalternativen die Reaktionszeit; Antizipation reduziert die Zahl der wahrscheinlichen Alternativen.\n• Bessere Entscheidungen (Taktik), rechtzeitiges Stellungsspiel, frühzeitiges Abfangen, Blocken, Abwehren.\n• Ermöglicht die Abstimmung mit Mitspielern (Passwege, Laufwege).\n• Zugleich versuchen Gegner, durch Täuschungen (Finten) falsche Antizipationen auszulösen.",
+    "e": "Wer nur reagiert, ist im Spiel oft einen Schritt zu spät. Beispiel: Ein Innenverteidiger, der den Steilpass schon am Blick und an der Körperstellung des Spielmachers erkennt, startet früher und erreicht den Ball vor dem Stürmer.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-056",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Worin unterscheiden sich Experten und Anfänger in ihrer Antizipationsleistung?",
+    "a": "• Experten nutzen frühere und relevantere Hinweisreize (z. B. Hüft-, Schulter-, Schlägerstellung vor dem Ballkontakt), Anfänger achten eher auf späte Informationen (Ball selbst).\n• Experten haben ein zielgerichteteres Blickverhalten (weniger, aber längere Fixationen auf aussagekräftige Körperbereiche).\n• Experten verfügen über mehr sportartspezifisches Wissen über Situationswahrscheinlichkeiten und Gegnerverhalten.\n• Ergebnis: Experten antizipieren früher und genauer, haben dadurch mehr Zeit für Entscheidung und Ausführung.\n• Antizipationsfähigkeit ist stark sportartspezifisch und erfahrungsabhängig, also trainierbar.",
+    "e": "Die Reaktionszeit selbst ist bei Profis kaum kürzer als bei Laien – sie sind schneller, weil sie früher wissen, was kommt. Beispiel: Ein Profi-Badmintonspieler erkennt an der Schlägerhaltung des Gegners, ob ein Drop oder ein Clear kommt, ein Anfänger sieht es erst am Ballflug.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-057",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Welcher Zusammenhang besteht zwischen Antizipation und Täuschungshandlungen (Finten)?",
+    "a": "• Eine Täuschung (Finte) zielt darauf ab, beim Gegner eine falsche Fremdantizipation auszulösen.\n• Der Täuschende zeigt Hinweisreize einer Handlung (z. B. Wurfansatz), führt dann aber eine andere aus.\n• Der Gegner leitet aufgrund der falschen Vorwegnahme eine Bewegung ein und muss diese hemmen und umstellen (Umstellungsfähigkeit, Inhibition) – das kostet Zeit.\n• Je besser ein Gegner antizipiert, desto wirksamer, aber auch riskanter kann eine Finte sein; gute Spieler lernen, echte von falschen Hinweisreizen zu unterscheiden.",
+    "e": "Täuschen heißt, die Antizipation des Gegners auszunutzen. Beispiel: Ein Handballer täuscht einen Wurf an, der Torwart geht in die Bewegung – dann legt der Angreifer den Ball in die andere Ecke.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-058",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Wie kann die Reaktionsschnelligkeit nach der Reaktionsmethode verbessert werden und welche Rolle spielt die Antizipation dabei?",
+    "a": "• Die Trainierbarkeit der Reaktionsschnelligkeit ist eng begrenzt, da sie vor allem an angeborene Komponenten der neuronalen Steuerung gebunden ist (Grosser/Zintl).\n• Verbesserungen sind möglich über zwei Komponenten:\n  – Einschleifen der Technik mit Übergang in die Beschleunigungsphase\n  – Schulung der Antizipationsfähigkeit (Zeitwahrnehmung)\n• Beim Starttraining im Sprint lernt man, auf unterschiedliche Zeitintervalle nach einer Vorankündigung explosiv zu reagieren.\n• Verbessert werden dabei Konzentration (sensorischer Anteil) und optimale Muskelvorspannung (motorischer Anteil).",
+    "e": "Da man die angeborene Reaktionszeit kaum verkürzen kann, setzt man bei Technik und Vorhersage an. Beispiel: Beim Sprintstart wird das Kommando „Fertig“ gegeben und der Schuss nach unterschiedlich langen Pausen – so lernt der Sprinter, den Zeitpunkt besser einzuschätzen und optimal vorgespannt zu warten.",
+    "quelle": "L14.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-059",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Was versteht man unter der Antizipationsmethode (Steinhöfer) im Sportspiel?",
+    "a": "• Allgemeine Reaktionsschulung reicht für Sportspieler nicht aus; nötig ist eine spielspezifische Reaktionsschulung komplexer Handlungen.\n• Da Reaktionsleistungen im Sportspiel häufig unter Zeitdruck erfolgen, muss antizipiert werden.\n• Mit der Antizipationsmethode werden spezifische Reaktions- und Antizipationshandlungen geschult.\n• Es handelt sich um ein Reaktionstraining im Rahmen des Technik- und Taktiktrainings.\n• Häufig werden mehrere Reaktionshandlungen hintereinander trainiert, um spätere Wahlreaktionen auf unterschiedliche Signale vorzubereiten.",
+    "e": "Im Spiel reicht es nicht, auf einen Pfiff loszulaufen – man muss Spielsituationen lesen. Beispiele aus dem Buch: Feldabwehr im Volleyball, Schussabwehr beim Torwart, Reaktionsleistungen im Basketball im 1:1.",
+    "quelle": "L14.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-060",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Wie kann die Antizipationsfähigkeit trainiert werden?",
+    "a": "• Spielnahe, situationsvariable Übungsformen mit echten Gegnern (z. B. 1:1, Überzahl-/Unterzahlspiele) statt reiner Signalreaktion.\n• Gezieltes Lenken der Aufmerksamkeit auf relevante Hinweisreize (Körperhaltung, Ausholbewegung, Blick, Laufweg).\n• Video- und Okklusionstraining: Videos werden kurz vor dem entscheidenden Moment gestoppt, der Sportler sagt den Ausgang vorher.\n• Variation von Zeitintervallen (Zeitantizipation, z. B. Starttraining).\n• Gegner- und Spielanalyse zur Kenntnis typischer Verhaltensmuster.\n• Erhöhung von Zeit- und Situationsdruck im Sinne des KAR-Modells.\n• Viel Spielerfahrung, da Antizipation stark erfahrungsabhängig ist.",
+    "e": "Antizipation lernt man vor allem durch viele echte Situationen und gezieltes Hinschauen. Beispiel: Torhüter schauen Elfmetervideos, die beim Ballkontakt abbrechen, und tippen auf die Ecke – so lernen sie, auf Standbein und Hüfte zu achten.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-061",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Welche Beziehung besteht zwischen Antizipation und den koordinativen Fähigkeiten?",
+    "a": "• Antizipation ist eine Grundlage mehrerer koordinativer Fähigkeiten:\n  – Reaktionsfähigkeit: schnellere zweckmäßige Aktionen auf Signale durch Vorwegnahme\n  – Orientierungsfähigkeit: Timing, Bestimmung künftiger Positionen von Körper, Ball, Gegnern\n  – Umstellungsfähigkeit: Erkennen von Situationsänderungen, um das Handlungsprogramm rechtzeitig anzupassen\n  – Kopplungs- und Rhythmisierungsfähigkeit: Selbstantizipation nachfolgender Bewegungsphasen\n• In einigen Modellen wird eine eigene Antizipationsfähigkeit als koordinative Fähigkeit genannt.\n• Gute Wahrnehmungsanalysatoren (v. a. optisch) sind Voraussetzung für Fremdantizipation.",
+    "e": "Antizipation steckt in vielen koordinativen Fähigkeiten drin, vor allem dort, wo Zeit knapp ist. Beispiel: Beim Kopfball (Orientierungsfähigkeit) muss man den Flug des Balles vorhersehen, um im richtigen Moment am richtigen Ort abzuspringen.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-062",
+    "thema": "Q3.2",
+    "kapitel": "Bewegungsantizipation",
+    "q": "Welche Risiken bzw. Grenzen hat die Antizipation?",
+    "a": "• Antizipation beruht auf Wahrscheinlichkeiten, nicht auf Gewissheit: Fehlantizipationen sind möglich.\n• Bei falscher Vorwegnahme muss die begonnene Bewegung gehemmt und umgestellt werden; das kostet mehr Zeit als eine reine Reaktion (Gefahr durch Finten).\n• Zu frühe Handlung kann vom Gegner bemerkt und ausgenutzt werden (z. B. Torwart bewegt sich zu früh).\n• Im Regelwerk teils verboten bzw. sanktioniert (z. B. Fehlstart beim Sprint bei Reaktion unter 100 ms).\n• Optimal ist ein Kompromiss zwischen früher Antizipation und Sicherheit.",
+    "e": "Wer zu früh rät, wird leicht ausgetrickst. Beispiel: Springt ein Elfmeter-Torwart sehr früh in die linke Ecke, kann der Schütze den Ball einfach in die rechte schieben.",
+    "quelle": "Zusatzwissen",
+    "typ": "zusatz"
+  },
+  {
+    "id": "q3.2-063",
+    "thema": "Q3.2",
+    "kapitel": "Koordination und Technik",
+    "q": "Woher stammt der Begriff Koordination und wie definieren Hollmann/Strüder Koordination aus sportmedizinischer Sicht?",
+    "a": "• Koordination stammt vom lateinischen „cum ordo“ = „mit Ordnung“ (Vele).\n• Sportmedizinische Definition (Hollmann/Strüder, 2009): Koordination ist das Zusammenwirken von Zentralnervensystem und Skelettmuskulatur innerhalb eines gezielten Bewegungsablaufs.",
+    "e": "Koordination bringt „Ordnung“ in das Zusammenspiel von Nerven und Muskeln. Beispiel: Beim Seilspringen müssen Arme, Beine und Sprungrhythmus genau aufeinander abgestimmt sein – das leistet das Zusammenwirken von ZNS und Muskulatur.",
+    "quelle": "L04.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-064",
+    "thema": "Q3.2",
+    "kapitel": "Koordination und Technik",
+    "q": "Nenne die Definition von Koordination als Leistungskomponente (Hohmann et al.) und die Definition für Sportspiele (Voigt/Westphal).",
+    "a": "• Als Leistungskomponente (Hohmann et al., 2010): Koordination ist eine Sammelbezeichnung für eine Reihe von koordinativen Fähigkeiten.\n• Im Sportspiel (Voigt/Westphal, 1995): Koordination ist das Zusammenwirken von\n  – gezielter Informationsaufnahme,\n  – geistiger Verarbeitung der Information,\n  – darauffolgender nervöser Steuerung und\n  – anschließender muskulärer Ausführung.",
+    "e": "Die Sportspiel-Definition entspricht dem EVA-Prinzip: Wahrnehmen, Denken, Steuern, Ausführen. Beispiel: Ein Point Guard sieht den freien Mitspieler (Informationsaufnahme), entscheidet sich für den Pass (Verarbeitung), das Gehirn sendet Befehle (Steuerung) und er passt (Ausführung).",
+    "quelle": "L04.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-065",
+    "thema": "Q3.2",
+    "kapitel": "Koordination und Technik",
+    "q": "Erkläre am Beispiel der Fahrzeuglenkung, worin die Bedeutung der Koordination liegt.",
+    "a": "• Wären bei einem Auto alle vier Räder unabhängig voneinander lenkbar, wären schon das Geradeausfahren und erst recht das Rückwärtseinparken extrem schwierig.\n• Technische Lösung: Hinterräder sind nicht lenkbar, Vorderräder sind miteinander gekoppelt.\n• Dadurch wird die Anzahl der Freiheitsgrade stark eingeschränkt.\n• Übertragen: Koordination bedeutet, die vielen Freiheitsgrade des Körpers durch Kopplung und Einschränkung beherrschbar zu machen (vgl. Freiheitsgradeproblem nach Bernstein).",
+    "e": "Koordination ist im Kern Freiheitsgrad-Management. Beispiel: Anfänger beim Inlineskaten halten Knie und Hüfte steif – sie reduzieren Freiheitsgrade, um die Bewegung überhaupt kontrollieren zu können.",
+    "quelle": "L04.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-066",
+    "thema": "Q3.2",
+    "kapitel": "Koordination und Technik",
+    "q": "Definiere die sportliche Technik und erläutere ihren Zusammenhang mit koordinativen Fähigkeiten.",
+    "a": "• Sportliche Technik (Bewegungsfertigkeit, kurz Fertigkeit) ist eine konkrete Bewegungshandlung zur Lösung einer sporttypischen Bewegungsaufgabe (Bösing et al., 2012).\n• Fertigkeit = konkrete, erlernte Bewegung (z. B. Flop, Delfin).\n• Fähigkeit = allgemeine, übergreifende Leistungsvoraussetzung (z. B. Rhythmisierungs-, Kopplungsfähigkeit).\n• Zur Ausführung von Techniken benötigt der Sportler bestimmte koordinative Fähigkeiten; diese sind Voraussetzung für das Erlernen und Beherrschen der Fertigkeiten.",
+    "e": "Fähigkeiten sind das Fundament, Fertigkeiten das Haus darauf. Beispiel: Der Hochspringer braucht für den Flop-Anlauf Rhythmisierungsfähigkeit, Kugelstoßer und Delfinschwimmer brauchen Kopplungsfähigkeit, um Arm- und Beinbewegungen präzise zu verbinden.",
+    "quelle": "L04.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-067",
+    "thema": "Q3.2",
+    "kapitel": "Koordination und Technik",
+    "q": "Welche Arten von Modellen zur Bewegungskoordination unterscheidet man? Nenne jeweils ein Beispiel.",
+    "a": "• Fähigkeitsorientierte Modelle: Modell der koordinativen Fähigkeiten (Blume 1978, Hirtz 1985)\n• Fertigkeitsorientierte Modelle: Koordinations-Anforderungs-Regler-Modell (KAR-Modell) nach Neumaier et al. (1999)\n• Gemischt fähigkeits- und fertigkeitsorientierte Modelle: Fähigkeits-Fertigkeits-Modell (Rostock & Zimmermann, 1997), Allgemeine Ballschule (Kröger & Roth, 1999)",
+    "e": "Fähigkeitsorientierte Modelle fragen: Welche allgemeinen Fähigkeiten hat der Sportler? Fertigkeitsorientierte fragen: Welche Anforderungen stellt eine konkrete Bewegungsaufgabe? Beispiel: Für den Basketballsprungwurf kann man nach beteiligten Fähigkeiten (Kopplung, Differenzierung) oder nach den Anforderungen (hoher Präzisions- und Zeitdruck) fragen.",
+    "quelle": "L04.1",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-068",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Nenne die sieben koordinativen Fähigkeiten im Modell der koordinativen Fähigkeiten.",
+    "a": "1. Kopplungsfähigkeit\n2. Differenzierungsfähigkeit\n3. Gleichgewichtsfähigkeit\n4. Orientierungsfähigkeit\n5. Rhythmisierungsfähigkeit\n6. Reaktionsfähigkeit\n7. Umstellungsfähigkeit\n• Sie gelten als koordinative Leistungsvoraussetzungen für sportliche Fertigkeiten (Blume, Hirtz).",
+    "e": "Eselsbrücke: „KoDi GOR RU“ – Kopplung, Differenzierung, Gleichgewicht, Orientierung, Rhythmisierung, Reaktion, Umstellung. Beispiel: Ein Turner braucht vor allem Gleichgewicht, Orientierung und Differenzierung, ein Fußballer zusätzlich viel Reaktion und Umstellung.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-069",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Welche Grundannahmen und Bewertung kennzeichnen das Modell der koordinativen Fähigkeiten?",
+    "a": "• Eine frühzeitige, vielseitige Schulung allgemeiner koordinativer Fähigkeiten ist eine wichtige Basis für das spätere Erlernen sportartspezifischer Techniken.\n• Fähigkeitsorientiertes Schulen übergreifender Bewegungsqualitäten soll positive Effekte auf schnelles und sicheres Erlernen von Bewegungstechniken haben (Transfer).\n• Bestes koordinatives Lernalter: 7 bis 12 Jahre.\n• Das Modell ist im Schulsport, in der Grundausbildung und in der Übungsleiterausbildung breit akzeptiert.\n• Kritik: Die wissenschaftliche Tragfähigkeit (v. a. Existenz und Transfer allgemeiner Fähigkeiten) wird zunehmend angezweifelt (Steinhöfer, 2008).",
+    "e": "Die Idee: Wer allgemein gut koordiniert ist, lernt jede Sportart leichter. Die Forschung zweifelt aber, ob z. B. Balancieren auf der Bank wirklich das Gleichgewicht beim Snowboarden verbessert. Beispiel: Im Grundschulsport werden deshalb trotzdem vielseitige Parcours mit Balancieren, Rollen und Werfen eingesetzt.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-070",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Wie lautet der Merksatz zur koordinativen Grundausbildung im Grundschulbereich?",
+    "a": "• Eine umfassende und vielseitig orientierte Grundausbildung im Grundschulbereich verlangt ein spielerisches Schulen vielfältiger Bewegungsformen,\n• die die breite Palette der koordinativen Fähigkeiten berücksichtigt.",
+    "e": "Kinder sollen möglichst viele verschiedene Bewegungen spielerisch erleben, statt früh nur eine Sportart zu üben. Beispiel: Fangspiele, Klettern, Balancieren, Werfen und Tanzen in einer Sportstunde fördern viele koordinative Fähigkeiten gleichzeitig.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-071",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Welche Funktion haben koordinative Fähigkeiten und in welcher Beziehung stehen sie zueinander und zu den konditionellen Fähigkeiten?",
+    "a": "• Koordinative Fähigkeiten bewirken, dass die Impulse eines Bewegungsablaufs zeitlich, in ihrer Stärke und ihrem Umfang aufeinander abgestimmt werden und die richtigen Muskeln erreichen.\n• Eine einzelne koordinative Fähigkeit bestimmt die Leistung nie isoliert; entscheidend ist das Beziehungsgefüge der Fähigkeiten in der jeweiligen Fertigkeit bzw. Sportart.\n• Oft bestehen Verbindungen zu konditionellen Fähigkeiten.\n• Beispiel Beweglichkeit: konstitutionelle Aspekte (Gelenkmobilität), energetisch-konditionelle Anteile (Muskelkraft) und koordinative Anteile (inter- und intramuskuläre Koordination).",
+    "e": "Koordinative Fähigkeiten arbeiten immer im Team – und oft mit der Kondition zusammen. Beispiel: Ein Hürdenläufer braucht Rhythmisierungs- und Kopplungsfähigkeit, aber auch Beweglichkeit und Schnelligkeit, damit die Technik funktioniert.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-072",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Unterscheide intermuskuläre und intramuskuläre Koordination.",
+    "a": "• Intermuskuläre Koordination: Zusammenspiel verschiedener Muskeln bzw. Muskelgruppen (Agonisten, Antagonisten, Synergisten) innerhalb einer Bewegung.\n• Intramuskuläre Koordination: neuromuskuläres Zusammenspiel innerhalb eines Muskels, also wie viele motorische Einheiten gleichzeitig und wie hochfrequent aktiviert (Rekrutierung, Frequenzierung) und synchronisiert werden.",
+    "e": "Inter = zwischen den Muskeln, intra = innerhalb eines Muskels. Beispiel: Beim Kniebeugen müssen Oberschenkelstrecker und -beuger abgestimmt arbeiten (inter); um maximal Kraft zu entwickeln, muss der Quadrizeps möglichst viele motorische Einheiten gleichzeitig aktivieren (intra).",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-073",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Erläutere die Gliederung der koordinativen Fähigkeiten in Grundfähigkeiten nach Hirtz.",
+    "a": "Hirtz (1985) unterscheidet drei koordinative Grundfähigkeiten:\n• Steuerungsfähigkeit: Bewegungen auch bei hohen Koordinationsanforderungen genau steuern, um die Bewegungsaufgabe zu lösen. Dazu: Kopplungs-, Differenzierungs-, Gleichgewichts-, Orientierungs- und Rhythmisierungsfähigkeit.\n• Adaptionsfähigkeit (Anpassungs- und Umstellungsfähigkeit): sich ungewohnten, schnell wechselnden Bedingungen und Aufgaben anpassen und Bewegungen zweckmäßig umstellen. Dazu: Gleichgewichts-, Orientierungs-, Rhythmisierungs-, Reaktions- und Umstellungsfähigkeit.\n• Motorische Lernfähigkeit: sicheres und schnelles Erlernen von Bewegungsformen; alle sieben Fähigkeiten tragen dazu bei.\n• Gleichgewichts-, Orientierungs- und Rhythmisierungsfähigkeit gehören sowohl zur Steuerungs- als auch zur Adaptionsfähigkeit.",
+    "e": "Steuern heißt: genau ausführen. Anpassen heißt: auf Veränderungen reagieren. Beides zusammen macht schnelles Lernen möglich. Beispiel: Beim Kunstturnen dominiert die Steuerungsfähigkeit (geschlossene Fertigkeit), beim Skifahren im unbekannten Gelände die Adaptionsfähigkeit.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-074",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Definiere die Differenzierungsfähigkeit.",
+    "a": "• Fähigkeit zum Erreichen einer hohen Feinabstimmung einzelner Bewegungsphasen und Teilkörperbewegungen,\n• die in großer Bewegungsgenauigkeit und Bewegungsökonomie zum Ausdruck kommt.\n• Grundlage ist v. a. die genaue Verarbeitung kinästhetischer Informationen (z. B. Kraft- und Spannungsdosierung).",
+    "e": "Differenzierung ist das „Fingerspitzengefühl“. Beispiele: Ballgefühl beim Lob im Tennis, Schneegefühl beim Skifahren, Wassergefühl beim Schwimmen.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-075",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Definiere die Reaktionsfähigkeit.",
+    "a": "• Fähigkeit zur schnellen Einleitung und Ausführung zweckmäßiger motorischer Aktionen auf Signale.\n• Signale können optisch, akustisch, taktil oder kinästhetisch sein; man unterscheidet Einfach- und Wahlreaktionen.\n• Entscheidend ist nicht nur die Schnelligkeit, sondern dass die Reaktion zweckmäßig ist.",
+    "e": "Reaktionsfähigkeit heißt: schnell und richtig auf ein Signal antworten. Beispiele: Antritte, Reaktion auf Täuschungen, Richtungswechsel, Sprints auf den Startschuss in der Leichtathletik.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-076",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Definiere die Kopplungsfähigkeit.",
+    "a": "• Fähigkeit, Teilkörperbewegungen bezüglich eines bestimmten Handlungsziels räumlich, zeitlich und dynamisch aufeinander abzustimmen.\n• Betrifft sowohl gleichzeitige (simultane) als auch aufeinanderfolgende (sukzessive) Teilbewegungen.",
+    "e": "Kopplung bedeutet: Arme, Beine und Rumpf arbeiten wie ein Zahnradgetriebe zusammen. Beispiele: Kraulschwimmen (Arm- und Beinschlag mit Atmung), Hochsprung (Anlauf und Absprung mit Armeinsatz), Sprungwurf.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-077",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Definiere die Orientierungsfähigkeit.",
+    "a": "• Fähigkeit zur Bestimmung und zielangepassten Veränderung der Lage und Bewegung des Körpers im Raum (und in der Zeit).\n• Bezug auf Spielfeld, Geräte, Mitspieler, Gegner und Objekte (z. B. Ball); umfasst Timing und peripheres Sehen.",
+    "e": "Orientierung heißt: Wo bin ich, wo ist der Ball, wo sind die anderen? Beispiele: Kopfball im Fußball, Kempa-Trick im Handball, Tipp-in im Basketball, Timing und peripheres Sehen.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-078",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Definiere die Gleichgewichtsfähigkeit.",
+    "a": "• Fähigkeit, den gesamten Körper im Gleichgewichtszustand zu halten (statisches Gleichgewicht) oder\n• während und nach umfangreichen Körperverlagerungen diesen Zustand beizubehalten bzw. wiederherzustellen (dynamisches Gleichgewicht).\n• Hauptsächlich beteiligt: vestibulärer, kinästhetischer, taktiler und optischer Analysator.",
+    "e": "Gleichgewicht ist mehr als „nicht umfallen“ – es geht auch um schnelles Wiederherstellen. Beispiele: Balancieren, Einradfahren, Rebound im Basketball, Stoppen, Körperkontakt mit dem Gegner.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-079",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Definiere die Rhythmisierungsfähigkeit.",
+    "a": "• Fähigkeit, einen von außen vorgegebenen Rhythmus zu erfassen und motorisch umzusetzen,\n• sowie die Fähigkeit, einen verinnerlichten Rhythmus einer Bewegung in der eigenen Bewegungstätigkeit zu realisieren.",
+    "e": "Es gibt also einen fremden (z. B. Musik) und einen eigenen Rhythmus (z. B. Bewegungsrhythmus). Beispiele: Tanzsportarten, Ballett, Dribbling, Diskuswurf, Hürdenlauf (Dreierrhythmus).",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-080",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Definiere die Umstellungsfähigkeit.",
+    "a": "• Fähigkeit, während des Handlungsvollzugs das Handlungsprogramm veränderten Umgebungsbedingungen anzupassen\n• oder ein neues, adäquates Handlungsprogramm zu starten.\n• Die Veränderungen können vorhersehbar oder überraschend sein.",
+    "e": "Umstellung heißt: Plan B während der Bewegung. Beispiele: Kooperation mit Mitspielern in Mannschaftsspielen, Anpassung an das Verhalten des Gegners, z. B. wenn ein Pass abgefälscht wird und man noch im Lauf die Richtung ändern muss.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-081",
+    "thema": "Q3.2",
+    "kapitel": "Koordinative Fähigkeiten",
+    "q": "Warum liegt die sensible Phase für koordinative Fähigkeiten zwischen dem 7. und 12. Lebensjahr?",
+    "a": "• Koordinative Fähigkeiten sind nicht angeboren; sie müssen erlernt, gefestigt und weiterentwickelt werden.\n• Zwischen 7 und 12 Jahren besteht eine besondere Lernfähigkeit (sensible Phase), weil\n  – grundlegende Funktionen des ZNS beschleunigt ausreifen,\n  – die Analysatoren beschleunigt ausreifen,\n  – biologische Reifungsprozesse mit einem starken Bewegungsbedürfnis zusammentreffen.\n• Wird eine sensible Phase verpasst, ist das Ansteuern bestimmter Leistungsfaktoren später nur mit deutlich mehr Aufwand möglich.",
+    "e": "Kinder in diesem Alter lernen Bewegungen oft „auf Anhieb“ – das sogenannte „goldene Lernalter“. Beispiel: Wer als Kind Inlineskaten oder Jonglieren lernt, tut sich viel leichter als jemand, der als Erwachsener damit beginnt.",
+    "quelle": "L04.2",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-082",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Beschreibe den Aufbau des Koordinations-Anforderungs-Regler-Modells (KAR-Modell) nach Neumaier.",
+    "a": "• Fertigkeitsorientiertes Strukturmodell zur Analyse koordinativer Anforderungen von Bewegungsaufgaben (Neumaier et al.).\n• Zwei Teile:\n  1. Informationsanforderungen (afferente Seite): Anforderungen an die Analysatoren – optisch, akustisch, taktil, kinästhetisch, vestibulär – sowie integrative Gleichgewichtsanforderungen.\n  2. Druckbedingungen: Präzisionsdruck, Zeitdruck, Komplexitätsdruck, Situationsdruck, Belastungsdruck.\n• Für jede Kategorie gibt ein „Regler“ die Ausprägung zwischen niedrig (−) und hoch (+) an.\n• Die Gesamtkonstellation aller Reglerstellungen ergibt das koordinative Anforderungsprofil einer Bewegungsaufgabe.",
+    "e": "Man kann sich das KAR-Modell wie ein Mischpult vorstellen: Jeder Regler steht für eine Anforderung, die man hoch- oder runterdrehen kann. Beispiel: Ein Freiwurf hat einen hohen Präzisionsregler, aber einen niedrigen Zeitdruckregler.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-083",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Was beschreiben die Informationsanforderungen im KAR-Modell?",
+    "a": "• Sie beschreiben die mit einer Bewegungsaufgabe verbundenen Anforderungen an die Informationsaufnahme und -verarbeitung aus den Sinnesorganen bzw. Analysatoren (afferente Informationen).\n• Kategorien: optisch, akustisch, taktil, kinästhetisch, vestibulär.\n• Zusätzlich: Gleichgewichtsanforderungen als integrative Sinnesleistung mehrerer Analysatoren.",
+    "e": "Hier wird gefragt: Welche Sinne braucht man für diese Aufgabe besonders? Beispiel: Beim Tempodribbling im Fußball ist der optische Anteil mittel bis hoch (Gegner, Raum, Ball), der akustische dagegen gering.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-084",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Woraus ergeben sich die Druckbedingungen im KAR-Modell?",
+    "a": "• Die Druckbedingungen ergeben sich aus\n  – der Zielstellung der Bewegungsaufgabe,\n  – den zur Bewältigung einzusetzenden Bewegungen und\n  – den äußeren und inneren Ausführungsbedingungen.\n• Sie kennzeichnen, unter welchem „Druck“ die Bewegung koordiniert werden muss (Präzision, Zeit, Komplexität, Situation, Belastung).",
+    "e": "Druckbedingungen machen eine Bewegung schwerer, ohne die Bewegung selbst zu ändern. Beispiel: Ein Korbleger ohne Gegner ist leicht, mit Verteidiger, Zeitdruck und müden Beinen wird er deutlich anspruchsvoller.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-085",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Definiere den Präzisionsdruck und den Zeitdruck im KAR-Modell.",
+    "a": "• Präzisionsdruck: Anforderungen hinsichtlich der Bewegungsgenauigkeit, und zwar\n  – Verlaufsgenauigkeit (genauer Bewegungsablauf) und\n  – Ergebnisgenauigkeit (genaues Ziel treffen).\n  Typisches Beispiel mit hohem Präzisionsdruck: Freiwurf.\n• Zeitdruck: Anforderungen hinsichtlich der verfügbaren Bewegungszeit und/oder der zu erreichenden Bewegungsgeschwindigkeit.\n  Typisches Beispiel: 100-m-Sprint.",
+    "e": "Präzision fragt: Wie genau? Zeit fragt: Wie schnell bzw. wie viel Zeit habe ich? Beispiel: Beim Turnen auf dem Balken zählt Verlaufsgenauigkeit, beim Dart die Ergebnisgenauigkeit; ein Volleyballblock steht unter hohem Zeitdruck.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-086",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Definiere den Komplexitätsdruck und nenne seine Teilaspekte.",
+    "a": "• Komplexitätsdruck: Anforderungen hinsichtlich der gleichzeitig ablaufenden und/oder aufeinanderfolgenden Bewegungsanteile sowie des Umfangs der dabei einzusetzenden Muskelgruppen.\n• Typisches Beispiel: Kugelstoß.\n• Teilaspekte:\n  – K1: Simultankoordination (gleichzeitige Bewegungsanteile)\n  – K2: Sukzessivkoordination (aufeinanderfolgende Bewegungsanteile)\n  – K3: Muskelauswahl (Umfang der beteiligten Muskelgruppen)",
+    "e": "Je mehr Teilbewegungen gleichzeitig oder nacheinander zusammenpassen müssen, desto höher der Komplexitätsdruck. Beispiel: Beim Kugelstoßen müssen Angleiten, Hüftstreckung, Rumpfdrehung und Armstoß in der richtigen Reihenfolge und teils gleichzeitig mit vielen Muskelgruppen ablaufen.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-087",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Definiere den Situationsdruck und nenne seine Teilaspekte.",
+    "a": "• Situationsdruck: Anforderungen hinsichtlich der Variabilität und der Komplexität der Umgebungs- und Situationsbedingungen.\n• Typisches Beispiel: Orientierungslauf.\n• Teilaspekte:\n  – S1: Situationskomplexität (wie viele Elemente gleichzeitig zu beachten sind, z. B. Anzahl Mit- und Gegenspieler)\n  – S2: Situationsvariabilität (wie stark sich Bedingungen verändern, z. B. Untergrund, Gegnerverhalten)",
+    "e": "Situationsdruck entsteht durch eine unübersichtliche oder ständig wechselnde Umwelt. Beispiel: Beim Orientierungslauf wechseln Gelände, Wege und Sicht ständig; im Handballspiel ändern sich die Spielsituationen pausenlos.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-088",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Definiere den Belastungsdruck und nenne seine Teilaspekte.",
+    "a": "• Belastungsdruck: Anforderungen hinsichtlich der physisch-konditionellen und der psychischen Belastungsbedingungen.\n• Typisches Beispiel: 400-m-Hürden.\n• Teilaspekte:\n  – B1: physische Beanspruchung (z. B. Ermüdung, Schnellkrafteinsatz)\n  – B2: psychische Beanspruchung (z. B. Konzentration, Willenseinsatz, Risiko des Misslingens)",
+    "e": "Koordination wird schwerer, wenn man müde oder nervös ist. Beispiel: Beim 400-m-Hürdenlauf müssen die Hürden auch in der letzten Kurve mit übersäuerten Beinen sauber überlaufen werden.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-089",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Warum lässt sich der Schwierigkeitsgrad einer Bewegungsaufgabe nicht an einem einzelnen Regler des KAR-Modells ablesen?",
+    "a": "• Jede Anforderungskategorie kann zwischen den Polen „niedrig“ (−/minimal) und „hoch“ (+/maximal) geregelt werden; die Reglerstellung entspricht dem Bedeutungs- bzw. Schwierigkeitsgrad dieser Kategorie.\n• Die Gesamtschwierigkeit hängt jedoch wesentlich von der Reglerkonstellation, also dem Zusammenspiel aller Regler, ab.\n• Erst die Gesamtkonstellation ergibt das koordinative Anforderungsprofil der Bewegungsaufgabe.",
+    "e": "Eine einzige hohe Anforderung macht eine Aufgabe nicht automatisch schwer, das Gesamtpaket entscheidet. Beispiel: Ein 100-m-Sprint hat zwar maximalen Zeitdruck, aber geringen Situationsdruck; ein Sprungwurf mit Verteidiger hat mehrere hohe Regler gleichzeitig.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-090",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Analysiere die Informationsanforderungen des Tempodribblings im Fußball nach dem KAR-Modell (Neumaier).",
+    "a": "• Optisch: mittel bis hoch – peripheres Sehen zur Gegner- und Ballkontrolle und zur Raumorientierung (Laufrichtung, Vorbereitung des Abspiels)\n• Akustisch: gering – Eigen- und Gegnergeräusche kaum relevant\n• Taktil: mittel – Druckwahrnehmung an den Füßen für Laufen und Ballkontrolle\n• Kinästhetisch: mittel – optimaler Krafteinsatz zur Anpassung von Laufbewegung und Ballkontrolle\n• Vestibulär: gering bis mittel – geringe Geschwindigkeits- und Richtungsänderungen bei hoher Bewegungsdynamik\n• Gleichgewicht: mittel bis hoch – integrative Sinnesleistung beim Laufen",
+    "e": "So geht eine KAR-Analyse: Für jeden Regler wird eine Ausprägung genannt und begründet. Beispiel: Wer mit Ball sprintet, muss gleichzeitig nach vorne schauen – deshalb ist der optische Regler hoch, das Hören spielt kaum eine Rolle.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-091",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Analysiere die Druckbedingungen des Tempodribblings im Fußball nach dem KAR-Modell (Neumaier).",
+    "a": "• Präzisionsdruck: mittel – selbstbestimmtes, rhythmisiertes Balltreiben; räumlich-zeitliche Abstimmung von Schrittlänge und -frequenz auf die Ballbewegung\n• Zeitdruck: gering bis mittel – submaximale Laufgeschwindigkeit, zeitliche Anpassung an den selbst vorgelegten Ball\n• K1 Simultankoordination: mittel (Laufen und Balltreiben gleichzeitig), gering bezogen auf Teilkörperkoordination beim Laufen\n• K2 Sukzessivkoordination: mittel – abgestimmte Abfolge von Laufen und Ballstoßen\n• K3 Muskelauswahl: mittel – große Muskelgruppen beteiligt\n• S1 Situationskomplexität: gering – nur ein Mitspieler, von einem Gegenspieler verfolgt\n• S2 Situationsvariabilität: gering – gute Platzbedingungen\n• B1 physische Belastung: hoch – hohe Schnellkrafteinsätze der Beine\n• B2 psychische Belastung: hoch – Willenseinsatz und Konzentration; geringes Risiko beim Dribbling, aber höheres Risiko bei der Gesamtaufgabe (Abspiel/Torschuss)",
+    "e": "Das Beispiel zeigt: Auch eine scheinbar einfache Aufgabe hat ein differenziertes Profil. Für die Klausur sollte man jede Reglerstellung kurz begründen. Beispiel: Steht der Verteidiger direkt am Dribbler, würden Situations- und Zeitdruck sofort steigen.",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-092",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Worin liegt die praktische Relevanz des KAR-Modells?",
+    "a": "• Analyse: Koordinative Anforderungsprofile von Bewegungsaufgaben lassen sich differenziert beschreiben und vergleichen.\n• Übungsgestaltung: Aus dem Modell können mithilfe von Variationsprinzipien zahlreiche Koordinationsübungen abgeleitet werden.\n• Dazu werden sicher beherrschte Bewegungsabläufe durch Veränderung der Informationsanforderungen und der Druckbedingungen variiert und erschwert (oder erleichtert).",
+    "e": "Das KAR-Modell ist ein Werkzeugkasten für Lehrer und Trainer. Beispiel: Laufen lässt sich variieren über Informationsanforderungen (mit geschlossenen Augen, rückwärts) und Druckbedingungen (auf Zeit, auf verschiedenen Untergründen, mit Zusatzgewichten, Treppen).",
+    "quelle": "L04.3",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-093",
+    "thema": "Q3.2",
+    "kapitel": "KAR-Modell",
+    "q": "Analysiere den Basketball-Sprungwurf aus der Ballannahme mit Verteidiger nach koordinativen Fähigkeiten und KAR-Modell.",
+    "a": "Koordinative Fähigkeiten:\n• Kopplungsfähigkeit: Ballannahme, Stopp, Absprung und Wurfarm räumlich-zeitlich abstimmen\n• Differenzierungsfähigkeit: genaue Kraftdosierung im Handgelenk (Wurfgefühl)\n• Gleichgewichtsfähigkeit: stabiler Stopp und Landung, auch bei Kontakt\n• Orientierungsfähigkeit: Position zu Korb und Verteidiger, Timing des Abwurfs\n• Reaktions-/Umstellungsfähigkeit: Reaktion auf den Verteidiger (z. B. Pass statt Wurf)\nKAR-Profil (Tendenz):\n• Informationsanforderungen: optisch hoch, kinästhetisch hoch, vestibulär/Gleichgewicht mittel bis hoch, taktil mittel, akustisch gering\n• Präzisionsdruck hoch (Ergebnisgenauigkeit Korb)\n• Zeitdruck hoch (Verteidiger, schneller Abwurf)\n• Komplexitätsdruck mittel bis hoch (Simultan- und Sukzessivkoordination Bein-Rumpf-Arm)\n• Situationsdruck mittel (ein Gegenspieler, wechselndes Verhalten)\n• Belastungsdruck mittel bis hoch (Ermüdung, Spielstand)",
+    "e": "Für die Klausur gilt: Jede Einstufung kurz begründen. Beispiel: Steht der Verteidiger eng, steigen Zeit- und Situationsdruck; beim freien Wurf im Training wären diese Regler niedrig.",
+    "quelle": "L04.6",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-094",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Wie lautet die methodische Grundformel zur Koordinationsschulung?",
+    "a": "Koordinationsschulung =\n• einfache, sicher beherrschte (motorische) Fertigkeiten\n• + Variation der Informationsanforderungen\n• + Variation der Druckbedingungen\n(in Anlehnung an das KAR-Modell nach Neumaier; Roth)\n• Koordinationsübungen sollten in erholtem Zustand und in allen Altersstufen stattfinden.",
+    "e": "Die beherrschten Fertigkeiten sind die „Zutaten“, Informationsanforderungen und Druckbedingungen das „Gewürz“. Beispiel: Prellen (beherrschte Fertigkeit) + mit geschlossenen Augen bzw. auf einer Bank stehend (Information) + unter Zeitdruck (Druckbedingung).",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-095",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Worin unterscheidet sich das methodische Vorgehen bei der Koordinationsschulung vom Vorgehen beim Techniklernen?",
+    "a": "• Techniklernen (komplexe Bewegungen vermitteln): Man setzt systematische Vereinfachungsstrategien ein, die im Lernprozess schrittweise abgebaut werden; die Bewegung selbst ist schwer, die Bedingungen werden erleichtert.\n• Koordinationsschulung: genau umgekehrt – die spezifischen Fertigkeitsanforderungen werden niedrig gehalten (einfache, beherrschte Fertigkeiten), dafür werden vielfältige Informationsanforderungen und zusätzliche Druckbedingungen gestellt (Erschwerung).",
+    "e": "Beim Techniklernen macht man es leichter, bei der Koordinationsschulung schwerer – aber mit einer leichten Grundbewegung. Beispiel: Den Sprungwurf lernt man zunächst ohne Gegner und aus kurzer Distanz; zur Koordinationsschulung dribbelt man dagegen den längst beherrschten Ball, aber rückwärts, mit zwei Bällen und unter Zeitdruck.",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-096",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Wann und in welchem Teil einer Sportstunde sollte Koordinationstraining stattfinden? Begründe.",
+    "a": "• In allen Altersstufen als fester Bestandteil des Sportunterrichts.\n• Besonders geeignet im Aufwärmprogramm oder im Hauptteil (zu Beginn) einer Sportstunde.\n• Begründung: Im erholten Zustand können die Steuerungsprozesse des ZNS optimal geschult werden; Ermüdung verschlechtert die Qualität der Bewegungssteuerung.\n• Ausnahme: Gezieltes Üben unter Belastungsdruck (Vorermüdung) ist eine bewusste Variation der Druckbedingungen.",
+    "e": "Ein müdes Nervensystem lernt schlecht feine Bewegungen. Beispiel: Koordinationsleiter-Übungen macht man am Anfang des Trainings, nicht nach dem Ausdauerlauf – außer man will gerade Koordination unter Ermüdung trainieren.",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-097",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Wie entsteht nach der methodischen Grundformel ein vielfältiges Koordinationsprogramm? Nenne die drei Varianten der Schwerpunktsetzung.",
+    "a": "• Man hält einen Summanden der Grundformel konstant und variiert die beiden anderen.\n• Varianten:\n  1. Konstante Elementarfertigkeit (z. B. Laufen) bei variablen Informationsanforderungen und Druckbedingungen\n  2. Konstanter Akzent auf einem Wahrnehmungsanalysator (z. B. vestibulär) bei variablen Elementarfertigkeiten und Druckbedingungen\n  3. Konstanter Akzent auf einer Druckbedingung (z. B. Komplexitätsdruck bei Simultankoordination) bei variablen Elementarfertigkeiten und Informationsanforderungen\n• So sind vorübergehende Schwerpunktsetzungen und koordinative Profilbildungen möglich.",
+    "e": "Drei „Stellschrauben“ – eine wird festgehalten, zwei werden gedreht. Beispiel zu Variante 2: Balancieren auf umgedrehten Bänken, auf Kastenteilen auf Medizinbällen, auf Stelzen – immer liegt der Schwerpunkt auf dem Gleichgewichtsorgan.",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-098",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Nenne elementare motorische Fertigkeiten, die sich für ein sportartübergreifendes Koordinationstraining eignen (nach Roth).",
+    "a": "Z. B. (Auswahl): Armkreisen, Aufschwünge, Fallen, Federn, Gehen, Gleiten, Galopp, Hüpfen, Köpfen, Kriechen, Laufen, Prellen, Rollen, Schaukeln, Schieben, Schießen, Schlagen, Schweben, Schwingen, Springen, Stoßen, Stützen, Umschwünge, Wälzen, Werfen, Ziehen.\n• Voraussetzung: Sie werden sicher beherrscht und können daher nach der Grundformel variiert werden.",
+    "e": "Elementarfertigkeiten sind die Grundbausteine fast aller Sportarten. Beispiel: Werfen kann man variieren mit der schwachen Hand (Information), auf bewegte Ziele (Situationsdruck) oder nach Sprints (Belastungsdruck).",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-099",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Welche Organisationsformen und Grundsätze gelten für eine sportartübergreifende Koordinationsschulung?",
+    "a": "• Organisationsformen: Einzel- und Partnerübungen, Parcours, Hindernisläufe, Koordinationszirkel, Lauf- und Staffelspiele.\n• Geräte wie Kästen, Bänke, Bälle, Turngeräte und Matten sowie Spontanität und Ideen der Kinder einbeziehen.\n• Hindernisparcours können elementare Fertigkeiten (Gehen, Laufen, Springen, Rollen, Klettern, Prellen, Werfen) mit komplexen Anforderungen an Analysatoren und Druckbedingungen kombinieren.\n• Grundsatz: Die Schulung muss abwechslungsreich sein und vor allem Freude bereiten.\n• Spielformen sind besonders bedeutsam, da sie Zeitdruck, Festigkeitssteigerung und situative Überraschungsmomente enthalten (Allgemeine Ballschule).",
+    "e": "Vielfalt und Spaß sind das Erfolgsrezept. Beispiel: Ein Parcours nach Kosel mit Wippe, Kastentreppe, Rollen über verschiedene Matten, Balancieren auf der Reckstange und Zielwerfen fordert viele Analysatoren und Druckbedingungen nacheinander.",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-100",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Zeige am Beispiel Laufen, wie die Elementarfertigkeit nach der Grundformel variiert werden kann.",
+    "a": "• Informationsanforderungen: mit geschlossenen Augen, rückwärts laufen\n• Zeitdruck: Hindernis- und Slalomläufe, kleine Spiele, Pendelstaffeln\n• Präzisionsdruck: Balancieren, Formationsläufe, rhythmisches Laufen\n• Situationsdruck: Schatten- und Spiegelläufe, Anpassung an das Lauftempo anderer, an Bodenbeläge und Geländeformen\n• Komplexitätsdruck: simultane Armbewegungen, Kombination mit Drehungen, Skippings, Knieheben, Anfersen\n• Belastungsdruck: Laufen nach konditionellen und koordinativen Vorbelastungen",
+    "e": "Aus einer einzigen Grundbewegung entstehen so Dutzende Übungen. Beispiel: Ein Spiegellauf, bei dem man die Richtungswechsel des Partners nachmachen muss, erhöht vor allem den Situationsdruck.",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-101",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Welche Druckbedingungen und Informationsanforderungen werden verändert, wenn man statt auf einer Turnmatte auf einer Weichbodenmatte oder von einer schiefen Ebene rollt?",
+    "a": "• Weichbodenmatte: instabiler, nachgebender Untergrund → höhere vestibuläre, kinästhetische und taktile Anforderungen (Gleichgewicht, veränderte Druckempfindung); höherer Präzisionsdruck und Situationsvariabilität (Untergrund ändert sich), mehr Kraftaufwand (Belastungsdruck).\n• Schiefe Ebene: höhere Rotationsgeschwindigkeit → höherer Zeitdruck, höhere vestibuläre Anforderung (Drehbeschleunigung) und Orientierungsanforderung; Präzisionsdruck beim Aufstehen/Abfangen steigt.\n• Die Grundfertigkeit Rollen bleibt gleich – nur die Bedingungen werden variiert.",
+    "e": "Diese Aufgabe aus dem Buch übt das Denken im KAR-Modell. Beispiel: Auf dem Weichboden „versinkt“ man und muss mehr Spannung aufbauen, auf der Schräge wird die Rolle schneller und das Aufstehen schwieriger.",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-102",
+    "thema": "Q3.2",
+    "kapitel": "Koordinationsschulung",
+    "q": "Warum haben Spielformen eine herausragende Bedeutung für das Koordinationstraining?",
+    "a": "• Spielformen enthalten den Kern (die Spielidee) eines großen Sportspiels, z. B. im Basketball „Körbe erzielen und Körbe des Gegners verhindern“.\n• Sie beinhalten neben Zeitdruckbedingungen und Festigkeitssteigerungen auch situative Überraschungsmomente (Situationsdruck).\n• Dadurch werden viele koordinative Anforderungen gleichzeitig und spielnah gefordert.\n• Allgemeine Ballschule und vielseitige Sportspielvermittlung nutzen diesen koordinativen Aspekt systematisch.",
+    "e": "Im Spiel passiert ständig Unvorhergesehenes – genau das fordert Koordination. Beispiel: Beim 3:3 auf einen Korb muss man prellen, passen und werfen, während Gegner und Mitspieler ständig ihre Position ändern.",
+    "quelle": "L04.4",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-103",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Was sind exekutive Funktionen und welche drei Komponenten gehören dazu?",
+    "a": "• Exekutive Funktionen sind selbstregulierende Kontrollfunktionen (im Stirnhirn/präfrontalen Kortex), die immer dann zum Einsatz kommen, wenn routinemäßige Abläufe zur Bewältigung einer Aufgabe nicht ausreichen.\n• Komponenten:\n  – Arbeitsgedächtnis\n  – Inhibition (Impulskontrolle)\n  – kognitive Flexibilität (kognitive Umstellungsfähigkeit)\n• In ihrem Zusammenspiel steuern sie die Selbstregulation und helfen, Entscheidungen zu treffen, planvoll, flexibel und zielgerichtet zu handeln sowie das eigene Handeln zu reflektieren und zu korrigieren (Kubesch).\n• Im Sport sind sie nahezu ständig gefordert und durch physisch-kognitives Koordinationstraining positiv beeinflussbar.",
+    "e": "Exekutive Funktionen sind die „Chefetage“ des Gehirns, die eingreift, wenn Automatismen nicht reichen. Beispiel: Ein Basketballer muss in der Auszeit den Spielzug merken (Arbeitsgedächtnis), trotz Nervosität ruhig umsetzen (Inhibition) und beim Freilaufen Tempo und Richtung wechseln (Flexibilität).",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-104",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Beschreibe das Arbeitsgedächtnis als exekutive Funktion.",
+    "a": "• Enthält einen verbalen und einen visuell-räumlichen Kurzzeitspeicher.\n• Befähigt dazu, Informationen kurzzeitig zu speichern (maximal 7 ± 2 Elemente über wenige Sekunden),\n• mit diesen Informationen zu arbeiten\n• und sie bei Bedarf ins Langzeitgedächtnis zu überführen.",
+    "e": "Das Arbeitsgedächtnis ist wie ein Notizzettel im Kopf. Beispiel: Ein Volleyballspieler merkt sich das Handzeichen des Zuspielers für den nächsten Spielzug und hat es parat, wenn der Ball kommt.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-105",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Beschreibe die Inhibition als exekutive Funktion.",
+    "a": "• Inhibition = Impulskontrolle.\n• Fähigkeit, spontane Impulse und Emotionen zu unterdrücken,\n• die Aufmerksamkeit willentlich zu lenken\n• und Störreize bzw. irrelevante Prozesse auszublenden.\n• Im Sport z. B. für Go-/No-go-Entscheidungen und zum Widerstehen gegen Täuschungen wichtig.",
+    "e": "Inhibition ist die „Bremse“ im Kopf. Beispiel: Der Batter im Baseball muss bei einem Ball mit Effet, der knapp außerhalb der Strike Zone fliegt, den Schlagimpuls unterdrücken – sonst wird ihm ein Strike angerechnet.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-106",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Beschreibe die kognitive Flexibilität als exekutive Funktion.",
+    "a": "• Kognitive Flexibilität = kognitive Umstellungsfähigkeit.\n• Fähigkeit, den Fokus der Aufmerksamkeit zu wechseln,\n• sich schnell auf neue Situationen einzustellen\n• und andere Perspektiven einzunehmen.",
+    "e": "Flexibilität ist das schnelle „Umschalten“ im Kopf. Beispiel: Nach einem Ballverlust muss ein Handballer sofort von Angriff auf Abwehr umschalten und seine Aufgabe neu denken.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-107",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Was zeigt der Stroop-Test im Zusammenhang mit exekutiven Funktionen?",
+    "a": "• Aufgabe: Farbwörter (z. B. ROT), die in einer anderen Farbe gedruckt sind, erst vorlesen und dann die Druckfarbe benennen.\n• Das Benennen der Farbe fällt schwerer und dauert länger.\n• Ergebnis: Trainierte (automatisierte) Handlungen wie Lesen laufen nahezu automatisch ab; ungewohnte Handlungen benötigen mehr Aufmerksamkeit.\n• Um die Farbe zu nennen, muss der Leseimpuls gehemmt werden (Inhibition) – exekutive Funktionen sind gefordert.",
+    "e": "Der Stroop-Test (nach John Ridley Stroop) macht spürbar, wie mühsam es ist, einen Automatismus zu unterdrücken. Beispiel: Im Sport ist es ähnlich, wenn man eine eingeschliffene Bewegung plötzlich anders ausführen muss, etwa invers auf Handzeichen reagieren.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-108",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Wie können exekutive Funktionen gefördert werden und welche Rolle spielt das Koordinationstraining dabei?",
+    "a": "• Exekutive Funktionen lassen sich durch kognitive und durch physische Trainingsreize fördern (Kubesch et al., 2011).\n• Besonders effektiv ist eine Kombination aus physischem und kognitivem Training (Kubesch & Walk, 2009) – das physisch-kognitive Training.\n• Praktisch umsetzbar über Kleine und Große Spiele, Übungen und Bewegungsaufgaben.\n• Eine besondere Rolle spielt das Koordinationstraining, das einfache, beherrschte Bewegungen durch Verändern von Druckbedingungen und Informationsanforderungen bewusst erschwert.\n• Wegen ihrer hohen Bedeutung für die Leistung sollte das Training der exekutiven Funktionen systematisch in den Trainingsprozess integriert werden.",
+    "e": "Koordinationstraining ist gleichzeitig Gehirntraining. Beispiel: Wer beim Laufen auf Zahlen mit unterschiedlichen Bewegungen reagieren muss, trainiert Koordination (Zeit-, Komplexitätsdruck) und Arbeitsgedächtnis zugleich.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-109",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Nenne mögliche Inhalte eines physisch-kognitiven Trainings für jede exekutive Funktion (nach Stöglehner).",
+    "a": "• Arbeitsgedächtnis: Bewegungsaufgaben behalten, Änderungen abspeichern\n• Inhibition: Routinen durchbrechen, erzeugte Routinen hemmen, Gewohntes verändern\n• Kognitive Flexibilität: Aufgaben/Regeln verändern, passende Lösung auswählen, eigene Lösungswege entwickeln",
+    "e": "Jede exekutive Funktion bekommt eigene Übungsprinzipien. Beispiel: Für die Inhibition wird erst eine Routine aufgebaut (in die gezeigte Richtung springen) und dann gezielt durchbrochen (in die Gegenrichtung springen).",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-110",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Beschreibe je eine Übungsform zur Förderung von Arbeitsgedächtnis, Inhibition und kognitiver Flexibilität und begründe ihre Wirkung.",
+    "a": "• Arbeitsgedächtnis: Zahlen werden Bewegungen zugeordnet (1 = Hocke, 2 = halbe Drehung, 3 = ganze Drehung, 4 = Hampelmann, 5 = Strecksprung, 6 = Liegestütz). Der Lehrer zeigt eine Zahl, die Übenden führen die Übung aus → sechs Elemente müssen behalten und passend abgerufen werden.\n• Inhibition: Laufen auf der Stelle, Reaktion auf Handzeichen (oben = springen, unten = hocken, Seite = Ausfallschritt). Nach Automatisierung inverse Reaktion (oben = hocken usw.) → der Automatismus muss gehemmt werden.\n• Kognitive Flexibilität: Fangspiel, bei dem die Fänger spontan über eine Eigenschaft bestimmt werden (z. B. weißes T-Shirt); in jedem Durchgang neue Eigenschaft → Spieler müssen sich schnell auf die neue Rollenverteilung einstellen.",
+    "e": "Alle drei Übungen sind einfache Bewegungen mit einer kognitiven Zusatzaufgabe. Beispiel: Beim inversen Handzeichen-Spiel merkt man richtig, wie der Körper „von selbst“ in die gezeigte Richtung will – genau dieses Unterdrücken trainiert die Inhibition.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-111",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Setze das Training der exekutiven Funktionen in Beziehung zum KAR-Modell und zu den koordinativen Fähigkeiten.",
+    "a": "• Bezug zum KAR-Modell: Die Übungen nutzen einfache, beherrschte Fertigkeiten und erhöhen v. a.\n  – Zeitdruck (schnelle Ausführung auf Signal),\n  – Situationsdruck (wechselnde Signale/Rollen, Situationsvariabilität),\n  – Komplexitätsdruck (Bewegung plus kognitive Aufgabe),\n  – optische (Handzeichen, Zahlen) bzw. akustische Informationsanforderungen,\n  – psychischen Belastungsdruck (Konzentration).\n• Geförderte koordinative Fähigkeiten:\n  – Zahlenaufgabe: Reaktions-, Umstellungs-, Gleichgewichts- und Orientierungsfähigkeit (Drehungen)\n  – Handzeichen invers: Reaktions- und Umstellungsfähigkeit, Orientierung\n  – Fangspiel: Orientierungs-, Reaktions- und Umstellungsfähigkeit\n• Fazit: Koordinationsschulung nach der Grundformel und Training der exekutiven Funktionen hängen eng zusammen, da beide Variation und Erschwerung unter kognitiver Kontrolle nutzen.",
+    "e": "Die Prüfungsaufgabe verbindet zwei Modelle: KAR beschreibt die Anforderungen, die exekutiven Funktionen die geistigen Prozesse dahinter. Beispiel: Kognitive Flexibilität ähnelt stark der koordinativen Umstellungsfähigkeit – einmal auf geistiger, einmal auf motorischer Ebene.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  },
+  {
+    "id": "q3.2-112",
+    "thema": "Q3.2",
+    "kapitel": "Exekutive Funktionen",
+    "q": "Erläutere die Bedeutung der exekutiven Funktionen für die sportliche Leistung am Beispiel der Baseball-Situation Batter gegen Pitcher.",
+    "a": "• Der Pitcher wirft Bälle mit Effet, sodass der Batter schwer erkennt, ob der Ball innerhalb oder außerhalb der Strike Zone fliegt.\n• Außerhalb der Strike Zone darf der Batter nicht schlagen; schlägt er trotzdem (verleitet zur Ausholbewegung), zählt es als Strike gegen ihn.\n• Der Batter muss innerhalb kürzester Zeit eine Go-/No-go-Entscheidung treffen.\n• Dafür benötigt er ein hohes Maß an Inhibition (Impulskontrolle), um die bereits angebahnte Schlagbewegung zu unterdrücken.",
+    "e": "Die Situation zeigt, dass Leistung nicht nur aus Kraft und Technik besteht, sondern auch aus Impulskontrolle. Beispiel: Ähnlich muss ein Tennisspieler beim Return entscheiden, ob ein Ball ins Aus fliegt, und dann den Schlagimpuls stoppen.",
+    "quelle": "L04.5",
+    "typ": "kern"
+  }
+]
