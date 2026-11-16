@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#f2f2f7">
+<link rel="icon" type="image/svg+xml" href="logo.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="logo/favicon-32.png">
+<link rel="apple-touch-icon" href="logo/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="Sport-LK">
 <title>Sport-LK Trainer</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -41,7 +45,10 @@ input,textarea{font:inherit}
 header{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;
   padding:12px 20px;background:rgba(242,242,247,.72);-webkit-backdrop-filter:var(--blur);backdrop-filter:var(--blur);border-bottom:1px solid var(--line)}
 .logo{font-weight:700;font-size:1.06rem;letter-spacing:-.02em;cursor:pointer}
-.logo span{color:var(--accent)}
+.logo{display:flex;align-items:center;gap:9px}
+.logo-icon{width:28px;height:28px;border-radius:7px;box-shadow:0 2px 6px rgba(10,108,255,.25)}
+.auth-logo{width:68px;height:68px;border-radius:16px;margin-bottom:14px;box-shadow:0 6px 18px rgba(10,108,255,.25)}
+.logo-text b{color:var(--accent);font-weight:inherit}
 .menu-btn{width:40px;height:40px;border-radius:12px;background:var(--fill);display:flex;flex-direction:column;justify-content:center;align-items:center;gap:4px}
 .menu-btn i{display:block;width:17px;height:2px;background:var(--text);border-radius:2px}
 .menu-btn:hover{background:var(--fill2)}
@@ -256,7 +263,7 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
 <body>
 
 <header>
-  <div class="logo" id="logo">Sport<span>LK</span> Trainer</div>
+  <div class="logo" id="logo"><img src="logo.svg" alt="" class="logo-icon"><span class="logo-text">Sport<b>LK</b> Trainer</span></div>
   <button class="menu-btn" id="menuBtn" aria-label="Menü öffnen"><i></i><i></i><i></i></button>
 </header>
 
@@ -276,6 +283,7 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
   <!-- LOGIN / REGISTRIERUNG -->
   <section id="view-auth" class="hidden">
     <div class="auth">
+      <img src="logo.svg" alt="Logo" class="auth-logo">
       <h1>Sport-LK Trainer</h1>
       <p class="sub">Dein Trainingsplan fürs Sportabitur – melde dich an.<br><small id="modeHint"></small></p>
       <div class="tabs">

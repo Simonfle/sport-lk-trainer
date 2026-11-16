@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" width="1600" height="440">
+  <title>Sport-LK Trainer</title>
+  <svg x="40" y="40" width="360" height="360" viewBox="0 0 1024 1024">
+  
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f9bff"/>
+      <stop offset="0.55" stop-color="#0a6cff"/>
+      <stop offset="1" stop-color="#4b3fe0"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="0.25" cy="0.15" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef3ff"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a84ff"/>
+      <stop offset="1" stop-color="#4b3fe0"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#0b1b5a" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- App-Hintergrund -->
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <rect width="1024" height="1024" rx="230" fill="url(#shine)"/>
+
+  <!-- hintere Karte (Glas) -->
+  <g transform="rotate(-10 512 520)">
+    <rect x="262" y="250" width="500" height="560" rx="72" fill="#ffffff" fill-opacity="0.28" stroke="#ffffff" stroke-opacity="0.5" stroke-width="4"/>
+  </g>
+
+  <!-- vordere Karte -->
+  <g filter="url(#shadow)" transform="rotate(5 512 540)">
+    <rect x="282" y="232" width="470" height="560" rx="68" fill="url(#card)"/>
+  </g>
+
+  <!-- Zeichen: springende Figur aus Kopf (Ball) und Haken (Lernerfolg) -->
+  <g transform="rotate(5 512 540)">
+    <circle cx="606" cy="372" r="52" fill="url(#mark)"/>
+    <path d="M380 548 L478 646 L640 470" fill="none" stroke="url(#mark)" stroke-width="74" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="370" y="712" width="290" height="22" rx="11" fill="#0a84ff" fill-opacity="0.18"/>
+  </g>
+</svg>
+  <text x="460" y="215" font-family="-apple-system, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="-5" fill="#1d1d1f">Sport<tspan fill="#0a6cff">LK</tspan> Trainer</text>
+  <text x="466" y="315" font-family="-apple-system, 'SF Pro Text', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="54" font-weight="500" letter-spacing="-1" fill="#6e6e73">Lernkarten &amp; Probeklausuren fürs Sport-Abi</text>
+</svg>
