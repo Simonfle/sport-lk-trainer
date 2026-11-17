@@ -1,0 +1,188 @@
+{
+  "themen": [
+    {
+      "id": "B.L6",
+      "aeste": [
+        { "name": "Gestaltungsbegriff", "unter": ["Prozess und Ergebnis", "Turner vs. Tanzgruppe", "kulturstiftend (Cabrera-Rivas)"] },
+        { "name": "Facetten des Gestaltens", "unter": ["ästhetisches Verhalten", "expressives Hervorbringen", "kompositorisches Ergebnis", "performatives Präsentsein"] },
+        { "name": "Bewegungsdimensionen (Grupe)", "unter": ["ausdrückend-expressiv", "rituell-darstellend", "Stilmittel"] },
+        { "name": "Wirkungsabsichten", "unter": ["normierte Präsentation", "kurzweilige Unterhaltung", "spannendes Ereignis", "provozierende Beteiligung"] },
+        { "name": "Gestaltungsprinzipien", "unter": ["Nachmachen", "Ausgrenzen und Reduzieren", "Rhythmisieren", "Kontrastieren, Verfremden"] },
+        { "name": "Gestaltungsparameter", "unter": ["Raum", "Zeit", "Dynamik", "Gruppe"] },
+        { "name": "Crossoversport", "unter": ["Elemente kombinieren", "neue Bewegungsformen"] }
+      ]
+    },
+    {
+      "id": "B.L7",
+      "aeste": [
+        { "name": "Choreografie", "unter": ["festgelegte Raumschrift", "Wiederholbarkeit", "Rhythmus"] },
+        { "name": "Raumschrift", "unter": ["Mikro-Raumschrift", "Makro-Raumschrift", "Kinesphäre (Laban)"] },
+        { "name": "Improvisation vs. Choreografie", "unter": ["Spontanität vs. Vorbereitung", "Entdecken und Ausführen", "Gedächtnisformen (Bergson)"] },
+        { "name": "Improvisationsformen", "unter": ["strukturiert", "offen", "Wellenmodell", "Emergenz"] },
+        { "name": "Improvisationsgrade", "unter": ["Imitation", "Interpretation", "Verkettung", "geplant / ungeplant"] },
+        { "name": "Choreografischer Prozess", "unter": ["W-Fragen (Hessloehl)", "Variation", "Kombination"] },
+        { "name": "Neun-Punkte-Technik", "unter": ["Laban-Würfel", "Responsivität", "Antizipieren"] },
+        { "name": "Vermittlungsziele", "unter": ["Körperwahrnehmung", "Flow"] }
+      ]
+    },
+    {
+      "id": "B.L8",
+      "aeste": [
+        { "name": "Wagnis und Risiko", "unter": ["Wagnis (Neumann)", "Risiko = W × Schaden", "Abenteuer, Erlebnis"] },
+        { "name": "Handlungsverlauf", "unter": ["Aufsuchen", "Aushalten", "Auflösen"] },
+        { "name": "Pädagogische Ambivalenz", "unter": ["Gelingen / Misslingen", "Sonnen- und Schattenseiten", "Selbstwirksamkeit"] },
+        { "name": "Wagnisvermittlung", "unter": ["Gladiatorenkomponente", "Wagnisniveau steigern", "KAR-Bezug"] },
+        { "name": "Trends", "unter": ["Schildmacher", "indoor → outdoor", "Werbeträger"] },
+        { "name": "Trendsportarten", "unter": ["Gegenbewegung (Lamprecht & Stamm)", "eigener Style", "Beachvolleyball"] },
+        { "name": "Entwicklungsphasen", "unter": ["Invention", "Innovation", "Wachstum, Reife", "Sättigung"] }
+      ]
+    },
+    {
+      "id": "B.L9",
+      "aeste": [
+        { "name": "Motivbegriff", "unter": ["Motiv (Gabler)", "hypothetisches Konstrukt", "Motor-Bild"] },
+        { "name": "Motivraster (Gabler)", "unter": ["Sporttreiben selbst", "Ergebnis", "Mittel zum Zweck", "ichbezogen / sozial"] },
+        { "name": "Big Three", "unter": ["Leistung", "Anschluss", "Macht"] },
+        { "name": "Motivationsprozess", "unter": ["Motivierung vs. Motivation", "Person × Situation", "Hoffnung / Furcht", "Volition"] },
+        { "name": "Emotionen", "unter": ["Affekt, Gefühl, Stimmung", "fünf Komponenten", "Funktionen (Hackfort)"] },
+        { "name": "Angst und Aktivierung", "unter": ["State-Trait (Spielberger)", "Yerkes-Dodson", "IZOF (Hanin)"] },
+        { "name": "Risikosportmotive", "unter": ["Angstlust (thrill)", "Sensation Seeking", "Reversionstheorie (Apter)"] },
+        { "name": "Flow", "unter": ["Csikszentmihalyi", "Anforderung = Fähigkeit", "tätigkeitsorientierte Anreize"] }
+      ]
+    },
+    {
+      "id": "B.L15",
+      "aeste": [
+        { "name": "Beweglichkeit", "unter": ["Dehnfähigkeit", "Gelenkigkeit"] },
+        { "name": "Erscheinungsformen", "unter": ["allgemein / speziell", "aktiv / passiv", "statisch / dynamisch"] },
+        { "name": "Muskeltonus", "unter": ["Grundspannung", "neuronale Steuerung", "Tonusfaktoren"] },
+        { "name": "Dehnreflexe", "unter": ["Muskelspindelreflex", "reziproke Antagonistenhemmung", "autogene Hemmung (Golgi)"] },
+        { "name": "Dehnmethoden", "unter": ["aktiv-dynamisch", "Stretching (statisch)", "KR-Stretching", "AK-Stretching"] },
+        { "name": "Trainingswirkungen", "unter": ["Beweglichkeit erhalten", "keine akute Verletzungsprophylaxe", "kein Muskelkaterschutz", "Titin"] },
+        { "name": "Kraft und Beweglichkeit", "unter": ["Antagonistenkraft", "Dysbalancen kräftigen"] },
+        { "name": "Dehnen in der Praxis", "unter": ["kein Stretching vor Maximalbelastung", "Spielsport: aktiv-dynamisch", "Stretching-Basisprogramm"] }
+      ]
+    },
+    {
+      "id": "B.L16",
+      "aeste": [
+        { "name": "Janda-Tests", "unter": ["Dehnfähigkeit prüfen", "Verkürzungen erkennen"] },
+        { "name": "Beinmuskulatur", "unter": ["Wade (Hocke)", "Kniestrecker (Ferse–Gesäß)", "Ischiocrurale (90°)", "Adduktoren (Abspreizwinkel)"] },
+        { "name": "Hüfte und Rumpf", "unter": ["Hüftlendenmuskel", "Rückenstrecker (Stirn–Knie)"] },
+        { "name": "Bewertung", "unter": ["gut / leicht / stark verkürzt", "Messwerte"] }
+      ]
+    },
+    {
+      "id": "B.L17",
+      "aeste": [
+        { "name": "Bezugsnormen", "unter": ["individuell", "sachbezogen", "sozial"] },
+        { "name": "Leistungsmotiviertes Handeln", "unter": ["objektivierbares Ergebnis", "Gütemaßstab", "Schwierigkeit", "Selbstverursachung"] },
+        { "name": "Risikowahlmodell (Atkinson)", "unter": ["Hoffnung auf Erfolg", "Furcht vor Misserfolg", "Motiv × W × A", "mittelschwere Aufgaben"] },
+        { "name": "Attributionstheorie (Weiner)", "unter": ["Lokalisation", "Stabilität", "Kontrollierbarkeit"] },
+        { "name": "Selbstbewertungsmodell (Heckhausen)", "unter": ["Anspruchsniveau", "Kausalattribution", "Selbstbewertung"] },
+        { "name": "Zielorientierung", "unter": ["Aufgabenorientierung", "Egoorientierung"] },
+        { "name": "Motivationsförderung", "unter": ["realistische Aufgaben", "Reattribution", "individuelle Bezugsnorm"] }
+      ]
+    },
+    {
+      "id": "B.L19",
+      "aeste": [
+        { "name": "Aggressionsbegriff (Gabler)", "unter": ["Schädigungsabsicht", "Normabweichung", "Aggressivität"] },
+        { "name": "Aggressionsformen", "unter": ["explizit / instrumentell", "körperlich, verbal, symbolisch", "Autoaggression", "Assertivität (Abgrenzung)"] },
+        { "name": "Aggressionstheorien", "unter": ["Trieb (Lorenz)", "Frustration (Dollard)", "Lernen am Modell (Bandura)", "Gruppe, Gesellschaft"] },
+        { "name": "Prozessmodell Aggression", "unter": ["Aggressionstendenz", "Hemmungstendenz", "Absichtsattribution"] },
+        { "name": "Fairness", "unter": ["Regeleinhaltung", "Chancengleichheit", "Achtung des Gegners", "Geist der Regeln"] },
+        { "name": "Fairnessformen", "unter": ["formell (Lenk)", "informell", "Pseudofairness"] },
+        { "name": "Aggressionsvermeidung", "unter": ["Sanktionen", "Fairnesserziehung", "Aufgabenorientierung"] }
+      ]
+    },
+    {
+      "id": "B.L20",
+      "aeste": [
+        { "name": "Gesundheitsbegriff", "unter": ["mehrdimensional, dynamisch", "Dimensionen (Franke)", "Gleichgewicht (Hurrelmann)"] },
+        { "name": "WHO-Definition", "unter": ["völliges Wohlbefinden (1946)", "Ottawa-Charta (1986)", "Kritik Idealstatus"] },
+        { "name": "Risikofaktorenmodell", "unter": ["pathogenetisch", "Risikofaktoren", "Schutzfaktoren", "Kritik eindimensional"] },
+        { "name": "Salutogenese (Antonovsky)", "unter": ["Heterostase", "HEDE-Kontinuum", "Flussmetapher", "Widerstandsressourcen"] },
+        { "name": "Kohärenzgefühl", "unter": ["Verstehbarkeit", "Handhabbarkeit", "Bedeutsamkeit"] },
+        { "name": "SAR-Modell (Becker)", "unter": ["Anforderungen", "Ressourcen", "dynamisches Gleichgewicht"] },
+        { "name": "Gesundheitsförderung (Beckers)", "unter": ["biologische Funktionsfähigkeit", "soziokulturelle Leistungsfähigkeit", "Gestaltungsfähigkeit"] }
+      ]
+    },
+    {
+      "id": "B.L21",
+      "aeste": [
+        { "name": "Sport und Gesundheit", "unter": ["nicht pauschal gesund", "Verletzungsrisiko", "Wirkungsmodell (Brehm)"] },
+        { "name": "Physische Ressourcen", "unter": ["Ausdauertraining", "Krafttraining", "Beweglichkeit, Koordination"] },
+        { "name": "Psychosoziale Ressourcen", "unter": ["Selbstkonzept", "Körperkonzept", "Stimmung", "sozialer Rückhalt"] },
+        { "name": "Risikofaktoren senken", "unter": ["Bluthochdruck", "Fettstoffwechsel", "Übergewicht", "Diabetes"] },
+        { "name": "Gesundheitssport", "unter": ["Kernziele (Bös & Brehm)", "Prävention vs. Förderung", "Eignung der Sportart"] },
+        { "name": "Stress", "unter": ["Eustress / Disstress", "Phasen (Selye)", "Sympathikus", "transaktional (Lazarus)"] },
+        { "name": "Entspannungsverfahren", "unter": ["PME (Jacobson)", "autogenes Training", "Sport als Ausgleich"] },
+        { "name": "Wohlbefinden", "unter": ["subjektives Regulativ", "physisch, psychisch, sozial"] }
+      ]
+    },
+    {
+      "id": "B.L22",
+      "aeste": [
+        { "name": "Dopingbegriff", "unter": ["dope", "Porritt", "Hollmann & Strüder", "NADC-Verstöße"] },
+        { "name": "WADA-Verbotsliste", "unter": ["Kriterien K1–K3", "Substanzen S0–S9", "Methoden M1–M3", "Sportarten P1"] },
+        { "name": "Dopingsubstanzen", "unter": ["Anabolika", "EPO", "Stimulanzien", "Betablocker"] },
+        { "name": "Verbotene Methoden", "unter": ["Blutdoping", "Probenmanipulation", "Gendoping"] },
+        { "name": "Argumente gegen Doping", "unter": ["Gesundheit", "Fairness, Chancengleichheit", "Authentizität"] },
+        { "name": "Erklärungsansätze", "unter": ["Homo sociologicus", "Homo oeconomicus", "Moraläquivalente"] }
+      ]
+    },
+    {
+      "id": "B.L23",
+      "aeste": [
+        { "name": "Ernährungssituation", "unter": ["Übergewicht, Adipositas", "ernährungsbedingte Krankheiten", "Körperideal der Werbung"] },
+        { "name": "Nährstoffe", "unter": ["Makronährstoffe", "Vitamine, Mineralstoffe", "essenzielle Nährstoffe", "Nährstoffdichte"] },
+        { "name": "Energiegehalt", "unter": ["Kohlenhydrate 4 kcal/g", "Fett 9 kcal/g", "Protein 4 kcal/g"] },
+        { "name": "Sportlerernährung", "unter": ["DGE-Verteilung", "g pro kg Körpergewicht", "mediterrane Mischkost", "10 DGE-Regeln"] },
+        { "name": "Energieumsatz", "unter": ["Grundumsatz", "Leistungsumsatz", "PAL-Wert"] },
+        { "name": "Körpergewicht", "unter": ["Broca", "BMI", "Taillen-Hüft-Verhältnis", "Körperfettanteil"] },
+        { "name": "Gewichtsreduktion", "unter": ["negative Energiebilanz", "Krafttraining", "Ausdauertraining", "Jo-Jo-Effekt"] }
+      ]
+    }
+  ],
+  "links": [
+    { "von": "B.L8:Wagnis und Risiko", "zu": "B.L9:Risikosportmotive", "label": "Angstlust" },
+    { "von": "B.L9:Big Three", "zu": "B.L17:Risikowahlmodell (Atkinson)", "label": "Hoffnung / Furcht" },
+    { "von": "B.L9:Flow", "zu": "B.L7:Vermittlungsziele", "label": "Flow" },
+    { "von": "B.L6:Gestaltungsparameter", "zu": "B.L7:Raumschrift", "label": "Raum und Zeit" },
+    { "von": "B.L6:Facetten des Gestaltens", "zu": "B.L7:Choreografie", "label": "Komposition" },
+    { "von": "B.L8:Trendsportarten", "zu": "B.L6:Crossoversport", "label": "neue Bewegungsformen" },
+    { "von": "B.L17:Zielorientierung", "zu": "B.L19:Aggressionstheorien", "label": "Egoorientierung" },
+    { "von": "B.L19:Fairness", "zu": "B.L22:Argumente gegen Doping", "label": "Chancengleichheit" },
+    { "von": "B.L19:Aggressionsformen", "zu": "B.L22", "label": "Autoaggression" },
+    { "von": "B.L16:Janda-Tests", "zu": "B.L15:Dehnmethoden", "label": "Verkürzungen dehnen" },
+    { "von": "B.L15:Kraft und Beweglichkeit", "zu": "B.L16:Bewertung", "label": "Dysbalancen" },
+    { "von": "B.L20:Risikofaktorenmodell", "zu": "B.L21:Risikofaktoren senken", "label": "Herz-Kreislauf" },
+    { "von": "B.L20:Kohärenzgefühl", "zu": "B.L21:Stress", "label": "Stressbewältigung" },
+    { "von": "B.L20:SAR-Modell (Becker)", "zu": "B.L21:Psychosoziale Ressourcen", "label": "Ressourcen" },
+    { "von": "B.L20:Gesundheitsbegriff", "zu": "B.L21:Wohlbefinden", "label": "subjektive Gesundheit" },
+    { "von": "B.L23:Gewichtsreduktion", "zu": "B.L21:Physische Ressourcen", "label": "Kraft und Ausdauer" },
+    { "von": "B.L23:Ernährungssituation", "zu": "B.L20:Risikofaktorenmodell", "label": "Fehlernährung" },
+    { "von": "B.L22:Argumente gegen Doping", "zu": "B.L21:Sport und Gesundheit", "label": "Gesundheitsargument" },
+    { "von": "B.L9:Angst und Aktivierung", "zu": "B.L21:Stress", "label": "IZOF" },
+    { "von": "B.L8:Pädagogische Ambivalenz", "zu": "B.L21:Psychosoziale Ressourcen", "label": "Selbstwirksamkeit" },
+    { "von": "B.L9:Motivraster (Gabler)", "zu": "B.L21:Gesundheitssport", "label": "Gesundheitsmotiv" },
+    { "von": "B.L15:Beweglichkeit", "zu": "B.L21:Physische Ressourcen", "label": "Gesundheitsressource" },
+    { "von": "B.L22:Erklärungsansätze", "zu": "Q4.1", "label": "Kommerz-Druck" },
+    { "von": "B.L8:Trends", "zu": "Q4.1", "label": "Trendsport" },
+    { "von": "B.L15:Kraft und Beweglichkeit", "zu": "Q2.2", "label": "Dehnung/Kraft" },
+    { "von": "B.L23:Energiegehalt", "zu": "Q2.1", "label": "Energiespeicher" },
+    { "von": "B.L17:Bezugsnormen", "zu": "Q1.1", "label": "Leistung" },
+    { "von": "B.L15:Dehnreflexe", "zu": "Q3.2", "label": "Reflexe" },
+    { "von": "B.L8:Wagnisvermittlung", "zu": "Q3.2", "label": "KAR-Modell" },
+    { "von": "B.L7:Improvisationsgrade", "zu": "Q3.2", "label": "KAR-Modell" },
+    { "von": "B.L7:Improvisation vs. Choreografie", "zu": "Q1.4", "label": "Individualtaktik" },
+    { "von": "B.L19:Fairness", "zu": "Q1.4", "label": "Wettkampf und Regeln" },
+    { "von": "B.L21:Physische Ressourcen", "zu": "Q2.1", "label": "Ausdauertraining" },
+    { "von": "B.L22:Dopingsubstanzen", "zu": "Q2.1", "label": "Sauerstofftransport" },
+    { "von": "B.L22:Dopingsubstanzen", "zu": "Q2.2", "label": "Muskelaufbau" },
+    { "von": "B.L6:Gestaltungsprinzipien", "zu": "Q3.1", "label": "Nachahmen" },
+    { "von": "B.L15:Dehnen in der Praxis", "zu": "Q2.3", "label": "Schnelligkeit erhalten" },
+    { "von": "B.L6:Gestaltungsparameter", "zu": "Q1.2", "label": "Bewegungsmerkmale" }
+  ]
+}

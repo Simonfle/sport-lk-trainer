@@ -13,12 +13,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#f2f2f7; --text:#1d1d1f; --muted:#6e6e73; --faint:#8e8e93;
+  --bg:#f5f5f7; --text:#1d1d1f; --muted:#6e6e73; --faint:#8e8e93;
   --glass:rgba(255,255,255,.66); --glass-strong:rgba(255,255,255,.82); --glass-border:rgba(255,255,255,.75);
   --line:rgba(60,60,67,.12); --fill:rgba(118,118,128,.10); --fill2:rgba(118,118,128,.16);
   --accent:#007aff; --accent-soft:rgba(0,122,255,.10);
   --good:#34c759; --bad:#ff3b30; --mid:#ff9f0a;
-  --s1:#d1d1d6; --s2:#ff9f0a; --s3:#ffcc00; --s4:#5ac8fa; --s5:#34c759;
+  --s1:#d1d1d6; --s2:#ff9f0a; --s3:#5ac8fa; --s4:#34c759;
   --radius:20px; --shadow:0 1px 2px rgba(0,0,0,.04), 0 10px 30px rgba(0,0,0,.06);
   --blur:saturate(180%) blur(24px);
 }
@@ -26,11 +26,7 @@
 html{-webkit-text-size-adjust:100%}
 body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display","Inter","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   background:var(--bg);color:var(--text);min-height:100vh;-webkit-font-smoothing:antialiased;letter-spacing:-.01em;line-height:1.45;
-  background-image:
-    radial-gradient(900px 600px at 100% -10%, rgba(0,122,255,.13), transparent 60%),
-    radial-gradient(800px 600px at -10% 30%, rgba(52,199,89,.10), transparent 60%),
-    radial-gradient(900px 700px at 60% 110%, rgba(175,82,222,.09), transparent 60%);
-  background-attachment:fixed}
+}
 button{font:inherit;cursor:pointer;border:none;color:inherit;background:none}
 input,textarea{font:inherit}
 .hidden{display:none!important}
@@ -251,7 +247,103 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
 .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:rgba(255,255,255,.9);-webkit-backdrop-filter:var(--blur);backdrop-filter:var(--blur);
   border:1px solid var(--glass-border);box-shadow:var(--shadow);padding:12px 18px;border-radius:14px;z-index:50;font-size:.9rem;max-width:calc(100% - 32px)}
 .toast.err{color:var(--bad)}
+/* --- Ruhigere Grundfläche, klare Hierarchie --- */
+.eyebrow{font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+.page-title{font-size:2.1rem;font-weight:700;letter-spacing:-.035em;line-height:1.1}
+.page-sub{color:var(--muted);margin:6px 0 20px}
+.btn.xl{display:flex;width:100%;max-width:440px;padding:17px 22px;font-size:1.08rem;border-radius:16px;box-shadow:0 6px 18px rgba(0,122,255,.25)}
+.link-btn{color:var(--accent);font-weight:600;padding:10px 2px;font-size:.95rem}
+.link-btn:hover{text-decoration:underline}
+.map-link{display:block;margin-top:10px}
+
+/* Startseite */
+.home{max-width:460px;margin:6vh auto 0;text-align:left}
+.home-title{font-size:clamp(2.1rem,7vw,2.8rem);font-weight:700;letter-spacing:-.04em;line-height:1.08;margin-bottom:28px}
+.home-progress{display:flex;align-items:center;gap:18px;margin-bottom:28px}
+.home-progress small{color:var(--muted)}
+.home-progress b{font-size:1.05rem}
+
+/* iOS-Liste */
+.list{background:var(--glass-strong);-webkit-backdrop-filter:var(--blur);backdrop-filter:var(--blur);border:1px solid var(--glass-border);border-radius:18px;overflow:hidden;margin-top:10px;box-shadow:var(--shadow)}
+.row{display:flex;align-items:center;gap:14px;width:100%;text-align:left;padding:14px 16px;border-bottom:1px solid var(--line);transition:background .15s}
+.row:last-child{border-bottom:none}
+.row:hover{background:var(--fill)}
+.row-code{flex:none;min-width:58px;font-size:.78rem;font-weight:700;color:var(--accent)}
+.row-code.bonus{color:#ff2d55} .row-code.link{color:#30b0c7}
+.row-main{flex:1;min-width:0}
+.row-main b{display:block;font-weight:600;font-size:.98rem;line-height:1.3}
+.row-main small{color:var(--muted);font-size:.8rem}
+.row-main .stagebar{margin-top:7px;height:4px}
+.row-pct{font-weight:700;white-space:nowrap}
+.chev{color:var(--faint);font-size:1.4rem;line-height:1}
+
+/* Stufen-Segmente */
+.seg{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}
+.seg button{background:var(--glass-strong);border:1px solid var(--glass-border);border-radius:14px;padding:12px 8px;text-align:left;box-shadow:var(--shadow)}
+.seg button:disabled{opacity:.45;cursor:default}
+.seg button:not(:disabled):hover{background:#fff}
+.seg i{display:block;width:10px;height:10px;border-radius:50%;margin-bottom:8px}
+.seg b{display:block;font-size:.9rem;font-weight:600}
+.seg small{color:var(--muted);font-size:.76rem}
+details.kap{margin-top:12px}
+details.kap summary{cursor:pointer;color:var(--muted);font-size:.85rem;font-weight:500}
+
+/* Menü-Gruppen */
+.nav-group{display:flex;flex-direction:column;gap:2px}
+.nav-bottom{margin-top:auto;padding-top:12px;border-top:1px solid var(--line)}
+.drawer .logout{margin-top:0}
+
+/* Code-Eingabe */
+.code-text{color:var(--muted);margin-bottom:14px;line-height:1.5}
+.code-text b{color:var(--text)}
+.code-input{font-size:1.5rem!important;letter-spacing:.4em;text-align:center;font-variant-numeric:tabular-nums}
+.code-links{display:flex;justify-content:space-between;margin-top:8px}
+.msg.ok{color:var(--good)}
+
+/* Mindmap */
+.mapview{position:fixed;inset:0;z-index:60;background:#f7f7fa;display:flex;flex-direction:column}
+body.map-open{overflow:hidden}
+.map-bar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 14px;background:rgba(247,247,250,.85);
+  -webkit-backdrop-filter:var(--blur);backdrop-filter:var(--blur);border-bottom:1px solid var(--line)}
+.map-bar b{flex:1;text-align:center;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.map-actions{display:flex;gap:6px}
+#mapSvg{flex:1;width:100%;touch-action:none;cursor:grab;font-family:inherit}
+#mapSvg:active{cursor:grabbing}
+.map-hint{position:absolute;bottom:14px;left:50%;transform:translateX(-50%);background:rgba(255,255,255,.9);border:1px solid var(--line);
+  border-radius:99px;padding:7px 14px;font-size:.78rem;color:var(--muted);pointer-events:none;white-space:nowrap;max-width:calc(100% - 24px);overflow:hidden;text-overflow:ellipsis}
+.mm-node text{paint-order:stroke;stroke:#f7f7fa;stroke-width:4px;stroke-linejoin:round;cursor:pointer}
+.mm-node.inner text{stroke-width:8px}
+.mm-node circle{cursor:pointer}
+.k-root text{font-size:22px;font-weight:700;fill:#fff;stroke:none}
+.mm-root-bg{fill:#1d1d1f}
+.k-bereich text{font-size:17px;font-weight:700}
+.k-thema text{font-size:15px;font-weight:700}
+.k-ast text{font-size:12.5px;font-weight:600}
+.k-unter text{font-size:11px;font-weight:400}
+.mm-link path{fill:none;stroke:#5e5ce6;stroke-opacity:.22;stroke-width:1.3;stroke-dasharray:4 4}
+.mm-link-label{font-size:10.5px;fill:#5e5ce6;font-weight:600;opacity:0;paint-order:stroke;stroke:#f7f7fa;stroke-width:4px}
+.mm-link-label.always{opacity:.85}
+.focus .mm-tree path{stroke-opacity:.12}
+.focus .mm-node{opacity:.22}
+.focus .mm-node.on{opacity:1}
+.focus .mm-link path{stroke-opacity:.06}
+.focus .mm-link.on path{stroke-opacity:.9;stroke-width:2.4;stroke-dasharray:none}
+.focus .mm-link.on .mm-link-label{opacity:1;font-size:12px}
+.focus .mm-link:not(.on) .mm-link-label{opacity:0}
+@media print{
+  @page{size:A3 landscape;margin:8mm}
+  body>*:not(#mapView){display:none!important}
+  .mapview{position:static;background:#fff}
+  .map-bar,.map-hint{display:none!important}
+  #mapSvg{width:100%;height:auto}
+  .mm-node text,.mm-link-label{stroke:#fff}
+  *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+}
+
 @media(max-width:520px){
+  .seg{grid-template-columns:repeat(2,1fr)}
+  .page-title{font-size:1.8rem}
+  .map-actions .btn{padding:7px 10px}
   .auth{padding:26px 20px} .fcard{padding:46px 18px 34px;min-height:300px}
   .fcard .ans{font-size:.97rem;line-height:1.5} .fcard .ans.long{font-size:.9rem}
   .fcard .hint{bottom:10px} main{padding-top:18px} .back-row{margin-bottom:12px}
@@ -270,13 +362,17 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
 <div class="overlay" id="overlay"></div>
 <nav class="drawer" id="drawer">
   <div class="who"><b id="whoName">Nicht angemeldet</b><br><small id="whoSub">Bitte einloggen</small></div>
-  <a data-go="home">Startseite</a>
-  <a data-go="areas">Lernkarten</a>
-  <a data-act="random">Zufällig abfragen</a>
-  <a data-go="exam">Abitur-Probeklausuren</a>
-  <a data-act="reset">Fortschritt zurücksetzen</a>
-  <a id="devLink">Entwickleroptionen</a>
-  <a class="logout" data-act="logout">Abmelden</a>
+  <div class="nav-group">
+    <a data-go="home">Startseite</a>
+    <a data-go="areas">Lernkarten</a>
+    <a data-go="exam">Abitur-Probeklausuren</a>
+    <a data-map="gesamt">Gesamt-Mindmap</a>
+    <a data-act="reset">Fortschritt zurücksetzen</a>
+  </div>
+  <div class="nav-group nav-bottom">
+    <a id="devLink">Entwickleroptionen</a>
+    <a class="logout" data-act="logout">Abmelden</a>
+  </div>
 </nav>
 
 <main>
@@ -285,26 +381,37 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
     <div class="auth">
       <img src="logo.svg" alt="Logo" class="auth-logo">
       <h1>Sport-LK Trainer</h1>
-      <p class="sub">Dein Trainingsplan fürs Sportabitur – melde dich an.<br><small id="modeHint"></small></p>
-      <div class="tabs">
-        <button id="tabLogin" class="active">Einloggen</button>
-        <button id="tabReg">Konto erstellen</button>
+      <p class="sub">Lernkarten und Probeklausuren fürs Sport-Abitur.<br><small id="modeHint"></small></p>
+      <div id="authMain">
+        <div class="tabs">
+          <button id="tabLogin" class="active" type="button">Anmelden</button>
+          <button id="tabReg" type="button">Konto erstellen</button>
+        </div>
+        <form id="authForm" autocomplete="on" novalidate>
+          <div id="regFields" class="hidden">
+            <label for="realname">Name</label>
+            <input type="text" id="realname" autocomplete="name" placeholder="Max Mustermann">
+            <label for="user">Benutzername</label>
+            <input type="text" id="user" autocomplete="username" placeholder="max.m" autocapitalize="off">
+          </div>
+          <label for="email" id="emailLabel">E-Mail-Adresse</label>
+          <input type="text" id="email" inputmode="email" autocomplete="email" autocapitalize="off" placeholder="name@beispiel.de">
+          <label for="pass">Passwort</label>
+          <input type="password" id="pass" autocomplete="current-password">
+          <div id="pass2Wrap" class="hidden">
+            <label for="pass2">Passwort wiederholen</label>
+            <input type="password" id="pass2" autocomplete="new-password">
+          </div>
+          <button class="btn full" id="authSubmit" type="submit">Anmelden</button>
+          <div class="msg" id="authMsg"></div>
+        </form>
       </div>
-      <form id="authForm" autocomplete="on">
-        <div id="nameWrap" class="hidden">
-          <label for="realname">Dein Name</label>
-          <input type="text" id="realname" autocomplete="name" placeholder="z. B. Max Mustermann">
-        </div>
-        <label for="user">Benutzername</label>
-        <input type="text" id="user" autocomplete="username" required>
-        <label for="pass">Passwort</label>
-        <input type="password" id="pass" autocomplete="current-password" required>
-        <div id="pass2Wrap" class="hidden">
-          <label for="pass2">Passwort wiederholen</label>
-          <input type="password" id="pass2" autocomplete="new-password">
-        </div>
-        <button class="btn full" id="authSubmit" type="submit">Einloggen</button>
-        <div class="msg" id="authMsg"></div>
+      <form id="codeForm" class="hidden" novalidate>
+        <p class="code-text">Wir haben dir einen Bestätigungscode an <b id="codeMail"></b> geschickt. Gib ihn hier ein.</p>
+        <input type="text" id="code" inputmode="numeric" autocomplete="one-time-code" maxlength="8" placeholder="Code" class="code-input">
+        <button class="btn full" id="codeSubmit" type="submit">Bestätigen</button>
+        <div class="msg" id="codeMsg"></div>
+        <div class="code-links"><button type="button" class="link-btn" id="codeResend">Code erneut senden</button><button type="button" class="link-btn" id="codeBack">Zurück</button></div>
       </form>
     </div>
   </section>
@@ -315,8 +422,8 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
       <h1>Entwickler</h1>
       <p class="sub">Nur für Entwickler-Konten.</p>
       <form id="devForm">
-        <label for="devUser">Benutzername</label>
-        <input type="text" id="devUser" autocomplete="username" required>
+        <label for="devUser">E-Mail oder Benutzername</label>
+        <input type="text" id="devUser" autocomplete="username" autocapitalize="off" required>
         <label for="devPass">Passwort</label>
         <input type="password" id="devPass" autocomplete="current-password" required>
         <button class="btn full" id="devSubmit" type="submit">Als Entwickler anmelden</button>
@@ -335,7 +442,7 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
       <div class="areas" id="devAreas"></div>
       <h3 class="sec">Alle Konten</h3>
       <div class="table-wrap"><table class="users">
-        <thead><tr><th>Name</th><th>Benutzername</th><th>Fortschritt</th><th>Stufe 5</th><th>Antworten</th><th>Trefferquote</th><th>Registriert</th><th>Zuletzt aktiv</th></tr></thead>
+        <thead><tr><th>Name</th><th>Benutzername</th><th>Fortschritt</th><th>Stufe 4</th><th>Antworten</th><th>Trefferquote</th><th>Registriert</th><th>Zuletzt aktiv</th></tr></thead>
         <tbody id="devUsers"></tbody>
       </table></div>
     </div>
@@ -343,53 +450,42 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
 
   <!-- START -->
   <section id="view-home" class="hidden">
-    <div class="hero">
-      <h2>Hey <em id="helloName"></em>,<br>bereit fürs Abi?</h2>
-      <p>Lerne mit Karteikarten aus deinem Sportbuch. Jede Karte hat 5 Stufen: Bei „Richtig“ steigt sie eine Stufe auf, bei „Falsch“ fällt sie zurück auf Stufe 1. 100 % hast du, wenn alle Karten in Stufe 5 sind.</p>
-      <div class="btn-row">
-        <button class="btn big" data-go="areas">Jetzt Lernkarten lernen</button>
-        <button class="btn ghost big" data-act="random">Zufällig abfragen</button>
-        <button class="btn ghost big" data-go="exam">Abitur-Probeklausuren</button>
+    <div class="home">
+      <p class="eyebrow">Sport-LK · Abitur 2027</p>
+      <h2 class="home-title">Hey <span id="helloName"></span>,<br>bereit fürs Abi?</h2>
+      <div class="home-progress">
+        <div class="ring" id="homeRing"><b id="homePct">0%</b></div>
+        <div><b>gelernt</b><br><small id="homeInfo"></small></div>
       </div>
+      <button class="btn xl" data-go="areas">Jetzt Lernkarten lernen</button>
     </div>
-    <div class="panel overall">
-      <div class="ring" id="homeRing"><b id="homePct">0%</b></div>
-      <div class="info">
-        <b>Dein Lernerfolg (Kernstoff Q1–Q4)</b><br>
-        <small id="homeInfo"></small>
-        <div class="stagebar" id="homeStages"></div>
-        <div class="legend" id="homeLegend"></div>
-      </div>
-    </div>
-    <h3 class="sec">Deine Bereiche</h3>
-    <div class="areas" id="homeAreas"></div>
   </section>
 
-  <!-- BEREICHSAUSWAHL -->
+  <!-- LERNKARTEN: Übersicht -->
   <section id="view-areas" class="hidden">
-    <div class="back-row">
-      <button class="btn ghost small" data-go="home">‹ Startseite</button>
-      <button class="btn small" data-act="random">Zufällig aus allem</button>
-    </div>
-    <div class="hero"><h2>Was möchtest du <em>lernen?</em></h2></div>
-    <div class="areas" id="areaList"></div>
+    <div class="back-row"><button class="btn ghost small" data-go="home">‹ Startseite</button></div>
+    <h2 class="page-title">Lernkarten</h2>
+    <p class="page-sub" id="allInfo"></p>
+    <button class="btn xl" id="learnAll">Alle Karten lernen</button>
+    <h3 class="sec">Nur eine Stufe üben</h3>
+    <div class="seg" id="stageFilter"></div>
+    <h3 class="sec">Nach Bereich</h3>
+    <div class="list" id="areaList"></div>
+    <button class="link-btn map-link" data-map="gesamt">Gesamt-Mindmap anzeigen ›</button>
   </section>
 
   <!-- EIN BEREICH (z. B. Q2) -->
   <section id="view-area" class="hidden">
-    <div class="back-row">
-      <button class="btn ghost small" data-go="areas">‹ Alle Bereiche</button>
-      <span class="chip" id="areaChip"></span>
-    </div>
-    <div class="hero">
-      <h2 id="areaTitle"></h2>
-      <p id="areaInfo" style="margin-bottom:14px"></p>
-      <div class="bar" style="max-width:420px"><div id="areaBar"></div></div>
-      <div class="btn-row" style="margin-top:18px">
-        <button class="btn" id="areaLearn">Ganzen Bereich lernen</button>
-        <button class="btn ghost" id="areaRandom">Zufällig aus diesem Bereich</button>
-      </div>
-    </div>
+    <div class="back-row"><button class="btn ghost small" data-go="areas">‹ Lernkarten</button></div>
+    <p class="eyebrow" id="areaChip"></p>
+    <h2 class="page-title" id="areaTitle"></h2>
+    <p class="page-sub" id="areaInfo"></p>
+    <div class="bar" style="max-width:420px;margin-bottom:20px"><div id="areaBar"></div></div>
+    <button class="btn xl" id="areaLearn">Bereich lernen</button>
+    <button class="link-btn map-link" id="areaMap">Gesamtübersicht anzeigen ›</button>
+    <h3 class="sec">Nur eine Stufe üben</h3>
+    <div class="seg" id="areaStages"></div>
+    <h3 class="sec">Themen</h3>
     <div id="themeList"></div>
   </section>
 
@@ -469,6 +565,12 @@ table.users{width:100%;border-collapse:collapse;font-size:.88rem;min-width:720px
 </main>
 <div class="toast hidden" id="toast"></div>
 
+<div id="mapView" class="mapview hidden">
+  <div class="map-bar"><button class="btn ghost small" id="mapClose">‹ Zurück</button><b id="mapTitle"></b><span class="map-actions"><button class="btn ghost small" id="mapFit">Einpassen</button><button class="btn small" id="mapPdf">Als PDF</button></span></div>
+  <svg id="mapSvg"></svg>
+  <div class="map-hint">Zoomen mit zwei Fingern oder Mausrad · Begriff antippen zeigt seine Verbindungen</div>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
 /* ---------- Online-Speicherung (Supabase) ----------
@@ -480,6 +582,8 @@ const EMAIL_DOMAIN = "users.sportabilernkarten.store"; // interne Login-Adresse,
 </script>
 <script src="karten.js"></script>
 <script src="pruefung.js"></script>
+<script src="mindmap.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script>
 /* ---------- Lernkarten und Bereiche ---------- */
 const KARTEN = window.KARTEN || [];
@@ -519,6 +623,14 @@ const store = {
   set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} },
   del(k){ try{ localStorage.removeItem(k); }catch(e){} }
 };
+// Die Anmeldung gilt nur, solange der Tab offen ist (sessionStorage) – nach dem Schließen muss man sich neu anmelden.
+const tabStore = {
+  get(k){ try{ return sessionStorage.getItem(k); }catch(e){ return null; } },
+  set(k, v){ try{ sessionStorage.setItem(k, v); }catch(e){} },
+  del(k){ try{ sessionStorage.removeItem(k); }catch(e){} }
+};
+try { Object.keys(localStorage).filter(k => k.startsWith("sb-") || k === "slk_session").forEach(k => localStorage.removeItem(k)); } catch(e){}
+
 const USERS = "slk_users", SESSION = "slk_session";
 async function hash(pw, salt){
   const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(salt + ":" + pw));
@@ -526,52 +638,78 @@ async function hash(pw, salt){
 }
 const users = () => store.get(USERS, {});
 let current = null; // angemeldetes Konto: {id, username, display, created, data}
+const MAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
 /* Variante 1: nur im Browser */
 const localBackend = {
   online: false,
   acc(key){ const u = users()[key]; return u ? {id:key, username:key, display:u.display, created:u.created, data:u.data} : null; },
-  async register(key, name, pw){
+  async register(email, key, name, pw){
     const all = users();
     if(all[key]) throw new Error("Diesen Benutzernamen gibt es schon.");
+    if(Object.values(all).some(u => u.email === email)) throw new Error("Für diese E-Mail gibt es schon ein Konto.");
     const salt = crypto.getRandomValues(new Uint32Array(2)).join("-");
-    all[key] = {display:name, salt, hash: await hash(pw, salt), created: Date.now(), data:{v:2, cards:{}}};
-    store.set(USERS, all); store.set(SESSION, key);
+    all[key] = {display:name, email, salt, hash: await hash(pw, salt), created: Date.now(), data:{v:3, cards:{}}};
+    store.set(USERS, all); tabStore.set(SESSION, key);
     return this.acc(key);
   },
-  async login(key, pw){
-    const u = users()[key];
-    if(!u || u.hash !== await hash(pw, u.salt)) throw new Error("Benutzername oder Passwort falsch.");
-    store.set(SESSION, key);
+  async login(idf, pw){
+    const all = users();
+    const key = all[idf] ? idf : Object.keys(all).find(k => all[k].email === idf);
+    const u = key && all[key];
+    if(!u || u.hash !== await hash(pw, u.salt)) throw new Error("E-Mail oder Passwort falsch.");
+    tabStore.set(SESSION, key);
     return this.acc(key);
   },
-  async restore(){ const k = store.get(SESSION, null); return k ? this.acc(k) : null; },
+  async restore(){ const k = tabStore.get(SESSION); return k ? this.acc(k) : null; },
   async save(acc){ const all = users(); if(all[acc.id]){ all[acc.id].data = acc.data; store.set(USERS, all); } },
-  async logout(){ store.del(SESSION); }
+  async logout(){ tabStore.del(SESSION); }
 };
 
 /* Variante 2: online in Supabase */
-const sb = (SUPABASE_URL && SUPABASE_KEY && window.supabase) ? window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY) : null;
+const sb = (SUPABASE_URL && SUPABASE_KEY && window.supabase)
+  ? window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY, {auth:{storage: window.sessionStorage, persistSession: true, autoRefreshToken: true}})
+  : null;
+class NeedCode extends Error { constructor(email, msg){ super(msg || "code"); this.email = email; } }
 const onlineBackend = {
   online: true,
-  email: key => key + "@" + EMAIL_DOMAIN,
-  async register(key, name, pw){
-    const {data, error} = await sb.auth.signUp({email:this.email(key), password:pw, options:{data:{display:name}}});
-    if(error) throw new Error(/registered|exists/i.test(error.message) ? "Diesen Benutzernamen gibt es schon." : "Registrierung fehlgeschlagen: " + error.message);
-    if(!data.session) throw new Error("Konto angelegt, aber in Supabase ist „Confirm email“ noch eingeschaltet.");
+  // Ältere Konten wurden nur mit Benutzernamen angelegt – die melden sich weiter mit Benutzernamen an.
+  loginMail: idf => idf.includes("@") ? idf : idf + "@" + EMAIL_DOMAIN,
+  async register(email, key, name, pw){
+    const frei = await sb.rpc("username_frei", {name: key});
+    if(!frei.error && frei.data === false) throw new Error("Diesen Benutzernamen gibt es schon.");
+    const {data, error} = await sb.auth.signUp({email, password:pw, options:{data:{display:name, username:key}}});
+    if(error) throw new Error(/registered|exists/i.test(error.message) ? "Für diese E-Mail gibt es schon ein Konto." : /rate|limit/i.test(error.message) ? "Gerade wurden zu viele E-Mails verschickt. Bitte versuche es in ein paar Minuten noch einmal." : "Registrierung fehlgeschlagen: " + error.message);
+    if(data.user && Array.isArray(data.user.identities) && data.user.identities.length === 0) throw new Error("Für diese E-Mail gibt es schon ein Konto.");
+    if(!data.session) throw new NeedCode(email);
     return this.load(data.user);
   },
-  async login(key, pw){
-    const {data, error} = await sb.auth.signInWithPassword({email:this.email(key), password:pw});
-    if(error) throw new Error(/invalid/i.test(error.message) ? "Benutzername oder Passwort falsch." : "Anmeldung fehlgeschlagen: " + error.message);
+  async verify(email, code){
+    let r = await sb.auth.verifyOtp({email, token:code, type:"email"});
+    if(r.error) r = await sb.auth.verifyOtp({email, token:code, type:"signup"});
+    if(r.error) throw new Error(/expired/i.test(r.error.message) ? "Der Code ist abgelaufen. Lass dir einen neuen schicken." : "Der Code stimmt nicht.");
+    return this.load(r.data.user);
+  },
+  async resend(email){
+    const {error} = await sb.auth.resend({type:"signup", email});
+    if(error) throw new Error(/rate|limit|seconds/i.test(error.message) ? "Bitte warte kurz, bevor du einen neuen Code anforderst." : "Senden fehlgeschlagen: " + error.message);
+  },
+  async login(idf, pw){
+    const email = this.loginMail(idf);
+    const {data, error} = await sb.auth.signInWithPassword({email, password:pw});
+    if(error){
+      if(/confirm/i.test(error.message)){ try { await this.resend(email); } catch(e){} throw new NeedCode(email, "Bitte bestätige zuerst deine E-Mail-Adresse."); }
+      throw new Error(/invalid/i.test(error.message) ? "E-Mail oder Passwort falsch." : "Anmeldung fehlgeschlagen: " + error.message);
+    }
     return this.load(data.user);
   },
   async load(user){
-    const username = user.email.split("@")[0];
+    const meta = user.user_metadata || {};
+    const username = meta.username || user.email.split("@")[0];
     const {data, error} = await sb.from("profiles").select("display,data,created_at").eq("id", user.id).maybeSingle();
     if(error) throw new Error("Daten konnten nicht geladen werden: " + error.message);
     if(data) return {id:user.id, username, display:data.display, created:Date.parse(data.created_at), data:data.data || {}};
-    const acc = {id:user.id, username, display:(user.user_metadata && user.user_metadata.display) || username, created:Date.now(), data:{v:2, cards:{}}};
+    const acc = {id:user.id, username, display: meta.display || username, created:Date.now(), data:{v:3, cards:{}}};
     await this.save(acc);
     return acc;
   },
@@ -601,23 +739,33 @@ function toast(text, err){
   clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.add("hidden"), 4000);
 }
 
-/* ---------- Fortschritt (Stufen 1–5) ---------- */
+/* ---------- Fortschritt (Stufen 1–4) ---------- */
+const STUFEN = 4;
 const prog = () => current.data.cards;
-const stageOf = (id, p = prog()) => (p[id] && p[id].s) || 1;
+const stageOf = (id, p = prog()) => Math.min(STUFEN, (p[id] && p[id].s) || 1);
 function pctOf(cards, p = prog()){
   if(!cards.length) return 0;
-  return Math.round(cards.reduce((a, c) => a + (stageOf(c.id, p) - 1) / 4, 0) / cards.length * 100);
+  return Math.round(cards.reduce((a, c) => a + (stageOf(c.id, p) - 1) / (STUFEN - 1), 0) / cards.length * 100);
 }
 function stageCounts(cards, p = prog()){
-  const n = [0,0,0,0,0,0];
+  const n = [0,0,0,0,0];
   cards.forEach(c => n[stageOf(c.id, p)]++);
   return n;
 }
 function stageBar(cards){
   const n = stageCounts(cards), total = cards.length || 1;
-  return [1,2,3,4,5].map(s => `<span style="width:${n[s]/total*100}%;background:var(--s${s})" title="Stufe ${s}: ${n[s]}"></span>`).join("");
+  return [1,2,3,4].map(s => `<span style="width:${n[s]/total*100}%;background:var(--s${s})" title="Stufe ${s}: ${n[s]}"></span>`).join("");
 }
-function stageDots(s){ return [1,2,3,4,5].map(i => `<i class="${i <= s ? "on" : ""}"></i>`).join("") + ` Stufe ${s}/5`; }
+function stageDots(s){ return [1,2,3,4].map(i => `<i class="${i <= s ? "on" : ""}"></i>`).join("") + ` Stufe ${s}/4`; }
+// Segment-Knöpfe „Stufe 1 … 4“: startet eine Runde nur mit Karten dieser Stufe
+function stageSeg(el, cards, label){
+  const n = stageCounts(cards);
+  el.innerHTML = [1,2,3,4].map(s => `<button data-s="${s}" ${n[s] ? "" : "disabled"}><i style="background:var(--s${s})"></i><b>Stufe ${s}</b><small>${n[s]} Karten</small></button>`).join("");
+  el.querySelectorAll("[data-s]").forEach(b => b.onclick = () => {
+    const s = +b.dataset.s;
+    startSession(cards.filter(c => stageOf(c.id) === s), `${label} · Stufe ${s}`, "random");
+  });
+}
 
 /* ---------- Ansichten ---------- */
 const VIEWS = ["auth","home","areas","area","cards","dev","exam","task"];
@@ -625,6 +773,7 @@ function show(view){
   if(!current && view !== "auth" && view !== "dev") view = "auth";
   if(view !== "cards" && sess) { flushSave(); }
   if(view !== "task") leaveTask();
+  closeMap();
   VIEWS.forEach(v => $("view-"+v).classList.toggle("hidden", v !== view));
   if(view === "home") renderHome();
   if(view === "areas") renderAreas();
@@ -633,119 +782,149 @@ function show(view){
   closeMenu(); window.scrollTo(0,0);
 }
 
-function areaTile(b){
-  const cards = cardsOfArea(b);
-  if(!cards.length) return "";
-  const pct = pctOf(cards);
-  return `<button class="area ${b.cls || ""}" data-area="${b.id}">
-    <span class="pct">${pct}%</span><span class="code">${esc(b.id === "VK" ? "VERKNÜPFUNG" : b.id)}</span>
-    <h4>${esc(b.name)}</h4><small>${cards.length} Karten · ${stageCounts(cards)[5]} in Stufe 5</small>
-    <div class="stagebar">${stageBar(cards)}</div></button>`;
-}
-function bindAreaTiles(root){
-  root.querySelectorAll("[data-area]").forEach(el => el.onclick = () => { openArea = BEREICHE.find(b => b.id === el.dataset.area); show("area"); });
-}
-
+const areaLabel = b => b.id === "VK" ? "Verknüpfungen" : b.bonus ? "Bonus" : b.id;
 function renderHome(){
   $("helloName").textContent = current.display;
-  const pct = pctOf(KERN);
+  const pct = pctOf(KARTEN);
   $("homeRing").style.setProperty("--p", pct); $("homePct").textContent = pct + "%";
-  const n = stageCounts(KERN);
-  const seen = KERN.filter(c => prog()[c.id]).length;
-  $("homeInfo").textContent = KERN.length ? `${seen} von ${KERN.length} Karten schon geübt · ${n[5]} in Stufe 5` : "Noch keine Lernkarten vorhanden.";
-  $("homeStages").innerHTML = stageBar(KERN);
-  $("homeLegend").innerHTML = [1,2,3,4,5].map(s => `<span><i style="background:var(--s${s})"></i>Stufe ${s}: ${n[s]}</span>`).join("");
-  $("homeAreas").innerHTML = BEREICHE.map(areaTile).join("");
-  bindAreaTiles($("homeAreas"));
+  const n = stageCounts(KARTEN);
+  $("homeInfo").textContent = `${n[4]} von ${KARTEN.length} Karten in Stufe 4`;
 }
 function renderAreas(){
-  $("areaList").innerHTML = BEREICHE.map(areaTile).join("");
-  bindAreaTiles($("areaList"));
+  const pct = pctOf(KARTEN);
+  $("allInfo").textContent = `${KARTEN.length} Karten · ${pct} % gelernt`;
+  $("learnAll").textContent = `Alle ${KARTEN.length} Karten lernen`;
+  $("learnAll").onclick = () => startSession(KARTEN, "Alle Karten", "random");
+  stageSeg($("stageFilter"), KARTEN, "Alle");
+  $("areaList").innerHTML = BEREICHE.map(b => {
+    const cards = cardsOfArea(b);
+    if(!cards.length) return "";
+    return `<button class="row" data-area="${b.id}">
+      <span class="row-code ${b.cls || ""}">${esc(areaLabel(b))}</span>
+      <span class="row-main"><b>${esc(b.name)}</b><small>${cards.length} Karten</small><span class="stagebar">${stageBar(cards)}</span></span>
+      <span class="row-pct">${pctOf(cards)} %</span><span class="chev">›</span></button>`;
+  }).join("");
+  $("areaList").querySelectorAll("[data-area]").forEach(el => el.onclick = () => { openArea = BEREICHE.find(b => b.id === el.dataset.area); show("area"); });
 }
 
 let openArea = null;
 function renderArea(){
   const b = openArea || BEREICHE[0], cards = cardsOfArea(b), pct = pctOf(cards);
-  $("areaChip").textContent = b.id === "VK" ? "Verknüpfungen" : b.id;
+  $("areaChip").textContent = areaLabel(b);
   $("areaTitle").textContent = b.name;
-  $("areaInfo").textContent = `${pct}% Lernerfolg · ${cards.length} Karten · ${stageCounts(cards)[5]} in Stufe 5`;
+  $("areaInfo").textContent = `${cards.length} Karten · ${pct} % gelernt`;
   $("areaBar").style.width = pct + "%";
-  $("areaLearn").onclick = () => startSession(cards, b.id === "VK" ? "Verknüpfungen" : b.id + " komplett", "ordered");
-  $("areaRandom").onclick = () => startSession(cards, "Zufällig · " + (b.id === "VK" ? "Verknüpfungen" : b.id), "random");
+  $("areaLearn").textContent = `${areaLabel(b)} lernen`;
+  $("areaLearn").onclick = () => startSession(cards, areaLabel(b), "random");
+  $("areaMap").onclick = () => openMap("bereich:" + b.id);
+  stageSeg($("areaStages"), cards, areaLabel(b));
   $("themeList").innerHTML = b.themen.map(t => {
     const tc = cardsOfTheme(t.id);
     if(!tc.length) return "";
     const kap = [...new Set(tc.map(c => c.kapitel))];
     return `<div class="theme">
       <div class="theme-head"><div><span class="code">${esc(b.bonus || b.id === "VK" ? "" : t.id)}</span><h4>${esc(t.name)}</h4>
-        <small>${tc.length} Karten · ${stageCounts(tc)[5]} in Stufe 5</small></div><span class="pct">${pctOf(tc)}%</span></div>
+        <small>${tc.length} Karten · ${stageCounts(tc)[4]} in Stufe 4</small></div><span class="pct">${pctOf(tc)} %</span></div>
       <div class="stagebar">${stageBar(tc)}</div>
-      ${kap.length > 1 ? `<div class="chapters">${kap.map(k => { const kc = tc.filter(c => c.kapitel === k);
-        return `<button data-theme="${esc(t.id)}" data-kap="${esc(k)}">${esc(k)}<b>${pctOf(kc)}%</b></button>`; }).join("")}</div>` : ""}
       <div class="btn-row"><button class="btn small" data-learn="${esc(t.id)}">Thema lernen</button>
-        <button class="btn ghost small" data-rand="${esc(t.id)}">Zufällig</button></div></div>`;
+        <button class="btn ghost small" data-tmap="${esc(t.id)}">Mindmap</button></div>
+      ${kap.length > 1 ? `<details class="kap"><summary>Einzelne Kapitel (${kap.length})</summary><div class="chapters">${kap.map(k => { const kc = tc.filter(c => c.kapitel === k);
+        return `<button data-theme="${esc(t.id)}" data-kap="${esc(k)}">${esc(k)}<b>${pctOf(kc)} %</b></button>`; }).join("")}</div></details>` : ""}
+      </div>`;
   }).join("");
   $("themeList").querySelectorAll("[data-learn]").forEach(el => el.onclick = () =>
     startSession(cardsOfTheme(el.dataset.learn), THEMA[el.dataset.learn].name, "ordered"));
-  $("themeList").querySelectorAll("[data-rand]").forEach(el => el.onclick = () =>
-    startSession(cardsOfTheme(el.dataset.rand), "Zufällig · " + THEMA[el.dataset.rand].name, "random"));
+  $("themeList").querySelectorAll("[data-tmap]").forEach(el => el.onclick = () => openMap("thema:" + el.dataset.tmap));
   $("themeList").querySelectorAll("[data-kap]").forEach(el => el.onclick = () =>
     startSession(cardsOfTheme(el.dataset.theme).filter(c => c.kapitel === el.dataset.kap), el.dataset.kap, "ordered"));
 }
 
-/* ---------- Login / Registrierung ---------- */
-let mode = "login";
+/* ---------- Anmelden / Registrieren ---------- */
+let mode = "login", pendingMail = null;
 function setMode(m){
   mode = m;
   $("tabLogin").classList.toggle("active", m==="login");
   $("tabReg").classList.toggle("active", m==="reg");
   $("pass2Wrap").classList.toggle("hidden", m!=="reg");
-  $("nameWrap").classList.toggle("hidden", m!=="reg");
-  $("authSubmit").textContent = m==="login" ? "Einloggen" : "Konto erstellen";
+  $("regFields").classList.toggle("hidden", m!=="reg");
+  $("emailLabel").textContent = m === "reg" ? "E-Mail-Adresse" : "E-Mail-Adresse (ältere Konten: Benutzername)";
+  $("authSubmit").textContent = m==="login" ? "Anmelden" : "Konto erstellen";
   $("pass").autocomplete = m==="login" ? "current-password" : "new-password";
   $("authMsg").textContent = "";
 }
 $("tabLogin").onclick = () => setMode("login");
 $("tabReg").onclick = () => setMode("reg");
+function showCode(email, hinweis){
+  pendingMail = email;
+  $("authMain").classList.add("hidden"); $("codeForm").classList.remove("hidden");
+  $("codeMail").textContent = email; $("code").value = "";
+  $("codeMsg").className = "msg"; $("codeMsg").textContent = hinweis || "";
+  setTimeout(() => $("code").focus(), 50);
+}
+function hideCode(){ pendingMail = null; $("codeForm").classList.add("hidden"); $("authMain").classList.remove("hidden"); }
 
 $("authForm").onsubmit = async e => {
   e.preventDefault();
-  const name = $("user").value.trim(), pw = $("pass").value, msg = $("authMsg"), btn = $("authSubmit");
+  const msg = $("authMsg"), btn = $("authSubmit"), pw = $("pass").value;
+  const email = $("email").value.trim().toLowerCase();
   msg.textContent = "";
-  const key = name.toLowerCase();
-  if(!/^[a-z0-9_.-]{3,30}$/.test(key)) return msg.textContent = "Benutzername: 3–30 Zeichen, nur Buchstaben (ohne Umlaute), Zahlen, Punkt, - und _.";
-  const realname = $("realname").value.trim().replace(/\s+/g, " ");
+  let key = "", realname = "";
   if(mode === "reg"){
+    realname = $("realname").value.trim().replace(/\s+/g, " ");
+    key = $("user").value.trim().toLowerCase();
     if(realname.length < 2 || realname.length > 40) return msg.textContent = "Bitte gib deinen Namen ein (2–40 Zeichen).";
+    if(!/^[a-z0-9_.-]{3,30}$/.test(key)) return msg.textContent = "Benutzername: 3–30 Zeichen, nur Buchstaben ohne Umlaute, Zahlen, Punkt, - und _.";
+    if(!MAIL_RE.test(email)) return msg.textContent = "Bitte gib eine gültige E-Mail-Adresse ein.";
     if(pw.length < 6) return msg.textContent = "Passwort: mindestens 6 Zeichen.";
     if(pw !== $("pass2").value) return msg.textContent = "Die Passwörter stimmen nicht überein.";
-  }
+  } else if(!email || !pw) return msg.textContent = "Bitte E-Mail und Passwort eingeben.";
   const label = btn.textContent;
   btn.disabled = true; btn.textContent = "Bitte warten …";
   try {
-    const acc = mode === "reg" ? await backend.register(key, realname, pw) : await backend.login(key, pw);
+    const acc = mode === "reg" ? await backend.register(email, key, realname, pw) : await backend.login(email, pw);
     login(acc);
     $("authForm").reset();
   } catch(err){
-    msg.textContent = err.message || "Etwas ist schiefgelaufen.";
+    if(err instanceof NeedCode) showCode(err.email, err.message !== "code" ? err.message : "");
+    else msg.textContent = err.message || "Etwas ist schiefgelaufen.";
   } finally {
     btn.disabled = false; btn.textContent = label;
   }
 };
+$("codeForm").onsubmit = async e => {
+  e.preventDefault();
+  const code = $("code").value.replace(/\s/g, ""), msg = $("codeMsg"), btn = $("codeSubmit");
+  msg.className = "msg";
+  if(!/^\d{6,8}$/.test(code)) return msg.textContent = "Bitte gib den Code aus der E-Mail ein.";
+  btn.disabled = true;
+  try { const acc = await backend.verify(pendingMail, code); hideCode(); $("authForm").reset(); login(acc); }
+  catch(err){ msg.textContent = err.message; }
+  finally { btn.disabled = false; }
+};
+$("codeResend").onclick = async () => {
+  const msg = $("codeMsg");
+  try { await backend.resend(pendingMail); msg.className = "msg ok"; msg.textContent = "Neuer Code ist unterwegs."; }
+  catch(err){ msg.className = "msg"; msg.textContent = err.message; }
+};
+$("codeBack").onclick = hideCode;
 
 function setUser(acc){
-  if(!acc.data || acc.data.v !== 2 || !acc.data.cards) acc.data = {v:2, cards:{}}; // altes Format (Beispielkarten) ersetzen
+  const d = acc.data || {};
+  if(d.v === 2 && d.cards){ // Umstellung von 5 auf 4 Stufen
+    Object.values(d.cards).forEach(e => { if(e.s > 4) e.s = 4; });
+    d.v = 3;
+  } else if(d.v !== 3 || !d.cards){ acc.data = {v:3, cards:{}, exam: d.exam || {}}; }
   current = acc;
   $("whoName").textContent = acc.display;
-  $("whoSub").textContent = (backend.online ? "Online gespeichert" : "Nur auf diesem Gerät") + " · seit " + new Date(acc.created).toLocaleDateString("de-DE");
+  $("whoSub").textContent = "@" + acc.username + " · " + (backend.online ? "online gespeichert" : "nur auf diesem Gerät");
 }
 function login(acc){ setUser(acc); show("home"); }
 async function logout(){
   flushSave();
   try { await backend.logout(); } catch(e){}
   current = null; sess = null;
-  $("whoName").textContent = "Nicht angemeldet"; $("whoSub").textContent = "Bitte einloggen";
-  setMode("login"); show("auth");
+  $("whoName").textContent = "Nicht angemeldet"; $("whoSub").textContent = "Bitte anmelden";
+  hideCode(); setMode("login"); show("auth");
 }
 
 /* ---------- Lernrunde ---------- */
@@ -765,7 +944,7 @@ function startSession(pool, label, kind){
 
 /* Smarte Auswahl: niedrige Stufen kommen öfter dran, gerade gesehene Karten seltener.
    „ordered“ (Thema lernen) geht zuerst die noch nicht geübten Karten in Buchreihenfolge durch. */
-const GEWICHT = {1:16, 2:8, 3:4, 4:2, 5:0.6};
+const GEWICHT = {1:16, 2:6, 3:2, 4:0.6};
 function pickCard(){
   const p = prog(), now = Date.now();
   let cand = sess.pool.filter(c => !sess.recent.includes(c.id));
@@ -836,7 +1015,7 @@ function grade(kind){
   const e = p[c.id] || {s:1, n:0, r:0, p:0, f:0, t:0};
   const vorher = e.s;
   e.n++; e.t = Date.now();
-  if(kind === "richtig"){ e.s = Math.min(5, e.s + 1); e.r++; }
+  if(kind === "richtig"){ e.s = Math.min(STUFEN, e.s + 1); e.r++; }
   else if(kind === "teil"){ e.p++; }
   else { e.s = 1; e.f++; }
   p[c.id] = e;
@@ -1133,6 +1312,152 @@ function finishTask(){
   r.scrollIntoView({behavior:"smooth", block:"start"});
 }
 
+/* ---------- Mindmaps (zoombar) ---------- */
+const MM = window.MINDMAP || {themen:[], links:[]};
+const MM_T = {}; MM.themen.forEach(t => MM_T[t.id] = t);
+const AREA_COLOR = {Q1:"#007aff", Q2:"#ff9500", Q3:"#34c759", Q4:"#af52de", VK:"#30b0c7", BONUS:"#ff2d55"};
+const colorOf = id => { const t = THEMA[id]; return t ? (AREA_COLOR[t.bereich.id] || "#8e8e93") : "#8e8e93"; };
+let mapState = null;
+
+function themeNode(id, tiefe){
+  const t = MM_T[id], c = colorOf(id), name = THEMA[id] ? THEMA[id].name : id;
+  const aeste = t ? t.aeste : [];
+  return {name, key:id, kind:"thema", color:c,
+    children: tiefe === "keine" ? [] : aeste.map(a => ({name:a.name, key:id + ":" + a.name, kind:"ast", color:c,
+      children: tiefe === "aeste" ? [] : a.unter.map(u => ({name:u, key:id + ":" + a.name + ":" + u, kind:"unter", color:c}))}))};
+}
+function areaNode(b, tiefe){
+  return {name: b.bonus ? "Bonus" : b.id + " · " + b.name, key:"area:" + b.id, kind:"bereich", color: AREA_COLOR[b.id] || "#8e8e93",
+    children: b.themen.filter(t => MM_T[t.id]).map(t => themeNode(t.id, tiefe))};
+}
+function buildMap(scope){
+  const [type, id] = scope.split(":");
+  const core = BEREICHE.filter(b => !b.bonus && b.id !== "VK");
+  if(type === "gesamt") return {title:"Gesamt-Mindmap", root:{name:"Sport-LK Abitur", key:"root", kind:"root", color:"#1d1d1f", children: core.map(b => areaNode(b, "voll"))}};
+  if(type === "bereich"){
+    const b = BEREICHE.find(x => x.id === id);
+    if(b.id === "VK") return {title:"Verknüpfungen – das große Ganze", alleLabels:true,
+      root:{name:"Das große Ganze", key:"root", kind:"root", color:"#1d1d1f", children: core.map(x => areaNode(x, "aeste"))}};
+    return {title: b.bonus ? "Bonus – weitere Themen" : b.id + " · " + b.name, extern:!!b.bonus, root: Object.assign(areaNode(b, "voll"), {kind:"root"})};
+  }
+  return {title: THEMA[id] ? THEMA[id].name : id, extern:true, root: Object.assign(themeNode(id, "voll"), {kind:"root"})};
+}
+
+function openMap(scope){
+  if(!window.d3) return toast("Die Mindmap konnte nicht geladen werden. Bitte Internetverbindung prüfen.", true);
+  if(!MM.themen.length) return toast("Die Mindmaps sind noch nicht da.", true);
+  closeMenu();
+  const m = buildMap(scope);
+  // Knoten-Schlüssel sammeln, Querverbindungen zuordnen
+  const keys = new Set();
+  (function walk(n){ keys.add(n.key); (n.children || []).forEach(walk); })(m.root);
+  const resolve = k => keys.has(k) ? k : keys.has(k.split(":")[0]) ? k.split(":")[0] : null;
+  const links = [], stubs = new Map();
+  MM.links.forEach(l => {
+    let a = resolve(l.von), b = resolve(l.zu);
+    if(m.extern && (!a !== !b)){ // eine Seite liegt außerhalb → als „Verbindung nach außen“ zeigen
+      const fremd = (a ? l.zu : l.von).split(":")[0];
+      const sk = "ext:" + fremd;
+      if(!stubs.has(sk)) stubs.set(sk, {name: (THEMA[fremd] ? (THEMA[fremd].bereich.bonus ? "" : fremd + " ") + THEMA[fremd].name : fremd), key:sk, kind:"ast", color: colorOf(fremd)});
+      if(a) b = sk; else a = sk;
+    }
+    if(a && b && a !== b) links.push({a, b, label:l.label});
+  });
+  if(stubs.size) m.root.children.push({name:"Verbindungen zu anderen Themen", key:"ext", kind:"thema", color:"#8e8e93", children:[...stubs.values()]});
+
+  $("mapTitle").textContent = m.title;
+  $("mapView").classList.remove("hidden");
+  document.body.classList.add("map-open");
+  drawMap(m, links);
+}
+function closeMap(){
+  if($("mapView") && !$("mapView").classList.contains("hidden")){ $("mapView").classList.add("hidden"); document.body.classList.remove("map-open"); }
+}
+
+function drawMap(m, links){
+  const svg = d3.select("#mapSvg"); svg.selectAll("*").remove();
+  const root = d3.hierarchy(m.root);
+  const leaves = root.leaves().length;
+  const R = Math.max(220, leaves * 17 / (2 * Math.PI)) + root.height * 40;
+  d3.tree().size([2 * Math.PI, R]).separation((a, b) => (a.parent === b.parent ? 1 : 1.6) / Math.max(1, a.depth))(root);
+  // innere Ebenen bekommen mehr Platz als die äußeren
+  const STUFE = {1:[0,1], 2:[0,.55,1], 3:[0,.36,.7,1], 4:[0,.24,.5,.76,1]}[root.height] || null;
+  if(STUFE) root.each(d => d.y = R * STUFE[d.depth]);
+  const pt = d => [d.y * Math.cos(d.x - Math.PI / 2), d.y * Math.sin(d.x - Math.PI / 2)];
+  const byKey = new Map(); root.each(d => byKey.set(d.data.key, d));
+
+  const g = svg.append("g");
+  // Baum-Linien
+  g.append("g").attr("class", "mm-tree").selectAll("path").data(root.links()).join("path")
+    .attr("d", d3.linkRadial().angle(d => d.x).radius(d => d.y))
+    .attr("stroke", d => d.target.data.color).attr("stroke-opacity", d => d.target.depth > 2 ? .35 : .55)
+    .attr("stroke-width", d => Math.max(1, 3.2 - d.target.depth * .6)).attr("fill", "none");
+  // Querverbindungen
+  const xl = g.append("g").attr("class", "mm-links").selectAll("g").data(links.filter(l => byKey.has(l.a) && byKey.has(l.b))).join("g").attr("class", "mm-link");
+  xl.append("path").attr("d", l => {
+    const [x1, y1] = pt(byKey.get(l.a)), [x2, y2] = pt(byKey.get(l.b));
+    return `M${x1},${y1} Q${(x1 + x2) * .22},${(y1 + y2) * .22} ${x2},${y2}`;
+  });
+  xl.append("text").attr("class", "mm-link-label" + (m.alleLabels ? " always" : "")).attr("x", l => {
+    const [x1] = pt(byKey.get(l.a)), [x2] = pt(byKey.get(l.b)); return (x1 + x2) * .36;
+  }).attr("y", l => { const [, y1] = pt(byKey.get(l.a)), [, y2] = pt(byKey.get(l.b)); return (y1 + y2) * .36; })
+    .attr("text-anchor", "middle").text(l => l.label);
+  // Knoten
+  const node = g.append("g").selectAll("g").data(root.descendants()).join("g")
+    .attr("class", d => "mm-node k-" + d.data.kind)
+    .attr("transform", d => d.depth ? `rotate(${d.x * 180 / Math.PI - 90}) translate(${d.y},0)` : "");
+  node.append("circle").attr("r", d => ({root:0, bereich:7, thema:6, ast:4, unter:2.6})[d.data.kind] || 3).attr("fill", d => d.data.color);
+  // Blätter: radial nach außen; Oberbegriffe: waagerecht über dem Punkt
+  const innen = d => d.depth && d.children;
+  node.classed("inner", innen);
+  node.append("text")
+    .attr("dy", d => innen(d) ? "-0.75em" : "0.32em")
+    .attr("x", d => !d.depth || innen(d) ? 0 : (d.x < Math.PI ? 9 : -9))
+    .attr("text-anchor", d => !d.depth || innen(d) ? "middle" : (d.x < Math.PI ? "start" : "end"))
+    .attr("transform", d => innen(d) ? `rotate(${90 - d.x * 180 / Math.PI})` : d.depth && d.x >= Math.PI ? "rotate(180)" : null)
+    .attr("fill", d => d.data.kind === "unter" ? "#3a3a3c" : d.data.kind === "ast" ? "#1d1d1f" : d.data.color === "#1d1d1f" ? "#1d1d1f" : d.data.color)
+    .text(d => d.data.name);
+  node.filter(d => d.data.kind === "root").insert("rect", "text").attr("class", "mm-root-bg");
+  node.filter(d => d.data.kind === "root").each(function(){
+    const t = this.querySelector("text").getBBox();
+    d3.select(this).select("rect").attr("x", t.x - 16).attr("y", t.y - 10).attr("width", t.width + 32).attr("height", t.height + 20).attr("rx", 14);
+  });
+
+  // Antippen: Verbindungen eines Begriffs hervorheben
+  const verbunden = key => l => l.a === key || l.b === key || l.a.startsWith(key + ":") || l.b.startsWith(key + ":");
+  node.on("click", (ev, d) => {
+    ev.stopPropagation();
+    const k = d.data.key, f = verbunden(k);
+    const nah = new Set([k]); links.filter(f).forEach(l => { nah.add(l.a); nah.add(l.b); });
+    g.classed("focus", true);
+    xl.classed("on", f);
+    node.classed("on", n => nah.has(n.data.key) || (n.ancestors().some(a => a.data.key === k)));
+  });
+  svg.on("click", () => { g.classed("focus", false); xl.classed("on", false); node.classed("on", false); });
+
+  const zoom = d3.zoom().scaleExtent([0.15, 8]).on("zoom", e => g.attr("transform", e.transform));
+  svg.call(zoom).on("dblclick.zoom", null);
+  const fit = () => {
+    const b = g.node().getBBox(), w = svg.node().clientWidth, h = svg.node().clientHeight;
+    const s = Math.min(w / (b.width + 40), h / (b.height + 40));
+    svg.call(zoom.transform, d3.zoomIdentity.translate(w / 2 - (b.x + b.width / 2) * s, h / 2 - (b.y + b.height / 2) * s).scale(s));
+  };
+  fit();
+  mapState = {svg, g, zoom, fit};
+}
+$("mapClose").onclick = closeMap;
+$("mapFit").onclick = () => mapState && mapState.fit();
+$("mapPdf").onclick = () => {
+  if(!mapState) return;
+  const {svg, g} = mapState, b = g.node().getBBox(), t = g.attr("transform");
+  g.attr("transform", null);
+  svg.attr("viewBox", `${b.x - 20} ${b.y - 20} ${b.width + 40} ${b.height + 40}`).classed("printing", true);
+  const restore = () => { svg.attr("viewBox", null).classed("printing", false); g.attr("transform", t); window.removeEventListener("afterprint", restore); };
+  window.addEventListener("afterprint", restore);
+  setTimeout(() => window.print(), 50);
+};
+document.querySelectorAll("[data-map]").forEach(el => el.addEventListener("click", () => { if(current) openMap(el.dataset.map); }));
+
 /* ---------- Menü ---------- */
 function openMenu(){ $("drawer").classList.add("open"); $("overlay").classList.add("open"); }
 function closeMenu(){ $("drawer").classList.remove("open"); $("overlay").classList.remove("open"); }
@@ -1144,9 +1469,8 @@ document.querySelectorAll("[data-act]").forEach(el => el.addEventListener("click
   if(!current) return closeMenu();
   const a = el.dataset.act;
   if(a === "logout") logout();
-  if(a === "random"){ back = "home"; startSession(KERN, "Zufällig aus Q1–Q4", "random"); }
   if(a === "reset" && confirm("Deinen gesamten Lernfortschritt löschen? Alle Karten gehen zurück auf Stufe 1.")){
-    current.data = {v:2, cards:{}, exam: current.data.exam || {}}; flushSave(); backend.save(current); show("home");
+    current.data = {v:3, cards:{}, exam: current.data.exam || {}}; flushSave(); backend.save(current); show("home");
   }
 }));
 
@@ -1190,9 +1514,9 @@ function renderDashboard(rows){
   const now = Date.now(), DAY = 864e5;
   const sum = (arr, f) => arr.reduce((a, x) => a + f(x), 0);
   const people = rows.map(r => {
-    const p = (r.data && r.data.v === 2 && r.data.cards) || {};
+    const p = (r.data && r.data.cards) || {};
     const es = Object.values(p);
-    return {...r, p, pct: pctOf(KERN, p), top: stageCounts(KERN, p)[5],
+    return {...r, p, pct: pctOf(KERN, p), top: stageCounts(KERN, p)[4],
             seen: sum(es, e => e.n || 0), right: sum(es, e => e.r || 0),
             last: es.reduce((a, e) => Math.max(a, e.t || 0), 0), created: Date.parse(r.created_at)};
   });
@@ -1228,7 +1552,7 @@ function renderDashboard(rows){
 
   const facts = [];
   if(newest) facts.push(`Neuestes Konto: <b>${esc(newest.display)}</b> (${fmtDate(newest.created)})`);
-  if(best && best.pct) facts.push(`Am weitesten: <b>${esc(best.display)}</b> mit ${best.pct}% Lernerfolg (${best.top} Karten in Stufe 5)`);
+  if(best && best.pct) facts.push(`Am weitesten: <b>${esc(best.display)}</b> mit ${best.pct}% Lernerfolg (${best.top} Karten in Stufe 4)`);
   if(busiest && busiest.seen) facts.push(`Fleißigste Person: <b>${esc(busiest.display)}</b> mit ${busiest.seen} beantworteten Karten`);
   if(most) facts.push(`Am häufigsten gelernt: <b>${esc(most.c.q)}</b> (${most.seen}×)`);
   if(hardest) facts.push(`Schwierigste Karte: <b>${esc(hardest.c.q)}</b> – nur ${Math.round(hardest.rate * 100)}% richtig`);
