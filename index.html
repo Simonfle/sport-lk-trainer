@@ -244,6 +244,11 @@ details.kap summary{cursor:pointer;color:var(--accent-text);font-size:15px;min-h
 .done p{color:var(--muted);margin-bottom:20px}
 .done .stats{max-width:520px;margin:0 auto 24px}
 .done .btn-row{justify-content:center}
+.done-hard{max-width:560px;margin:0 auto 24px;text-align:left}
+.diff{flex:none;font-size:13px;font-weight:600;padding:3px 9px;border-radius:99px}
+.diff.d3{background:rgba(255,59,48,.14);color:var(--bad)} .diff.d2{background:rgba(255,159,10,.16);color:#c26a00} .diff.d1{background:var(--fill);color:var(--muted)}
+@media (prefers-color-scheme: dark){ .diff.d2{color:var(--mid)} }
+.row-main b.q2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
 /* ---------- Probeklausuren ---------- */
 .exam-list{display:grid;gap:8px;margin-top:8px}
@@ -499,6 +504,8 @@ body.map-open{overflow:hidden}
     <h2 class="page-title">Lernkarten</h2>
     <p class="page-sub" id="allInfo"></p>
     <button class="btn xl" id="learnAll">Alle Karten lernen</button>
+    <h3 class="sec">Gezielt üben</h3>
+    <div class="list"><button class="row" data-go="hard"><span class="row-main"><b>Schwierigste Karten</b><small id="hardCount"></small></span><span class="chev">›</span></button></div>
     <h3 class="sec">Nur eine Stufe üben</h3>
     <div class="seg" id="stageFilter"></div>
     <h3 class="sec">Nach Bereich</h3>
@@ -585,11 +592,22 @@ body.map-open{overflow:hidden}
       <h2>Runde geschafft</h2>
       <p id="doneText"></p>
       <div class="stats" id="doneStats"></div>
+      <div id="doneHard" class="done-hard"></div>
       <div class="btn-row">
-        <button class="btn" id="againBtn">Weiterlernen</button>
+        <button class="btn" id="againBtn">Nächste Runde</button>
         <button class="btn ghost" id="doneBack">Zur Übersicht</button>
       </div>
     </div>
+  </section>
+
+  <!-- SCHWIERIGSTE KARTEN -->
+  <section id="view-hard" class="hidden">
+    <div class="back-row"><button class="btn ghost small" data-go="areas">‹ Lernkarten</button></div>
+    <h2 class="page-title">Schwierigste Karten</h2>
+    <p class="page-sub" id="hardInfo"></p>
+    <button class="btn xl" id="hardLearn">Schwierigste Karten lernen</button>
+    <h3 class="sec">Deine Problemkarten</h3>
+    <div class="list" id="hardList"></div>
   </section>
 
   <!-- KONTO -->
@@ -598,6 +616,7 @@ body.map-open{overflow:hidden}
     <div class="konto-card konto-head"><div class="avatar" id="avatar"></div><div><b id="whoName">Nicht angemeldet</b><small id="whoSub"></small></div></div>
     <h3 class="sec">Lernen</h3>
     <div class="list">
+      <button class="row action" data-go="hard"><span class="row-main"><b>Schwierigste Karten</b></span><span class="chev">›</span></button>
       <button class="row action" data-map="gesamt"><span class="row-main"><b>Gesamt-Mindmap anzeigen</b></span><span class="chev">›</span></button>
       <button class="row danger" data-act="reset"><span class="row-main"><b>Lernfortschritt zurücksetzen</b></span></button>
     </div>
@@ -821,8 +840,8 @@ function stageSeg(el, cards, label){
 }
 
 /* ---------- Ansichten ---------- */
-const VIEWS = ["auth","home","areas","area","cards","dev","exam","task","konto"];
-const TAB_OF = {home:"home", areas:"areas", area:"areas", cards:"areas", exam:"exam", task:"exam", konto:"konto", dev:"konto"};
+const VIEWS = ["auth","home","areas","area","cards","dev","exam","task","konto","hard"];
+const TAB_OF = {home:"home", areas:"areas", area:"areas", cards:"areas", exam:"exam", task:"exam", konto:"konto", dev:"konto", hard:"areas"};
 let aktuelleAnsicht = "auth";
 function setTab(k){ document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.tab === k)); }
 function show(view){
@@ -842,6 +861,7 @@ function show(view){
   if(view === "areas") renderAreas();
   if(view === "area") renderArea();
   if(view === "exam") renderExam();
+  if(view === "hard") renderHard();
   closeMenu(); window.scrollTo(0,0);
 }
 
@@ -859,6 +879,8 @@ function renderAreas(){
   $("learnAll").textContent = `Alle ${KARTEN.length} Karten lernen`;
   $("learnAll").onclick = () => startSession(KARTEN, "Alle Karten", "random");
   stageSeg($("stageFilter"), KARTEN, "Alle");
+  const nh = schwierigeKarten().length;
+  $("hardCount").textContent = nh ? `${nh} Karten, die dir schwerfallen` : "Noch keine – super!";
   $("areaList").innerHTML = BEREICHE.map(b => {
     const cards = cardsOfArea(b);
     if(!cards.length) return "";
@@ -900,6 +922,24 @@ function renderArea(){
   $("themeList").querySelectorAll("[data-tmap]").forEach(el => el.onclick = () => openMap("thema:" + el.dataset.tmap));
   $("themeList").querySelectorAll("[data-kap]").forEach(el => el.onclick = () =>
     startSession(cardsOfTheme(el.dataset.theme).filter(c => c.kapitel === el.dataset.kap), el.dataset.kap, "ordered"));
+}
+
+/* ---------- Schwierigste Karten ---------- */
+function schwierigeKarten(){
+  const p = prog();
+  return KARTEN.filter(c => p[c.id] && diffOf(p[c.id]) > 0)
+    .sort((a, b) => diffOf(p[b.id]) - diffOf(p[a.id]) || (p[b.id].f || 0) - (p[a.id].f || 0));
+}
+function renderHard(){
+  const p = prog(), liste = schwierigeKarten();
+  $("hardInfo").textContent = liste.length ? `${liste.length} Karten, die dir noch schwerfallen – die schwierigsten stehen oben.` : "Noch keine schwierigen Karten. Sobald du eine Karte falsch beantwortest, taucht sie hier auf.";
+  $("hardLearn").disabled = !liste.length;
+  $("hardLearn").onclick = () => startSession(liste.slice(0, 40), "Schwierigste Karten", "random");
+  $("hardList").innerHTML = liste.slice(0, 60).map(c => {
+    const e = p[c.id], d = diffOf(e), stufe = d >= 5 ? 3 : d >= 2 ? 2 : 1;
+    return `<div class="row"><span class="row-main"><b class="q2">${esc(c.q)}</b><small>${esc(c.thema.startsWith("B.") ? "Bonus" : c.thema)} · ${e.f || 0}× falsch · Stufe ${stageOf(c.id)}</small></span>
+      <span class="diff d${stufe}">${["", "leicht", "schwer", "sehr schwer"][stufe]}</span></div>`;
+  }).join("") || '<div class="row"><span class="row-main"><small>Hier ist noch nichts.</small></span></div>';
 }
 
 /* ---------- Anmelden / Registrieren ---------- */
@@ -991,50 +1031,61 @@ async function logout(){
   hideCode(); setMode("login"); show("auth");
 }
 
-/* ---------- Lernrunde ---------- */
-const RUNDE = 20;             // Karten pro Runde
+/* ---------- Lernrunde (smart) ----------
+   Eine Runde = bis zu 20 Karten. Sie endet erst, wenn jede Karte der Runde einmal „Richtig“ war.
+   Falsche Karten kommen nach wenigen anderen Karten wieder, teilweise richtige etwas später.
+   Jede Karte hat einen Schwierigkeitswert d (0–10): falsch +2, teilweise +0,75,
+   richtig −1,5 (beim ersten Versuch der Runde) bzw. −0,5 (nach Fehlern).
+   Die nächste Runde nimmt zuerst schwierige Karten, dann fällige (Wiederholungsabstand je Stufe), dann neue. */
+const RUNDE = 20;
+const PAUSE_TAGE = {1:0, 2:1, 3:3, 4:7};
 let sess = null;               // aktuelle Lernrunde
 let back = "home";             // wohin „Zurück“ führt
 
+const mischen = a => { for(let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+// Schwierigkeit einer Karte; ältere Daten ohne d werden aus den Zählern geschätzt
+const diffOf = e => !e ? 0 : (typeof e.d === "number" ? e.d : Math.max(0, Math.min(10, (e.f || 0) * 2 + (e.p || 0) * .75 - (e.r || 0))));
+
+function rundeWaehlen(pool, kind){
+  const p = prog(), now = Date.now(), n = Math.min(RUNDE, pool.length);
+  const gesehen = [], neu = [];
+  pool.forEach(c => (p[c.id] ? gesehen : neu).push(c));
+  const faelligkeit = c => { const e = p[c.id], s = stageOf(c.id, p); return PAUSE_TAGE[s] ? (now - (e.t || 0)) / (PAUSE_TAGE[s] * 864e5) : 5; };
+  const prio = c => diffOf(p[c.id]) * 3 + (STUFEN - stageOf(c.id, p)) * 2 + Math.min(faelligkeit(c), 4) * 1.5 + Math.random();
+  const auswahl = new Set();
+  const add = (arr, bis) => { for(const c of arr){ if(auswahl.size >= Math.min(n, bis)) break; auswahl.add(c); } };
+  // 1. Karten, die zuletzt Probleme gemacht haben (höchstens 40 % der Runde)
+  add(gesehen.filter(c => diffOf(p[c.id]) >= 1).sort((a, b) => diffOf(p[b.id]) - diffOf(p[a.id])), Math.ceil(n * .4));
+  // 2. fällige Karten bis 70 %
+  const faellig = gesehen.filter(c => !auswahl.has(c) && faelligkeit(c) >= 1).sort((a, b) => prio(b) - prio(a));
+  add(faellig, Math.ceil(n * .7));
+  // 3. neue Karten (beim Thema lernen in Buchreihenfolge)
+  add(kind === "ordered" ? neu : mischen(neu.slice()), n);
+  // 4. falls noch Platz: restliche bekannte Karten nach Priorität
+  add(gesehen.filter(c => !auswahl.has(c)).sort((a, b) => prio(b) - prio(a)), n);
+  return kind === "ordered" ? [...auswahl] : mischen([...auswahl]);
+}
+
 function startSession(pool, label, kind){
-  if(!pool.length) return toast("Hier gibt es noch keine Karten.", true);
-  back = $("view-area").classList.contains("hidden") ? ($("view-areas").classList.contains("hidden") ? "home" : "areas") : "area";
-  sess = {pool, label, kind, total: Math.min(RUNDE, pool.length), done:0, res:{richtig:0, teil:0, falsch:0}, ups:0, recent:[], card:null};
+  if(!pool.length) return toast("Hier gibt es keine Karten.", true);
+  if(aktuelleAnsicht !== "cards") back = ["area", "areas", "hard", "home", "konto"].includes(aktuelleAnsicht) ? aktuelleAnsicht : "areas";
+  const runde = rundeWaehlen(pool, kind);
+  sess = {pool, label, kind, queue: runde.slice(), offen: new Set(runde.map(c => c.id)), total: runde.length,
+          erst: new Map(), fehler: new Map(), res:{richtig:0, teil:0, falsch:0}, ups:0, card:null};
   $("fcLabel").textContent = label;
   $("fcArea").classList.remove("hidden"); $("fcDone").classList.add("hidden");
   show("cards");
   nextCard();
 }
 
-/* Smarte Auswahl: niedrige Stufen kommen öfter dran, gerade gesehene Karten seltener.
-   „ordered“ (Thema lernen) geht zuerst die noch nicht geübten Karten in Buchreihenfolge durch. */
-const GEWICHT = {1:16, 2:6, 3:2, 4:0.6};
-function pickCard(){
-  const p = prog(), now = Date.now();
-  let cand = sess.pool.filter(c => !sess.recent.includes(c.id));
-  if(!cand.length) cand = sess.pool;
-  if(sess.kind === "ordered"){
-    const neu = cand.find(c => !p[c.id]);
-    if(neu && Math.random() < 0.85) return neu;
-  }
-  const w = cand.map(c => {
-    const e = p[c.id];
-    let x = e ? GEWICHT[e.s] : 10;
-    if(e && now - e.t < 90e3) x *= 0.1;
-    return x;
-  });
-  let r = Math.random() * w.reduce((a, b) => a + b, 0);
-  for(let i = 0; i < cand.length; i++){ r -= w[i]; if(r <= 0) return cand[i]; }
-  return cand[cand.length - 1];
-}
-
 let side = "q";
 function nextCard(){
-  if(sess.done >= sess.total) return finish();
-  sess.card = pickCard();
+  if(!sess.offen.size) return finish();
+  sess.card = sess.queue.shift();
   side = "q";
   renderCard();
-  $("fcCount").textContent = `${sess.done + 1} / ${sess.total}`;
+  const geschafft = sess.total - sess.offen.size;
+  $("fcCount").textContent = `${geschafft} / ${sess.total} geschafft`;
 }
 function renderCard(){
   const c = sess.card, t = THEMA[c.thema];
@@ -1077,15 +1128,24 @@ function grade(kind){
   if(!sess || !sess.card || turning) return;
   const c = sess.card, p = prog();
   const e = p[c.id] || {s:1, n:0, r:0, p:0, f:0, t:0};
-  const vorher = e.s;
+  const vorher = e.s, ersterVersuch = !sess.erst.has(c.id);
+  let d = diffOf(e);
   e.n++; e.t = Date.now();
-  if(kind === "richtig"){ e.s = Math.min(STUFEN, e.s + 1); e.r++; }
-  else if(kind === "teil"){ e.p++; }
-  else { e.s = 1; e.f++; }
+  if(kind === "richtig"){ e.s = Math.min(STUFEN, e.s + 1); e.r++; d -= ersterVersuch ? 1.5 : .5; }
+  else if(kind === "teil"){ e.p++; d += .75; }
+  else { e.s = 1; e.f++; d += 2; }
+  e.d = Math.round(Math.max(0, Math.min(10, d)) * 100) / 100;
   p[c.id] = e;
   if(e.s > vorher) sess.ups++;
-  sess.res[kind]++; sess.done++;
-  sess.recent.push(c.id); if(sess.recent.length > Math.min(6, sess.pool.length - 1)) sess.recent.shift();
+  sess.res[kind]++;
+  if(ersterVersuch) sess.erst.set(c.id, kind);
+  // in der Runde wieder einreihen, bis die Karte einmal richtig war
+  if(kind === "richtig") sess.offen.delete(c.id);
+  else {
+    sess.fehler.set(c.id, (sess.fehler.get(c.id) || 0) + (kind === "falsch" ? 1 : .5));
+    const abstand = kind === "falsch" ? 3 : 6;
+    sess.queue.splice(Math.min(abstand, sess.queue.length), 0, c);
+  }
   scheduleSave();
   // Karte rausfliegen lassen
   const fc = $("fcard");
@@ -1105,13 +1165,18 @@ function grade(kind){
 function finish(){
   flushSave();
   $("fcArea").classList.add("hidden"); $("fcDone").classList.remove("hidden");
-  const r = sess.res;
-  $("doneText").textContent = `${sess.ups} Karte${sess.ups === 1 ? "" : "n"} eine Stufe aufgestiegen. Lernerfolg hier: ${pctOf(sess.pool)}%`;
-  $("doneStats").innerHTML = [[r.richtig, "Richtig"], [r.teil, "Teilweise"], [r.falsch, "Falsch"]]
+  const sofort = [...sess.erst.values()].filter(k => k === "richtig").length;
+  const versuche = sess.res.richtig + sess.res.teil + sess.res.falsch;
+  $("doneText").textContent = `Alle ${sess.total} Karten geschafft – ${sofort} davon sofort richtig. ${sess.ups} Karte${sess.ups === 1 ? "" : "n"} eine Stufe aufgestiegen.`;
+  $("doneStats").innerHTML = [[sofort, "Sofort richtig"], [versuche, "Antworten"], [sess.res.falsch, "Falsch"]]
     .map(([v, l]) => `<div class="stat"><b>${v}</b><small>${l}</small></div>`).join("");
+  const schwer = [...sess.fehler.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3)
+    .map(([id]) => KARTEN.find(k => k.id === id)).filter(Boolean);
+  $("doneHard").innerHTML = schwer.length ? `<h3 class="sec" style="margin-left:0">Darauf achten</h3><div class="list">${schwer.map(k =>
+    `<div class="row"><span class="row-main"><b>${esc(k.q)}</b><small>${esc(k.thema.startsWith("B.") ? "Bonus" : k.thema)} · kommt in den nächsten Runden wieder</small></span></div>`).join("")}</div>` : "";
 }
 $("againBtn").onclick = () => startSessionAgain();
-function startSessionAgain(){ const s = sess; const b = back; startSession(s.pool, s.label, s.kind); back = b; }
+function startSessionAgain(){ const s = sess; startSession(s.pool, s.label, s.kind); }
 $("doneBack").onclick = () => show(back);
 $("cardsBack").onclick = () => show(back);
 $("yesBtn").onclick = () => grade("richtig");
