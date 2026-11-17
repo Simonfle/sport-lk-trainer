@@ -307,28 +307,30 @@ body.map-open{overflow:hidden}
   -webkit-backdrop-filter:var(--blur);backdrop-filter:var(--blur);border-bottom:1px solid var(--line)}
 .map-bar b{flex:1;text-align:center;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .map-actions{display:flex;gap:6px}
+.zoom-btn{min-width:38px;font-size:1.15rem!important;padding:5px 10px!important}
 #mapSvg{flex:1;width:100%;touch-action:none;cursor:grab;font-family:inherit}
 #mapSvg:active{cursor:grabbing}
 .map-hint{position:absolute;bottom:14px;left:50%;transform:translateX(-50%);background:rgba(255,255,255,.9);border:1px solid var(--line);
   border-radius:99px;padding:7px 14px;font-size:.78rem;color:var(--muted);pointer-events:none;white-space:nowrap;max-width:calc(100% - 24px);overflow:hidden;text-overflow:ellipsis}
-.mm-node text{paint-order:stroke;stroke:#f7f7fa;stroke-width:4px;stroke-linejoin:round;cursor:pointer}
-.mm-node.inner text{stroke-width:8px}
+.mm-node text{paint-order:stroke;stroke:#f7f7fa;stroke-width:5px;stroke-linejoin:round;cursor:pointer}
+.mm-node.inner text{stroke-width:10px}
 .mm-node circle{cursor:pointer}
-.k-root text{font-size:22px;font-weight:700;fill:#fff;stroke:none}
+.k-root text{font-size:30px;font-weight:700;fill:#fff;stroke:none}
 .mm-root-bg{fill:#1d1d1f}
-.k-bereich text{font-size:17px;font-weight:700}
-.k-thema text{font-size:15px;font-weight:700}
-.k-ast text{font-size:12.5px;font-weight:600}
-.k-unter text{font-size:11px;font-weight:400}
-.mm-link path{fill:none;stroke:#5e5ce6;stroke-opacity:.22;stroke-width:1.3;stroke-dasharray:4 4}
-.mm-link-label{font-size:10.5px;fill:#5e5ce6;font-weight:600;opacity:0;paint-order:stroke;stroke:#f7f7fa;stroke-width:4px}
+.k-bereich text{font-size:24px;font-weight:700}
+.k-thema text{font-size:21px;font-weight:700}
+.k-ast text{font-size:18px;font-weight:600}
+.k-unter text{font-size:16px;font-weight:500}
+.mm-link path{fill:none;stroke:#5e5ce6;stroke-opacity:.09;stroke-width:1.6;stroke-dasharray:6 6}
+.links-stark .mm-link path{stroke-opacity:.35;stroke-width:2.2}
+.mm-link-label{font-size:15px;fill:#5e5ce6;font-weight:600;opacity:0;paint-order:stroke;stroke:#f7f7fa;stroke-width:4px}
 .mm-link-label.always{opacity:.85}
 .focus .mm-tree path{stroke-opacity:.12}
 .focus .mm-node{opacity:.22}
 .focus .mm-node.on{opacity:1}
 .focus .mm-link path{stroke-opacity:.06}
-.focus .mm-link.on path{stroke-opacity:.9;stroke-width:2.4;stroke-dasharray:none}
-.focus .mm-link.on .mm-link-label{opacity:1;font-size:12px}
+.focus .mm-link.on path{stroke-opacity:.95;stroke-width:3.5;stroke-dasharray:none}
+.focus .mm-link.on .mm-link-label{opacity:1;font-size:17px}
 .focus .mm-link:not(.on) .mm-link-label{opacity:0}
 @media print{
   @page{size:A3 landscape;margin:8mm}
@@ -344,6 +346,9 @@ body.map-open{overflow:hidden}
   .seg{grid-template-columns:repeat(2,1fr)}
   .page-title{font-size:1.8rem}
   .map-actions .btn{padding:7px 10px}
+  .map-bar{flex-wrap:wrap;row-gap:8px}
+  .map-bar b{order:-1;flex-basis:100%;text-align:left;font-size:1.05rem}
+  #mapPdf{display:none}
   .auth{padding:26px 20px} .fcard{padding:46px 18px 34px;min-height:300px}
   .fcard .ans{font-size:.97rem;line-height:1.5} .fcard .ans.long{font-size:.9rem}
   .fcard .hint{bottom:10px} main{padding-top:18px} .back-row{margin-bottom:12px}
@@ -566,9 +571,9 @@ body.map-open{overflow:hidden}
 <div class="toast hidden" id="toast"></div>
 
 <div id="mapView" class="mapview hidden">
-  <div class="map-bar"><button class="btn ghost small" id="mapClose">‹ Zurück</button><b id="mapTitle"></b><span class="map-actions"><button class="btn ghost small" id="mapFit">Einpassen</button><button class="btn small" id="mapPdf">Als PDF</button></span></div>
+  <div class="map-bar"><button class="btn ghost small" id="mapClose">‹ Zurück</button><b id="mapTitle"></b><span class="map-actions"><button class="btn ghost small zoom-btn" id="mapMinus" aria-label="Verkleinern">−</button><button class="btn ghost small zoom-btn" id="mapPlus" aria-label="Vergrößern">+</button><button class="btn ghost small" id="mapFit">Ganze Karte</button><button class="btn small" id="mapPdf">Als PDF</button></span></div>
   <svg id="mapSvg"></svg>
-  <div class="map-hint">Zoomen mit zwei Fingern oder Mausrad · Begriff antippen zeigt seine Verbindungen</div>
+  <div class="map-hint">Verschieben und zoomen mit zwei Fingern · Begriff antippen</div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
@@ -847,7 +852,7 @@ function setMode(m){
   $("tabReg").classList.toggle("active", m==="reg");
   $("pass2Wrap").classList.toggle("hidden", m!=="reg");
   $("regFields").classList.toggle("hidden", m!=="reg");
-  $("emailLabel").textContent = m === "reg" ? "E-Mail-Adresse" : "E-Mail-Adresse (ältere Konten: Benutzername)";
+  $("emailLabel").textContent = "E-Mail-Adresse";
   $("authSubmit").textContent = m==="login" ? "Anmelden" : "Konto erstellen";
   $("pass").autocomplete = m==="login" ? "current-password" : "new-password";
   $("authMsg").textContent = "";
@@ -1378,7 +1383,7 @@ function drawMap(m, links){
   const svg = d3.select("#mapSvg"); svg.selectAll("*").remove();
   const root = d3.hierarchy(m.root);
   const leaves = root.leaves().length;
-  const R = Math.max(220, leaves * 17 / (2 * Math.PI)) + root.height * 40;
+  const R = Math.max(300, leaves * 27 / (2 * Math.PI)) + root.height * 60;
   d3.tree().size([2 * Math.PI, R]).separation((a, b) => (a.parent === b.parent ? 1 : 1.6) / Math.max(1, a.depth))(root);
   // innere Ebenen bekommen mehr Platz als die äußeren
   const STUFE = {1:[0,1], 2:[0,.55,1], 3:[0,.36,.7,1], 4:[0,.24,.5,.76,1]}[root.height] || null;
@@ -1386,12 +1391,12 @@ function drawMap(m, links){
   const pt = d => [d.y * Math.cos(d.x - Math.PI / 2), d.y * Math.sin(d.x - Math.PI / 2)];
   const byKey = new Map(); root.each(d => byKey.set(d.data.key, d));
 
-  const g = svg.append("g");
+  const g = svg.append("g").classed("links-stark", !!m.alleLabels);
   // Baum-Linien
   g.append("g").attr("class", "mm-tree").selectAll("path").data(root.links()).join("path")
     .attr("d", d3.linkRadial().angle(d => d.x).radius(d => d.y))
-    .attr("stroke", d => d.target.data.color).attr("stroke-opacity", d => d.target.depth > 2 ? .35 : .55)
-    .attr("stroke-width", d => Math.max(1, 3.2 - d.target.depth * .6)).attr("fill", "none");
+    .attr("stroke", d => d.target.data.color).attr("stroke-opacity", d => d.target.depth > 2 ? .55 : .8)
+    .attr("stroke-width", d => Math.max(2, 6 - d.target.depth * 1.1)).attr("fill", "none");
   // Querverbindungen
   const xl = g.append("g").attr("class", "mm-links").selectAll("g").data(links.filter(l => byKey.has(l.a) && byKey.has(l.b))).join("g").attr("class", "mm-link");
   xl.append("path").attr("d", l => {
@@ -1406,13 +1411,13 @@ function drawMap(m, links){
   const node = g.append("g").selectAll("g").data(root.descendants()).join("g")
     .attr("class", d => "mm-node k-" + d.data.kind)
     .attr("transform", d => d.depth ? `rotate(${d.x * 180 / Math.PI - 90}) translate(${d.y},0)` : "");
-  node.append("circle").attr("r", d => ({root:0, bereich:7, thema:6, ast:4, unter:2.6})[d.data.kind] || 3).attr("fill", d => d.data.color);
+  node.append("circle").attr("r", d => ({root:0, bereich:11, thema:9, ast:6.5, unter:4.5})[d.data.kind] || 4).attr("fill", d => d.data.color);
   // Blätter: radial nach außen; Oberbegriffe: waagerecht über dem Punkt
   const innen = d => d.depth && d.children;
   node.classed("inner", innen);
   node.append("text")
     .attr("dy", d => innen(d) ? "-0.75em" : "0.32em")
-    .attr("x", d => !d.depth || innen(d) ? 0 : (d.x < Math.PI ? 9 : -9))
+    .attr("x", d => !d.depth || innen(d) ? 0 : (d.x < Math.PI ? 13 : -13))
     .attr("text-anchor", d => !d.depth || innen(d) ? "middle" : (d.x < Math.PI ? "start" : "end"))
     .attr("transform", d => innen(d) ? `rotate(${90 - d.x * 180 / Math.PI})` : d.depth && d.x >= Math.PI ? "rotate(180)" : null)
     .attr("fill", d => d.data.kind === "unter" ? "#3a3a3c" : d.data.kind === "ast" ? "#1d1d1f" : d.data.color === "#1d1d1f" ? "#1d1d1f" : d.data.color)
@@ -1432,21 +1437,36 @@ function drawMap(m, links){
     g.classed("focus", true);
     xl.classed("on", f);
     node.classed("on", n => nah.has(n.data.key) || (n.ancestors().some(a => a.data.key === k)));
+    // angetippten Begriff in lesbarer Größe in die Mitte holen
+    const [x, y] = d.depth ? pt(d) : [0, 0], w = svg.node().clientWidth, h = svg.node().clientHeight;
+    const s = Math.max(d3.zoomTransform(svg.node()).k, lesbar);
+    svg.transition().duration(450).call(zoom.transform, d3.zoomIdentity.translate(w / 2 - x * s, h / 2 - y * s).scale(s));
   });
   svg.on("click", () => { g.classed("focus", false); xl.classed("on", false); node.classed("on", false); });
 
-  const zoom = d3.zoom().scaleExtent([0.15, 8]).on("zoom", e => g.attr("transform", e.transform));
+  const zoom = d3.zoom().scaleExtent([0.08, 6]).on("zoom", e => g.attr("transform", e.transform));
   svg.call(zoom).on("dblclick.zoom", null);
+  // Schriften sind so gewählt, dass sie ab Zoom ~0.85 gut lesbar sind
+  const lesbar = 0.9;
   const fit = () => {
     const b = g.node().getBBox(), w = svg.node().clientWidth, h = svg.node().clientHeight;
     const s = Math.min(w / (b.width + 40), h / (b.height + 40));
-    svg.call(zoom.transform, d3.zoomIdentity.translate(w / 2 - (b.x + b.width / 2) * s, h / 2 - (b.y + b.height / 2) * s).scale(s));
+    svg.transition().duration(350).call(zoom.transform, d3.zoomIdentity.translate(w / 2 - (b.x + b.width / 2) * s, h / 2 - (b.y + b.height / 2) * s).scale(s));
   };
-  fit();
+  const start = () => {
+    const b = g.node().getBBox(), w = svg.node().clientWidth, h = svg.node().clientHeight;
+    const sFit = Math.min(w / (b.width + 40), h / (b.height + 40));
+    if(sFit >= lesbar * .8) return fit();
+    // Zu groß für den Bildschirm: lesbar in der Mitte starten, der Rest wird durch Verschieben/Zoomen erkundet
+    svg.call(zoom.transform, d3.zoomIdentity.translate(w / 2, h / 2).scale(Math.min(.72, w / 480)));
+  };
+  start();
   mapState = {svg, g, zoom, fit};
 }
 $("mapClose").onclick = closeMap;
 $("mapFit").onclick = () => mapState && mapState.fit();
+$("mapPlus").onclick = () => mapState && mapState.svg.transition().duration(250).call(mapState.zoom.scaleBy, 1.5);
+$("mapMinus").onclick = () => mapState && mapState.svg.transition().duration(250).call(mapState.zoom.scaleBy, 1 / 1.5);
 $("mapPdf").onclick = () => {
   if(!mapState) return;
   const {svg, g} = mapState, b = g.node().getBBox(), t = g.attr("transform");
