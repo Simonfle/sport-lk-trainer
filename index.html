@@ -312,8 +312,11 @@ body.map-open{overflow:hidden}
 #mapSvg:active{cursor:grabbing}
 .map-hint{position:absolute;bottom:14px;left:50%;transform:translateX(-50%);background:rgba(255,255,255,.9);border:1px solid var(--line);
   border-radius:99px;padding:7px 14px;font-size:.78rem;color:var(--muted);pointer-events:none;white-space:nowrap;max-width:calc(100% - 24px);overflow:hidden;text-overflow:ellipsis}
-.mm-node text{paint-order:stroke;stroke:#f7f7fa;stroke-width:5px;stroke-linejoin:round;cursor:pointer}
-.mm-node.inner text{stroke-width:10px}
+#mapSvg text{letter-spacing:0;text-rendering:geometricPrecision}
+.mm-node text{cursor:pointer;stroke:none}
+/* heller Rand als eigene Ebene hinter der Schrift (Safari kann paint-order nicht zuverlässig) */
+#mapSvg text.halo{fill:#f7f7fa;stroke:#f7f7fa;stroke-width:6px;stroke-linejoin:round;pointer-events:none}
+.mm-node.inner text.halo{stroke-width:11px}
 .mm-node circle{cursor:pointer}
 .k-root text{font-size:30px;font-weight:700;fill:#fff;stroke:none}
 .mm-root-bg{fill:#1d1d1f}
@@ -323,7 +326,7 @@ body.map-open{overflow:hidden}
 .k-unter text{font-size:16px;font-weight:500}
 .mm-link path{fill:none;stroke:#5e5ce6;stroke-opacity:.09;stroke-width:1.6;stroke-dasharray:6 6}
 .links-stark .mm-link path{stroke-opacity:.35;stroke-width:2.2}
-.mm-link-label{font-size:15px;fill:#5e5ce6;font-weight:600;opacity:0;paint-order:stroke;stroke:#f7f7fa;stroke-width:4px}
+.mm-link-label{font-size:15px;fill:#5e5ce6;font-weight:600;opacity:0;stroke:none}
 .mm-link-label.always{opacity:.85}
 .focus .mm-tree path{stroke-opacity:.12}
 .focus .mm-node{opacity:.22}
@@ -338,7 +341,7 @@ body.map-open{overflow:hidden}
   .mapview{position:static;background:#fff}
   .map-bar,.map-hint{display:none!important}
   #mapSvg{width:100%;height:auto}
-  .mm-node text,.mm-link-label{stroke:#fff}
+  #mapSvg text.halo{fill:#fff;stroke:#fff}
   *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 }
 
@@ -1407,6 +1410,7 @@ function drawMap(m, links){
     const [x1] = pt(byKey.get(l.a)), [x2] = pt(byKey.get(l.b)); return (x1 + x2) * .36;
   }).attr("y", l => { const [, y1] = pt(byKey.get(l.a)), [, y2] = pt(byKey.get(l.b)); return (y1 + y2) * .36; })
     .attr("text-anchor", "middle").text(l => l.label);
+  xl.select("text").each(function(){ const c = this.cloneNode(true); c.classList.add("halo"); this.parentNode.insertBefore(c, this); });
   // Knoten
   const node = g.append("g").selectAll("g").data(root.descendants()).join("g")
     .attr("class", d => "mm-node k-" + d.data.kind)
@@ -1422,6 +1426,7 @@ function drawMap(m, links){
     .attr("transform", d => innen(d) ? `rotate(${90 - d.x * 180 / Math.PI})` : d.depth && d.x >= Math.PI ? "rotate(180)" : null)
     .attr("fill", d => d.data.kind === "unter" ? "#3a3a3c" : d.data.kind === "ast" ? "#1d1d1f" : d.data.color === "#1d1d1f" ? "#1d1d1f" : d.data.color)
     .text(d => d.data.name);
+  node.filter(d => d.data.kind !== "root").select("text").each(function(){ const c = this.cloneNode(true); c.classList.add("halo"); this.parentNode.insertBefore(c, this); });
   node.filter(d => d.data.kind === "root").insert("rect", "text").attr("class", "mm-root-bg");
   node.filter(d => d.data.kind === "root").each(function(){
     const t = this.querySelector("text").getBBox();
